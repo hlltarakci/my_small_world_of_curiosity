@@ -1,4 +1,4 @@
-# Inspirational Content Tracker
+# Inspirational Content Tracker 2022
 ## WATCH List
 # Motivational
 - [x] [The School of Life, The Imposter Syndrom](https://www.youtube.com/watch?v=eqhUHyVpAwE): Everyone has the same chaotic and depressed thoughts and self-doubt that we have. We know ourselves from the inside, but others from the outside with their edited content.
