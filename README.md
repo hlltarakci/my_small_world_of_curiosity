@@ -3,12 +3,17 @@
 ### Motivational
 - [x] [The School of Life, The Imposter Syndrom](https://www.youtube.com/watch?v=eqhUHyVpAwE): Everyone has the same chaotic and depressed thoughts and self-doubt that we have. We know ourselves from the inside, but others from the outside with their edited content.
 - [x] [Alan Watkins, Being Brilliant Every Single Day](https://www.youtube.com/watch?v=fRItG9G1rb4): Being challenged leads to physiological chaos and brain gets shut down. Changing biological context leads to more quality thinking: Breath to get conscious control over (rhythm and smoothness are important). Emotional positivity is a performance enhancer.
-- [ ] [John O'Leary, The Importance of Good Conversation and How to Have it](https://www.ted.com/talks/john_o_leary_the_importance_of_good_conversation_and_how_to_have_it#t-2129)
-- [ ] [Julien Treasure, How to Speak so that People Want to Listen](https://www.ted.com/talks/julian_treasure_how_to_speak_so_that_people_want_to_listen)
+- [x] [John O'Leary, The Importance of Good Conversation and How to Have it](https://www.ted.com/talks/john_o_leary_the_importance_of_good_conversation_and_how_to_have_it#t-2129): Quality of our conversations influences the quality of our decisions. To get honest opinion "I really want to know what you think" is not enough, have to change the context of the conversation. Technique 1: Independent deliberation (for example ask everyone to write down their recommendation) Technique 2: Devil's Advocate/Red Team
+- [x] [Julien Treasure, How to Speak so that People Want to Listen](https://www.ted.com/talks/julian_treasure_how_to_speak_so_that_people_want_to_listen): Honesty(be clear and straight), Authenticity(be yourself), Integrity(be your word), Love(wich them well). Do not talk monotonously. Using voice toolbox. Voice exercises before speech.
+- [x] [Julien Treasure, 5 Ways to Listen Better](https://www.ted.com/talks/julian_treasure_5_ways_to_listen_better#t-5856): We are losing our listening. Consious listening creates understanding. Exercises to improve consious listening: 1. Daily 3 minutes of silence 2. Mixer, how many channels i hear 3. Enjoying mundane sounds 4. Listening positions(active\passive, reductive\expansive, critical\emphathetic) 5. RASA (Receive, Appreciate, Summarize, Ask)
+- [ ] [Matt Abrahams, Think Fast, Talk Smart: Communication Techniques](https://www.youtube.com/watch?v=HAnw168huqA)
 ### Documentary
 - [ ] [Turning Point 9/11, 2021](https://www.netflix.com/gb/title/81315804)
 - [ ] [Bad Sport, 2021](https://www.netflix.com/gb/title/81084829)  
-
+### Podcast
+- [Kendine Iyi Davran](https://open.spotify.com/show/1OsUxSME9IyoE1ZyDpRLxc)
+- [Better Than Yesterday](https://open.spotify.com/show/1eL5WS5BEfAwzI2SN0RwYp)
+- [The School of Greatness](https://open.spotify.com/show/07GQhOZboEZOE1ysnFLipT)
 
 ## READ List
 ### Non-fictional
