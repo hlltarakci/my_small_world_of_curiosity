@@ -3,6 +3,8 @@
 # Motivational
 - [x] [The School of Life, The Imposter Syndrom](https://www.youtube.com/watch?v=eqhUHyVpAwE): Everyone has the same chaotic and depressed thoughts and self-doubt that we have. We know ourselves from the inside, but others from the outside with their edited content.
 - [x] [Alan Watkins, Being Brilliant Every Single Day](https://www.youtube.com/watch?v=fRItG9G1rb4): Being challenged leads to physiological chaos and brain gets shut down. Changing biological context leads to more quality thinking: Breath to get conscious control over (rhythm and smoothness are important). Emotional positivity is a performance enhancer.
+- [ ] [John O'Leary, The Importance of Good Conversation and How to Have it](https://www.ted.com/talks/john_o_leary_the_importance_of_good_conversation_and_how_to_have_it#t-2129)
+- [ ] [Julien Treasure, How to Speak so that People Want to Listen](https://www.ted.com/talks/julian_treasure_how_to_speak_so_that_people_want_to_listen)
 # Documentary
 - [ ][Turning Point 9/11, 2021](https://www.netflix.com/gb/title/81315804)
 - [ ][Bad Sport, 2021](https://www.netflix.com/gb/title/81084829)  
