@@ -6,8 +6,8 @@
 - [ ] [John O'Leary, The Importance of Good Conversation and How to Have it](https://www.ted.com/talks/john_o_leary_the_importance_of_good_conversation_and_how_to_have_it#t-2129)
 - [ ] [Julien Treasure, How to Speak so that People Want to Listen](https://www.ted.com/talks/julian_treasure_how_to_speak_so_that_people_want_to_listen)
 # Documentary
-- [ ][Turning Point 9/11, 2021](https://www.netflix.com/gb/title/81315804)
-- [ ][Bad Sport, 2021](https://www.netflix.com/gb/title/81084829)  
+- [ ] [Turning Point 9/11, 2021](https://www.netflix.com/gb/title/81315804)
+- [ ] [Bad Sport, 2021](https://www.netflix.com/gb/title/81084829)  
 
 
 
