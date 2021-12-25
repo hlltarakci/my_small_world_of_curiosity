@@ -22,5 +22,6 @@
 - [ ] [Jay Sullivan, Simply Said: Communicating Better at Work and Beyond](https://www.goodreads.com/book/show/33232697-simply-said)
 - [ ] [Shelle Rose Charvet, Words That Change Minds: The 14 Patterns for Mastering the Language of Influence](https://www.goodreads.com/book/show/44583310-words-that-change-minds) 
 - [ ] [Frank Luntz, Words That Work: It's Not What You Say, It's What People Hear](https://www.goodreads.com/book/show/95884.Words_That_Work)
+- [ ] [Merih Taze, Engineers Survival Guide: Advice, tactics, and tricks After a decade of working at Facebook, Snapchat, and Microsoft](https://www.amazon.com/Engineers-Survival-Guide-Facebook-Microsoft/dp/B09MBZBGFK)
 ### Fictional
 - [ ] [Margareth Mitchel, Gone with the Wind](https://www.goodreads.com/tr/book/show/18405.Gone_with_the_Wind)
