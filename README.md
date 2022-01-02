@@ -20,8 +20,8 @@
 
 ## READ List
 ### Non-fictional
-- [ ] [Titus Winters, Software Engineering at Google: Lessons Learned from Programming Over Time](https://www.goodreads.com/book/show/48816586-software-engineering-at-google) 
-- [ ] [Caroline Goyder, Gravitas: Communicate with Confidence, Influence and Authority](https://www.goodreads.com/book/show/18685594-gravitas)
+- [ ] [Titus Winters, Software Engineering at Google: Lessons Learned from Programming Over Time](https://www.goodreads.com/book/show/48816586-software-engineering-at-google) - *in progress*
+- [ ] [Caroline Goyder, Gravitas: Communicate with Confidence, Influence and Authority](https://www.goodreads.com/book/show/18685594-gravitas) - *in progress*
 - [ ] [Jay Sullivan, Simply Said: Communicating Better at Work and Beyond](https://www.goodreads.com/book/show/33232697-simply-said)
 - [ ] [Shelle Rose Charvet, Words That Change Minds: The 14 Patterns for Mastering the Language of Influence](https://www.goodreads.com/book/show/44583310-words-that-change-minds) 
 - [ ] [Frank Luntz, Words That Work: It's Not What You Say, It's What People Hear](https://www.goodreads.com/book/show/95884.Words_That_Work)
