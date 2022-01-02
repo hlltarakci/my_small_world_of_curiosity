@@ -17,6 +17,7 @@
 - [Kendine Iyi Davran](https://open.spotify.com/show/1OsUxSME9IyoE1ZyDpRLxc)
 - [Better Than Yesterday](https://open.spotify.com/show/1eL5WS5BEfAwzI2SN0RwYp)
 - [The School of Greatness](https://open.spotify.com/show/07GQhOZboEZOE1ysnFLipT)
+- [Think Fast, Talk Smart](https://open.spotify.com/show/6ll0MwobDt1JW9gYaOONEo)
 
 ## READ List
 ### Non-fictional
