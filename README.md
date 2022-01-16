@@ -14,10 +14,11 @@
 - [ ] [WW2 in color - Road to Victory, 2021](https://www.netflix.com/gb/title/81488464)
 - [ ] [Impossible Engineering, 2015](https://yesterday.uktv.co.uk/shows/impossible-engineering/)
 ### Podcast
-- [Kendine Iyi Davran](https://open.spotify.com/show/1OsUxSME9IyoE1ZyDpRLxc)
-- [Better Than Yesterday](https://open.spotify.com/show/1eL5WS5BEfAwzI2SN0RwYp)
-- [The School of Greatness](https://open.spotify.com/show/07GQhOZboEZOE1ysnFLipT)
-- [Think Fast, Talk Smart](https://open.spotify.com/show/6ll0MwobDt1JW9gYaOONEo)
+Since i listen podcasts while having a walk, it is difficult for me to enlist them here. Instead, i'll share their outstanding ideas.
+- [x] [Kendine Iyi Davran](https://open.spotify.com/show/1OsUxSME9IyoE1ZyDpRLxc): Helped me to show more compassion towards myself and balance my self-expectations as well as taking advantage of [20-seconds rule](https://www.samuelthomasdavies.com/the-20-second-rule/) and how to demonstrate confidence.
+- [ ] [Think Fast, Talk Smart](https://open.spotify.com/show/6ll0MwobDt1JW9gYaOONEo) - *in progress* : Asking better questions lead to better results (Ask "What was important to you about this?" instead of "How it went?").
+- [ ] [Better Than Yesterday](https://open.spotify.com/show/1eL5WS5BEfAwzI2SN0RwYp)
+- [ ] [The School of Greatness](https://open.spotify.com/show/07GQhOZboEZOE1ysnFLipT)
 
 ## READ List
 ### Non-fictional
