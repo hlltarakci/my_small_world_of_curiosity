@@ -16,20 +16,25 @@
 ### Podcast
 Since i listen podcasts while having a walk, it is difficult for me to enlist them here. Instead, i'll share their outstanding ideas.
 - [x] [Kendine Iyi Davran](https://open.spotify.com/show/1OsUxSME9IyoE1ZyDpRLxc): Helped me to show more compassion towards myself and balance my self-expectations as well as taking advantage of [20-seconds rule](https://www.samuelthomasdavies.com/the-20-second-rule/) and how to demonstrate confidence.
-- [ ] [Think Fast, Talk Smart](https://open.spotify.com/show/6ll0MwobDt1JW9gYaOONEo) - *in progress* : Asking better questions lead to better results (Ask "What was important to you about this?" instead of "How it went?").
+- [ ] [Think Fast, Talk Smart](https://open.spotify.com/show/6ll0MwobDt1JW9gYaOONEo): 
+    - [X] Asking better questions lead to better results (Ask "What was important to you about this?" instead of "How it went?").
+    - [X] [High-Stakes Communication: How to manage anxiety when speaking in front of others?](https://open.spotify.com/episode/0X6mdscnepO358a7VeElO8?si=f431e1a009ed4b60)
+    - [X] [Be Better at Work: How to communicate better with workers and employees?](https://open.spotify.com/episode/1v5yiQuY7lW07DOPsmecuK?si=11106a34b2ce42b5&nd=1)
+    - [X] [Under Pressure: How to communicate clearly and timely under pressure?](https://open.spotify.com/episode/3kMIyy0aL0fj4GFWCzQNIy?si=05c87b3b91984a83&nd=1)
+    - [X] [Speaking withput a net: How to master impromptu communication?](https://open.spotify.com/episode/0r5eLIrMso6vbsvXtaRpa2?si=f05206e09cc0448c&nd=1)
 - [ ] [Better Than Yesterday](https://open.spotify.com/show/1eL5WS5BEfAwzI2SN0RwYp)
 - [ ] [The School of Greatness](https://open.spotify.com/show/07GQhOZboEZOE1ysnFLipT)
 
 ## READ List
 ### Non-fictional
-- [ ] [Titus Winters, Software Engineering at Google: Lessons Learned from Programming Over Time](https://www.goodreads.com/book/show/48816586-software-engineering-at-google) also available as [audiobook](https://www.audible.co.uk/pd/Software-Engineering-at-Google-Audiobook/B08VKV55RV?source_code=M2M14DFT1BkSH082015011R&&ipRedirectOverride=true&gclid=Cj0KCQiAt8WOBhDbARIsANQLp961t7agEDI-ZHk7zEHuLLzISIqlKfJ3hqnRRqT23q_tvq24gEACw7oaAnw8EALw_wcB&gclsrc=aw.ds) - *in progress*
+- [X] [Titus Winters, Software Engineering at Google: Lessons Learned from Programming Over Time](https://www.goodreads.com/book/show/48816586-software-engineering-at-google) also available as [audiobook](https://www.audible.co.uk/pd/Software-Engineering-at-Google-Audiobook/B08VKV55RV?source_code=M2M14DFT1BkSH082015011R&&ipRedirectOverride=true&gclid=Cj0KCQiAt8WOBhDbARIsANQLp961t7agEDI-ZHk7zEHuLLzISIqlKfJ3hqnRRqT23q_tvq24gEACw7oaAnw8EALw_wcB&gclsrc=aw.ds) - read most of it, left some chapters for reference reading later
 - [ ] [Caroline Goyder, Gravitas: Communicate with Confidence, Influence and Authority](https://www.goodreads.com/book/show/18685594-gravitas) - *in progress*
 - [ ] [Jay Sullivan, Simply Said: Communicating Better at Work and Beyond](https://www.goodreads.com/book/show/33232697-simply-said)
 - [ ] [Shelle Rose Charvet, Words That Change Minds: The 14 Patterns for Mastering the Language of Influence](https://www.goodreads.com/book/show/44583310-words-that-change-minds) 
 - [ ] [Frank Luntz, Words That Work: It's Not What You Say, It's What People Hear](https://www.goodreads.com/book/show/95884.Words_That_Work)
 - [ ] [Merih Taze, Engineers Survival Guide: Advice, tactics, and tricks After a decade of working at Facebook, Snapchat, and Microsoft](https://www.amazon.com/Engineers-Survival-Guide-Facebook-Microsoft/dp/B09MBZBGFK)
 ### Fictional
-- [ ] [Margareth Mitchel, Gone with the Wind](https://www.goodreads.com/tr/book/show/18405.Gone_with_the_Wind)
+- [ ] [Margareth Mitchel, Gone with the Wind](https://www.goodreads.com/tr/book/show/18405.Gone_with_the_Wind) - *in progress*
 
 ### Article
 - [X] [Resilience Is About How You Recharge, Not How You Endure](https://hbr.org/2016/06/resilience-is-about-how-you-recharge-not-how-you-endure): Key to resilience is trying really hard, then stopping, recovering, and then trying again. If you want to build resilience, start by strategically stopping. Give yourself the resources to be tough by creating internal and external recovery periods
