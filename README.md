@@ -9,6 +9,9 @@
 - [x] [Matt Abrahams, Think Fast, Talk Smart: Communication Techniques](https://www.youtube.com/watch?v=HAnw168huqA): Spontaneous speaking is stressful. Anxiety management techniques: Greet anxiety, it is a normal and natural. Reframe this is a conversation, not a performance (There is no one way to make it correct).Start with questions to include audience (even can be rhetorical). Use conversational language. Be in the present-moment, don't worry about future consequences. Might use saying a tongue twister, it will force to be in the moment and will warm up the voice. Ground rules: 1. Get ourselves out of the way (Dare to be dull, do not over-analyse) 2. See spontenous conversation as an opportunity to respond. ("yes, and" instead of "no, but") 3. Slow down and listen (instead of jumping how to respond) 4. Respond in a way structured, tell a story.Key to successful speech is structure.(Example structure: Problem or Opportunity > Solution > benefit) (Example Structure: What > So What > Now What) Structure sets us free. **[Handouts](https://nofreakingspeaking.com/)** [Summary of the speech](https://nofreakingspeaking.com/wp-content/uploads/2016/07/Be-Confident-When-Called-On-Abrahams.pdf)
 - [ ] [Matt Abrahams, How to Make Your Communication Memorable](https://www.youtube.com/watch?v=Fsr4yrSAIAQ)
 ### Documentary 
+- [x] [A History of Eastern Europe: Ukraine-Russia Crisis](https://www.youtube.com/watch?v=l1WL2VJOn2A)
+- [x] [The Origins of Russia - Summary on a map](https://youtu.be/qUgzqkCW6A4)
+- [x] [The Breakup of the Soviet Union Explained](https://youtu.be/t2GmtBCVHzY)
 - [ ] [Turning Point 9/11, 2021](https://www.netflix.com/gb/title/81315804)
 - [ ] [Bad Sport, 2021](https://www.netflix.com/gb/title/81084829)  
 - [ ] [WW2 in color - Road to Victory, 2021](https://www.netflix.com/gb/title/81488464)
