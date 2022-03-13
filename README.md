@@ -12,7 +12,7 @@
 - [x] [A History of Eastern Europe: Ukraine-Russia Crisis](https://www.youtube.com/watch?v=l1WL2VJOn2A)
 - [x] [The Origins of Russia - Summary on a map](https://youtu.be/qUgzqkCW6A4)
 - [x] [The Breakup of the Soviet Union Explained](https://youtu.be/t2GmtBCVHzY)
-- [ ] [Why Russia is Invading Ukraine](https://youtu.be/If61baWF4GE)
+- [x] [Why Russia is Invading Ukraine](https://youtu.be/If61baWF4GE)
 - [ ] [Turning Point 9/11, 2021](https://www.netflix.com/gb/title/81315804)
 - [ ] [Bad Sport, 2021](https://www.netflix.com/gb/title/81084829)  
 - [ ] [WW2 in color - Road to Victory, 2021](https://www.netflix.com/gb/title/81488464)
