@@ -18,6 +18,7 @@
 - [x] [From spy to president: The rise of Vladimir Putin](https://youtu.be/lxMWSmKieuc)
 - [x] [Putin's war on Ukraine, explained](https://youtu.be/MVu8QbxafJE)
 - [x] [Gravitas Plus: Did NATO push Ukraine into war?](https://youtu.be/TzgPJeYZaOU)
+- [x] [The Last Days of the USSR, Curiosity Stream](https://curiositystream.com/video/4723?utm_campaign=D-PerformanceMax-ROW&utm_medium=display&utm_source=google&utm_placement=&utm_content=&gclid=EAIaIQobChMI9YqEwMbV9gIVxJrVCh1rfAACEAAYASAAEgIww_D_BwE)
 - [x] [Hidden Russia, Curiosity Stream](https://curiositystream.com/video/3655)
 - [x] [Gallipoli 1915, Curiosity Stream](https://curiositystream.com/video/4085?collectionId=140)
 - [x] [Turning Point 9/11, 2021](https://www.netflix.com/gb/title/81315804)
