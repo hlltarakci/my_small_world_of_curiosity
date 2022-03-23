@@ -1,5 +1,6 @@
 # Inspirational Content Tracker 2022
 ## WATCH List
+
 ### Motivational
 - [x] [The School of Life, The Imposter Syndrom](https://www.youtube.com/watch?v=eqhUHyVpAwE): Everyone has the same chaotic and depressed thoughts and self-doubt that we have. We know ourselves from the inside, but others from the outside with their edited content.
 - [x] [Alan Watkins, Being Brilliant Every Single Day](https://www.youtube.com/watch?v=fRItG9G1rb4): Being challenged leads to physiological chaos and brain gets shut down. Changing biological context leads to more quality thinking: Breath to get conscious control over (rhythm and smoothness are important). Emotional positivity is a performance enhancer.
@@ -8,23 +9,37 @@
 - [x] [Julien Treasure, 5 Ways to Listen Better](https://www.ted.com/talks/julian_treasure_5_ways_to_listen_better#t-5856): We are losing our listening. Consious listening creates understanding. Exercises to improve consious listening: 1. Daily 3 minutes of silence 2. Mixer, how many channels i hear 3. Enjoying mundane sounds 4. Listening positions(active\passive, reductive\expansive, critical\emphathetic) 5. RASA (Receive, Appreciate, Summarize, Ask)
 - [x] [Matt Abrahams, Think Fast, Talk Smart: Communication Techniques](https://www.youtube.com/watch?v=HAnw168huqA): Spontaneous speaking is stressful. Anxiety management techniques: Greet anxiety, it is a normal and natural. Reframe this is a conversation, not a performance (There is no one way to make it correct).Start with questions to include audience (even can be rhetorical). Use conversational language. Be in the present-moment, don't worry about future consequences. Might use saying a tongue twister, it will force to be in the moment and will warm up the voice. Ground rules: 1. Get ourselves out of the way (Dare to be dull, do not over-analyse) 2. See spontenous conversation as an opportunity to respond. ("yes, and" instead of "no, but") 3. Slow down and listen (instead of jumping how to respond) 4. Respond in a way structured, tell a story.Key to successful speech is structure.(Example structure: Problem or Opportunity > Solution > benefit) (Example Structure: What > So What > Now What) Structure sets us free. **[Handouts](https://nofreakingspeaking.com/)** [Summary of the speech](https://nofreakingspeaking.com/wp-content/uploads/2016/07/Be-Confident-When-Called-On-Abrahams.pdf)
 - [ ] [Matt Abrahams, How to Make Your Communication Memorable](https://www.youtube.com/watch?v=Fsr4yrSAIAQ)
+
 ### Documentary 
+
+#### Russia-Ukraine Crisis & USSR
+- [x] [The Last Days of the USSR, Curiosity Stream](https://curiositystream.com/video/4723?utm_campaign=D-PerformanceMax-ROW&utm_medium=display&utm_source=google&utm_placement=&utm_content=&gclid=EAIaIQobChMI9YqEwMbV9gIVxJrVCh1rfAACEAAYASAAEgIww_D_BwE)
+- [x] [The Breakup of the Soviet Union Explained](https://youtu.be/t2GmtBCVHzY)
 - [x] [A History of Eastern Europe: Ukraine-Russia Crisis](https://www.youtube.com/watch?v=l1WL2VJOn2A)
 - [x] [The Origins of Russia - Summary on a map](https://youtu.be/qUgzqkCW6A4)
-- [x] [The Breakup of the Soviet Union Explained](https://youtu.be/t2GmtBCVHzY)
 - [x] [Why Russia is Invading Ukraine](https://youtu.be/If61baWF4GE)
 - [x] [Russia – Ukraine conflict / crisis Explained | Everything in detail | Geopolitics](https://youtu.be/h2P9AmGcMdM)
 - [x] [Gravitas Plus | Explained: The Russia-Ukraine crisis](https://youtu.be/nK-yJD_fAtk)
 - [x] [From spy to president: The rise of Vladimir Putin](https://youtu.be/lxMWSmKieuc)
 - [x] [Putin's war on Ukraine, explained](https://youtu.be/MVu8QbxafJE)
 - [x] [Gravitas Plus: Did NATO push Ukraine into war?](https://youtu.be/TzgPJeYZaOU)
-- [x] [The Last Days of the USSR, Curiosity Stream](https://curiositystream.com/video/4723?utm_campaign=D-PerformanceMax-ROW&utm_medium=display&utm_source=google&utm_placement=&utm_content=&gclid=EAIaIQobChMI9YqEwMbV9gIVxJrVCh1rfAACEAAYASAAEgIww_D_BwE)
-- [x] [Hidden Russia, Curiosity Stream](https://curiositystream.com/video/3655)
-- [x] [Gallipoli 1915, Curiosity Stream](https://curiositystream.com/video/4085?collectionId=140)
+
+#### Terrorism
 - [x] [Turning Point 9/11, 2021](https://www.netflix.com/gb/title/81315804)
-- [ ] [Bad Sport, 2021](https://www.netflix.com/gb/title/81084829)  
+
+#### WW2
 - [ ] [WW2 in color - Road to Victory, 2021](https://www.netflix.com/gb/title/81488464)
+
+#### Turkish History
+- [x] [Gallipoli 1915, Curiosity Stream](https://curiositystream.com/video/4085?collectionId=140)
+
+#### Nature
+- [x] [Hidden Russia, Curiosity Stream](https://curiositystream.com/video/3655)
+
+#### Misc
+- [ ] [Bad Sport, 2021](https://www.netflix.com/gb/title/81084829)  
 - [ ] [Impossible Engineering, 2015](https://yesterday.uktv.co.uk/shows/impossible-engineering/)
+
 ### Podcast
 Since i listen podcasts while having a walk, it is difficult for me to enlist them here. Instead, i'll share their outstanding ideas.
 - [x] [Kendine Iyi Davran](https://open.spotify.com/show/1OsUxSME9IyoE1ZyDpRLxc): Helped me to show more compassion towards myself and balance my self-expectations as well as taking advantage of [20-seconds rule](https://www.samuelthomasdavies.com/the-20-second-rule/) and how to demonstrate confidence.
@@ -34,7 +49,6 @@ Since i listen podcasts while having a walk, it is difficult for me to enlist th
     - [X] [Be Better at Work: How to communicate better with workers and employees?](https://open.spotify.com/episode/1v5yiQuY7lW07DOPsmecuK?si=11106a34b2ce42b5&nd=1)
     - [X] [Under Pressure: How to communicate clearly and timely under pressure?](https://open.spotify.com/episode/3kMIyy0aL0fj4GFWCzQNIy?si=05c87b3b91984a83&nd=1)
     - [X] [Speaking withput a net: How to master impromptu communication?](https://open.spotify.com/episode/0r5eLIrMso6vbsvXtaRpa2?si=f05206e09cc0448c&nd=1)
-- [ ] [Better Than Yesterday](https://open.spotify.com/show/1eL5WS5BEfAwzI2SN0RwYp)
 - [ ] [The School of Greatness](https://open.spotify.com/show/07GQhOZboEZOE1ysnFLipT)
 
 ## READ List
