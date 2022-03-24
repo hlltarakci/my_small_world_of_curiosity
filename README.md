@@ -12,6 +12,11 @@
 
 ### Documentary 
 
+#### WW2
+- [x] [Hitler's Circle of Evil, 2017](https://www.netflix.com/nl-en/title/80138915)
+- [x] [Greatest Events of WW2 in Color](https://www.netflix.com/nl-en/title/80989924) 
+- [ ] [WW2 in color - Road to Victory, 2021](https://www.netflix.com/gb/title/81488464)
+
 #### Russia-Ukraine Crisis & USSR
 - [x] [The Last Days of the USSR, Curiosity Stream](https://curiositystream.com/video/4723?utm_campaign=D-PerformanceMax-ROW&utm_medium=display&utm_source=google&utm_placement=&utm_content=&gclid=EAIaIQobChMI9YqEwMbV9gIVxJrVCh1rfAACEAAYASAAEgIww_D_BwE)
 - [x] [The Breakup of the Soviet Union Explained](https://youtu.be/t2GmtBCVHzY)
@@ -27,9 +32,6 @@
 #### Terrorism
 - [x] [Turning Point 9/11, 2021](https://www.netflix.com/gb/title/81315804)
 
-#### WW2
-- [ ] [WW2 in color - Road to Victory, 2021](https://www.netflix.com/gb/title/81488464)
-
 #### Turkish History
 - [x] [Gallipoli 1915, Curiosity Stream](https://curiositystream.com/video/4085?collectionId=140)
 
@@ -37,6 +39,7 @@
 - [x] [Hidden Russia, Curiosity Stream](https://curiositystream.com/video/3655)
 
 #### Misc
+- [x] [Challenger: The Final Flight, 2020](https://www.netflix.com/nl-en/title/81012137)
 - [ ] [Bad Sport, 2021](https://www.netflix.com/gb/title/81084829)  
 - [ ] [Impossible Engineering, 2015](https://yesterday.uktv.co.uk/shows/impossible-engineering/)
 
@@ -55,6 +58,7 @@ Since i listen podcasts while having a walk, it is difficult for me to enlist th
 ### Non-fictional
 - [X] [Titus Winters, Software Engineering at Google: Lessons Learned from Programming Over Time](https://www.goodreads.com/book/show/48816586-software-engineering-at-google) also available as [audiobook](https://www.audible.co.uk/pd/Software-Engineering-at-Google-Audiobook/B08VKV55RV?source_code=M2M14DFT1BkSH082015011R&&ipRedirectOverride=true&gclid=Cj0KCQiAt8WOBhDbARIsANQLp961t7agEDI-ZHk7zEHuLLzISIqlKfJ3hqnRRqT23q_tvq24gEACw7oaAnw8EALw_wcB&gclsrc=aw.ds) - read most of it, left some chapters for reference reading later
 - [ ] [Caroline Goyder, Gravitas: Communicate with Confidence, Influence and Authority](https://www.goodreads.com/book/show/18685594-gravitas) - *in progress*
+- [ ] [Malcolm Gladwell, Blink: The Power of Thinking Without Thinking](https://www.amazon.co.uk/Blink-Power-Thinking-Without/dp/0141014598) - *in progress*
 - [ ] [Jay Sullivan, Simply Said: Communicating Better at Work and Beyond](https://www.goodreads.com/book/show/33232697-simply-said)
 - [ ] [Shelle Rose Charvet, Words That Change Minds: The 14 Patterns for Mastering the Language of Influence](https://www.goodreads.com/book/show/44583310-words-that-change-minds) 
 - [ ] [Frank Luntz, Words That Work: It's Not What You Say, It's What People Hear](https://www.goodreads.com/book/show/95884.Words_That_Work)
