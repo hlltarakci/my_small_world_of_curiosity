@@ -38,13 +38,13 @@
 #### Turkish History
 - [x] [Gallipoli 1915, Curiosity Stream](https://curiositystream.com/video/4085?collectionId=140)
 
-#### Nature
+#### Nature and Space
 - [x] [Hidden Russia, Curiosity Stream](https://curiositystream.com/video/3655)
+- [x] [Challenger: The Final Flight, 2020](https://www.netflix.com/nl-en/title/81012137)
 - [ ] [Eye in the Sky: Nordic Wonders, Curiosity Stream](https://curiositystream.com/video/4604)
 - [ ] [Hidden Japan, Curiosity Stream](https://curiositystream.com/video/3643)
 
 #### Misc
-- [x] [Challenger: The Final Flight, 2020](https://www.netflix.com/nl-en/title/81012137)
 - [ ] [Bad Sport, 2021](https://www.netflix.com/gb/title/81084829)  
 - [ ] [Impossible Engineering, 2015](https://yesterday.uktv.co.uk/shows/impossible-engineering/)
 
