@@ -20,8 +20,9 @@
 #### USSR, Cold War
 - [x] [The Last Days of the USSR, Curiosity Stream](https://curiositystream.com/video/4723?utm_campaign=D-PerformanceMax-ROW&utm_medium=display&utm_source=google&utm_placement=&utm_content=&gclid=EAIaIQobChMI9YqEwMbV9gIVxJrVCh1rfAACEAAYASAAEgIww_D_BwE)
 - [x] [The Breakup of the Soviet Union Explained](https://youtu.be/t2GmtBCVHzY)
+- [ ] [The Entire History of the Cold War Explained | Best Cold War Documentary](https://www.youtube.com/watch?v=XDrykOhrb5s)
 
-#### Russia-Ukraine Crisis & USSR
+#### Russia-Ukraine Crisis
 - [x] [A History of Eastern Europe: Ukraine-Russia Crisis](https://www.youtube.com/watch?v=l1WL2VJOn2A)
 - [x] [The Origins of Russia - Summary on a map](https://youtu.be/qUgzqkCW6A4)
 - [x] [Why Russia is Invading Ukraine](https://youtu.be/If61baWF4GE)
@@ -39,6 +40,8 @@
 
 #### Nature
 - [x] [Hidden Russia, Curiosity Stream](https://curiositystream.com/video/3655)
+- [ ] [Eye in the Sky: Nordic Wonders, Curiosity Stream](https://curiositystream.com/video/4604)
+- [ ] [Hidden Japan, Curiosity Stream](https://curiositystream.com/video/3643)
 
 #### Misc
 - [x] [Challenger: The Final Flight, 2020](https://www.netflix.com/nl-en/title/81012137)
