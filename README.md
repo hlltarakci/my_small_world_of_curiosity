@@ -17,9 +17,11 @@
 - [x] [Greatest Events of WW2 in Color](https://www.netflix.com/nl-en/title/80989924) 
 - [ ] [WW2 in color - Road to Victory, 2021](https://www.netflix.com/gb/title/81488464)
 
-#### Russia-Ukraine Crisis & USSR
+#### USSR, Cold War
 - [x] [The Last Days of the USSR, Curiosity Stream](https://curiositystream.com/video/4723?utm_campaign=D-PerformanceMax-ROW&utm_medium=display&utm_source=google&utm_placement=&utm_content=&gclid=EAIaIQobChMI9YqEwMbV9gIVxJrVCh1rfAACEAAYASAAEgIww_D_BwE)
 - [x] [The Breakup of the Soviet Union Explained](https://youtu.be/t2GmtBCVHzY)
+
+#### Russia-Ukraine Crisis & USSR
 - [x] [A History of Eastern Europe: Ukraine-Russia Crisis](https://www.youtube.com/watch?v=l1WL2VJOn2A)
 - [x] [The Origins of Russia - Summary on a map](https://youtu.be/qUgzqkCW6A4)
 - [x] [Why Russia is Invading Ukraine](https://youtu.be/If61baWF4GE)
