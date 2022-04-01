@@ -58,6 +58,8 @@ Since i listen podcasts while having a walk, it is difficult for me to enlist th
     - [X] [Under Pressure: How to communicate clearly and timely under pressure?](https://open.spotify.com/episode/3kMIyy0aL0fj4GFWCzQNIy?si=05c87b3b91984a83&nd=1)
     - [X] [Speaking withput a net: How to master impromptu communication?](https://open.spotify.com/episode/0r5eLIrMso6vbsvXtaRpa2?si=f05206e09cc0448c&nd=1)
 - [ ] [The School of Greatness](https://open.spotify.com/show/07GQhOZboEZOE1ysnFLipT)
+- [ ] [Lex Fridman](https://lexfridman.com)
+    - [X] [Mark Zuckerberg: Meta, Facebook, Instagram, and the Metaverse](https://lexfridman.com/mark-zuckerberg/)
 
 ## READ List
 ### Non-fictional
