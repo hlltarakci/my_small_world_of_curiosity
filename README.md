@@ -38,6 +38,8 @@
 
 #### Turkish History
 - [x] [Gallipoli 1915, Curiosity Stream](https://curiositystream.com/video/4085?collectionId=140)
+- [x] [Why was Turkey neutral in WW2?](https://youtu.be/apwmP2g_D7k)
+- [ ] [The History of the Ottoman Empire](https://youtu.be/f9c4Y7Vf7G0)
 
 #### Nature and Space
 - [x] [Hidden Russia, Curiosity Stream](https://curiositystream.com/video/3655)
