@@ -69,6 +69,7 @@ Since i listen podcasts while having a walk, it is difficult for me to enlist th
 ### Non-fictional
 - [X] [Titus Winters, Software Engineering at Google: Lessons Learned from Programming Over Time](https://www.goodreads.com/book/show/48816586-software-engineering-at-google) also available as [audiobook](https://www.audible.co.uk/pd/Software-Engineering-at-Google-Audiobook/B08VKV55RV?source_code=M2M14DFT1BkSH082015011R&&ipRedirectOverride=true&gclid=Cj0KCQiAt8WOBhDbARIsANQLp961t7agEDI-ZHk7zEHuLLzISIqlKfJ3hqnRRqT23q_tvq24gEACw7oaAnw8EALw_wcB&gclsrc=aw.ds) - read most of it, left some chapters for reference reading later
 - [ ] [Caroline Goyder, Gravitas: Communicate with Confidence, Influence and Authority](https://www.goodreads.com/book/show/18685594-gravitas) - *in progress*
+- [ ] [Annie Duke, How to Decide: Simple Tools for Making Better Choices](https://www.amazon.com/How-Decide-Simple-Making-Choices-ebook/dp/B07TRJB3S3)
 - [ ] [Malcolm Gladwell, Blink: The Power of Thinking Without Thinking](https://www.amazon.co.uk/Blink-Power-Thinking-Without/dp/0141014598) - *in progress*
 - [ ] [Jay Sullivan, Simply Said: Communicating Better at Work and Beyond](https://www.goodreads.com/book/show/33232697-simply-said)
 - [ ] [Shelle Rose Charvet, Words That Change Minds: The 14 Patterns for Mastering the Language of Influence](https://www.goodreads.com/book/show/44583310-words-that-change-minds) 
