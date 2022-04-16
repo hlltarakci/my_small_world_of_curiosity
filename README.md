@@ -11,6 +11,8 @@
 - [ ] [Matt Abrahams, How to Make Your Communication Memorable](https://www.youtube.com/watch?v=Fsr4yrSAIAQ)
 
 ### Documentary 
+#### WW1
+- [ ] [Apocalypse: WW1, Curiosity Stream](https://curiositystream.com/video/3047)
 
 #### WW2
 - [x] [Hitler's Circle of Evil, 2017](https://www.netflix.com/nl-en/title/80138915)
