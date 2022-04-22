@@ -81,6 +81,7 @@ Since i listen podcasts while having a walk, it is difficult for me to enlist th
 ### Fictional
 - [x] [Margareth Mitchel, Gone with the Wind](https://www.goodreads.com/tr/book/show/18405.Gone_with_the_Wind)
 - [x] [Alexander Pushkin, Yuzbasinin Kizi](https://www.amazon.com/Y%C3%BCzbasinin-Y%C3%BDld%C3%BDz-Aleksandr-Sergeyevic-Puskin/dp/6059199968)
+- [ ] [Boris Pasternak, Doctor Zhivago](https://www.goodreads.com/book/show/130440.Doctor_Zhivago)
 
 ### Article
 - [X] [Resilience Is About How You Recharge, Not How You Endure](https://hbr.org/2016/06/resilience-is-about-how-you-recharge-not-how-you-endure): Key to resilience is trying really hard, then stopping, recovering, and then trying again. If you want to build resilience, start by strategically stopping. Give yourself the resources to be tough by creating internal and external recovery periods
