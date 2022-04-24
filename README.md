@@ -20,11 +20,14 @@
 - [x] [Greatest Events of WW2 in Color](https://www.netflix.com/nl-en/title/80989924) 
 - [ ] [WW2 in color - Road to Victory, 2021](https://www.netflix.com/gb/title/81488464)
 
-#### USSR, Cold War
+#### USSR, Cold War, Revolution, Civil War
 - [x] [The Last Days of the USSR, Curiosity Stream](https://curiositystream.com/video/4723?utm_campaign=D-PerformanceMax-ROW&utm_medium=display&utm_source=google&utm_placement=&utm_content=&gclid=EAIaIQobChMI9YqEwMbV9gIVxJrVCh1rfAACEAAYASAAEgIww_D_BwE)
 - [x] [The Breakup of the Soviet Union Explained](https://youtu.be/t2GmtBCVHzY)
 - [x] [The Entire History of the Cold War Explained | Best Cold War Documentary](https://www.youtube.com/watch?v=XDrykOhrb5s) - provides complete overview of events, helping to see their relation and chronology, difficult to digest
 - [x] [Oversimplified - Cold War, Part 1](https://youtu.be/I79TpDe3t2g) [Part 2](https://youtu.be/OIYy32RuHao) - helps to digest the above resource, humorous cartoon demonstration
+- [x] [Russian Revolution and Civil War: Crash Course European History](https://youtu.be/U6KR4cLLVzQ)
+- [x] [The October Revolution (1917) – The Bolshevik Coup and the Birth of Soviet Russia](https://youtu.be/QGxR1sanyyU)
+- [ ] [How Did the Soviet Union Begin?](https://youtu.be/mY5P2ehFDPQ)
 
 #### Russia-Ukraine Crisis
 - [x] [A History of Eastern Europe: Ukraine-Russia Crisis](https://www.youtube.com/watch?v=l1WL2VJOn2A)
@@ -78,10 +81,12 @@ Since i listen podcasts while having a walk, it is difficult for me to enlist th
 - [ ] [Shelle Rose Charvet, Words That Change Minds: The 14 Patterns for Mastering the Language of Influence](https://www.goodreads.com/book/show/44583310-words-that-change-minds) 
 - [ ] [Frank Luntz, Words That Work: It's Not What You Say, It's What People Hear](https://www.goodreads.com/book/show/95884.Words_That_Work)
 - [ ] [Merih Taze, Engineers Survival Guide: Advice, tactics, and tricks After a decade of working at Facebook, Snapchat, and Microsoft](https://www.amazon.com/Engineers-Survival-Guide-Facebook-Microsoft/dp/B09MBZBGFK)
+
 ### Fictional
 - [x] [Margareth Mitchel, Gone with the Wind](https://www.goodreads.com/tr/book/show/18405.Gone_with_the_Wind)
 - [x] [Alexander Pushkin, Yuzbasinin Kizi](https://www.amazon.com/Y%C3%BCzbasinin-Y%C3%BDld%C3%BDz-Aleksandr-Sergeyevic-Puskin/dp/6059199968)
-- [ ] [Boris Pasternak, Doctor Zhivago](https://www.goodreads.com/book/show/130440.Doctor_Zhivago)
+- [ ] [Boris Pasternak, Doctor Zhivago](https://www.goodreads.com/book/show/130440.Doctor_Zhivago) - [movie is masterpiece](https://www.imdb.com/title/tt0059113/) - *in progress*
+- [ ] [Isaac Asimov, Foundation Series](https://www.howtoread.me/foundation-series-books-in-order/)
 
 ### Article
 - [X] [Resilience Is About How You Recharge, Not How You Endure](https://hbr.org/2016/06/resilience-is-about-how-you-recharge-not-how-you-endure): Key to resilience is trying really hard, then stopping, recovering, and then trying again. If you want to build resilience, start by strategically stopping. Give yourself the resources to be tough by creating internal and external recovery periods
