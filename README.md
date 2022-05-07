@@ -78,7 +78,8 @@ Since i listen podcasts while having a walk, it is difficult for me to enlist th
 - [x] [Last Night, 1998](https://www.imdb.com/title/tt0156729/)
 - [x] [Before Sunrise, 1995](https://www.imdb.com/title/tt0112471/)
 - [x] [Before Sunset, 2004](https://www.imdb.com/title/tt0381681/)
-- [ ] [Before Midnight, 2013](https://www.imdb.com/title/tt2209418/) 
+- [ ] [Cingeneler Zamani, 1988](https://www.imdb.com/title/tt0097223/)
+- [ ] [Zorba, 1964](https://www.imdb.com/title/tt0057831/)
 - [ ] [Solaris, 1972](https://www.imdb.com/title/tt0069293/)
 
 ## READ List
