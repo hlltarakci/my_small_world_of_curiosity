@@ -48,7 +48,11 @@
 - [x] [Why was Turkey neutral in WW2?](https://youtu.be/apwmP2g_D7k)
 - [ ] [The History of the Ottoman Empire](https://youtu.be/f9c4Y7Vf7G0)
 - [ ] [32. Gun Arsivi](https://www.youtube.com/watch?v=A_kb7LmYpmQ)
-   - [ ] [Demirkirat Belgeseli, 1991](https://www.youtube.com/watch?v=A_kb7LmYpmQ)
+   - [ ] [Demirkirat Belgeseli, 1991](https://www.youtube.com/watch?v=_kVCHHBRuSE)
+   - [ ] [12 Mart](https://www.youtube.com/watch?v=_kVCHHBRuSE) 
+   - [ ] [12 Eylul](https://www.youtube.com/watch?v=arGodO-a1sE)
+   - [ ] [Ozalli Yillar](https://www.youtube.com/watch?v=arGodO-a1sE)
+   - [ ] [28 Subat](https://www.youtube.com/watch?v=arGodO-a1sE)
 
 #### Nature and Space
 - [x] [Hidden Russia, Curiosity Stream](https://curiositystream.com/video/3655)
