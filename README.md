@@ -77,6 +77,9 @@ Since i listen podcasts while having a walk, it is difficult for me to enlist th
 - [ ] [Lex Fridman](https://lexfridman.com)
     - [X] [Mark Zuckerberg: Meta, Facebook, Instagram, and the Metaverse](https://lexfridman.com/mark-zuckerberg/)
     - [x] [Andrew Huberman: Focus, Stress, Relationships, and Friendship](https://lexfridman.com/andrew-huberman-3/)
+- [ ] Adam Grant
+    - [x] [Leadership Lessons from Zelensky and Putin](https://open.spotify.com/show/4eylg9GZJOVvUhTynt4jjA)
+
 ### Weekend-worth Movies
 - [x] [Doctor Zhivago, 1965](https://www.imdb.com/title/tt0059113/)
 - [x] [Last Night, 1998](https://www.imdb.com/title/tt0156729/)
