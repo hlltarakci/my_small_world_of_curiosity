@@ -27,6 +27,7 @@
 - [x] [Oversimplified - Cold War, Part 1](https://youtu.be/I79TpDe3t2g) [Part 2](https://youtu.be/OIYy32RuHao) - helps to digest the above resource, humorous cartoon demonstration
 - [x] [Russian Revolution and Civil War: Crash Course European History](https://youtu.be/U6KR4cLLVzQ)
 - [x] [The October Revolution (1917) – The Bolshevik Coup and the Birth of Soviet Russia](https://youtu.be/QGxR1sanyyU)
+- [x] [The Russian Revolution, Netflix](https://www.netflix.com/gb/title/80158770)
 - [ ] [How Did the Soviet Union Begin?](https://youtu.be/mY5P2ehFDPQ)
 
 #### Russia-Ukraine Crisis
