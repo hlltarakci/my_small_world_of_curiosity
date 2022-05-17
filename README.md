@@ -78,6 +78,10 @@ Since i listen podcasts while having a walk, it is difficult for me to enlist th
 - [ ] [Lex Fridman](https://lexfridman.com)
     - [X] [Mark Zuckerberg: Meta, Facebook, Instagram, and the Metaverse](https://lexfridman.com/mark-zuckerberg/)
     - [x] [Andrew Huberman: Focus, Stress, Relationships, and Friendship](https://lexfridman.com/andrew-huberman-3/)
+    - [ ] [Oliver Stone: Vladimir Putin and War in Ukraine](https://www.youtube.com/watch?v=ygAqYC8JOQI)
+    - [ ] [Dan Carlin: Hardcore History](https://www.youtube.com/watch?v=-k-ztNsBM54)
+    - [ ] [Roger Penrose: Physics of Consiousness and Infinite Universe](https://www.youtube.com/watch?v=orMtwOz6Db0)
+    - [ ] [Saagar Enjeti: Politics, History, and Power](https://www.youtube.com/watch?v=grceJbuPUXI)
 - [ ] Adam Grant
     - [x] [Leadership Lessons from Zelensky and Putin](https://open.spotify.com/show/4eylg9GZJOVvUhTynt4jjA)
 
