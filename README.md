@@ -30,7 +30,7 @@
 - [x] [The Russian Revolution, Netflix](https://www.netflix.com/gb/title/80158770)
 - [ ] [How Did the Soviet Union Begin?](https://youtu.be/mY5P2ehFDPQ)
 - [ ] [Ivan the Terrible: Russia's First Tsar](https://www.youtube.com/watch?v=2wr63FdF_sg)
-- [ ] [Nikita Khrushchev: The Red Tsar](https://www.youtube.com/watch?v=2wr63FdF_sg)
+- [ ] [Nikita Khrushchev: The Red Tsar](https://www.youtube.com/watch?v=3WBUaCbQ0g8)
 
 #### Russia-Ukraine Crisis
 - [x] [A History of Eastern Europe: Ukraine-Russia Crisis](https://www.youtube.com/watch?v=l1WL2VJOn2A)
