@@ -41,6 +41,8 @@
 - [x] [From spy to president: The rise of Vladimir Putin](https://youtu.be/lxMWSmKieuc)
 - [x] [Putin's war on Ukraine, explained](https://youtu.be/MVu8QbxafJE)
 - [x] [Gravitas Plus: Did NATO push Ukraine into war?](https://youtu.be/TzgPJeYZaOU)
+- [ ] [Ukraine on Fire, 2016](https://www.imdb.com/title/tt5724358/)
+- [ ] [Winter on Fire: Ukraine's Fight for Freedom](https://www.imdb.com/title/tt4908644/)
 
 #### Terrorism
 - [x] [Turning Point 9/11, 2021](https://www.netflix.com/gb/title/81315804)
