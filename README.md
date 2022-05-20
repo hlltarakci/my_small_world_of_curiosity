@@ -104,8 +104,8 @@ Since i listen podcasts while having a walk, it is difficult for me to enlist th
 - [ ] [Caroline Goyder, Gravitas: Communicate with Confidence, Influence and Authority](https://www.goodreads.com/book/show/18685594-gravitas) - *in progress*
 - [ ] [Annie Duke, How to Decide: Simple Tools for Making Better Choices](https://www.amazon.com/How-Decide-Simple-Making-Choices-ebook/dp/B07TRJB3S3)
 - [ ] [Kelly McGonigal, The Willpower Instinct: How Self-Control Works, Why It Matters, And What You Can Do To Get More Of It](https://www.amazon.co.uk/Willpower-Instinct-Kelly-McGonigal/dp/1583335080)
+- [ ] [Dorie Clark, The Long Game: How to Be a Long-Term Thinker in a Short-Term World](https://www.amazon.co.uk/Long-Game-Long-Term-Thinker-Short-Term/dp/164782057X)
 - [ ] [Stephen Guise, How to Be an Imperfectionist: The New Way to Self-Acceptance, Fearless Living, and Freedom from Perfectionism](https://www.amazon.co.uk/How-Be-Imperfectionist-Self-Acceptance-Perfectionism-ebook/dp/B00UMG535Y)
-- [ ] [Malcolm Gladwell, Blink: The Power of Thinking Without Thinking](https://www.amazon.co.uk/Blink-Power-Thinking-Without/dp/0141014598) - *in progress*
 - [ ] [Jay Sullivan, Simply Said: Communicating Better at Work and Beyond](https://www.goodreads.com/book/show/33232697-simply-said)
 - [ ] [Shelle Rose Charvet, Words That Change Minds: The 14 Patterns for Mastering the Language of Influence](https://www.goodreads.com/book/show/44583310-words-that-change-minds) 
 - [ ] [Frank Luntz, Words That Work: It's Not What You Say, It's What People Hear](https://www.goodreads.com/book/show/95884.Words_That_Work)
