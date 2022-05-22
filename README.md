@@ -62,11 +62,12 @@
    - [ ] [Ozalli Yillar](https://www.youtube.com/watch?v=arGodO-a1sE)
    - [ ] [28 Subat](https://www.youtube.com/watch?v=arGodO-a1sE)
 
-#### Nature and Space
+#### Nature, Space, Tech
 - [x] [Hidden Russia, Curiosity Stream](https://curiositystream.com/video/3655)
 - [x] [Challenger: The Final Flight, 2020](https://www.netflix.com/nl-en/title/81012137)
 - [ ] [Eye in the Sky: Nordic Wonders, Curiosity Stream](https://curiositystream.com/video/4604)
 - [ ] [Hidden Japan, Curiosity Stream](https://curiositystream.com/video/3643)
+- [ ] [Google, Facebook, Amazon - The rise of the mega-corporations](https://youtu.be/Dy8ogOaKk4Y)
 
 #### Misc
 - [ ] [Bad Sport, 2021](https://www.netflix.com/gb/title/81084829)  
