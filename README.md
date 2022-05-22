@@ -30,6 +30,7 @@
 - [x] [The Russian Revolution, Netflix](https://www.netflix.com/gb/title/80158770)
 - [x] [The Economy of the Soviet Union](https://youtu.be/S3Jkqqlpibo)
 - [ ] [Economic Update: Rise and Fall of the USSR](https://youtu.be/_Y-TWFKw4tU)
+- [ ] [Meeting Gorbachev, 2018](https://www.imdb.com/title/tt8811382/)
 - [ ] [The Putin Interviews, 2017](https://www.imdb.com/title/tt6840134/)
 - [ ] [How Did the Soviet Union Begin?](https://youtu.be/mY5P2ehFDPQ)
 - [ ] [Ivan the Terrible: Russia's First Tsar](https://www.youtube.com/watch?v=2wr63FdF_sg)
