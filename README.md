@@ -28,6 +28,8 @@
 - [x] [Russian Revolution and Civil War: Crash Course European History](https://youtu.be/U6KR4cLLVzQ)
 - [x] [The October Revolution (1917) – The Bolshevik Coup and the Birth of Soviet Russia](https://youtu.be/QGxR1sanyyU)
 - [x] [The Russian Revolution, Netflix](https://www.netflix.com/gb/title/80158770)
+- [x] [The Economy of the Soviet Union](https://youtu.be/S3Jkqqlpibo)
+- [ ] [Economic Update: Rise and Fall of the USSR](https://youtu.be/_Y-TWFKw4tU)
 - [ ] [The Putin Interviews, 2017](https://www.imdb.com/title/tt6840134/)
 - [ ] [How Did the Soviet Union Begin?](https://youtu.be/mY5P2ehFDPQ)
 - [ ] [Ivan the Terrible: Russia's First Tsar](https://www.youtube.com/watch?v=2wr63FdF_sg)
