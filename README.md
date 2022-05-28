@@ -101,7 +101,7 @@ Since i listen podcasts while having a walk, it is difficult for me to enlist th
 - [x] [Last Night, 1998](https://www.imdb.com/title/tt0156729/)
 - [x] [Before Sunrise, 1995](https://www.imdb.com/title/tt0112471/)
 - [x] [Before Sunset, 2004](https://www.imdb.com/title/tt0381681/)
-- [ ] [Casablanca, 1942](https://www.imdb.com/title/tt0034583/)
+- [x] [Casablanca, 1942](https://www.imdb.com/title/tt0034583/)
 - [ ] [Cingeneler Zamani, 1988](https://www.imdb.com/title/tt0097223/)
 - [x] [Zorba, 1964](https://www.imdb.com/title/tt0057831/)
 - [ ] [Andrei Tarkovsky](http://thecinemaarchives.com/2019/04/23/the-8th-best-director-of-all-time-andrei-tarkovsky/)
