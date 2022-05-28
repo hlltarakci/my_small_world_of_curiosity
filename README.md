@@ -101,9 +101,20 @@ Since i listen podcasts while having a walk, it is difficult for me to enlist th
 - [x] [Last Night, 1998](https://www.imdb.com/title/tt0156729/)
 - [x] [Before Sunrise, 1995](https://www.imdb.com/title/tt0112471/)
 - [x] [Before Sunset, 2004](https://www.imdb.com/title/tt0381681/)
+- [ ] [Casablanca, 1942](https://www.imdb.com/title/tt0034583/)
 - [ ] [Cingeneler Zamani, 1988](https://www.imdb.com/title/tt0097223/)
 - [x] [Zorba, 1964](https://www.imdb.com/title/tt0057831/)
-- [ ] [Solaris, 1972](https://www.imdb.com/title/tt0069293/)
+- [ ] [Andrei Tarkovsky](http://thecinemaarchives.com/2019/04/23/the-8th-best-director-of-all-time-andrei-tarkovsky/)
+     - [ ] [Solaris, 1972](https://www.imdb.com/title/tt0069293/)
+     - [ ] [The Mirror, 1975](https://www.imdb.com/title/tt0072443/)
+     - [ ] [The Sacrifice, 1986](https://www.imdb.com/title/tt0091670/)
+     - [ ] [Andrei Rublev, 1966](https://www.imdb.com/title/tt0060107/)
+     - [ ] [Nostalghia, 1983](https://www.imdb.com/title/tt0086022/)
+     - [ ] [Stalker, 1979](https://www.imdb.com/title/tt0079944/)
+     - [ ] [Ivan's Childhood, 1960](https://www.imdb.com/title/tt0056111/)
+- [ ] [War and Peace, 1965](https://www.imdb.com/title/tt0063794/)
+- [ ] [12 Angry Man, 1957](https://www.imdb.com/title/tt0050083/)
+- [ ] [One Flew Over the Cuckoo's Nest](https://www.imdb.com/title/tt0073486/)
 
 ## READ List
 ### Non-fictional
