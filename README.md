@@ -59,7 +59,7 @@
 - [ ] [32. Gun Arsivi](https://www.youtube.com/watch?v=A_kb7LmYpmQ)
    - [ ] [Demirkirat Belgeseli (8 Bolum), 1991](https://www.youtube.com/watch?v=_kVCHHBRuSE)
         - [x] [1/8: 1930-1945, Adnan Menderes'in siyasete girisi, Inonu donemi, 2. Dunya Savasi'nda Turkiye](https://www.youtube.com/watch?app=desktop&v=sBPfjeWbp9Q)
-        - [ ] [2/8](https://www.youtube.com/watch?v=uFGz_hN-A94)
+        - [x] [2/8: 1946, Demokrat Parti'nin ilk secimi](https://www.youtube.com/watch?v=uFGz_hN-A94)
    - [ ] [12 Mart](https://www.youtube.com/watch?v=_kVCHHBRuSE) 
    - [ ] [12 Eylul](https://www.youtube.com/watch?v=arGodO-a1sE)
    - [ ] [Ozalli Yillar](https://www.youtube.com/watch?v=arGodO-a1sE)
