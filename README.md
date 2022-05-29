@@ -87,6 +87,8 @@ Since i listen podcasts while having a walk, it is difficult for me to enlist th
     - [X] [Be Better at Work: How to communicate better with workers and employees?](https://open.spotify.com/episode/1v5yiQuY7lW07DOPsmecuK?si=11106a34b2ce42b5&nd=1)
     - [X] [Under Pressure: How to communicate clearly and timely under pressure?](https://open.spotify.com/episode/3kMIyy0aL0fj4GFWCzQNIy?si=05c87b3b91984a83&nd=1)
     - [X] [Speaking withput a net: How to master impromptu communication?](https://open.spotify.com/episode/0r5eLIrMso6vbsvXtaRpa2?si=f05206e09cc0448c&nd=1)
+    - [x] [Managing in the moment: How to get comfortable with being uncomfortable](https://open.spotify.com/episode/13n9DZbpKNJ7KVFkgQ69lJ)
+    - [x] [Mindset matters: How to embrace the benefits of stress](https://www.gsb.stanford.edu/insights/mindset-matters-how-embrace-benefits-stress)
 - [ ] [The School of Greatness](https://open.spotify.com/show/07GQhOZboEZOE1ysnFLipT)
 - [ ] [Lex Fridman](https://lexfridman.com)
     - [X] [Mark Zuckerberg: Meta, Facebook, Instagram, and the Metaverse](https://lexfridman.com/mark-zuckerberg/)
