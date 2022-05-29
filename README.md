@@ -61,7 +61,7 @@
         - [x] [1: 1930-1945, Adnan Menderes'in siyasete girisi, Inonu donemi, 2. Dunya Savasi'nda Turkiye](https://www.youtube.com/watch?app=desktop&v=sBPfjeWbp9Q)
         - [x] [2: 1946, Demokrat Parti'nin ilk secimi](https://www.youtube.com/watch?v=uFGz_hN-A94)
         - [x] [3: 1950, 1950 Secimleri, Adnan Menderes'in basbakan olmasi](https://www.youtube.com/watch?v=wm8dOfQQ3Ns)
-        - [x] [4: 1950-1954, Ezanin Arapca'ya donmesi, Turkiye'nin dis politikada batiya yonelmesi, Kore savasi, 1952'de Nato uyeligi, 1954 secimleri](https://www.youtube.com/watch?v=_kVCHHBRuSE)
+        - [x] [4: 1950-1954, Ezanin Arapca'ya donmesi, Turkiye'nin dis politikada batiya yonelmesi, Kore savasi, 1952'de Nato uyeligi, 1954 secimleri](https://www.youtube.com/watch?v=_kVCHHBRuSE), [Marshall plani ve bogazlar](https://tr.wikipedia.org/wiki/Marshall_Planı)
    - [ ] [12 Mart](https://www.youtube.com/watch?v=_kVCHHBRuSE) 
    - [ ] [12 Eylul](https://www.youtube.com/watch?v=arGodO-a1sE)
    - [ ] [Ozalli Yillar](https://www.youtube.com/watch?v=arGodO-a1sE)
