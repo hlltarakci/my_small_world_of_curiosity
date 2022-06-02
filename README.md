@@ -62,7 +62,7 @@
         - [x] [2: 1946, Demokrat Parti'nin ilk secimi](https://www.youtube.com/watch?v=uFGz_hN-A94)
         - [x] [3: 1950, 1950 Secimleri, Adnan Menderes'in basbakan olmasi](https://www.youtube.com/watch?v=wm8dOfQQ3Ns)
         - [x] [4: 1950-1954, Ezanin Arapca'ya donmesi, Turkiye'nin dis politikada batiya yonelmesi, Kore savasi, 1952'de Nato uyeligi, 1954 secimleri](https://www.youtube.com/watch?v=_kVCHHBRuSE), [Marshall plani ve bogazlar](https://tr.wikipedia.org/wiki/Marshall_Planı)
-        - [x] [5: 1955, Askeri hareletlilik, 5-6 Eylul olaylari](https://www.youtube.com/watch?v=gaCnPr9o4T4), [Istanbul pogrom](https://en.wikipedia.org/wiki/Istanbul_pogrom)
+        - [x] [5: 1955, Askeri hareketlilik, 5-6 Eylul olaylari](https://www.youtube.com/watch?v=gaCnPr9o4T4), [Istanbul pogrom](https://en.wikipedia.org/wiki/Istanbul_pogrom)
    - [ ] [12 Mart](https://www.youtube.com/watch?v=_kVCHHBRuSE) 
    - [ ] [12 Eylul](https://www.youtube.com/watch?v=arGodO-a1sE)
    - [ ] [Ozalli Yillar](https://www.youtube.com/watch?v=arGodO-a1sE)
