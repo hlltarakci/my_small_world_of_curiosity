@@ -56,7 +56,7 @@
 - [x] [Why Turkey is turning Istanbul into an island?](https://youtu.be/F6I7eHVXh2A) - rationale for Kanal Istanbul project - pros and cons
 - [x] [Why was Turkey neutral in WW2?](https://youtu.be/apwmP2g_D7k)
 - [ ] [The History of the Ottoman Empire](https://youtu.be/f9c4Y7Vf7G0)
-- [ ] [32. Gun Arsivi](https://www.youtube.com/watch?v=A_kb7LmYpmQ)
+- [ ] [32. Gun Arsivi](https://www.youtube.com/watch?app=desktop&v=sBPfjeWbp9Q)
    - [ ] [Demirkirat Belgeseli (10 Bolum), 1991](https://www.youtube.com/watch?v=_kVCHHBRuSE)
         - [x] [1: 1930-1945, Adnan Menderes'in siyasete girisi, Inonu donemi, 2. Dunya Savasi'nda Turkiye](https://www.youtube.com/watch?app=desktop&v=sBPfjeWbp9Q)
         - [x] [2: 1946, Demokrat Parti'nin ilk secimi](https://www.youtube.com/watch?v=uFGz_hN-A94)
