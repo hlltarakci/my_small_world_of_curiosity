@@ -95,7 +95,7 @@ Since i listen podcasts while having a walk, it is difficult for me to enlist th
     - [X] [Mark Zuckerberg: Meta, Facebook, Instagram, and the Metaverse](https://lexfridman.com/mark-zuckerberg/)
     - [x] [Andrew Huberman: Focus, Stress, Relationships, and Friendship](https://lexfridman.com/andrew-huberman-3/)
     - [x] [Oliver Stone: Vladimir Putin and War in Ukraine](https://www.youtube.com/watch?v=ygAqYC8JOQI)
-    - [ ] [Stephen Kotkin: Putin, Stalin, Hitler, Zelenskyy, and War in Ukraine](https://www.youtube.com/watch?v=2a7CDKqWcZ0)
+    - [x] [Stephen Kotkin: Putin, Stalin, Hitler, Zelenskyy, and War in Ukraine](https://www.youtube.com/watch?v=2a7CDKqWcZ0)
     - [ ] [Stephen Kotkin: Stalin, Putin, and the Nature of Power](https://www.youtube.com/watch?v=oCkkjnpS2f8)
     - [ ] [Dan Carlin: Hardcore History](https://www.youtube.com/watch?v=-k-ztNsBM54)
     - [ ] [Roger Penrose: Physics of Consiousness and Infinite Universe](https://www.youtube.com/watch?v=orMtwOz6Db0)
