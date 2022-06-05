@@ -102,6 +102,7 @@ Since i listen podcasts while having a walk, it is difficult for me to enlist th
     - [ ] [Saagar Enjeti: Politics, History, and Power](https://www.youtube.com/watch?v=grceJbuPUXI)
 - [ ] Adam Grant
     - [x] [Leadership Lessons from Zelensky and Putin](https://open.spotify.com/show/4eylg9GZJOVvUhTynt4jjA)
+    - [ ] [The Real Reason You Procrascinate](https://www.ted.com/talks/worklife_with_adam_grant_the_real_reason_you_procrastinate?language=en)
 
 ### Weekend-worth Movies
 - [x] [Doctor Zhivago, 1965](https://www.imdb.com/title/tt0059113/)
@@ -109,8 +110,11 @@ Since i listen podcasts while having a walk, it is difficult for me to enlist th
 - [x] [Before Sunrise, 1995](https://www.imdb.com/title/tt0112471/)
 - [x] [Before Sunset, 2004](https://www.imdb.com/title/tt0381681/)
 - [x] [Casablanca, 1942](https://www.imdb.com/title/tt0034583/)
-- [ ] [Cingeneler Zamani, 1988](https://www.imdb.com/title/tt0097223/)
 - [x] [Zorba, 1964](https://www.imdb.com/title/tt0057831/)
+- [ ] [The Grand Budapest Hotel, 2014](https://www.imdb.com/title/tt2278388/)
+- [ ] [Inglourious Basterds, 2009](https://www.imdb.com/title/tt0361748/)
+- [ ] [Requiem for a Dream, 2000](https://www.imdb.com/title/tt0180093/)
+- [ ] [Cingeneler Zamani, 1988](https://www.imdb.com/title/tt0097223/)
 - [ ] [Andrei Tarkovsky](http://thecinemaarchives.com/2019/04/23/the-8th-best-director-of-all-time-andrei-tarkovsky/)
      - [ ] [Solaris, 1972](https://www.imdb.com/title/tt0069293/)
      - [ ] [The Mirror, 1975](https://www.imdb.com/title/tt0072443/)
