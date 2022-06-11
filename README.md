@@ -111,7 +111,7 @@ Since i listen podcasts while having a walk, it is difficult for me to enlist th
 - [x] [Before Sunset, 2004](https://www.imdb.com/title/tt0381681/)
 - [x] [Casablanca, 1942](https://www.imdb.com/title/tt0034583/)
 - [x] [Zorba, 1964](https://www.imdb.com/title/tt0057831/)
-- [ ] [The Grand Budapest Hotel, 2014](https://www.imdb.com/title/tt2278388/)
+- [x] [The Grand Budapest Hotel, 2014](https://www.imdb.com/title/tt2278388/)
 - [ ] [Inglourious Basterds, 2009](https://www.imdb.com/title/tt0361748/)
 - [ ] [Requiem for a Dream, 2000](https://www.imdb.com/title/tt0180093/)
 - [ ] [Cingeneler Zamani, 1988](https://www.imdb.com/title/tt0097223/)
@@ -125,7 +125,9 @@ Since i listen podcasts while having a walk, it is difficult for me to enlist th
      - [ ] [Ivan's Childhood, 1960](https://www.imdb.com/title/tt0056111/)
 - [ ] [War and Peace, 1965](https://www.imdb.com/title/tt0063794/)
 - [ ] [12 Angry Man, 1957](https://www.imdb.com/title/tt0050083/)
-- [ ] [One Flew Over the Cuckoo's Nest](https://www.imdb.com/title/tt0073486/)
+- [ ] [One Flew Over the Cuckoo's Nest, 1975 ](https://www.imdb.com/title/tt0073486/)
+- [ ] [The Grapes of Wrath, 1940](https://www.imdb.com/title/tt0032551/)
+- [ ] [The Shop around the Corner, 1940](https://www.imdb.com/title/tt0033045/)
 
 ## READ List
 ### Non-fictional
