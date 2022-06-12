@@ -29,6 +29,8 @@
 - [x] [The October Revolution (1917) – The Bolshevik Coup and the Birth of Soviet Russia](https://youtu.be/QGxR1sanyyU)
 - [x] [The Russian Revolution, Netflix](https://www.netflix.com/gb/title/80158770)
 - [x] [The Economy of the Soviet Union](https://youtu.be/S3Jkqqlpibo)
+- [x] [What Life in Soviet Union was Like?](https://www.youtube.com/watch?v=EF_GjtpR1Xo)
+- [x] [How did Planners Design Soviet Cities?](https://www.youtube.com/watch?v=JGVBv7svKLo)
 - [ ] [Economic Update: Rise and Fall of the USSR](https://youtu.be/_Y-TWFKw4tU)
 - [ ] [Meeting Gorbachev, 2018](https://www.imdb.com/title/tt8811382/)
 - [ ] [The Putin Interviews, 2017](https://www.imdb.com/title/tt6840134/)
@@ -133,6 +135,8 @@ Since i listen podcasts while having a walk, it is difficult for me to enlist th
 - [ ] [One Flew Over the Cuckoo's Nest, 1975 ](https://www.imdb.com/title/tt0073486/)
 - [ ] [The Grapes of Wrath, 1940](https://www.imdb.com/title/tt0032551/)
 - [ ] [The Shop around the Corner, 1940](https://www.imdb.com/title/tt0033045/)
+- [ ] [Irony of Fate, 1975](https://www.imdb.com/title/tt0073179/)
+- [ ] [It's a Wonderful Life, 1946](https://www.imdb.com/title/tt0038650/)
 
 ## READ List
 ### Non-fictional
