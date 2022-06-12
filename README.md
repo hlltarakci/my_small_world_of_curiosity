@@ -71,6 +71,9 @@
 #### Nature, Space, Tech
 - [x] [Hidden Russia, Curiosity Stream](https://curiositystream.com/video/3655)
 - [x] [Challenger: The Final Flight, 2020](https://www.netflix.com/nl-en/title/81012137)
+- [ ] [What Went Wrong, Curiosity Stream](https://curiositystream.com/video/4054)
+- [ ] [Curious Minds: Space, 2015](https://www.imdb.com/title/tt6951516/)
+- [ ] [A Traveler's Guide to the Planets, 2010](https://www.imdb.com/title/tt1616205/)
 - [ ] [Eye in the Sky: Nordic Wonders, Curiosity Stream](https://curiositystream.com/video/4604)
 - [ ] [Hidden Japan, Curiosity Stream](https://curiositystream.com/video/3643)
 - [ ] [Google, Facebook, Amazon - The rise of the mega-corporations](https://youtu.be/Dy8ogOaKk4Y)
@@ -113,6 +116,7 @@ Since i listen podcasts while having a walk, it is difficult for me to enlist th
 - [x] [Casablanca, 1942](https://www.imdb.com/title/tt0034583/)
 - [x] [Zorba, 1964](https://www.imdb.com/title/tt0057831/)
 - [x] [The Grand Budapest Hotel, 2014](https://www.imdb.com/title/tt2278388/)
+- [ ] [The Hitchhiker's Guide to the Galaxy, 2005](https://www.imdb.com/title/tt0371724/)
 - [ ] [Inglourious Basterds, 2009](https://www.imdb.com/title/tt0361748/)
 - [ ] [Requiem for a Dream, 2000](https://www.imdb.com/title/tt0180093/)
 - [ ] [Cingeneler Zamani, 1988](https://www.imdb.com/title/tt0097223/)
