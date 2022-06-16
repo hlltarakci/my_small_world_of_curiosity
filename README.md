@@ -156,6 +156,7 @@ Since i listen podcasts while having a walk, it is difficult for me to enlist th
 - [x] [Alexander Pushkin, Yuzbasinin Kizi](https://www.amazon.com/Y%C3%BCzbasinin-Y%C3%BDld%C3%BDz-Aleksandr-Sergeyevic-Puskin/dp/6059199968)
 - [ ] [Boris Pasternak, Doctor Zhivago](https://www.goodreads.com/book/show/130440.Doctor_Zhivago) - [movie is masterpiece](https://www.imdb.com/title/tt0059113/) - *in progress*
 - [ ] [Isaac Asimov, Foundation Series](https://www.howtoread.me/foundation-series-books-in-order/)
+- [ ] [Neal Stephenson, Snow Crash](https://www.amazon.co.uk/Snow-Crash-Neal-Stephenson/dp/0241953189)
 
 ### Article
 - [X] [Resilience Is About How You Recharge, Not How You Endure](https://hbr.org/2016/06/resilience-is-about-how-you-recharge-not-how-you-endure): Key to resilience is trying really hard, then stopping, recovering, and then trying again. If you want to build resilience, start by strategically stopping. Give yourself the resources to be tough by creating internal and external recovery periods
