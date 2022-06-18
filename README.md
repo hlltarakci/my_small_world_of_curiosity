@@ -119,6 +119,7 @@ Since i listen podcasts while having a walk, it is difficult for me to enlist th
 - [x] [Casablanca, 1942](https://www.imdb.com/title/tt0034583/)
 - [x] [Zorba, 1964](https://www.imdb.com/title/tt0057831/)
 - [x] [The Grand Budapest Hotel, 2014](https://www.imdb.com/title/tt2278388/)
+- [x] [Gone Girl, 2014](https://www.imdb.com/title/tt2267998/)
 - [ ] [The Hitchhiker's Guide to the Galaxy, 2005](https://www.imdb.com/title/tt0371724/)
 - [ ] [Inglourious Basterds, 2009](https://www.imdb.com/title/tt0361748/)
 - [ ] [Requiem for a Dream, 2000](https://www.imdb.com/title/tt0180093/)
