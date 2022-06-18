@@ -65,6 +65,7 @@
         - [x] [3: 1950, 1950 Secimleri, Adnan Menderes'in basbakan olmasi](https://www.youtube.com/watch?v=wm8dOfQQ3Ns)
         - [x] [4: 1950-1954, Ezanin Arapca'ya donmesi, Turkiye'nin dis politikada batiya yonelmesi, Kore savasi, 1952'de Nato uyeligi, 1954 secimleri](https://www.youtube.com/watch?v=_kVCHHBRuSE), [Marshall plani ve bogazlar](https://tr.wikipedia.org/wiki/Marshall_Planı)
         - [x] [5: 1955, Askeri hareketlilik, 5-6 Eylul olaylari](https://www.youtube.com/watch?v=gaCnPr9o4T4), [Istanbul pogrom](https://en.wikipedia.org/wiki/Istanbul_pogrom)
+        - [x] [6: 1955-1958, 1957 secimleri, Irak'ta darbe, Menderes'in ucaginin dusmesi](https://www.youtube.com/watch?v=2Pgic61TqZY)
    - [ ] [12 Mart](https://www.youtube.com/watch?v=_kVCHHBRuSE) 
    - [ ] [12 Eylul](https://www.youtube.com/watch?v=arGodO-a1sE)
    - [ ] [Ozalli Yillar](https://www.youtube.com/watch?v=arGodO-a1sE)
@@ -157,6 +158,7 @@ Since i listen podcasts while having a walk, it is difficult for me to enlist th
 - [ ] [Boris Pasternak, Doctor Zhivago](https://www.goodreads.com/book/show/130440.Doctor_Zhivago) - [movie is masterpiece](https://www.imdb.com/title/tt0059113/) - *in progress*
 - [ ] [Isaac Asimov, Foundation Series](https://www.howtoread.me/foundation-series-books-in-order/)
 - [ ] [Neal Stephenson, Snow Crash](https://www.amazon.co.uk/Snow-Crash-Neal-Stephenson/dp/0241953189)
+- [ ] [Jean Baudrillard, Simulacra and Simulation](https://www.amazon.com/Simulacra-Simulation-Body-Theory-Materialism/dp/0472065211)
 
 ### Article
 - [X] [Resilience Is About How You Recharge, Not How You Endure](https://hbr.org/2016/06/resilience-is-about-how-you-recharge-not-how-you-endure): Key to resilience is trying really hard, then stopping, recovering, and then trying again. If you want to build resilience, start by strategically stopping. Give yourself the resources to be tough by creating internal and external recovery periods
