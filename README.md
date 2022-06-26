@@ -108,6 +108,8 @@ Since i listen podcasts while having a walk, it is difficult for me to enlist th
     - [ ] [Saagar Enjeti: Politics, History, and Power](https://www.youtube.com/watch?v=grceJbuPUXI)
 - [ ] Adam Grant
     - [x] [Leadership Lessons from Zelensky and Putin](https://open.spotify.com/show/4eylg9GZJOVvUhTynt4jjA)
+    - [x] [That blah you are feeling is called languishing](https://open.spotify.com/episode/6Tq74UDl5D6c3FsVgrTQBT)
+    - [x] [How to stop languishing and start finding flow](https://open.spotify.com/episode/3DeedQPdjCahzuIb8ZeOSB)
     - [ ] [The Real Reason You Procrascinate](https://www.ted.com/talks/worklife_with_adam_grant_the_real_reason_you_procrastinate?language=en)
 - [ ] [Dan Carlin's Hardcore History] (https://open.spotify.com/show/72qiPaoDRf8HkGKEChvG5q)
 
@@ -151,15 +153,12 @@ Since i listen podcasts while having a walk, it is difficult for me to enlist th
 - [ ] [Jay Sullivan, Simply Said: Communicating Better at Work and Beyond](https://www.goodreads.com/book/show/33232697-simply-said)
 - [ ] [Shelle Rose Charvet, Words That Change Minds: The 14 Patterns for Mastering the Language of Influence](https://www.goodreads.com/book/show/44583310-words-that-change-minds) 
 - [ ] [Frank Luntz, Words That Work: It's Not What You Say, It's What People Hear](https://www.goodreads.com/book/show/95884.Words_That_Work)
-- [ ] [Merih Taze, Engineers Survival Guide: Advice, tactics, and tricks After a decade of working at Facebook, Snapchat, and Microsoft](https://www.amazon.com/Engineers-Survival-Guide-Facebook-Microsoft/dp/B09MBZBGFK)
 
 ### Fictional
 - [x] [Margareth Mitchel, Gone with the Wind](https://www.goodreads.com/tr/book/show/18405.Gone_with_the_Wind)
 - [x] [Alexander Pushkin, Yuzbasinin Kizi](https://www.amazon.com/Y%C3%BCzbasinin-Y%C3%BDld%C3%BDz-Aleksandr-Sergeyevic-Puskin/dp/6059199968)
-- [ ] [Boris Pasternak, Doctor Zhivago](https://www.goodreads.com/book/show/130440.Doctor_Zhivago) - [movie is masterpiece](https://www.imdb.com/title/tt0059113/) - *in progress*
+- [ ] [Boris Pasternak, Doctor Zhivago](https://www.goodreads.com/book/show/130440.Doctor_Zhivago)
 - [ ] [Isaac Asimov, Foundation Series](https://www.howtoread.me/foundation-series-books-in-order/)
+- [ ] [Artur C. Clarke, Rama Series](https://www.goodreads.com/series/49121-rama)
 - [ ] [Neal Stephenson, Snow Crash](https://www.amazon.co.uk/Snow-Crash-Neal-Stephenson/dp/0241953189)
 - [ ] [Jean Baudrillard, Simulacra and Simulation](https://www.amazon.com/Simulacra-Simulation-Body-Theory-Materialism/dp/0472065211)
-
-### Article
-- [X] [Resilience Is About How You Recharge, Not How You Endure](https://hbr.org/2016/06/resilience-is-about-how-you-recharge-not-how-you-endure): Key to resilience is trying really hard, then stopping, recovering, and then trying again. If you want to build resilience, start by strategically stopping. Give yourself the resources to be tough by creating internal and external recovery periods
