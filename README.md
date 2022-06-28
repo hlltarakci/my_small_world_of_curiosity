@@ -110,6 +110,7 @@ Since i listen podcasts while having a walk, it is difficult for me to enlist th
     - [x] [Leadership Lessons from Zelensky and Putin](https://open.spotify.com/show/4eylg9GZJOVvUhTynt4jjA)
     - [x] [That blah you are feeling is called languishing](https://open.spotify.com/episode/6Tq74UDl5D6c3FsVgrTQBT)
     - [x] [How to stop languishing and start finding flow](https://open.spotify.com/episode/3DeedQPdjCahzuIb8ZeOSB)
+    - [x] [Breaking up with perfectionism](https://open.spotify.com/episode/3ohEu8zArUuGk2hT5aoIuW)
     - [ ] [The Real Reason You Procrascinate](https://www.ted.com/talks/worklife_with_adam_grant_the_real_reason_you_procrastinate?language=en)
 - [ ] [Dan Carlin's Hardcore History] (https://open.spotify.com/show/72qiPaoDRf8HkGKEChvG5q)
 
