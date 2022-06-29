@@ -140,7 +140,8 @@ Since i listen podcasts while having a walk, it is difficult for me to enlist th
 - [ ] [One Flew Over the Cuckoo's Nest, 1975 ](https://www.imdb.com/title/tt0073486/)
 - [ ] [The Grapes of Wrath, 1940](https://www.imdb.com/title/tt0032551/)
 - [ ] [The Shop around the Corner, 1940](https://www.imdb.com/title/tt0033045/)
-- [x] [Irony of Fate or Enjoy Your Bath, 1975](https://www.imdb.com/title/tt0073179/) - https://understandrussia.com/soviet-apartments/
+- [x] [Irony of Fate or Enjoy Your Bath, 1975](https://www.imdb.com/title/tt0073179/) - https://understandrussia.com/soviet-apartments/   [music: i asked the ash tree](https://www.youtube.com/watch?v=Jb3xPamP1os)
+- [x] [The Irony of Fate 2](https://www.imdb.com/title/tt0987918/)
 - [ ] [It's a Wonderful Life, 1946](https://www.imdb.com/title/tt0038650/)
 
 ## READ List
