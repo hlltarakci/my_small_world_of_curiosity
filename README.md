@@ -104,6 +104,7 @@ Since i listen podcasts while having a walk, it is difficult for me to enlist th
     - [x] [Stephen Kotkin: Putin, Stalin, Hitler, Zelenskyy, and War in Ukraine](https://www.youtube.com/watch?v=2a7CDKqWcZ0)
     - [ ] [Stephen Kotkin: Stalin, Putin, and the Nature of Power](https://www.youtube.com/watch?v=oCkkjnpS2f8)
     - [x] [Dan Carlin: Hardcore History](https://www.youtube.com/watch?v=-k-ztNsBM54)
+    - [x] [Susan Cane: The Power of Introverts and Loneliness](https://lexfridman.com/susan-cain/)
     - [ ] [Roger Penrose: Physics of Consiousness and Infinite Universe](https://www.youtube.com/watch?v=orMtwOz6Db0)
     - [ ] [Saagar Enjeti: Politics, History, and Power](https://www.youtube.com/watch?v=grceJbuPUXI)
 - [ ] Adam Grant
@@ -123,7 +124,7 @@ Since i listen podcasts while having a walk, it is difficult for me to enlist th
 - [x] [Zorba, 1964](https://www.imdb.com/title/tt0057831/)
 - [x] [The Grand Budapest Hotel, 2014](https://www.imdb.com/title/tt2278388/)
 - [x] [Gone Girl, 2014](https://www.imdb.com/title/tt2267998/)
-- [ ] [The Hitchhiker's Guide to the Galaxy, 2005](https://www.imdb.com/title/tt0371724/)
+- [x] [The Hitchhiker's Guide to the Galaxy, 2005](https://www.imdb.com/title/tt0371724/)
 - [ ] [Inglourious Basterds, 2009](https://www.imdb.com/title/tt0361748/)
 - [ ] [Requiem for a Dream, 2000](https://www.imdb.com/title/tt0180093/)
 - [ ] [Cingeneler Zamani, 1988](https://www.imdb.com/title/tt0097223/)
@@ -140,8 +141,11 @@ Since i listen podcasts while having a walk, it is difficult for me to enlist th
 - [ ] [One Flew Over the Cuckoo's Nest, 1975 ](https://www.imdb.com/title/tt0073486/)
 - [ ] [The Grapes of Wrath, 1940](https://www.imdb.com/title/tt0032551/)
 - [ ] [The Shop around the Corner, 1940](https://www.imdb.com/title/tt0033045/)
-- [x] [Irony of Fate or Enjoy Your Bath, 1975](https://www.imdb.com/title/tt0073179/) - https://understandrussia.com/soviet-apartments/   [music: i asked the ash tree](https://www.youtube.com/watch?v=Jb3xPamP1os)  [excellent performance!](https://youtu.be/TJYG5DiauYQ)
-- [x] [The Irony of Fate 2](https://www.imdb.com/title/tt0987918/)
+- [x] [Irony of Fate or Enjoy Your Bath, 1975](https://www.imdb.com/title/tt0073179/)
+      https://understandrussia.com/soviet-apartments/   
+      - [music: i asked the ash tree](https://www.youtube.com/watch?v=Jb3xPamP1os)
+      - [music: excellent performance!](https://youtu.be/TJYG5DiauYQ)
+- [x] [The Irony of Fate 2, 2007](https://www.imdb.com/title/tt0987918/)
 - [ ] [It's a Wonderful Life, 1946](https://www.imdb.com/title/tt0038650/)
 
 ## READ List
