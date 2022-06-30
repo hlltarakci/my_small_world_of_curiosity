@@ -112,7 +112,7 @@ Since i listen podcasts while having a walk, it is difficult for me to enlist th
     - [x] [How to stop languishing and start finding flow](https://open.spotify.com/episode/3DeedQPdjCahzuIb8ZeOSB)
     - [x] [Breaking up with perfectionism](https://open.spotify.com/episode/3ohEu8zArUuGk2hT5aoIuW)
     - [ ] [The Real Reason You Procrascinate](https://www.ted.com/talks/worklife_with_adam_grant_the_real_reason_you_procrastinate?language=en)
-- [ ] [Dan Carlin's Hardcore History] (https://open.spotify.com/show/72qiPaoDRf8HkGKEChvG5q)
+- [ ] [Dan Carlin's Hardcore History](https://open.spotify.com/show/72qiPaoDRf8HkGKEChvG5q)
 
 ### Weekend-worth Movies
 - [x] [Doctor Zhivago, 1965](https://www.imdb.com/title/tt0059113/)
@@ -140,7 +140,7 @@ Since i listen podcasts while having a walk, it is difficult for me to enlist th
 - [ ] [One Flew Over the Cuckoo's Nest, 1975 ](https://www.imdb.com/title/tt0073486/)
 - [ ] [The Grapes of Wrath, 1940](https://www.imdb.com/title/tt0032551/)
 - [ ] [The Shop around the Corner, 1940](https://www.imdb.com/title/tt0033045/)
-- [x] [Irony of Fate or Enjoy Your Bath, 1975](https://www.imdb.com/title/tt0073179/) - https://understandrussia.com/soviet-apartments/   [music: i asked the ash tree](https://www.youtube.com/watch?v=Jb3xPamP1os)
+- [x] [Irony of Fate or Enjoy Your Bath, 1975](https://www.imdb.com/title/tt0073179/) - https://understandrussia.com/soviet-apartments/   [music: i asked the ash tree](https://www.youtube.com/watch?v=Jb3xPamP1os)  [excellent performance!](https://youtu.be/TJYG5DiauYQ)
 - [x] [The Irony of Fate 2](https://www.imdb.com/title/tt0987918/)
 - [ ] [It's a Wonderful Life, 1946](https://www.imdb.com/title/tt0038650/)
 
