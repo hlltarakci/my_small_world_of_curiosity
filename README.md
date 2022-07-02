@@ -117,6 +117,9 @@ Since i listen podcasts while having a walk, it is difficult for me to enlist th
     - [x] [Breaking up with perfectionism](https://open.spotify.com/episode/3ohEu8zArUuGk2hT5aoIuW)
     - [ ] [The Real Reason You Procrascinate](https://www.ted.com/talks/worklife_with_adam_grant_the_real_reason_you_procrastinate?language=en)
 - [ ] [Dan Carlin's Hardcore History](https://open.spotify.com/show/72qiPaoDRf8HkGKEChvG5q)
+- [ ] [The Psychology Podcast with Scott Barry Kaufmann](https://scottbarrykaufman.com/podcast/)
+    - [x] [Ayelet Fishbach: How to motivate yourself](https://open.spotify.com/episode/0GpoBwhuKEGL4i8hv6aObh)
+    - [x] [Steven Pinker: Why rationality matters](https://open.spotify.com/episode/3YKIjNz8dmOH2wSmh1G0nu)
 
 ### Weekend-worth Movies
 - [x] [Doctor Zhivago, 1965](https://www.imdb.com/title/tt0059113/)
