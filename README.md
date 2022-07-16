@@ -131,6 +131,15 @@ Since i listen podcasts while having a walk, it is difficult for me to enlist th
 - [x] [The Grand Budapest Hotel, 2014](https://www.imdb.com/title/tt2278388/)
 - [x] [Gone Girl, 2014](https://www.imdb.com/title/tt2267998/)
 - [x] [The Hitchhiker's Guide to the Galaxy, 2005](https://www.imdb.com/title/tt0371724/)
+- [x] [Irony of Fate or Enjoy Your Bath, 1975](https://www.imdb.com/title/tt0073179/)
+      https://understandrussia.com/soviet-apartments/   
+      - [music: i asked the ash tree](https://www.youtube.com/watch?v=Jb3xPamP1os)
+      - [music: excellent performance!](https://youtu.be/TJYG5DiauYQ)
+- [x] [The Irony of Fate 2, 2007](https://www.imdb.com/title/tt0987918/)
+- [x] [Moscow does not Believe in Tiers, 1980](https://www.imdb.com/title/tt0079579/) -  [movie](https://www.youtube.com/watch?v=NTWA_7-ld_U)  -  [music: Aleksandra](https://www.youtube.com/watch?v=wY_wTjgecf8)
+- [x] [Ivan Vasilyevich Changes His Profession, 1973](https://www.imdb.com/title/tt0070233/)
+- [ ] [The Diamond Arm, 1969](https://www.imdb.com/title/tt0062759/)
+- [ ] [Heart of a Dog, 1988](https://www.imdb.com/title/tt0096126/)
 - [ ] [Inglourious Basterds, 2009](https://www.imdb.com/title/tt0361748/)
 - [ ] [Requiem for a Dream, 2000](https://www.imdb.com/title/tt0180093/)
 - [ ] [Cingeneler Zamani, 1988](https://www.imdb.com/title/tt0097223/)
@@ -147,15 +156,6 @@ Since i listen podcasts while having a walk, it is difficult for me to enlist th
 - [ ] [One Flew Over the Cuckoo's Nest, 1975 ](https://www.imdb.com/title/tt0073486/)
 - [ ] [The Grapes of Wrath, 1940](https://www.imdb.com/title/tt0032551/)
 - [ ] [The Shop around the Corner, 1940](https://www.imdb.com/title/tt0033045/)
-- [x] [Irony of Fate or Enjoy Your Bath, 1975](https://www.imdb.com/title/tt0073179/)
-      https://understandrussia.com/soviet-apartments/   
-      - [music: i asked the ash tree](https://www.youtube.com/watch?v=Jb3xPamP1os)
-      - [music: excellent performance!](https://youtu.be/TJYG5DiauYQ)
-- [x] [The Irony of Fate 2, 2007](https://www.imdb.com/title/tt0987918/)
-- [x] [Moscow does not Believe in Tiers, 1980](https://www.imdb.com/title/tt0079579/) -  [movie](https://www.youtube.com/watch?v=NTWA_7-ld_U)  -  [music: Aleksandra](https://www.youtube.com/watch?v=wY_wTjgecf8)
-- [x] [Ivan Vasilyevich Changes His Profession, 1973](https://www.imdb.com/title/tt0070233/)
-- [ ] [The Diamond Arm, 1969](https://www.imdb.com/title/tt0062759/)
-- [ ] [Heart of a Dog, 1988](https://www.imdb.com/title/tt0096126/)
 - [ ] [It's a Wonderful Life, 1946](https://www.imdb.com/title/tt0038650/)
 
 ## READ List
