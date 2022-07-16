@@ -153,7 +153,8 @@ Since i listen podcasts while having a walk, it is difficult for me to enlist th
       - [music: excellent performance!](https://youtu.be/TJYG5DiauYQ)
 - [x] [The Irony of Fate 2, 2007](https://www.imdb.com/title/tt0987918/)
 - [x] [Moscow does not Believe in Tiers, 1980](https://www.imdb.com/title/tt0079579/) -  [movie](https://www.youtube.com/watch?v=NTWA_7-ld_U)  -  [music: Aleksandra](https://www.youtube.com/watch?v=wY_wTjgecf8)
-- [ ] [Ivan Vasilyevich Changes His Profession, 1973](https://www.imdb.com/title/tt0070233/)
+- [x] [Ivan Vasilyevich Changes His Profession, 1973](https://www.imdb.com/title/tt0070233/)
+- [ ] [The Diamond Arm, 1969](https://www.imdb.com/title/tt0062759/)
 - [ ] [Heart of a Dog, 1988](https://www.imdb.com/title/tt0096126/)
 - [ ] [It's a Wonderful Life, 1946](https://www.imdb.com/title/tt0038650/)
 
