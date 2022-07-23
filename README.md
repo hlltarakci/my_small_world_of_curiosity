@@ -100,6 +100,9 @@ Since i listen podcasts while having a walk, it is difficult for me to enlist th
     - [x] [Managing in the moment: How to get comfortable with being uncomfortable](https://open.spotify.com/episode/13n9DZbpKNJ7KVFkgQ69lJ)
     - [x] [Mindset matters: How to embrace the benefits of stress](https://www.gsb.stanford.edu/insights/mindset-matters-how-embrace-benefits-stress)
 - [ ] [The School of Greatness](https://open.spotify.com/show/07GQhOZboEZOE1ysnFLipT)
+    - [x] [The biggest mistakes people make in relationships - Esther Perel](https://lewishowes.com/podcast/the-biggest-mistakes-people-make-in-relationships/)
+    - [ ] [6 red flags to avoid in relationships & How to find real love - Esther Perel](https://lewishowes.com/podcast/the-biggest-mistakes-people-make-in-relationships/)
+    
 - [ ] [Lex Fridman](https://lexfridman.com)
     - [X] [Mark Zuckerberg: Meta, Facebook, Instagram, and the Metaverse](https://lexfridman.com/mark-zuckerberg/)
     - [x] [Andrew Huberman: Focus, Stress, Relationships, and Friendship](https://lexfridman.com/andrew-huberman-3/)
