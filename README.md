@@ -102,7 +102,7 @@ Since i listen podcasts while having a walk, it is difficult for me to enlist th
 - [ ] [The School of Greatness](https://open.spotify.com/show/07GQhOZboEZOE1ysnFLipT)
     - [x] [The biggest mistakes people make in relationships - Esther Perel](https://lewishowes.com/podcast/the-biggest-mistakes-people-make-in-relationships/)
     - [ ] [6 red flags to avoid in relationships & How to find real love - Esther Perel](https://lewishowes.com/podcast/the-biggest-mistakes-people-make-in-relationships/)
-    
+    - [ ] [Improving the quality of your relationships and of your life - Esther Perel](https://lewishowes.com/podcast/esther-perel-the-quality-of-your-relationships-determines-the-quality-of-your-life/)
 - [ ] [Lex Fridman](https://lexfridman.com)
     - [X] [Mark Zuckerberg: Meta, Facebook, Instagram, and the Metaverse](https://lexfridman.com/mark-zuckerberg/)
     - [x] [Andrew Huberman: Focus, Stress, Relationships, and Friendship](https://lexfridman.com/andrew-huberman-3/)
@@ -123,6 +123,7 @@ Since i listen podcasts while having a walk, it is difficult for me to enlist th
 - [ ] [The Psychology Podcast with Scott Barry Kaufmann](https://scottbarrykaufman.com/podcast/)
     - [x] [Ayelet Fishbach: How to motivate yourself](https://open.spotify.com/episode/0GpoBwhuKEGL4i8hv6aObh)
     - [x] [Steven Pinker: Why rationality matters](https://open.spotify.com/episode/3YKIjNz8dmOH2wSmh1G0nu)
+- **Misc**
 
 ### Weekend-worth Movies
 - [x] [Doctor Zhivago, 1965](https://www.imdb.com/title/tt0059113/)
