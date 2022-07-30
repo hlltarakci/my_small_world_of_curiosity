@@ -91,7 +91,8 @@ Since i listen podcasts while having a walk, it is difficult for me to enlist th
     - [x] [Mindset matters: How to embrace the benefits of stress](https://www.gsb.stanford.edu/insights/mindset-matters-how-embrace-benefits-stress)
 - [ ] [The School of Greatness](https://open.spotify.com/show/07GQhOZboEZOE1ysnFLipT)
     - [x] [The biggest mistakes people make in relationships - Esther Perel](https://lewishowes.com/podcast/the-biggest-mistakes-people-make-in-relationships/)
-    - [ ] [6 red flags to avoid in relationships & How to find real love - Esther Perel](https://lewishowes.com/podcast/the-biggest-mistakes-people-make-in-relationships/)
+    - [x] [6 red flags to avoid in relationships & How to find real love - Esther Perel](https://lewishowes.com/podcast/the-biggest-mistakes-people-make-in-relationships/)
+    - [ ] [Use this simple trick to heal and deepen your relationships - Esther Perel](https://lewishowes.com/podcast/esther-perel-use-this-simple-trick-to-heal-deepen-your-relationships/)
     - [ ] [Improving the quality of your relationships and of your life - Esther Perel](https://lewishowes.com/podcast/esther-perel-the-quality-of-your-relationships-determines-the-quality-of-your-life/)
 - [ ] [Lex Fridman](https://lexfridman.com)
     - [X] [Mark Zuckerberg: Meta, Facebook, Instagram, and the Metaverse](https://lexfridman.com/mark-zuckerberg/)
@@ -103,6 +104,7 @@ Since i listen podcasts while having a walk, it is difficult for me to enlist th
     - [x] [Susan Cane: The Power of Introverts and Loneliness](https://lexfridman.com/susan-cain/)
     - [ ] [Roger Penrose: Physics of Consiousness and Infinite Universe](https://www.youtube.com/watch?v=orMtwOz6Db0)
     - [ ] [Saagar Enjeti: Politics, History, and Power](https://www.youtube.com/watch?v=grceJbuPUXI)
+    - [ ] [Martin Rees: Black Holes, Alien Life, Dark Matter, and the Big Bang](https://www.youtube.com/watch?v=50r-5ULcWgY)
 - [ ] Adam Grant
     - [x] [Leadership Lessons from Zelensky and Putin](https://open.spotify.com/show/4eylg9GZJOVvUhTynt4jjA)
     - [x] [That blah you are feeling is called languishing](https://open.spotify.com/episode/6Tq74UDl5D6c3FsVgrTQBT)
