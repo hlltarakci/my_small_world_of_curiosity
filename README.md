@@ -170,7 +170,6 @@ Since i listen podcasts while having a walk, it is difficult for me to enlist th
 - [x] [Damon Zahariades, How to Make Better Decisions: 14 Smart Tactics for Curbing Your Biases, Managing Your Emotions, And Making Fearless Decisions in Every Area of Your Life](https://www.amazon.co.uk/How-Make-Better-Decisions-Managing/dp/B099MYXDZS/ref=asc_df_B099MYXDZS/?tag=googshopuk-21&linkCode=df0&hvadid=534858257189&hvpos=&hvnetw=g&hvrand=10456481345269730858&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9045958&hvtargid=pla-1393184627689&psc=1&th=1&psc=1) - my very first kindle book :)
 - [ ] [Kevin Horsley, Unlimited Memory: How to Use Advanced Learning Strategies to Learn Faster, Remember More and be More Productive](https://www.amazon.co.uk/Unlimited-Memory-Advanced-Strategies-Productive-ebook/dp/B00I3QS1XQ/ref=sr_1_1?crid=31HBFYQ46V6YO&keywords=unlimited+memory&qid=1659276690&s=digital-text&sprefix=unlimited+memory%2Cdigital-text%2C242&sr=1-1)
 - [ ] [Yuval Noah Harari, Homo Deus: A Brief History of Tomorrow](https://www.amazon.com/Homo-Deus-Brief-History-Tomorrow/dp/0062464310)
-- [ ] [Dino Buzzati, The Tartar Steppe](https://www.amazon.co.uk/Tartar-Steppe-Canons-Dino-Buzzati/dp/1786891646/ref=sr_1_1?crid=F794T6OUMYHM&keywords=dino+buzzati&qid=1659277026&sprefix=dino+buzzati%2Caps%2C354&sr=8-1)
 - [ ] [Caroline Goyder, Gravitas: Communicate with Confidence, Influence and Authority](https://www.goodreads.com/book/show/18685594-gravitas)
 - [ ] [Annie Duke, How to Decide: Simple Tools for Making Better Choices](https://www.amazon.com/How-Decide-Simple-Making-Choices-ebook/dp/B07TRJB3S3)
 - [ ] [Kelly McGonigal, The Willpower Instinct: How Self-Control Works, Why It Matters, And What You Can Do To Get More Of It](https://www.amazon.co.uk/Willpower-Instinct-Kelly-McGonigal/dp/1583335080)
@@ -183,6 +182,7 @@ Since i listen podcasts while having a walk, it is difficult for me to enlist th
 ### Fictional
 - [x] [Margareth Mitchel, Gone with the Wind](https://www.goodreads.com/tr/book/show/18405.Gone_with_the_Wind)
 - [x] [Alexander Pushkin, Yuzbasinin Kizi](https://www.amazon.com/Y%C3%BCzbasinin-Y%C3%BDld%C3%BDz-Aleksandr-Sergeyevic-Puskin/dp/6059199968)
+- [ ] [Dino Buzzati, The Tartar Steppe](https://www.amazon.co.uk/Tartar-Steppe-Canons-Dino-Buzzati/dp/1786891646/ref=sr_1_1?crid=F794T6OUMYHM&keywords=dino+buzzati&qid=1659277026&sprefix=dino+buzzati%2Caps%2C354&sr=8-1)
 - [ ] [Boris Pasternak, Doctor Zhivago](https://www.goodreads.com/book/show/130440.Doctor_Zhivago)
 - [ ] [Isaac Asimov, Foundation Series](https://www.howtoread.me/foundation-series-books-in-order/)
 - [ ] [Artur C. Clarke, Rama Series](https://www.goodreads.com/series/49121-rama)
