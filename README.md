@@ -104,6 +104,7 @@ Since i listen podcasts while having a walk, it is difficult for me to enlist th
     - [ ] [Stephen Kotkin: Stalin, Putin, and the Nature of Power](https://www.youtube.com/watch?v=oCkkjnpS2f8)
     - [x] [Dan Carlin: Hardcore History](https://www.youtube.com/watch?v=-k-ztNsBM54)
     - [x] [Susan Cane: The Power of Introverts and Loneliness](https://lexfridman.com/susan-cain/)
+    - [ ] [John Carmack: Doom, Quake, VR, AGI, Programming, Video Games and Rockets](https://open.spotify.com/episode/3LddnZjkpflldHXnRZ0rrw)
     - [ ] [Roger Penrose: Physics of Consiousness and Infinite Universe](https://www.youtube.com/watch?v=orMtwOz6Db0)
     - [ ] [Saagar Enjeti: Politics, History, and Power](https://www.youtube.com/watch?v=grceJbuPUXI)
     - [ ] [Martin Rees: Black Holes, Alien Life, Dark Matter, and the Big Bang](https://www.youtube.com/watch?v=50r-5ULcWgY)
@@ -117,6 +118,8 @@ Since i listen podcasts while having a walk, it is difficult for me to enlist th
 - [ ] [The Psychology Podcast with Scott Barry Kaufmann](https://scottbarrykaufman.com/podcast/)
     - [x] [Ayelet Fishbach: How to motivate yourself](https://open.spotify.com/episode/0GpoBwhuKEGL4i8hv6aObh)
     - [x] [Steven Pinker: Why rationality matters](https://open.spotify.com/episode/3YKIjNz8dmOH2wSmh1G0nu)
+ - [ ][On Purpose with Jay Sheety](https://open.spotify.com/show/5EqqB52m2bsr4k1Ii7sStc)
+    - [ ] [Yuval Noah Harari: ON Why boredom is good for you?](https://open.spotify.com/episode/3nbM3L6dvpEyGh8CntLxq7)
 - **Misc**
    - [x] [The School of Life, The Imposter Syndrom](https://www.youtube.com/watch?v=eqhUHyVpAwE): Everyone has the same chaotic and depressed thoughts and self-doubt that we have. We know ourselves from the inside, but others from the outside with their edited content.
    - [x] [Alan Watkins, Being Brilliant Every Single Day](https://www.youtube.com/watch?v=fRItG9G1rb4): Being challenged leads to physiological chaos and brain gets shut down. Changing biological context leads to more quality thinking: Breath to get conscious control over (rhythm and smoothness are important). Emotional positivity is a performance enhancer.
@@ -172,6 +175,9 @@ Since i listen podcasts while having a walk, it is difficult for me to enlist th
 - [X] [Titus Winters, Software Engineering at Google: Lessons Learned from Programming Over Time](https://www.goodreads.com/book/show/48816586-software-engineering-at-google) also available as [audiobook](https://www.audible.co.uk/pd/Software-Engineering-at-Google-Audiobook/B08VKV55RV?source_code=M2M14DFT1BkSH082015011R&&ipRedirectOverride=true&gclid=Cj0KCQiAt8WOBhDbARIsANQLp961t7agEDI-ZHk7zEHuLLzISIqlKfJ3hqnRRqT23q_tvq24gEACw7oaAnw8EALw_wcB&gclsrc=aw.ds) - read most of it, left some chapters for reference reading later
 - [x] [Damon Zahariades, How to Make Better Decisions: 14 Smart Tactics for Curbing Your Biases, Managing Your Emotions, And Making Fearless Decisions in Every Area of Your Life](https://www.amazon.co.uk/How-Make-Better-Decisions-Managing/dp/B099MYXDZS/ref=asc_df_B099MYXDZS/?tag=googshopuk-21&linkCode=df0&hvadid=534858257189&hvpos=&hvnetw=g&hvrand=10456481345269730858&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9045958&hvtargid=pla-1393184627689&psc=1&th=1&psc=1) - my very first kindle book :)
 - [x] [Kevin Horsley, Unlimited Memory: How to Use Advanced Learning Strategies to Learn Faster, Remember More and be More Productive](https://www.amazon.co.uk/Unlimited-Memory-Advanced-Strategies-Productive-ebook/dp/B00I3QS1XQ/ref=sr_1_1?crid=31HBFYQ46V6YO&keywords=unlimited+memory&qid=1659276690&s=digital-text&sprefix=unlimited+memory%2Cdigital-text%2C242&sr=1-1)
+- [ ] [Yuval Noah Harari, Sapiens: A Brief History of Humankind](https://www.amazon.co.uk/Sapiens-Humankind-Yuval-Noah-Harari/dp/0099590085/ref=asc_df_0099590085/?tag=googshopuk-21&linkCode=df0&hvadid=311043780415&hvpos=&hvnetw=g&hvrand=17799006797936034443&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1006886&hvtargid=pla-394582189174&psc=1&th=1&psc=1)
+- [ ] [Yuval Noah Harari, Homo Deus: A Brief History of Tomorrow](https://www.amazon.co.uk/Homo-Deus-Brief-History-Tomorrow/dp/1784703931/ref=pd_bxgy_img_sccl_1/259-9606393-1929032?pd_rd_w=9VLPx&content-id=amzn1.sym.79b812bf-5c8b-4c0c-851c-784423adaff5&pf_rd_p=79b812bf-5c8b-4c0c-851c-784423adaff5&pf_rd_r=80EAMZP0RAYXB16RVQ81&pd_rd_wg=jMR7R&pd_rd_r=230cbc0f-021e-40e0-b17b-381abfa99a4a&pd_rd_i=1784703931&psc=1)
+- [ ] [Yuval Noah Harari, 21 Lessons for the 21st Century](https://www.amazon.co.uk/Lessons-21st-Century-Yuval-Harari/dp/1784708283/ref=pd_bxgy_img_sccl_2/259-9606393-1929032?pd_rd_w=9VLPx&content-id=amzn1.sym.79b812bf-5c8b-4c0c-851c-784423adaff5&pf_rd_p=79b812bf-5c8b-4c0c-851c-784423adaff5&pf_rd_r=80EAMZP0RAYXB16RVQ81&pd_rd_wg=jMR7R&pd_rd_r=230cbc0f-021e-40e0-b17b-381abfa99a4a&pd_rd_i=1784708283&psc=1)
 - [ ] [Leil Lowndes, How to Talk to Anyone: 92 Little Tricks for Big Success in Relationships](https://www.amazon.co.uk/How-Talk-Anyone-Success-Relationships-ebook/dp/B00BAJ2MYM/ref=sr_1_1?keywords=How+to+talk+to+anyone&qid=1659384293&s=digital-text&sr=1-1)
 - [ ] [Gary Allman, Small Talk: An Introvert's Guide to Small Talk](https://www.amazon.co.uk/Small-Talk-Introverts-Instantly-relationship-ebook/dp/B01IKPQ7AI)
 - [ ] [Yuval Noah Harari, Homo Deus: A Brief History of Tomorrow](https://www.amazon.com/Homo-Deus-Brief-History-Tomorrow/dp/0062464310)
@@ -187,9 +193,9 @@ Since i listen podcasts while having a walk, it is difficult for me to enlist th
 ### Fictional
 - [x] [Margareth Mitchel, Gone with the Wind](https://www.goodreads.com/tr/book/show/18405.Gone_with_the_Wind)
 - [x] [Alexander Pushkin, Yuzbasinin Kizi](https://www.amazon.com/Y%C3%BCzbasinin-Y%C3%BDld%C3%BDz-Aleksandr-Sergeyevic-Puskin/dp/6059199968)
-- [ ] [Dino Buzzati, The Tartar Steppe](https://www.amazon.co.uk/Tartar-Steppe-Canons-Dino-Buzzati/dp/1786891646/ref=sr_1_1?crid=F794T6OUMYHM&keywords=dino+buzzati&qid=1659277026&sprefix=dino+buzzati%2Caps%2C354&sr=8-1)
-- [ ] [Boris Pasternak, Doctor Zhivago](https://www.goodreads.com/book/show/130440.Doctor_Zhivago)
+- [x] [Dino Buzzati, The Tartar Steppe](https://www.amazon.co.uk/Tartar-Steppe-Canons-Dino-Buzzati/dp/1786891646/ref=sr_1_1?crid=F794T6OUMYHM&keywords=dino+buzzati&qid=1659277026&sprefix=dino+buzzati%2Caps%2C354&sr=8-1)
 - [ ] [Isaac Asimov, Foundation Series](https://www.howtoread.me/foundation-series-books-in-order/)
+- [ ] [Boris Pasternak, Doctor Zhivago](https://www.goodreads.com/book/show/130440.Doctor_Zhivago)
 - [ ] [Artur C. Clarke, Rama Series](https://www.goodreads.com/series/49121-rama)
 - [ ] [Neal Stephenson, Snow Crash](https://www.amazon.co.uk/Snow-Crash-Neal-Stephenson/dp/0241953189)
 - [ ] [Jean Baudrillard, Simulacra and Simulation](https://www.amazon.com/Simulacra-Simulation-Body-Theory-Materialism/dp/0472065211)
