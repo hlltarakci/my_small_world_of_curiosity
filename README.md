@@ -114,13 +114,13 @@ Since i listen podcasts while having a walk, it is difficult for me to enlist th
     - [x] [That blah you are feeling is called languishing](https://open.spotify.com/episode/6Tq74UDl5D6c3FsVgrTQBT)
     - [x] [How to stop languishing and start finding flow](https://open.spotify.com/episode/3DeedQPdjCahzuIb8ZeOSB)
     - [x] [Breaking up with perfectionism](https://open.spotify.com/episode/3ohEu8zArUuGk2hT5aoIuW)
-    - [ ] [The Real Reason You Procrascinate (https://www.ted.com/talks/worklife_with_adam_grant_the_real_reason_you_procrastinate?language=en)
+    - [ ] [The Real Reason You Procrascinate](https://www.ted.com/talks/worklife_with_adam_grant_the_real_reason_you_procrastinate?language=en)
 - [ ] [Dan Carlin's Hardcore History](https://open.spotify.com/show/72qiPaoDRf8HkGKEChvG5q)
 - [ ] [The Psychology Podcast with Scott Barry Kaufmann](https://scottbarrykaufman.com/podcast/)
     - [x] [Ayelet Fishbach: How to motivate yourself](https://open.spotify.com/episode/0GpoBwhuKEGL4i8hv6aObh)
     - [x] [Steven Pinker: Why rationality matters](https://open.spotify.com/episode/3YKIjNz8dmOH2wSmh1G0nu)
  - [ ][On Purpose with Jay Sheety](https://open.spotify.com/show/5EqqB52m2bsr4k1Ii7sStc)
-    - [ ] [Yuval Noah Harari: ON Why boredom is good for you?](https://open.spotify.com/episode/3nbM3L6dvpEyGh8CntLxq7)
+    - [x] [Yuval Noah Harari: ON Why boredom is good for you?](https://open.spotify.com/episode/3nbM3L6dvpEyGh8CntLxq7)
 - **Misc**
    - [x] [The School of Life, The Imposter Syndrom](https://www.youtube.com/watch?v=eqhUHyVpAwE): Everyone has the same chaotic and depressed thoughts and self-doubt that we have. We know ourselves from the inside, but others from the outside with their edited content.
    - [x] [Alan Watkins, Being Brilliant Every Single Day](https://www.youtube.com/watch?v=fRItG9G1rb4): Being challenged leads to physiological chaos and brain gets shut down. Changing biological context leads to more quality thinking: Breath to get conscious control over (rhythm and smoothness are important). Emotional positivity is a performance enhancer.
