@@ -19,7 +19,7 @@
 - [ ] [Meeting Gorbachev, 2018](https://www.imdb.com/title/tt8811382/)
 - [ ] [How Did the Soviet Union Begin?](https://youtu.be/mY5P2ehFDPQ)
 - [ ] **Documentary Series**
-   - [ ] [**Cold War, 1998**](https://www.imdb.com/title/tt0170896/)
+   - [ ] [**Cold War, 1998 - 24 episodes**](https://www.imdb.com/title/tt0170896/) - [where to watch](https://archive.org/details/Cold_War_1998_CNN_Kenneth_Branagh)
    - [ ] [**Soviet Storm, WW2 in the East, 2010**](https://www.imdb.com/title/tt3610248/), [where to watch](https://www.youtube.com/playlist?list=PLwGzY25TNHPC_SsXFcIH-ba0nWuNbHOM6)
    - [ ] [The Lost World of Communism, 2009](https://www.imdb.com/title/tt2976152/)
    - [ ] [The Putin Interviews, 2017](https://www.imdb.com/title/tt6840134/)
