@@ -2,15 +2,8 @@
 ## WATCH List
 
 ### Documentary 
-#### WW1
-- [ ] [Apocalypse: WW1, Curiosity Stream](https://curiositystream.com/video/3047)
 
-#### WW2
-- [x] [Hitler's Circle of Evil, 2017](https://www.netflix.com/nl-en/title/80138915)
-- [x] [Greatest Events of WW2 in Color](https://www.netflix.com/nl-en/title/80989924) 
-- [ ] [WW2 in color - Road to Victory, 2021](https://www.netflix.com/gb/title/81488464)
-
-#### USSR, Cold War, Revolution, Civil War
+#### WW1 (1914-1918), WW2 (1939-1945), Cold War (1947-1991), History and lifestyle of USSR (1922-1991)
 - [x] [The Last Days of the USSR, Curiosity Stream](https://curiositystream.com/video/4723?utm_campaign=D-PerformanceMax-ROW&utm_medium=display&utm_source=google&utm_placement=&utm_content=&gclid=EAIaIQobChMI9YqEwMbV9gIVxJrVCh1rfAACEAAYASAAEgIww_D_BwE)
 - [x] [The Breakup of the Soviet Union Explained](https://youtu.be/t2GmtBCVHzY)
 - [x] [The Entire History of the Cold War Explained | Best Cold War Documentary](https://www.youtube.com/watch?v=XDrykOhrb5s) - provides complete overview of events, helping to see their relation and chronology, difficult to digest
@@ -21,14 +14,21 @@
 - [x] [The Economy of the Soviet Union](https://youtu.be/S3Jkqqlpibo)
 - [x] [What Life in Soviet Union was Like?](https://www.youtube.com/watch?v=EF_GjtpR1Xo)
 - [x] [How did Planners Design Soviet Cities?](https://www.youtube.com/watch?v=JGVBv7svKLo)
+- [ ] [My Perestroika, 2010](https://www.imdb.com/title/tt1557720/)
 - [ ] [Economic Update: Rise and Fall of the USSR](https://youtu.be/_Y-TWFKw4tU)
 - [ ] [Meeting Gorbachev, 2018](https://www.imdb.com/title/tt8811382/)
-- [ ] [The Putin Interviews, 2017](https://www.imdb.com/title/tt6840134/)
 - [ ] [How Did the Soviet Union Begin?](https://youtu.be/mY5P2ehFDPQ)
-- [ ] [Ivan the Terrible: Russia's First Tsar](https://www.youtube.com/watch?v=2wr63FdF_sg)
-- [ ] [Nikita Khrushchev: The Red Tsar](https://www.youtube.com/watch?v=3WBUaCbQ0g8)
+- [ ] **Documentary Series**
+   - [ ] [**Cold War, 1998**](https://www.imdb.com/title/tt0170896/)
+   - [ ] [**Soviet Storm, WW2 in the East, 2010**](https://www.imdb.com/title/tt3610248/), [where to watch](https://www.youtube.com/playlist?list=PLwGzY25TNHPC_SsXFcIH-ba0nWuNbHOM6)
+   - [ ] [The Lost World of Communism, 2009](https://www.imdb.com/title/tt2976152/)
+   - [ ] [The Putin Interviews, 2017](https://www.imdb.com/title/tt6840134/)
+   - [ ] [Apocalypse: WW1, Curiosity Stream](https://curiositystream.com/video/3047)
+   - [x] [Hitler's Circle of Evil, 2017](https://www.netflix.com/nl-en/title/80138915)
+   - [x] [Greatest Events of WW2 in Color](https://www.netflix.com/nl-en/title/80989924) 
+   - [ ] [WW2 in color - Road to Victory, 2021](https://www.netflix.com/gb/title/81488464)
 
-#### Russia-Ukraine Crisis
+#### Russia-Ukraine Crisis, History
 - [x] [A History of Eastern Europe: Ukraine-Russia Crisis](https://www.youtube.com/watch?v=l1WL2VJOn2A)
 - [x] [The Origins of Russia - Summary on a map](https://youtu.be/qUgzqkCW6A4)
 - [x] [Why Russia is Invading Ukraine](https://youtu.be/If61baWF4GE)
@@ -37,18 +37,18 @@
 - [x] [From spy to president: The rise of Vladimir Putin](https://youtu.be/lxMWSmKieuc)
 - [x] [Putin's war on Ukraine, explained](https://youtu.be/MVu8QbxafJE)
 - [x] [Gravitas Plus: Did NATO push Ukraine into war?](https://youtu.be/TzgPJeYZaOU)
+- [ ] [Ivan the Terrible: Russia's First Tsar](https://www.youtube.com/watch?v=2wr63FdF_sg)
+- [ ] [Nikita Khrushchev: The Red Tsar](https://www.youtube.com/watch?v=3WBUaCbQ0g8)
 - [ ] [Ukraine on Fire, 2016](https://www.imdb.com/title/tt5724358/)
 - [ ] [Winter on Fire: Ukraine's Fight for Freedom](https://www.imdb.com/title/tt4908644/)
 
-#### Terrorism
-- [x] [Turning Point 9/11, 2021](https://www.netflix.com/gb/title/81315804)
 
-#### Turkey
+#### History of Turkey
 - [x] [Gallipoli 1915, Curiosity Stream](https://curiositystream.com/video/4085?collectionId=140)
 - [x] [Why Turkey is turning Istanbul into an island?](https://youtu.be/F6I7eHVXh2A) - rationale for Kanal Istanbul project - pros and cons
 - [x] [Why was Turkey neutral in WW2?](https://youtu.be/apwmP2g_D7k)
 - [ ] [The History of the Ottoman Empire](https://youtu.be/f9c4Y7Vf7G0)
-- [ ] [32. Gun Arsivi](https://www.youtube.com/watch?app=desktop&v=sBPfjeWbp9Q)
+- [ ] [**32. Gun Arsivi**](https://www.youtube.com/watch?app=desktop&v=sBPfjeWbp9Q)
    - [ ] [Demirkirat Belgeseli (10 Bolum), 1991](https://www.youtube.com/watch?v=_kVCHHBRuSE)
         - [x] [1: 1930-1945, Adnan Menderes'in siyasete girisi, Inonu donemi, 2. Dunya Savasi'nda Turkiye](https://www.youtube.com/watch?app=desktop&v=sBPfjeWbp9Q)
         - [x] [2: 1946, Demokrat Parti'nin ilk secimi](https://www.youtube.com/watch?v=uFGz_hN-A94)
@@ -61,27 +61,27 @@
    - [ ] [Ozalli Yillar](https://www.youtube.com/watch?v=arGodO-a1sE)
    - [ ] [28 Subat](https://www.youtube.com/watch?v=arGodO-a1sE)
 
-#### Nature, Space, Tech
+#### Nature, Space, Tech and misc
 - [x] [Hidden Russia, Curiosity Stream](https://curiositystream.com/video/3655)
 - [x] [Challenger: The Final Flight, 2020](https://www.netflix.com/nl-en/title/81012137)
 - [x] [Anadolu'nun Gözleri: Kapadokya, TRT Belgesel](https://www.youtube.com/watch?v=o6wSitX7XFE)
 - [x] [Google, Facebook, Amazon - The rise of the mega-corporations](https://youtu.be/Dy8ogOaKk4Y)
+- [ ] [Gagarin: First in space](https://www.imdb.com/title/tt2856930/)
 - [ ] [Turkey with Simon Reeve, 2017](https://www.imdb.com/title/tt6682290/)
-- [ ] [Ancient Earth, Curiosity Stream](https://curiositystream.com/collections/55)
-- [ ] [What Went Wrong, Curiosity Stream](https://curiositystream.com/video/4054)
-- [ ] [Curious Minds: Space, 2015](https://www.imdb.com/title/tt6951516/)
 - [ ] [A Traveler's Guide to the Planets, 2010](https://www.imdb.com/title/tt1616205/)
 - [ ] [Eye in the Sky: Nordic Wonders, Curiosity Stream](https://curiositystream.com/video/4604)
 - [ ] [Hidden Japan, Curiosity Stream](https://curiositystream.com/video/3643)
-
-
-#### Misc
-- [ ] [Bad Sport, 2021](https://www.netflix.com/gb/title/81084829)  
-- [ ] [Impossible Engineering, 2015](https://yesterday.uktv.co.uk/shows/impossible-engineering/)
+- [ ] **Documentary Series**
+  - [x] [Turning Point 9/11, 2021](https://www.netflix.com/gb/title/81315804)
+  - [ ] [Bad Sport, 2021](https://www.netflix.com/gb/title/81084829)  
+  - [ ] [Impossible Engineering, 2015](https://yesterday.uktv.co.uk/shows/impossible-engineering/)
+  - [ ] [Abandoned Engineering, 2016](https://yesterday.uktv.co.uk/shows/abandoned-engineering/)
+  - [ ] [Ancient Earth, Curiosity Stream](https://curiositystream.com/collections/55)
+  - [ ] [What Went Wrong, Curiosity Stream](https://curiositystream.com/video/4054)
+  - [ ] [Curious Minds: Space, 2015](https://www.imdb.com/title/tt6951516/)
 
 ### Podcast
-Since i listen podcasts while having a walk, it is difficult for me to enlist them here. Instead, i'll share their outstanding ideas.
-- [x] [Kendine Iyi Davran](https://open.spotify.com/show/1OsUxSME9IyoE1ZyDpRLxc): Helped me to show more compassion towards myself and balance my self-expectations as well as taking advantage of [20-seconds rule](https://www.samuelthomasdavies.com/the-20-second-rule/) and how to demonstrate confidence.
+- [x] [Kendine Iyi Davran](https://open.spotify.com/show/1OsUxSME9IyoE1ZyDpRLxc)
 - [ ] [Think Fast, Talk Smart](https://open.spotify.com/show/6ll0MwobDt1JW9gYaOONEo): 
     - [X] Asking better questions lead to better results (Ask "What was important to you about this?" instead of "How it went?").
     - [X] [High-Stakes Communication: How to manage anxiety when speaking in front of others?](https://open.spotify.com/episode/0X6mdscnepO358a7VeElO8?si=f431e1a009ed4b60)
@@ -96,9 +96,9 @@ Since i listen podcasts while having a walk, it is difficult for me to enlist th
     - [x] [6 red flags to avoid in relationships & How to find real love - Esther Perel](https://lewishowes.com/podcast/the-biggest-mistakes-people-make-in-relationships/)
     - [x] [Use this simple trick to heal and deepen your relationships - Esther Perel](https://lewishowes.com/podcast/esther-perel-use-this-simple-trick-to-heal-deepen-your-relationships/)
     - [ ] [Improving the quality of your relationships and of your life - Esther Perel](https://lewishowes.com/podcast/esther-perel-the-quality-of-your-relationships-determines-the-quality-of-your-life/)
-    - [x] :sunny: [Jay Shetty:The 3 KEY SIGNS That Relationship Will Last](https://www.youtube.com/watch?v=EDN9UAyPEZ0)
+    - [x] [**Jay Shetty:The 3 KEY SIGNS That Relationship Will Last**](https://www.youtube.com/watch?v=EDN9UAyPEZ0)
 - [ ] [Lex Fridman](https://lexfridman.com)
-    - [X] [Mark Zuckerberg: Meta, Facebook, Instagram, and the Metaverse](https://lexfridman.com/mark-zuckerberg/)
+    - [X] [**Mark Zuckerberg: Meta, Facebook, Instagram, and the Metaverse**](https://lexfridman.com/mark-zuckerberg/)
     - [x] [Andrew Huberman: Focus, Stress, Relationships, and Friendship](https://lexfridman.com/andrew-huberman-3/)
     - [x] [Oliver Stone: Vladimir Putin and War in Ukraine](https://www.youtube.com/watch?v=ygAqYC8JOQI)
     - [x] [Stephen Kotkin: Putin, Stalin, Hitler, Zelenskyy, and War in Ukraine](https://www.youtube.com/watch?v=2a7CDKqWcZ0)
@@ -119,17 +119,17 @@ Since i listen podcasts while having a walk, it is difficult for me to enlist th
 - [ ] [The Psychology Podcast with Scott Barry Kaufmann](https://scottbarrykaufman.com/podcast/)
     - [x] [Ayelet Fishbach: How to motivate yourself](https://open.spotify.com/episode/0GpoBwhuKEGL4i8hv6aObh)
     - [x] [Steven Pinker: Why rationality matters](https://open.spotify.com/episode/3YKIjNz8dmOH2wSmh1G0nu)
- - [ ][On Purpose with Jay Sheety](https://open.spotify.com/show/5EqqB52m2bsr4k1Ii7sStc)
+- [ ] [On Purpose with Jay Sheety](https://open.spotify.com/show/5EqqB52m2bsr4k1Ii7sStc)
     - [x] [Yuval Noah Harari: ON Why boredom is good for you?](https://open.spotify.com/episode/3nbM3L6dvpEyGh8CntLxq7)
-- **Misc**
-   - [x] [The School of Life, The Imposter Syndrom](https://www.youtube.com/watch?v=eqhUHyVpAwE): Everyone has the same chaotic and depressed thoughts and self-doubt that we have. We know ourselves from the inside, but others from the outside with their edited content.
-   - [x] [Alan Watkins, Being Brilliant Every Single Day](https://www.youtube.com/watch?v=fRItG9G1rb4): Being challenged leads to physiological chaos and brain gets shut down. Changing biological context leads to more quality thinking: Breath to get conscious control over (rhythm and smoothness are important). Emotional positivity is a performance enhancer.
-   - [x] [John O'Leary, The Importance of Good Conversation and How to Have it](https://www.ted.com/talks/john_o_leary_the_importance_of_good_conversation_and_how_to_have_it#t-2129): Quality of our conversations influences the quality of our decisions. To get honest opinion "I really want to know what you think" is not enough, have to change the context of the conversation. Technique 1: Independent deliberation (for example ask everyone to write down their recommendation) Technique 2: Devil's Advocate/Red Team
-   - [x] [Julien Treasure, How to Speak so that People Want to Listen](https://www.ted.com/talks/julian_treasure_how_to_speak_so_that_people_want_to_listen): Honesty(be clear and straight), Authenticity(be yourself), Integrity(be your word), Love(wish them well). Do not talk monotonously. Using voice toolbox. Voice exercises before speech.
-   - [x] [Julien Treasure, 5 Ways to Listen Better](https://www.ted.com/talks/julian_treasure_5_ways_to_listen_better#t-5856): We are losing our listening. Consious listening creates understanding. Exercises to improve consious listening: 1. Daily 3 minutes of silence 2. Mixer, how many channels i hear 3. Enjoying mundane sounds 4. Listening positions(active\passive, reductive\expansive, critical\emphathetic) 5. RASA (Receive, Appreciate, Summarize, Ask)
-   - [x] [Matt Abrahams, Think Fast, Talk Smart: Communication Techniques](https://www.youtube.com/watch?v=HAnw168huqA): Spontaneous speaking is stressful. Anxiety management techniques: Greet anxiety, it is a normal and natural. Reframe this is a conversation, not a performance (There is no one way to make it correct).Start with questions to include audience (even can be rhetorical). Use conversational language. Be in the present-moment, don't worry about future consequences. Might use saying a tongue twister, it will force to be in the moment and will warm up the voice. Ground rules: 1. Get ourselves out of the way (Dare to be dull, do not over-analyse) 2. See spontenous conversation as an opportunity to respond. ("yes, and" instead of "no, but") 3. Slow down and listen (instead of jumping how to respond) 4. Respond in a way structured, tell a story.Key to successful speech is structure.(Example structure: Problem or Opportunity > Solution > benefit) (Example Structure: What > So What > Now What) Structure sets us free. **[Handouts](https://nofreakingspeaking.com/)** [Summary of the speech](https://nofreakingspeaking.com/wp-content/uploads/2016/07/Be-Confident-When-Called-On-Abrahams.pdf)
-   - [x] [Caroline Goyder, The surprising secret to speaking with confidence](https://youtu.be/a2MR5XbJtXU)
-   - [ ] [Matt Abrahams, How to Make Your Communication Memorable](https://www.youtube.com/watch?v=Fsr4yrSAIAQ)
+- [ ] Misc
+    - [x] [The School of Life, The Imposter Syndrom](https://www.youtube.com/watch?v=eqhUHyVpAwE)
+    - [x] [Alan Watkins, Being Brilliant Every Single Day](https://www.youtube.com/watch?v=fRItG9G1rb4)
+    - [x] [John O'Leary, The Importance of Good Conversation and How to Have it](https://www.ted.com/talks/john_o_leary_the_importance_of_good_conversation_and_how_to_have_it#t-2129)
+    - [x] [Julien Treasure, How to Speak so that People Want to Listen](https://www.ted.com/talks/julian_treasure_how_to_speak_so_that_people_want_to_listen)
+    - [x] [Julien Treasure, 5 Ways to Listen Better](https://www.ted.com/talks/julian_treasure_5_ways_to_listen_better#t-5856)
+    - [x] [Matt Abrahams, Think Fast, Talk Smart: Communication Techniques](https://www.youtube.com/watch?v=HAnw168huqA)
+    - [x] [Caroline Goyder, The surprising secret to speaking with confidence](https://youtu.be/a2MR5XbJtXU)
+    - [ ] [Matt Abrahams, How to Make Your Communication Memorable](https://www.youtube.com/watch?v=Fsr4yrSAIAQ)
 
 ### Weekend-worth Movies
 - [x] [Doctor Zhivago, 1965](https://www.imdb.com/title/tt0059113/)
@@ -141,15 +141,15 @@ Since i listen podcasts while having a walk, it is difficult for me to enlist th
 - [x] [The Grand Budapest Hotel, 2014](https://www.imdb.com/title/tt2278388/)
 - [x] [Gone Girl, 2014](https://www.imdb.com/title/tt2267998/)
 - [x] [The Hitchhiker's Guide to the Galaxy, 2005](https://www.imdb.com/title/tt0371724/)
-- [x] [Irony of Fate or Enjoy Your Bath, 1975](https://www.imdb.com/title/tt0073179/)
+- [x] [**Irony of Fate or Enjoy Your Bath, 1975**](https://www.imdb.com/title/tt0073179/)
       https://understandrussia.com/soviet-apartments/   
       - [music: i asked the ash tree](https://www.youtube.com/watch?v=Jb3xPamP1os)
       - [music: excellent performance!](https://youtu.be/TJYG5DiauYQ)
 - [x] [The Irony of Fate 2, 2007](https://www.imdb.com/title/tt0987918/)
-- [x] [Moscow does not Believe in Tiers, 1980](https://www.imdb.com/title/tt0079579/) -  [movie](https://www.youtube.com/watch?v=NTWA_7-ld_U)  -  [music: Aleksandra](https://www.youtube.com/watch?v=wY_wTjgecf8)
+- [x] [**Moscow does not Believe in Tiers, 1980**](https://www.imdb.com/title/tt0079579/) -  [movie](https://www.youtube.com/watch?v=NTWA_7-ld_U)  -  [music: Aleksandra](https://www.youtube.com/watch?v=wY_wTjgecf8)
 - [x] [Ivan Vasilyevich Changes His Profession, 1973](https://www.imdb.com/title/tt0070233/)
 - [x] [Office Romance, 1977](https://www.imdb.com/title/tt0076727/) - [music](https://www.youtube.com/watch?v=zczb2E4zwj0)
-- [x] [Love and Doves, 1985](https://www.imdb.com/title/tt0087650/)
+- [x] [**Love and Doves, 1985**](https://www.imdb.com/title/tt0087650/)
 - [x] [High Fidelity, 2000](https://www.imdb.com/title/tt0146882/)
 - [ ] [The Diamond Arm, 1969](https://www.imdb.com/title/tt0062759/)
 - [ ] [Heart of a Dog, 1988](https://www.imdb.com/title/tt0096126/)
