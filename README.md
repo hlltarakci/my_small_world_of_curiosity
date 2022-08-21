@@ -202,7 +202,6 @@
 - [ ] [Jean Baudrillard, Simulacra and Simulation](https://www.amazon.com/Simulacra-Simulation-Body-Theory-Materialism/dp/0472065211)
 
 ## Tracking Group Hiking Activity
-- [ ] [August 2022 - South Holmwood, Coldharbour, and Leith Hill Circular](https://www.alltrails.com/trail/england/surrey/south-holmwood-coldharbour-and-leith-hill-circular)
 - [x] [August 2022 - Dover and a Seawalk to **Folkestone**](https://www.youtube.com/watch?v=EYPWkXJpBCk)
 - [x] [June 2022 - Seven Sisters coastal hike - The Chalk Cliffs of Sussex](https://www.youtube.com/watch?v=IQuccORLDxQ)
 - [x] [May 2022 - Country Walking: Cliffe & Cooling, Kent](https://www.google.com/search?q=Cliffe+Cooling+Kent&hl=tr&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiujbS119X5AhWaS0EAHeH-CwIQ_AUoAnoECAIQBA&biw=1792&bih=898&dpr=2)
