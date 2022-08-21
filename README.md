@@ -105,6 +105,7 @@
     - [ ] [Stephen Kotkin: Stalin, Putin, and the Nature of Power](https://www.youtube.com/watch?v=oCkkjnpS2f8)
     - [x] [Dan Carlin: Hardcore History](https://www.youtube.com/watch?v=-k-ztNsBM54)
     - [x] [Susan Cane: The Power of Introverts and Loneliness](https://lexfridman.com/susan-cain/)
+    - [ ] [Jordan Peterson: Life, Death, Power, Fame, and Meaning](https://lexfridman.com/jordan-peterson/)
     - [ ] [John Carmack: Doom, Quake, VR, AGI, Programming, Video Games and Rockets](https://open.spotify.com/episode/3LddnZjkpflldHXnRZ0rrw)
     - [ ] [Roger Penrose: Physics of Consiousness and Infinite Universe](https://www.youtube.com/watch?v=orMtwOz6Db0)
     - [ ] [Saagar Enjeti: Politics, History, and Power](https://www.youtube.com/watch?v=grceJbuPUXI)
