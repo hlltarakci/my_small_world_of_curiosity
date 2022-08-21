@@ -105,7 +105,7 @@
     - [ ] [Stephen Kotkin: Stalin, Putin, and the Nature of Power](https://www.youtube.com/watch?v=oCkkjnpS2f8)
     - [x] [Dan Carlin: Hardcore History](https://www.youtube.com/watch?v=-k-ztNsBM54)
     - [x] [Susan Cane: The Power of Introverts and Loneliness](https://lexfridman.com/susan-cain/)
-    - [ ] [Jordan Peterson: Life, Death, Power, Fame, and Meaning](https://lexfridman.com/jordan-peterson/)
+    - [x] [Jordan Peterson: Life, Death, Power, Fame, and Meaning](https://lexfridman.com/jordan-peterson/)
     - [ ] [John Carmack: Doom, Quake, VR, AGI, Programming, Video Games and Rockets](https://open.spotify.com/episode/3LddnZjkpflldHXnRZ0rrw)
     - [ ] [Roger Penrose: Physics of Consiousness and Infinite Universe](https://www.youtube.com/watch?v=orMtwOz6Db0)
     - [ ] [Saagar Enjeti: Politics, History, and Power](https://www.youtube.com/watch?v=grceJbuPUXI)
@@ -142,9 +142,9 @@
 - [x] [The Grand Budapest Hotel, 2014](https://www.imdb.com/title/tt2278388/)
 - [x] [Gone Girl, 2014](https://www.imdb.com/title/tt2267998/)
 - [x] [The Hitchhiker's Guide to the Galaxy, 2005](https://www.imdb.com/title/tt0371724/)
-- [x] [**Irony of Fate or Enjoy Your Bath, 1975**](https://www.imdb.com/title/tt0073179/)
-      https://understandrussia.com/soviet-apartments/   
-      - [music: i asked the ash tree](https://www.youtube.com/watch?v=Jb3xPamP1os)
+- [x] [**Irony of Fate or Enjoy Your Bath, 1975**](https://www.imdb.com/title/tt0073179/) 
+      https://understandrussia.com/soviet-apartments/
+      - [music: **i asked the ash tree**](https://www.youtube.com/watch?v=Jb3xPamP1os)
       - [music: excellent performance!](https://youtu.be/TJYG5DiauYQ)
 - [x] [The Irony of Fate 2, 2007](https://www.imdb.com/title/tt0987918/)
 - [x] [**Moscow does not Believe in Tiers, 1980**](https://www.imdb.com/title/tt0079579/) -  [movie](https://www.youtube.com/watch?v=NTWA_7-ld_U)  -  [music: Aleksandra](https://www.youtube.com/watch?v=wY_wTjgecf8)
@@ -195,10 +195,11 @@
 ### Fictional
 - [x] [Margareth Mitchel, Gone with the Wind](https://www.goodreads.com/tr/book/show/18405.Gone_with_the_Wind)
 - [x] [Alexander Pushkin, Yuzbasinin Kizi](https://www.amazon.com/Y%C3%BCzbasinin-Y%C3%BDld%C3%BDz-Aleksandr-Sergeyevic-Puskin/dp/6059199968)
-- [x] [Dino Buzzati, The Tartar Steppe](https://www.amazon.co.uk/Tartar-Steppe-Canons-Dino-Buzzati/dp/1786891646/ref=sr_1_1?crid=F794T6OUMYHM&keywords=dino+buzzati&qid=1659277026&sprefix=dino+buzzati%2Caps%2C354&sr=8-1)
+- [x] [Dino Buzzati, The Tartar Steppe](https://www.amazon.co.uk/Tartar-Steppe-Canons-Dino-Buzzati/dp/1786891646/ref=sr_1_1?crid=F794T6OUMYHM&keywords=dino+buzzati&qid=1659277026&sprefix=dino+buzzati%2Caps%2C354&sr=8-1) - *"But it's also a place almost without challenges, a life and routine that's easy to settle into but that is also deadening. And Drogo gets caught up in it. The possibility of escape -- after four months, after two years -- always seems to be there, and yet when it comes time to make a decision it's easier just to continue as before."* - This book helped me to change mindset during my first reading. This time, i could not even relate to Drogo :)
+- [ ] [Fyodor Dostoevsky, **The Idiot**](https://www.amazon.co.uk/Idiot-Penguin-Classics-Fyodor-Dostoyevsky/dp/014044792X) - first read when i was 13 :) 
 - [ ] [Isaac Asimov, Foundation Series](https://www.howtoread.me/foundation-series-books-in-order/)
-- [ ] [Boris Pasternak, Doctor Zhivago](https://www.goodreads.com/book/show/130440.Doctor_Zhivago)
 - [ ] [Artur C. Clarke, Rama Series](https://www.goodreads.com/series/49121-rama)
+- [ ] [Boris Pasternak, Doctor Zhivago](https://www.goodreads.com/book/show/130440.Doctor_Zhivago)
 - [ ] [Neal Stephenson, Snow Crash](https://www.amazon.co.uk/Snow-Crash-Neal-Stephenson/dp/0241953189)
 - [ ] [Jean Baudrillard, Simulacra and Simulation](https://www.amazon.com/Simulacra-Simulation-Body-Theory-Materialism/dp/0472065211)
 
