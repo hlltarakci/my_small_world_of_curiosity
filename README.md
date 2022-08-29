@@ -197,7 +197,7 @@
 - [x] [Margareth Mitchel, Gone with the Wind](https://www.goodreads.com/tr/book/show/18405.Gone_with_the_Wind)
 - [x] [Alexander Pushkin, Yuzbasinin Kizi](https://www.amazon.com/Y%C3%BCzbasinin-Y%C3%BDld%C3%BDz-Aleksandr-Sergeyevic-Puskin/dp/6059199968)
 - [x] [Dino Buzzati, The Tartar Steppe](https://www.amazon.co.uk/Tartar-Steppe-Canons-Dino-Buzzati/dp/1786891646/ref=sr_1_1?crid=F794T6OUMYHM&keywords=dino+buzzati&qid=1659277026&sprefix=dino+buzzati%2Caps%2C354&sr=8-1) - *"But it's also a place almost without challenges, a life and routine that's easy to settle into but that is also deadening. And Drogo gets caught up in it. The possibility of escape -- after four months, after two years -- always seems to be there, and yet when it comes time to make a decision it's easier just to continue as before."* - This book helped me to change mindset during my first reading. This time, i could not even relate to Drogo :)
-- [ ] [Fyodor Dostoevsky, **The Idiot**](https://www.amazon.co.uk/Idiot-Penguin-Classics-Fyodor-Dostoyevsky/dp/014044792X) - first read when i was 13 :) 
+- [ ] [Fyodor Dostoyevsky, **The Idiot**](https://www.amazon.co.uk/Idiot-Penguin-Classics-Fyodor-Dostoyevsky/dp/014044792X) - first read when i was 13 :) 
 - [ ] [Isaac Asimov, Foundation Series](https://www.howtoread.me/foundation-series-books-in-order/)
 - [ ] [Artur C. Clarke, Rama Series](https://www.goodreads.com/series/49121-rama)
 - [ ] [Boris Pasternak, Doctor Zhivago](https://www.goodreads.com/book/show/130440.Doctor_Zhivago)
@@ -211,4 +211,24 @@
 - [x] [May 2022 - Country Walking: Cliffe & Cooling, Kent](https://www.google.com/search?q=Cliffe+Cooling+Kent&hl=tr&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiujbS119X5AhWaS0EAHeH-CwIQ_AUoAnoECAIQBA&biw=1792&bih=898&dpr=2)
 - [x] [March 2022 - Parkland Walk/Hampstead Heath](https://www.cityoflondon.gov.uk/things-to-do/green-spaces/hampstead-heath)
 - [x] [Feb 2022 - Sevenoaks Circular Walk](https://www.alltrails.com/england/kent/sevenoaks/walking)
+
+## Daily Exercise
+- [Monday](https://www.youtube.com/watch?v=jaqciTxwDoE)
+- [Tuesday](https://www.youtube.com/watch?v=CKe6EYSzmtU)
+- [Wednesday](https://www.youtube.com/watch?v=Q1SHe5IPtk8)
+- [Thursday](https://www.youtube.com/watch?v=sQVFoWGjD4k)
+- [Saturday, *if no hiking*](https://www.youtube.com/watch?v=jaqciTxwDoE)
+- [Sunday, *if no hiking*](https://www.youtube.com/watch?v=s0CkBw5Wock)
+
+Extras: 
+- [1](https://www.youtube.com/watch?v=bMnW7bbkV6Q)
+- [2](https://www.youtube.com/watch?v=j0rgbfeRFVA)
+- [3](https://www.youtube.com/watch?v=faQ9lkjiRaM)
+- [4](https://www.youtube.com/watch?v=Qow5XgDqEdo)
+- [5](https://www.youtube.com/watch?v=rwVzamFR-tg)
+- [6](https://www.youtube.com/watch?v=inL-zRXWpkk)
+- [7](https://www.youtube.com/watch?v=lCg_gh_fppI)
+- [8](https://www.youtube.com/watch?v=h_rAyZgbSPM)
+
+
 
