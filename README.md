@@ -130,6 +130,10 @@
     - [x] [Julien Treasure, 5 Ways to Listen Better](https://www.ted.com/talks/julian_treasure_5_ways_to_listen_better#t-5856)
     - [x] [Matt Abrahams, Think Fast, Talk Smart: Communication Techniques](https://www.youtube.com/watch?v=HAnw168huqA)
     - [x] [Caroline Goyder, The surprising secret to speaking with confidence](https://youtu.be/a2MR5XbJtXU)
+    - [ ] [Talks to help practice patience](https://www.ted.com/playlists/353/talks_to_help_practice_patienc)
+         - [x] [Daniel Levitin, How to stay calm when you know you'll be stressed](https://www.ted.com/talks/daniel_levitin_how_to_stay_calm_when_you_know_you_ll_be_stressed?referrer=playlist-talks_to_help_practice_patienc&autoplay=true) - practice pre-mortem 
+         - [x] [Judson Brewer, A simple way to break a bad habit](https://www.ted.com/talks/judson_brewer_a_simple_way_to_break_a_bad_habit?referrer=playlist-talks_to_help_practice_patienc&autoplay=true) - get curious :)
+    - [x] [**How to be more patient and calm**](https://www.youtube.com/watch?v=mfmsNW7lf8c) - 1. Ask self introspective questions (ask why several times to get to the bottom) Lacking patience happen when we want to control the situation (micro manage) 2. Accept the present moment for what it is 3. Count to 10 before reacting 4. Be gentle with self 5. Zoom out, see the big picture
     - [ ] [Matt Abrahams, How to Make Your Communication Memorable](https://www.youtube.com/watch?v=Fsr4yrSAIAQ)
 
 ### Weekend-worth Movies
