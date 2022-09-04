@@ -1,4 +1,4 @@
-# Inspirational Content Tracker 2022
+# Inspirational Tracker
 ## WATCH List
 
 ### Documentary 
@@ -95,11 +95,13 @@
     - [x] [Managing in the moment: How to get comfortable with being uncomfortable](https://open.spotify.com/episode/13n9DZbpKNJ7KVFkgQ69lJ)
     - [x] [Mindset matters: How to embrace the benefits of stress](https://www.gsb.stanford.edu/insights/mindset-matters-how-embrace-benefits-stress)
     - [x] [Space, pace and grace: How to handle challenging conversations](https://open.spotify.com/episode/2gETsGVpl84n8OnyTWMDxm)
+    - [x] [Stay creative: How to keep your ideas fresh and practical](https://open.spotify.com/episode/68wsfDWOX2wnpYgc7icPyu)
 - [ ] [The School of Greatness](https://open.spotify.com/show/07GQhOZboEZOE1ysnFLipT)
     - [x] [The biggest mistakes people make in relationships - Esther Perel](https://lewishowes.com/podcast/the-biggest-mistakes-people-make-in-relationships/)
     - [x] [6 red flags to avoid in relationships & How to find real love - Esther Perel](https://lewishowes.com/podcast/the-biggest-mistakes-people-make-in-relationships/)
     - [x] [Use this simple trick to heal and deepen your relationships - Esther Perel](https://lewishowes.com/podcast/esther-perel-use-this-simple-trick-to-heal-deepen-your-relationships/)
     - [x] [3 ways to beat proctastination & master self-discipline](https://open.spotify.com/episode/1VOX8BgFA88d29QHvbzArF)
+    - [x] [Why most relationships fail and how to find a high value partner - Faith Jenkins](https://open.spotify.com/episode/4wqSRSNqWHi3EUZjuLsotQ) - fear of the unknown
     - [ ] [Improving the quality of your relationships and of your life - Esther Perel](https://lewishowes.com/podcast/esther-perel-the-quality-of-your-relationships-determines-the-quality-of-your-life/)
     - [x] [**Jay Shetty:The 3 KEY SIGNS That Relationship Will Last**](https://www.youtube.com/watch?v=EDN9UAyPEZ0)
 - [ ] [Lex Fridman](https://lexfridman.com)
@@ -127,6 +129,7 @@
     - [x] [Steven Pinker: Why rationality matters](https://open.spotify.com/episode/3YKIjNz8dmOH2wSmh1G0nu)
 - [ ] [On Purpose with Jay Sheety](https://open.spotify.com/show/5EqqB52m2bsr4k1Ii7sStc)
     - [x] [Yuval Noah Harari: ON Why boredom is good for you?](https://open.spotify.com/episode/3nbM3L6dvpEyGh8CntLxq7)
+    - [x] [10 ways to get things done even when you don't feel like it](https://open.spotify.com/episode/6LclXUvI81oSU6oKkX3uqk)
 - [ ] Misc
     - [x] [The School of Life, The Imposter Syndrom](https://www.youtube.com/watch?v=eqhUHyVpAwE)
     - [x] [Alan Watkins, Being Brilliant Every Single Day](https://www.youtube.com/watch?v=fRItG9G1rb4)
@@ -244,6 +247,3 @@ Extras:
 # Bookmarks
 - [Archive to deep dive](https://archive.org/)
 - [Library genesis](https://libgen.li/)
-
-
-
