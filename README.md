@@ -99,6 +99,7 @@
     - [x] [The biggest mistakes people make in relationships - Esther Perel](https://lewishowes.com/podcast/the-biggest-mistakes-people-make-in-relationships/)
     - [x] [6 red flags to avoid in relationships & How to find real love - Esther Perel](https://lewishowes.com/podcast/the-biggest-mistakes-people-make-in-relationships/)
     - [x] [Use this simple trick to heal and deepen your relationships - Esther Perel](https://lewishowes.com/podcast/esther-perel-use-this-simple-trick-to-heal-deepen-your-relationships/)
+    - [x] [3 ways to beat proctastination & master self-discipline](https://open.spotify.com/episode/1VOX8BgFA88d29QHvbzArF)
     - [ ] [Improving the quality of your relationships and of your life - Esther Perel](https://lewishowes.com/podcast/esther-perel-the-quality-of-your-relationships-determines-the-quality-of-your-life/)
     - [x] [**Jay Shetty:The 3 KEY SIGNS That Relationship Will Last**](https://www.youtube.com/watch?v=EDN9UAyPEZ0)
 - [ ] [Lex Fridman](https://lexfridman.com)
@@ -161,6 +162,7 @@
 - [x] [**Love and Doves, 1985**](https://www.imdb.com/title/tt0087650/)
 - [x] [High Fidelity, 2000](https://www.imdb.com/title/tt0146882/)
 - [ ] [Chernobyl, 2019](https://www.imdb.com/title/tt7366338/)
+- [ ] [Love, Death & Robots, 2019](https://www.imdb.com/title/tt9561862/)
 - [ ] [The Diamond Arm, 1969](https://www.imdb.com/title/tt0062759/)
 - [ ] [Heart of a Dog, 1988](https://www.imdb.com/title/tt0096126/)
 - [ ] [Inglourious Basterds, 2009](https://www.imdb.com/title/tt0361748/)
@@ -237,6 +239,11 @@ Extras:
 - [6](https://www.youtube.com/watch?v=inL-zRXWpkk)
 - [7](https://www.youtube.com/watch?v=lCg_gh_fppI)
 - [8](https://www.youtube.com/watch?v=h_rAyZgbSPM)
+
+
+# Bookmarks
+- [Archive to deep dive](https://archive.org/)
+- [Library genesis](https://libgen.li/)
 
 
 
