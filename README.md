@@ -70,6 +70,7 @@
 - [x] [Challenger: The Final Flight, 2020](https://www.netflix.com/nl-en/title/81012137)
 - [x] [Anadolu'nun Gözleri: Kapadokya, TRT Belgesel](https://www.youtube.com/watch?v=o6wSitX7XFE)
 - [x] [Google, Facebook, Amazon - The rise of the mega-corporations](https://youtu.be/Dy8ogOaKk4Y)
+- [x] [**Deep Time History, Curiosity Stream**](https://www.imdb.com/title/tt6052190/) - quite similar in context to Harari's Sapiens. Linking ideas, providing a general structure why things happened the way they did fascinates me. And this is a transferable thought experiment skill.
 - [ ] [Gagarin: First in space](https://www.imdb.com/title/tt2856930/)
 - [ ] [Turkey with Simon Reeve, 2017](https://www.imdb.com/title/tt6682290/)
 - [ ] [A Traveler's Guide to the Planets, 2010](https://www.imdb.com/title/tt1616205/)
@@ -194,7 +195,7 @@
 - [x] [Yuval Noah Harari, **Sapiens: A Brief History of Humankind**](https://www.amazon.co.uk/Sapiens-Humankind-Yuval-Noah-Harari/dp/0099590085/ref=asc_df_0099590085/?tag=googshopuk-21&linkCode=df0&hvadid=311043780415&hvpos=&hvnetw=g&hvrand=17799006797936034443&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1006886&hvtargid=pla-394582189174&psc=1&th=1&psc=1)
 - [ ] [Yuval Noah Harari, Homo Deus: A Brief History of Tomorrow](https://www.amazon.co.uk/Homo-Deus-Brief-History-Tomorrow/dp/1784703931/ref=pd_bxgy_img_sccl_1/259-9606393-1929032?pd_rd_w=9VLPx&content-id=amzn1.sym.79b812bf-5c8b-4c0c-851c-784423adaff5&pf_rd_p=79b812bf-5c8b-4c0c-851c-784423adaff5&pf_rd_r=80EAMZP0RAYXB16RVQ81&pd_rd_wg=jMR7R&pd_rd_r=230cbc0f-021e-40e0-b17b-381abfa99a4a&pd_rd_i=1784703931&psc=1)
 - [ ] [Yuval Noah Harari, 21 Lessons for the 21st Century](https://www.amazon.co.uk/Lessons-21st-Century-Yuval-Harari/dp/1784708283/ref=pd_bxgy_img_sccl_2/259-9606393-1929032?pd_rd_w=9VLPx&content-id=amzn1.sym.79b812bf-5c8b-4c0c-851c-784423adaff5&pf_rd_p=79b812bf-5c8b-4c0c-851c-784423adaff5&pf_rd_r=80EAMZP0RAYXB16RVQ81&pd_rd_wg=jMR7R&pd_rd_r=230cbc0f-021e-40e0-b17b-381abfa99a4a&pd_rd_i=1784708283&psc=1)
-- [ ] [Leil Lowndes, How to Talk to Anyone: 92 Little Tricks for Big Success in Relationships](https://www.amazon.co.uk/How-Talk-Anyone-Success-Relationships-ebook/dp/B00BAJ2MYM/ref=sr_1_1?keywords=How+to+talk+to+anyone&qid=1659384293&s=digital-text&sr=1-1)
+- [x] [**Leil Lowndes, How to Talk to Anyone: 92 Little Tricks for Big Success in Relationships**](https://www.amazon.co.uk/How-Talk-Anyone-Success-Relationships-ebook/dp/B00BAJ2MYM/ref=sr_1_1?keywords=How+to+talk+to+anyone&qid=1659384293&s=digital-text&sr=1-1) - unexpectedly useful advice! i should read this twice a year to calibrate myself.
 - [ ] [Bertrand Russell, A History of Western Philosophy](https://www.amazon.com/History-Western-Philosophy-Bertrand-Russell/dp/0671201581/ref=sr_1_1?ie=UTF8&qid=1490204564&sr=8-1&keywords=bertrand%20russell)
 - [ ] [Gary Allman, Small Talk: An Introvert's Guide to Small Talk](https://www.amazon.co.uk/Small-Talk-Introverts-Instantly-relationship-ebook/dp/B01IKPQ7AI)
 - [ ] [Yuval Noah Harari, Homo Deus: A Brief History of Tomorrow](https://www.amazon.com/Homo-Deus-Brief-History-Tomorrow/dp/0062464310)
