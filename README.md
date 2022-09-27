@@ -220,6 +220,7 @@
 - [ ] [Jean Baudrillard, Simulacra and Simulation](https://www.amazon.com/Simulacra-Simulation-Body-Theory-Materialism/dp/0472065211)
 
 ## Tracking Group Hiking & Sightseeing Activity
+- [x] [September 2022 - Alaxandra Palace, Highgate Wood, Parkland Walk, Finsbury Park](https://www.alltrails.com/en-gb/trail/england/london/parkland-walk)
 - [x] [August 2022 - Windsor Castle](https://www.windsor.gov.uk/things-to-do/windsor-castle-p43983) - [**Stonehenge**](https://www.english-heritage.org.uk/visit/places/stonehenge/) - [Oxford](https://oxfordcity.co.uk)
 - [x] [August 2022 - Dover and a Seawalk to **Folkestone**](https://www.youtube.com/watch?v=EYPWkXJpBCk)
 - [x] [June 2022 - Seven Sisters coastal hike - The Chalk Cliffs of Sussex](https://www.youtube.com/watch?v=IQuccORLDxQ)
