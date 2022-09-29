@@ -71,6 +71,7 @@
 - [x] [Anadolu'nun Gözleri: Kapadokya, TRT Belgesel](https://www.youtube.com/watch?v=o6wSitX7XFE)
 - [x] [Google, Facebook, Amazon - The rise of the mega-corporations](https://youtu.be/Dy8ogOaKk4Y)
 - [x] [**Deep Time History, Curiosity Stream**](https://www.imdb.com/title/tt6052190/) - quite similar in context to Harari's Sapiens. Linking ideas, providing a general structure why things happened the way they did fascinates me. And this is a transferable thought experiment skill.
+- [ ] [Amazon Empire: The Rise and Reign of Jeff Bezos](https://www.youtube.com/watch?v=RVVfJVj5z8s)
 - [ ] [Gagarin: First in space](https://www.imdb.com/title/tt2856930/)
 - [ ] [Turkey with Simon Reeve, 2017](https://www.imdb.com/title/tt6682290/)
 - [ ] [A Traveler's Guide to the Planets, 2010](https://www.imdb.com/title/tt1616205/)
@@ -207,6 +208,8 @@
 - [ ] [Jay Sullivan, Simply Said: Communicating Better at Work and Beyond](https://www.goodreads.com/book/show/33232697-simply-said)
 - [ ] [Shelle Rose Charvet, Words That Change Minds: The 14 Patterns for Mastering the Language of Influence](https://www.goodreads.com/book/show/44583310-words-that-change-minds) 
 - [ ] [Frank Luntz, Words That Work: It's Not What You Say, It's What People Hear](https://www.goodreads.com/book/show/95884.Words_That_Work)
+- [ ] [Stuart Hall, The West and the Rest](https://www.goodreads.com/book/show/49335774-the-west-and-the-rest)
+- [ ] [Samuel P. Huntington, The Clash Of Civilizations: And The Remaking Of World Order](https://www.amazon.co.uk/Clash-Civilizations-Remaking-World-Order/dp/074323149X/ref=asc_df_074323149X/?tag=googshopuk-21&linkCode=df0&hvadid=310785600414&hvpos=&hvnetw=g&hvrand=10883824420922730780&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9045997&hvtargid=pla-525415252688&psc=1)
 
 ### Fictional
 - [x] [Margareth Mitchel, Gone with the Wind](https://www.goodreads.com/tr/book/show/18405.Gone_with_the_Wind)
