@@ -235,6 +235,9 @@
 - [x] [March 2022 - Parkland Walk/Hampstead Heath](https://www.cityoflondon.gov.uk/things-to-do/green-spaces/hampstead-heath)
 - [x] [Feb 2022 - Sevenoaks Circular Walk](https://www.alltrails.com/england/kent/sevenoaks/walking)
 
+## Drawing
+- [ ] [Udemy, The Ultimate Drawing Course - Beginner to Advanced](https://www.udemy.com/course/the-ultimate-drawing-course-beginner-to-advanced/)
+
 ## Daily Exercise
 - [Monday](https://www.youtube.com/watch?v=jaqciTxwDoE)
 - [Tuesday](https://www.youtube.com/watch?v=CKe6EYSzmtU)
