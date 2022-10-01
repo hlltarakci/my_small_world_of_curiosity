@@ -132,6 +132,9 @@
 - [ ] [On Purpose with Jay Sheety](https://open.spotify.com/show/5EqqB52m2bsr4k1Ii7sStc)
     - [x] [Yuval Noah Harari: ON Why boredom is good for you?](https://open.spotify.com/episode/3nbM3L6dvpEyGh8CntLxq7)
     - [x] [10 ways to get things done even when you don't feel like it](https://open.spotify.com/episode/6LclXUvI81oSU6oKkX3uqk)
+    - [x] [Neha Kumar: ON Building resilience to negativity and how to make your passions practical](https://open.spotify.com/episode/6XSNyUF7iUpeEGoqRXTwR7)
+- [ ] [The TED Interview](https://open.spotify.com/show/4sa3vB3wUxMwAEKuf3dSwo)
+    - [x] [Angela Duckworth: How to turn grit into a lifelong habit](https://open.spotify.com/episode/4wWODibLGYBI3b9ug58AVI)
 - [ ] Misc
     - [x] [The School of Life, The Imposter Syndrom](https://www.youtube.com/watch?v=eqhUHyVpAwE)
     - [x] [Alan Watkins, Being Brilliant Every Single Day](https://www.youtube.com/watch?v=fRItG9G1rb4)
