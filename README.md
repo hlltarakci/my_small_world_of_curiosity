@@ -244,7 +244,7 @@
 - [Wednesday](https://www.youtube.com/watch?v=Q1SHe5IPtk8)
 - [Thursday](https://www.youtube.com/watch?v=sQVFoWGjD4k)
 - [Saturday, *if no hiking*](https://www.youtube.com/watch?v=jaqciTxwDoE)
-- [Sunday, *if no hiking*](https://www.youtube.com/watch?v=s0CkBw5Wock)
+- [Sunday, *if no hiking*](https://www.youtube.com/watch?v=_CDbPNZx5Ao)
 
 Extras: 
 - [1](https://www.youtube.com/watch?v=bMnW7bbkV6Q)
@@ -255,6 +255,7 @@ Extras:
 - [6](https://www.youtube.com/watch?v=inL-zRXWpkk)
 - [7](https://www.youtube.com/watch?v=lCg_gh_fppI)
 - [8](https://www.youtube.com/watch?v=h_rAyZgbSPM)
+- [9](https://www.youtube.com/watch?v=s0CkBw5Wock)
 
 
 # Bookmarks
