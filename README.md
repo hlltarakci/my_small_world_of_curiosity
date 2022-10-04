@@ -202,7 +202,7 @@
 - [x] [**Leil Lowndes, How to Talk to Anyone: 92 Little Tricks for Big Success in Relationships**](https://www.amazon.co.uk/How-Talk-Anyone-Success-Relationships-ebook/dp/B00BAJ2MYM/ref=sr_1_1?keywords=How+to+talk+to+anyone&qid=1659384293&s=digital-text&sr=1-1) - unexpectedly useful advice! i should read this twice a year to calibrate myself.
 - [ ] [Bertrand Russell, A History of Western Philosophy](https://www.amazon.com/History-Western-Philosophy-Bertrand-Russell/dp/0671201581/ref=sr_1_1?ie=UTF8&qid=1490204564&sr=8-1&keywords=bertrand%20russell)
 - [ ] [Gary Allman, Small Talk: An Introvert's Guide to Small Talk](https://www.amazon.co.uk/Small-Talk-Introverts-Instantly-relationship-ebook/dp/B01IKPQ7AI)
-- [ ] [Yuval Noah Harari, Homo Deus: A Brief History of Tomorrow](https://www.amazon.com/Homo-Deus-Brief-History-Tomorrow/dp/0062464310)
+- [ ] [Chris Voss, Never Split the Difference; Negotiating as if your life depended on it](https://www.amazon.co.uk/Never-Split-Difference-Negotiating-Depended/dp/0062407805)
 - [ ] [Caroline Goyder, Gravitas: Communicate with Confidence, Influence and Authority](https://www.goodreads.com/book/show/18685594-gravitas)
 - [ ] [Annie Duke, How to Decide: Simple Tools for Making Better Choices](https://www.amazon.com/How-Decide-Simple-Making-Choices-ebook/dp/B07TRJB3S3)
 - [ ] [Kelly McGonigal, The Willpower Instinct: How Self-Control Works, Why It Matters, And What You Can Do To Get More Of It](https://www.amazon.co.uk/Willpower-Instinct-Kelly-McGonigal/dp/1583335080)
