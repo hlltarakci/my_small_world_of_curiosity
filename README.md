@@ -71,7 +71,9 @@
 - [x] [Anadolu'nun Gözleri: Kapadokya, TRT Belgesel](https://www.youtube.com/watch?v=o6wSitX7XFE)
 - [x] [Google, Facebook, Amazon - The rise of the mega-corporations](https://youtu.be/Dy8ogOaKk4Y)
 - [x] [The Origins of Machu Picchu](https://www.youtube.com/watch?v=JMAKRKkdOlw)
-- [ ] [The Architecture of Machu Picchu](https://www.youtube.com/watch?v=31SFLloQ-hU&t=0s)
+- [x] [The Architecture of Machu Picchu](https://www.youtube.com/watch?v=31SFLloQ-hU&t=0s)
+- [ ] [Bhutan: The dictatorship of happiness?](https://www.youtube.com/watch?v=asPF9EPb9kk)
+- [ ] [Crossing Bhutan, 2016](https://www.imdb.com/title/tt2335096/)
 - [ ] [The Great Way, Curiosity Stream, 2021](https://www.imdb.com/title/tt13927026/)
 - [ ] [Icemen: 200 years in Antartica, Curiosity Stream, 2020](https://www.imdb.com/title/tt12794548/)
 - [ ] [Amazon Empire: The Rise and Reign of Jeff Bezos](https://www.youtube.com/watch?v=RVVfJVj5z8s)
@@ -85,6 +87,7 @@
   - [x] [**Deep Time History, Curiosity Stream**](https://www.imdb.com/title/tt6052190/) - quite similar in context to Harari's Sapiens. Linking ideas, providing a general structure why things happened the way they did fascinates me. And this is a transferable thought experiment skill.
   - [ ] [Magical Andes, 2019](https://www.imdb.com/title/tt11229002/)
   - [ ] [Moving Art, 2014](https://www.imdb.com/title/tt6953912/)
+  - [ ] [World's Most Dangerous Roads, 2011](https://www.imdb.com/title/tt2078521/)
   - [ ] [Bad Sport, 2021](https://www.netflix.com/gb/title/81084829)  
   - [ ] [Impossible Engineering, 2015](https://yesterday.uktv.co.uk/shows/impossible-engineering/)
   - [ ] [Abandoned Engineering, 2016](https://yesterday.uktv.co.uk/shows/abandoned-engineering/)
