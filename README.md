@@ -88,7 +88,7 @@
 - [ ] **Documentary Series**
   - [x] [Turning Point 9/11, 2021](https://www.netflix.com/gb/title/81315804)
   - [x] [**Deep Time History, Curiosity Stream**](https://www.imdb.com/title/tt6052190/) - quite similar in context to Harari's Sapiens. Linking ideas, providing a general structure why things happened the way they did fascinates me. And this is a transferable thought experiment skill.
-  - [ ] [Magical Andes, 2019](https://www.imdb.com/title/tt11229002/)
+  - [ ] [**Magical Andes**, 2019](https://www.imdb.com/title/tt11229002/) - Episode 1:  *"Choosing where you want to live is about making the decision of where you want to be happy. Otherwise, we are just staying alive, not living."* 
   - [ ] [Moving Art, 2014](https://www.imdb.com/title/tt6953912/)
   - [ ] [World's Most Dangerous Roads, 2011](https://www.imdb.com/title/tt2078521/)
   - [ ] [Bad Sport, 2021](https://www.netflix.com/gb/title/81084829)  
