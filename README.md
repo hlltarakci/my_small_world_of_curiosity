@@ -1,11 +1,21 @@
 # Personal Curiosity Tracker
 
+- [WATCH List](#watch_list)
+   - [Documentary](#documentary)
+   - [Movie](#movie)
+- [LISTEN List](#listen_list)
+- [READ List](#read_list)
+   - [Non-fictional](#nonfictional)
+   - [Fictional](#fictional)
+- [DO List](#do_list)
+   - [Group Hiking](#group_hiking)
+   - [Exercise](#exercise)
 
-## WATCH List
+# WATCH List <a name="watch_list"></a>
 
-### Documentary 
+## Documentary <a name="documentary"></a>
 
-#### WW1 (1914-1918), WW2 (1939-1945), Cold War (1947-1991), History and lifestyle of USSR (1922-1991)
+### WW1 (1914-1918), WW2 (1939-1945), Cold War (1947-1991), History and lifestyle of USSR (1922-1991)
 - [x] [The Last Days of the USSR, Curiosity Stream](https://curiositystream.com/video/4723?utm_campaign=D-PerformanceMax-ROW&utm_medium=display&utm_source=google&utm_placement=&utm_content=&gclid=EAIaIQobChMI9YqEwMbV9gIVxJrVCh1rfAACEAAYASAAEgIww_D_BwE)
 - [x] [The Breakup of the Soviet Union Explained](https://youtu.be/t2GmtBCVHzY)
 - [x] [The Entire History of the Cold War Explained | Best Cold War Documentary](https://www.youtube.com/watch?v=XDrykOhrb5s) - provides complete overview of events, helping to see their relation and chronology, difficult to digest
@@ -30,7 +40,7 @@
    - [x] [Greatest Events of WW2 in Color](https://www.netflix.com/nl-en/title/80989924) 
    - [ ] [WW2 in color - Road to Victory, 2021](https://www.netflix.com/gb/title/81488464)
 
-#### Russia-Ukraine Crisis, History
+### Russia-Ukraine Crisis
 - [x] [A History of Eastern Europe: Ukraine-Russia Crisis](https://www.youtube.com/watch?v=l1WL2VJOn2A)
 - [x] [The Origins of Russia - Summary on a map](https://youtu.be/qUgzqkCW6A4)
 - [x] [Why Russia is Invading Ukraine](https://youtu.be/If61baWF4GE)
@@ -49,7 +59,7 @@
 - [ ] [Winter on Fire: Ukraine's Fight for Freedom](https://www.imdb.com/title/tt4908644/)
 
 
-#### History of Turkey
+### History of Turkey
 - [x] [Gallipoli 1915, Curiosity Stream](https://curiositystream.com/video/4085?collectionId=140)
 - [x] [Why Turkey is turning Istanbul into an island?](https://youtu.be/F6I7eHVXh2A) - rationale for Kanal Istanbul project - pros and cons
 - [x] [Why was Turkey neutral in WW2?](https://youtu.be/apwmP2g_D7k)
@@ -67,7 +77,7 @@
    - [ ] [Ozalli Yillar](https://www.youtube.com/watch?v=arGodO-a1sE)
    - [ ] [28 Subat](https://www.youtube.com/watch?v=arGodO-a1sE)
 
-#### Nature, Space, Tech and misc
+### Nature, Space, Tech and misc
 - [x] [Hidden Russia, Curiosity Stream](https://curiositystream.com/video/3655)
 - [x] [Challenger: The Final Flight, 2020](https://www.netflix.com/nl-en/title/81012137)
 - [x] [Anadolu'nun Gözleri: Kapadokya, TRT Belgesel](https://www.youtube.com/watch?v=o6wSitX7XFE)
@@ -100,7 +110,49 @@
   - [ ] [What Went Wrong, Curiosity Stream](https://curiositystream.com/video/4054)
   - [ ] [Curious Minds: Space, 2015](https://www.imdb.com/title/tt6951516/)
 
-### Podcast
+## Movie <a name="movie"></a>
+- [x] [Doctor Zhivago, 1965](https://www.imdb.com/title/tt0059113/)
+- [x] [Last Night, 1998](https://www.imdb.com/title/tt0156729/)
+- [x] [Before Sunrise, 1995](https://www.imdb.com/title/tt0112471/)
+- [x] [Before Sunset, 2004](https://www.imdb.com/title/tt0381681/)
+- [x] [Casablanca, 1942](https://www.imdb.com/title/tt0034583/)
+- [x] [Zorba, 1964](https://www.imdb.com/title/tt0057831/)
+- [x] [The Grand Budapest Hotel, 2014](https://www.imdb.com/title/tt2278388/)
+- [x] [Gone Girl, 2014](https://www.imdb.com/title/tt2267998/)
+- [x] [The Hitchhiker's Guide to the Galaxy, 2005](https://www.imdb.com/title/tt0371724/)
+- [x] [**Irony of Fate or Enjoy Your Bath, 1975**](https://www.imdb.com/title/tt0073179/) 
+      https://understandrussia.com/soviet-apartments/
+      - [music: **i asked the ash tree**](https://www.youtube.com/watch?v=Jb3xPamP1os)
+      - [music: excellent performance!](https://youtu.be/TJYG5DiauYQ)
+- [x] [The Irony of Fate 2, 2007](https://www.imdb.com/title/tt0987918/)
+- [x] [**Moscow does not Believe in Tiers, 1980**](https://www.imdb.com/title/tt0079579/) -  [movie](https://www.youtube.com/watch?v=NTWA_7-ld_U)  -  [music: Aleksandra](https://www.youtube.com/watch?v=wY_wTjgecf8)
+- [x] [Ivan Vasilyevich Changes His Profession, 1973](https://www.imdb.com/title/tt0070233/)
+- [x] [Office Romance, 1977](https://www.imdb.com/title/tt0076727/) - [music](https://www.youtube.com/watch?v=zczb2E4zwj0)
+- [x] [**Love and Doves, 1985**](https://www.imdb.com/title/tt0087650/)
+- [x] [High Fidelity, 2000](https://www.imdb.com/title/tt0146882/)
+- [ ] [Chernobyl, 2019](https://www.imdb.com/title/tt7366338/)
+- [ ] [Love, Death & Robots, 2019](https://www.imdb.com/title/tt9561862/)
+- [ ] [The Diamond Arm, 1969](https://www.imdb.com/title/tt0062759/)
+- [ ] [Heart of a Dog, 1988](https://www.imdb.com/title/tt0096126/)
+- [ ] [Inglourious Basterds, 2009](https://www.imdb.com/title/tt0361748/)
+- [ ] [Requiem for a Dream, 2000](https://www.imdb.com/title/tt0180093/)
+- [ ] [Cingeneler Zamani, 1988](https://www.imdb.com/title/tt0097223/)
+- [ ] [Andrei Tarkovsky](http://thecinemaarchives.com/2019/04/23/the-8th-best-director-of-all-time-andrei-tarkovsky/)
+     - [ ] [Solaris, 1972](https://www.imdb.com/title/tt0069293/)
+     - [ ] [The Mirror, 1975](https://www.imdb.com/title/tt0072443/)
+     - [ ] [The Sacrifice, 1986](https://www.imdb.com/title/tt0091670/)
+     - [ ] [Andrei Rublev, 1966](https://www.imdb.com/title/tt0060107/)
+     - [ ] [Nostalghia, 1983](https://www.imdb.com/title/tt0086022/)
+     - [ ] [Stalker, 1979](https://www.imdb.com/title/tt0079944/)
+     - [ ] [Ivan's Childhood, 1960](https://www.imdb.com/title/tt0056111/)
+- [ ] [War and Peace, 1965](https://www.imdb.com/title/tt0063794/)
+- [ ] [12 Angry Man, 1957](https://www.imdb.com/title/tt0050083/)
+- [ ] [One Flew Over the Cuckoo's Nest, 1975 ](https://www.imdb.com/title/tt0073486/)
+- [ ] [The Grapes of Wrath, 1940](https://www.imdb.com/title/tt0032551/)
+- [ ] [The Shop around the Corner, 1940](https://www.imdb.com/title/tt0033045/)
+- [ ] [It's a Wonderful Life, 1946](https://www.imdb.com/title/tt0038650/)
+
+# LISTEN List (Podcast)<a name="listen_list"></a>
 - [x] [Kendine Iyi Davran](https://open.spotify.com/show/1OsUxSME9IyoE1ZyDpRLxc)
 - [ ] [Think Fast, Talk Smart](https://open.spotify.com/show/6ll0MwobDt1JW9gYaOONEo): 
     - [X] Asking better questions lead to better results (Ask "What was important to you about this?" instead of "How it went?").
@@ -163,50 +215,8 @@
     - [x] [**How to be more patient and calm**](https://www.youtube.com/watch?v=mfmsNW7lf8c) - 1. Ask self introspective questions (ask why several times to get to the bottom) Lacking patience happen when we want to control the situation (micro manage) 2. Accept the present moment for what it is 3. Count to 10 before reacting 4. Be gentle with self 5. Zoom out, see the big picture
     - [ ] [Matt Abrahams, How to Make Your Communication Memorable](https://www.youtube.com/watch?v=Fsr4yrSAIAQ)
 
-### Weekend-worth Movies
-- [x] [Doctor Zhivago, 1965](https://www.imdb.com/title/tt0059113/)
-- [x] [Last Night, 1998](https://www.imdb.com/title/tt0156729/)
-- [x] [Before Sunrise, 1995](https://www.imdb.com/title/tt0112471/)
-- [x] [Before Sunset, 2004](https://www.imdb.com/title/tt0381681/)
-- [x] [Casablanca, 1942](https://www.imdb.com/title/tt0034583/)
-- [x] [Zorba, 1964](https://www.imdb.com/title/tt0057831/)
-- [x] [The Grand Budapest Hotel, 2014](https://www.imdb.com/title/tt2278388/)
-- [x] [Gone Girl, 2014](https://www.imdb.com/title/tt2267998/)
-- [x] [The Hitchhiker's Guide to the Galaxy, 2005](https://www.imdb.com/title/tt0371724/)
-- [x] [**Irony of Fate or Enjoy Your Bath, 1975**](https://www.imdb.com/title/tt0073179/) 
-      https://understandrussia.com/soviet-apartments/
-      - [music: **i asked the ash tree**](https://www.youtube.com/watch?v=Jb3xPamP1os)
-      - [music: excellent performance!](https://youtu.be/TJYG5DiauYQ)
-- [x] [The Irony of Fate 2, 2007](https://www.imdb.com/title/tt0987918/)
-- [x] [**Moscow does not Believe in Tiers, 1980**](https://www.imdb.com/title/tt0079579/) -  [movie](https://www.youtube.com/watch?v=NTWA_7-ld_U)  -  [music: Aleksandra](https://www.youtube.com/watch?v=wY_wTjgecf8)
-- [x] [Ivan Vasilyevich Changes His Profession, 1973](https://www.imdb.com/title/tt0070233/)
-- [x] [Office Romance, 1977](https://www.imdb.com/title/tt0076727/) - [music](https://www.youtube.com/watch?v=zczb2E4zwj0)
-- [x] [**Love and Doves, 1985**](https://www.imdb.com/title/tt0087650/)
-- [x] [High Fidelity, 2000](https://www.imdb.com/title/tt0146882/)
-- [ ] [Chernobyl, 2019](https://www.imdb.com/title/tt7366338/)
-- [ ] [Love, Death & Robots, 2019](https://www.imdb.com/title/tt9561862/)
-- [ ] [The Diamond Arm, 1969](https://www.imdb.com/title/tt0062759/)
-- [ ] [Heart of a Dog, 1988](https://www.imdb.com/title/tt0096126/)
-- [ ] [Inglourious Basterds, 2009](https://www.imdb.com/title/tt0361748/)
-- [ ] [Requiem for a Dream, 2000](https://www.imdb.com/title/tt0180093/)
-- [ ] [Cingeneler Zamani, 1988](https://www.imdb.com/title/tt0097223/)
-- [ ] [Andrei Tarkovsky](http://thecinemaarchives.com/2019/04/23/the-8th-best-director-of-all-time-andrei-tarkovsky/)
-     - [ ] [Solaris, 1972](https://www.imdb.com/title/tt0069293/)
-     - [ ] [The Mirror, 1975](https://www.imdb.com/title/tt0072443/)
-     - [ ] [The Sacrifice, 1986](https://www.imdb.com/title/tt0091670/)
-     - [ ] [Andrei Rublev, 1966](https://www.imdb.com/title/tt0060107/)
-     - [ ] [Nostalghia, 1983](https://www.imdb.com/title/tt0086022/)
-     - [ ] [Stalker, 1979](https://www.imdb.com/title/tt0079944/)
-     - [ ] [Ivan's Childhood, 1960](https://www.imdb.com/title/tt0056111/)
-- [ ] [War and Peace, 1965](https://www.imdb.com/title/tt0063794/)
-- [ ] [12 Angry Man, 1957](https://www.imdb.com/title/tt0050083/)
-- [ ] [One Flew Over the Cuckoo's Nest, 1975 ](https://www.imdb.com/title/tt0073486/)
-- [ ] [The Grapes of Wrath, 1940](https://www.imdb.com/title/tt0032551/)
-- [ ] [The Shop around the Corner, 1940](https://www.imdb.com/title/tt0033045/)
-- [ ] [It's a Wonderful Life, 1946](https://www.imdb.com/title/tt0038650/)
-
-## READ List
-### Non-fictional
+# READ List <a name="read_list"></a>
+## Non-fictional <a name="nonfictional"></a>
 - [X] [Titus Winters, Software Engineering at Google: Lessons Learned from Programming Over Time](https://www.goodreads.com/book/show/48816586-software-engineering-at-google) also available as [audiobook](https://www.audible.co.uk/pd/Software-Engineering-at-Google-Audiobook/B08VKV55RV?source_code=M2M14DFT1BkSH082015011R&&ipRedirectOverride=true&gclid=Cj0KCQiAt8WOBhDbARIsANQLp961t7agEDI-ZHk7zEHuLLzISIqlKfJ3hqnRRqT23q_tvq24gEACw7oaAnw8EALw_wcB&gclsrc=aw.ds) - read most of it, left some chapters for reference reading later
 - [x] [Damon Zahariades, How to Make Better Decisions: 14 Smart Tactics for Curbing Your Biases, Managing Your Emotions, And Making Fearless Decisions in Every Area of Your Life](https://www.amazon.co.uk/How-Make-Better-Decisions-Managing/dp/B099MYXDZS/ref=asc_df_B099MYXDZS/?tag=googshopuk-21&linkCode=df0&hvadid=534858257189&hvpos=&hvnetw=g&hvrand=10456481345269730858&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9045958&hvtargid=pla-1393184627689&psc=1&th=1&psc=1) - my very first kindle book :)
 - [x] [Kevin Horsley, Unlimited Memory: How to Use Advanced Learning Strategies to Learn Faster, Remember More and be More Productive](https://www.amazon.co.uk/Unlimited-Memory-Advanced-Strategies-Productive-ebook/dp/B00I3QS1XQ/ref=sr_1_1?crid=31HBFYQ46V6YO&keywords=unlimited+memory&qid=1659276690&s=digital-text&sprefix=unlimited+memory%2Cdigital-text%2C242&sr=1-1)
@@ -229,7 +239,7 @@
 - [ ] [Samuel P. Huntington, The Clash Of Civilizations: And The Remaking Of World Order](https://www.amazon.co.uk/Clash-Civilizations-Remaking-World-Order/dp/074323149X/ref=asc_df_074323149X/?tag=googshopuk-21&linkCode=df0&hvadid=310785600414&hvpos=&hvnetw=g&hvrand=10883824420922730780&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9045997&hvtargid=pla-525415252688&psc=1)
 - [ ] [Niccolò Machiavelli, The Prince](https://www.amazon.co.uk/Prince-Penguin-Classics-Niccolo-Machiavelli/dp/0140449159/ref=asc_df_0140449159/?tag=googshopuk-21&linkCode=df0&hvadid=310805555931&hvpos=&hvnetw=g&hvrand=9119212229547482045&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9045903&hvtargid=pla-488133096639&psc=1&th=1&psc=1)
 
-### Fictional
+## Fictional <a name="fictional"></a>
 - [x] [Margareth Mitchel, Gone with the Wind](https://www.goodreads.com/tr/book/show/18405.Gone_with_the_Wind)
 - [x] [Alexander Pushkin, Yuzbasinin Kizi](https://www.amazon.com/Y%C3%BCzbasinin-Y%C3%BDld%C3%BDz-Aleksandr-Sergeyevic-Puskin/dp/6059199968)
 - [x] [Dino Buzzati, The Tartar Steppe](https://www.amazon.co.uk/Tartar-Steppe-Canons-Dino-Buzzati/dp/1786891646/ref=sr_1_1?crid=F794T6OUMYHM&keywords=dino+buzzati&qid=1659277026&sprefix=dino+buzzati%2Caps%2C354&sr=8-1) - *"But it's also a place almost without challenges, a life and routine that's easy to settle into but that is also deadening. And Drogo gets caught up in it. The possibility of escape -- after four months, after two years -- always seems to be there, and yet when it comes time to make a decision it's easier just to continue as before."* - This book helped me to change mindset during my first reading. This time, i could not even relate to Drogo :)
@@ -240,7 +250,8 @@
 - [ ] [Neal Stephenson, Snow Crash](https://www.amazon.co.uk/Snow-Crash-Neal-Stephenson/dp/0241953189)
 - [ ] [Jean Baudrillard, Simulacra and Simulation](https://www.amazon.com/Simulacra-Simulation-Body-Theory-Materialism/dp/0472065211)
 
-## Tracking Group Hiking & Sightseeing Activity
+# DO List <a name="do_list"></a>
+## Tracking Group Hiking & Sightseeing Activity <a name="group_hiking"></a>
 - [x] [October 2022 - Seven Sisters coastal hike](https://www.alltrails.com/en-gb/trail/england/east-sussex/seven-sisters)
 - [x] [October 2022 - **The Ridgeway, lovely views and the Chilterns**](http://www.senderismoenlondres.co.uk/events/the-ridgeway-lovely-views-and-the-chilterns-hiking-uk.html)
 - [x] [October 2022 - Henley, the Greys and the Rotherfields](https://www.alltrails.com/explore/trail/england/oxfordshire/henley-the-greys-and-the-rotherfields?u=i)
@@ -252,10 +263,7 @@
 - [x] [March 2022 - Parkland Walk/Hampstead Heath](https://www.cityoflondon.gov.uk/things-to-do/green-spaces/hampstead-heath)
 - [x] [Feb 2022 - Sevenoaks Circular Walk](https://www.alltrails.com/england/kent/sevenoaks/walking)
 
-## Drawing
-- [ ] [Udemy, The Ultimate Drawing Course - Beginner to Advanced](https://www.udemy.com/course/the-ultimate-drawing-course-beginner-to-advanced/)
-
-## Daily Exercise
+## Daily Exercise <a name="exercise"></a>
 - [Monday](https://www.youtube.com/watch?v=jaqciTxwDoE)
 - [Tuesday](https://www.youtube.com/watch?v=CKe6EYSzmtU)
 - [Wednesday](https://www.youtube.com/watch?v=Q1SHe5IPtk8)
@@ -275,6 +283,6 @@ Extras:
 - [9](https://www.youtube.com/watch?v=s0CkBw5Wock)
 
 
-# Bookmarks
-- [Archive to deep dive](https://archive.org/)
-- [Library genesis](https://libgen.li/)
+## Drawing
+- [ ] [Udemy, The Ultimate Drawing Course - Beginner to Advanced](https://www.udemy.com/course/the-ultimate-drawing-course-beginner-to-advanced/)
+
