@@ -1,4 +1,6 @@
-# Inspirational Tracker
+# Personal Curiosity Tracker
+
+
 ## WATCH List
 
 ### Documentary 
