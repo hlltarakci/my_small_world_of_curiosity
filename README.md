@@ -10,6 +10,7 @@
 - [DO List](#do_list)
    - [Group Hiking](#group_hiking)
    - [Exercise](#exercise)
+- [COOK List](#cook_list)
 
 # WATCH List <a name="watch_list"></a>
 
@@ -286,3 +287,8 @@ Extras:
 ## Drawing
 - [ ] [Udemy, The Ultimate Drawing Course - Beginner to Advanced](https://www.udemy.com/course/the-ultimate-drawing-course-beginner-to-advanced/)
 
+# COOK List <a name="cook_list"></a>
+- [ ] [Arnavut Boregi](https://www.nefisyemektarifleri.com/arnavut-boregi-tarifi-527442/)
+- [ ] [Musakka](https://vidarbergum.com/recipe/turkish-moussaka-patlican-musakka/)
+- [ ] [Yuvalama Corbasi](https://www.petitegourmets.com/recipes/turkish-yuvalama)
+- [ ] [Blueberry Cake](https://www.simplyrecipes.com/recipes/blueberry_cake/)
