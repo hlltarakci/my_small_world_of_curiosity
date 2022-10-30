@@ -239,6 +239,7 @@
 - [ ] [Jean Baudrillard, Simulacra and Simulation](https://www.amazon.com/Simulacra-Simulation-Body-Theory-Materialism/dp/0472065211)
 
 ## Tracking Group Hiking & Sightseeing Activity
+- [x] [October 2022 - Seven Sisters coastal hike](https://www.alltrails.com/en-gb/trail/england/east-sussex/seven-sisters)
 - [x] [October 2022 - **The Ridgeway, lovely views and the Chilterns**](http://www.senderismoenlondres.co.uk/events/the-ridgeway-lovely-views-and-the-chilterns-hiking-uk.html)
 - [x] [October 2022 - Henley, the Greys and the Rotherfields](https://www.alltrails.com/explore/trail/england/oxfordshire/henley-the-greys-and-the-rotherfields?u=i)
 - [x] [September 2022 - Alaxandra Palace, Highgate Wood, Parkland Walk, Finsbury Park](https://www.alltrails.com/en-gb/trail/england/london/parkland-walk)
