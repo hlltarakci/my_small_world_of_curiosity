@@ -92,7 +92,7 @@
 - [ ] [Crossing Bhutan, 2016](https://www.imdb.com/title/tt2335096/)
 - [ ] [The Great Way, Curiosity Stream, 2021](https://www.imdb.com/title/tt13927026/)
 - [ ] [Icemen: 200 years in Antartica, Curiosity Stream, 2020](https://www.imdb.com/title/tt12794548/)
-- [ ] [Amazon Empire: The Rise and Reign of Jeff Bezos](https://www.youtube.com/watch?v=RVVfJVj5z8s)
+- [x] [Amazon Empire: The Rise and Reign of Jeff Bezos](https://www.youtube.com/watch?v=RVVfJVj5z8s)
 - [ ] [Gagarin: First in space](https://www.imdb.com/title/tt2856930/)
 - [ ] [Turkey with Simon Reeve, 2017](https://www.imdb.com/title/tt6682290/)
 - [ ] [A Traveler's Guide to the Planets, 2010](https://www.imdb.com/title/tt1616205/)
