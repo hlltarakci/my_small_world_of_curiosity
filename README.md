@@ -231,6 +231,7 @@
 - [ ] [Caroline Goyder, Gravitas: Communicate with Confidence, Influence and Authority](https://www.goodreads.com/book/show/18685594-gravitas)
 - [ ] [Annie Duke, How to Decide: Simple Tools for Making Better Choices](https://www.amazon.com/How-Decide-Simple-Making-Choices-ebook/dp/B07TRJB3S3)
 - [ ] [Kelly McGonigal, The Willpower Instinct: How Self-Control Works, Why It Matters, And What You Can Do To Get More Of It](https://www.amazon.co.uk/Willpower-Instinct-Kelly-McGonigal/dp/1583335080)
+- [ ] [Chuck Wisner, The Art of Conscious Conversations: Transforming How We Talk, Listen, and Interact](https://www.amazon.com/Art-Conscious-Conversations-Transforming-Interact/dp/152300326X)
 - [ ] [Dorie Clark, The Long Game: How to Be a Long-Term Thinker in a Short-Term World](https://www.amazon.co.uk/Long-Game-Long-Term-Thinker-Short-Term/dp/164782057X)
 - [ ] [Stephen Guise, How to Be an Imperfectionist: The New Way to Self-Acceptance, Fearless Living, and Freedom from Perfectionism](https://www.amazon.co.uk/How-Be-Imperfectionist-Self-Acceptance-Perfectionism-ebook/dp/B00UMG535Y)
 - [ ] [Jay Sullivan, Simply Said: Communicating Better at Work and Beyond](https://www.goodreads.com/book/show/33232697-simply-said)
