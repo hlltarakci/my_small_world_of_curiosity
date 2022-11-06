@@ -93,6 +93,7 @@
 - [ ] [The Great Way, Curiosity Stream, 2021](https://www.imdb.com/title/tt13927026/)
 - [ ] [Icemen: 200 years in Antartica, Curiosity Stream, 2020](https://www.imdb.com/title/tt12794548/)
 - [x] [Amazon Empire: The Rise and Reign of Jeff Bezos](https://www.youtube.com/watch?v=RVVfJVj5z8s)
+- [x] [Downfall: The Case Against Boeing, 2022](https://www.imdb.com/title/tt11893274/)
 - [ ] [Gagarin: First in space](https://www.imdb.com/title/tt2856930/)
 - [ ] [Turkey with Simon Reeve, 2017](https://www.imdb.com/title/tt6682290/)
 - [ ] [A Traveler's Guide to the Planets, 2010](https://www.imdb.com/title/tt1616205/)
@@ -101,7 +102,7 @@
 - [ ] **Documentary Series**
   - [x] [Turning Point 9/11, 2021](https://www.netflix.com/gb/title/81315804)
   - [x] [**Deep Time History, Curiosity Stream**](https://www.imdb.com/title/tt6052190/) - quite similar in context to Harari's Sapiens. Linking ideas, providing a general structure why things happened the way they did fascinates me. And this is a transferable thought experiment skill.
-  - [x] [**Magical Andes**, 2019](https://www.imdb.com/title/tt11229002/) - Episode 1.1:  *"Choosing where you want to live is about making the decision of where you want to be happy. Otherwise, we are just staying alive, not living."*  Episode 2.4: *"It is a priviledge to know our planet. Travel through its roads, discover ancient customs,and to leanr about different cultures makes us better human beings. It helps us to understand our roles on Earth, and how small we are compared to the power of nature. There will always be something else to know, a new valley behind the mountain and a new adventure."*
+  - [x] [**Magical Andes**, 2019](https://www.imdb.com/title/tt11229002/) - Episode 1.1:  *"Choosing where you want to live is about making the decision of where you want to be happy. Otherwise, we are just staying alive, not living."*  Episode 2.4: *"It is a priviledge to know our planet. Travel through its roads, discover ancient customs,and to learn about different cultures makes us better human beings. It helps us to understand our roles on Earth, and how small we are compared to the power of nature. There will always be something else to know, a new valley behind the mountain and a new adventure."*
   - [ ] [Moving Art, 2014](https://www.imdb.com/title/tt6953912/)
   - [ ] [World's Most Dangerous Roads, 2011](https://www.imdb.com/title/tt2078521/)
   - [ ] [Bad Sport, 2021](https://www.netflix.com/gb/title/81084829)  
