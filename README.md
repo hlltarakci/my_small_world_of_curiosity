@@ -85,6 +85,7 @@
 - [x] [Google, Facebook, Amazon - The rise of the mega-corporations](https://youtu.be/Dy8ogOaKk4Y)
 - [x] [The Origins of Machu Picchu](https://www.youtube.com/watch?v=JMAKRKkdOlw)
 - [x] [The Architecture of Machu Picchu](https://www.youtube.com/watch?v=31SFLloQ-hU&t=0s)
+- [x] [**The Colours of Infinity, Arthur C. Clarke**, 1995](https://www.imdb.com/title/tt0241317/) - Nature is compatible with fractal geometry.
 - [ ] [The Ancient Bottomless Tunnels of Turkey and the Mystery of Gobekli Tepe](https://www.youtube.com/watch?v=qO-l_SN-XLY)
 - [ ] [Secrets of the Stone Age](https://www.youtube.com/watch?v=I2vYr6gx56o) - [Part 2](https://www.youtube.com/watch?v=XSGRd5Ve1zI)
 - [ ] [Solving The Mystery Of Stonehenge With Dan Snow](https://www.youtube.com/watch?v=D-m_g5JUO88)
