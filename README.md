@@ -28,6 +28,7 @@
 - [x] [What Life in Soviet Union was Like?](https://www.youtube.com/watch?v=EF_GjtpR1Xo)
 - [x] [How did Planners Design Soviet Cities?](https://www.youtube.com/watch?v=JGVBv7svKLo)
 - [x] [My Perestroika, 2010](https://www.imdb.com/title/tt1557720/) - [where to watch](https://www.youtube.com/watch?v=nlpsIrOHG_k)
+- [x] [Karosta: Life After the USSR, 2008](https://www.imdb.com/title/tt1327804/)
 - [ ] [Economic Update: Rise and Fall of the USSR](https://youtu.be/_Y-TWFKw4tU)
 - [ ] [Meeting Gorbachev, 2018](https://www.imdb.com/title/tt8811382/)
 - [ ] [How Did the Soviet Union Begin?](https://youtu.be/mY5P2ehFDPQ)
