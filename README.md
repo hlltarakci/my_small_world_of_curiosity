@@ -29,19 +29,21 @@
 - [x] [How did Planners Design Soviet Cities?](https://www.youtube.com/watch?v=JGVBv7svKLo)
 - [x] [My Perestroika, 2010](https://www.imdb.com/title/tt1557720/) - [where to watch](https://www.youtube.com/watch?v=nlpsIrOHG_k)
 - [x] [Karosta: Life After the USSR, 2008](https://www.imdb.com/title/tt1327804/)
+- [ ] [Putin: The New Tsar, 2018](https://www.imdb.com/title/tt8365160/?ref_=tt_sims_tt_i_1)
+- [ ] [The Long Road to War, 2018](https://www.imdb.com/title/tt3713222/?ref_=nv_sr_srsg_0)
 - [ ] [Economic Update: Rise and Fall of the USSR](https://youtu.be/_Y-TWFKw4tU)
 - [ ] [Meeting Gorbachev, 2018](https://www.imdb.com/title/tt8811382/)
 - [ ] [How Did the Soviet Union Begin?](https://youtu.be/mY5P2ehFDPQ)
 - [ ] **Documentary Series**
    - [ ] [**Cold War, 1998 - 24 episodes**](https://www.imdb.com/title/tt0170896/) - [where to watch](https://archive.org/details/Cold_War_1998_CNN_Kenneth_Branagh)
    - [ ] [**Soviet Storm, WW2 in the East, 2010**](https://www.imdb.com/title/tt3610248/), [where to watch](https://www.youtube.com/playlist?list=PLwGzY25TNHPC_SsXFcIH-ba0nWuNbHOM6)
+   - [ ] [Putin, Russia and the West, 2011](https://www.imdb.com/title/tt2131951/?ref_=tt_sims_tt_t_1)
    - [ ] [The Lost World of Communism, 2009](https://www.imdb.com/title/tt2976152/)
    - [ ] [The Putin Interviews, 2017](https://www.imdb.com/title/tt6840134/)
    - [ ] [Apocalypse: WW1, Curiosity Stream](https://curiositystream.com/video/3047)
    - [x] [Hitler's Circle of Evil, 2017](https://www.netflix.com/nl-en/title/80138915)
    - [x] [Greatest Events of WW2 in Color](https://www.netflix.com/nl-en/title/80989924) 
    - [ ] [WW2 in color - Road to Victory, 2021](https://www.netflix.com/gb/title/81488464)
-
 ### Russia-Ukraine Crisis
 - [x] [A History of Eastern Europe: Ukraine-Russia Crisis](https://www.youtube.com/watch?v=l1WL2VJOn2A)
 - [x] [The Origins of Russia - Summary on a map](https://youtu.be/qUgzqkCW6A4)
@@ -65,6 +67,7 @@
 - [x] [Gallipoli 1915, Curiosity Stream](https://curiositystream.com/video/4085?collectionId=140)
 - [x] [Why Turkey is turning Istanbul into an island?](https://youtu.be/F6I7eHVXh2A) - rationale for Kanal Istanbul project - pros and cons
 - [x] [Why was Turkey neutral in WW2?](https://youtu.be/apwmP2g_D7k)
+- [x] [Ottomans vs Venetians: Battle for Crete, 2010](https://www.imdb.com/title/tt12797060/)
 - [ ] [The History of the Ottoman Empire](https://youtu.be/f9c4Y7Vf7G0)
 - [ ] [**32. Gun Arsivi**](https://www.youtube.com/watch?app=desktop&v=sBPfjeWbp9Q)
    - [ ] [Demirkirat Belgeseli (10 Bolum), 1991](https://www.youtube.com/watch?v=_kVCHHBRuSE)
