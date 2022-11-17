@@ -57,7 +57,7 @@
 - [x] [Gravitas | Mikhail Gorbachev: Soviet Union's last leader dies](https://www.youtube.com/watch?v=di8v1ACkvFY)
 - [x] [Putin expresses deepest condolences on death of last soviet leader Mikhail Gorbachev](https://www.youtube.com/watch?v=jJ4g_UKS-i8)
 - [ ] [Hear what Mikhail Gorbachev said about USSR communism in 1993](https://www.youtube.com/watch?v=PzIbLHYXdkw)
-- [ ] [Ivan the Terrible: Russia's First Tsar](https://www.youtube.com/watch?v=2wr63FdF_sg)
+- [x] [Ivan the Terrible: Russia's First Tsar](https://www.youtube.com/watch?v=2wr63FdF_sg)
 - [ ] [Nikita Khrushchev: The Red Tsar](https://www.youtube.com/watch?v=3WBUaCbQ0g8)
 - [ ] [Ukraine on Fire, 2016](https://www.imdb.com/title/tt5724358/)
 - [ ] [Winter on Fire: Ukraine's Fight for Freedom](https://www.imdb.com/title/tt4908644/)
