@@ -44,6 +44,7 @@
    - [x] [Hitler's Circle of Evil, 2017](https://www.netflix.com/nl-en/title/80138915)
    - [x] [Greatest Events of WW2 in Color](https://www.netflix.com/nl-en/title/80989924) 
    - [ ] [WW2 in color - Road to Victory, 2021](https://www.netflix.com/gb/title/81488464)
+   - [ ] [Civil War, 1990](https://www.imdb.com/title/tt0098769/)
 ### Russia-Ukraine Crisis
 - [x] [A History of Eastern Europe: Ukraine-Russia Crisis](https://www.youtube.com/watch?v=l1WL2VJOn2A)
 - [x] [The Origins of Russia - Summary on a map](https://youtu.be/qUgzqkCW6A4)
@@ -61,7 +62,9 @@
 - [ ] [Nikita Khrushchev: The Red Tsar](https://www.youtube.com/watch?v=3WBUaCbQ0g8)
 - [ ] [Ukraine on Fire, 2016](https://www.imdb.com/title/tt5724358/)
 - [ ] [Winter on Fire: Ukraine's Fight for Freedom](https://www.imdb.com/title/tt4908644/)
-
+- **Documentary Series**
+   - [ ] [The Last Czars, 2019](https://www.imdb.com/title/tt7949606/?ref_=tt_sims_tt_i_1)
+   - [ ] [Last of the Czars, 1996](https://www.imdb.com/title/tt3546970/?ref_=tt_sims_tt_i_5)
 
 ### History of Turkey
 - [x] [Gallipoli 1915, Curiosity Stream](https://curiositystream.com/video/4085?collectionId=140)
@@ -110,6 +113,21 @@
   - [x] [**Deep Time History, Curiosity Stream**](https://www.imdb.com/title/tt6052190/) - quite similar in context to Harari's Sapiens. Linking ideas, providing a general structure why things happened the way they did fascinates me. And this is a transferable thought experiment skill.
   - [x] [**Magical Andes**, 2019](https://www.imdb.com/title/tt11229002/) - Episode 1.1:  *"Choosing where you want to live is about making the decision of where you want to be happy. Otherwise, we are just staying alive, not living."*  Episode 2.4: *"It is a priviledge to know our planet. Travel through its roads, discover ancient customs,and to learn about different cultures makes us better human beings. It helps us to understand our roles on Earth, and how small we are compared to the power of nature. There will always be something else to know, a new valley behind the mountain and a new adventure."*
   - [x] [Ancient Apocalypse, 2022](https://www.imdb.com/title/tt22807484/)
+  - [ ] [Frozen Planet, 2011](https://www.imdb.com/title/tt2092588/?ref_=tt_sims_tt_i_12)
+  - [ ] [Frozen Planet 2, 2022](https://www.imdb.com/title/tt9805678/?ref_=tt_sims_tt_i_8)
+  - [ ] [Planet Earth, 2006](https://www.imdb.com/title/tt0795176/?ref_=tt_sims_tt_i_7)
+  - [ ] [Carl Sagan's Cosmos, 1980](https://www.imdb.com/title/tt0081846/?ref_=tt_sims_tt_i_5) 
+  - [ ] [Cosmos: A Spacetime Odyssey, 2014](https://www.imdb.com/title/tt2395695/?ref_=tt_sims_tt_i_7)
+  - Brian Cox:
+     - [ ] [Wonders of the Universe, 2011](https://www.imdb.com/title/tt1854226/?ref_=tt_sims_tt_i_1)
+     - [ ] [Wonders of the Solar System, 2010](https://www.imdb.com/title/tt1611787/?ref_=tt_sims_tt_i_2)
+     - [ ] [Wonders of Life, 2013](https://www.imdb.com/title/tt2699374/?ref_=tt_sims_tt_i_3)
+     - [ ] [Forces of Nature with Brian Cox, 2016](https://www.imdb.com/title/tt5907228/?ref_=tt_sims_tt_i_4)
+     - [ ] [Universe, 2021](https://www.imdb.com/title/tt15757074/?ref_=tt_sims_tt_i_7)
+     - [ ] [The Planets, 2019](https://www.imdb.com/title/tt10394800/?ref_=tt_sims_tt_i_1)
+     - [ ] [Brian Cox: Seven Days on Mars, 2022](https://www.imdb.com/title/tt19857396/?ref_=tt_sims_tt_i_2)
+     - [ ] [Brian Cox's Adventures in Space and Time, 2021](https://www.imdb.com/title/tt14716416/)
+     - [ ] [Human Universe, 2014](https://www.imdb.com/title/tt4162128/?ref_=tt_sims_tt_i_6)
   - [ ] [Moving Art, 2014](https://www.imdb.com/title/tt6953912/)
   - [ ] [Air Crash Investigation, 2003](https://www.imdb.com/title/tt0386950/)
   - [ ] [World's Most Dangerous Roads, 2011](https://www.imdb.com/title/tt2078521/)
