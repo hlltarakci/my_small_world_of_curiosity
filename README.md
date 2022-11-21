@@ -122,7 +122,7 @@
   - [ ] [Carl Sagan's Cosmos, 1980](https://www.imdb.com/title/tt0081846/?ref_=tt_sims_tt_i_5) 
   - [ ] [Cosmos: A Spacetime Odyssey, 2014](https://www.imdb.com/title/tt2395695/?ref_=tt_sims_tt_i_7)
   - Brian Cox:
-     - [ ] [Wonders of the Universe, 2011](https://www.imdb.com/title/tt1854226/?ref_=tt_sims_tt_i_1)
+     - [ ] [Wonders of the Universe, 2011](https://www.imdb.com/title/tt1854226/?ref_=tt_sims_tt_i_1) - [Song at the end of episode 1: We have all the time in the world](https://www.youtube.com/watch?v=RMxRDTfzgpU&t=1s)
      - [ ] [Wonders of the Solar System, 2010](https://www.imdb.com/title/tt1611787/?ref_=tt_sims_tt_i_2)
      - [ ] [Wonders of Life, 2013](https://www.imdb.com/title/tt2699374/?ref_=tt_sims_tt_i_3)
      - [ ] [Forces of Nature with Brian Cox, 2016](https://www.imdb.com/title/tt5907228/?ref_=tt_sims_tt_i_4)
