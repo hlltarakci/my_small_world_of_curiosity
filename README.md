@@ -165,6 +165,7 @@
 - [x] [Ivan Vasilyevich Changes His Profession, 1973](https://www.imdb.com/title/tt0070233/)
 - [x] [Office Romance, 1977](https://www.imdb.com/title/tt0076727/) - [music](https://www.youtube.com/watch?v=zczb2E4zwj0)
 - [x] [**Love and Doves, 1985**](https://www.imdb.com/title/tt0087650/)
+- [x] [**The Shop around the Corner, 1940**](https://www.imdb.com/title/tt0033045/)
 - [x] [High Fidelity, 2000](https://www.imdb.com/title/tt0146882/)
 - [x] [One Week, 2008](https://www.imdb.com/title/tt1104806/)
 - [ ] [Chernobyl, 2019](https://www.imdb.com/title/tt7366338/)
@@ -186,7 +187,6 @@
 - [ ] [12 Angry Man, 1957](https://www.imdb.com/title/tt0050083/)
 - [ ] [One Flew Over the Cuckoo's Nest, 1975 ](https://www.imdb.com/title/tt0073486/)
 - [ ] [The Grapes of Wrath, 1940](https://www.imdb.com/title/tt0032551/)
-- [ ] [The Shop around the Corner, 1940](https://www.imdb.com/title/tt0033045/)
 - [ ] [It's a Wonderful Life, 1946](https://www.imdb.com/title/tt0038650/)
 
 # LISTEN List (Podcast)<a name="listen_list"></a>
