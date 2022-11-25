@@ -336,3 +336,4 @@ Extras:
 - [ ] [Pirasali Misir Ekmegi](https://www.nefisyemektarifleri.com/pirasali-misir-ekmegi-seveceginiz-lezzet/)
 - [ ] [Mercimek Koftesi](https://www.nefisyemektarifleri.com/kolay-mercimek-koftesi/)
 - [ ] [Quiche mit Käse](https://www.youtube.com/watch?v=kmSYTFjC6ao)
+- [ ] [Corek](https://www.youtube.com/watch?v=_phzMtmdpUo)
