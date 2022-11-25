@@ -331,6 +331,7 @@ Extras:
 - [ ] [Musakka](https://vidarbergum.com/recipe/turkish-moussaka-patlican-musakka/)
 - [ ] [Yuvalama Corbasi](https://www.petitegourmets.com/recipes/turkish-yuvalama)
 - [ ] [Blueberry Cake](https://www.simplyrecipes.com/recipes/blueberry_cake/)
+- [ ] [Starbucks Carrot Cake](https://portakalagaci.com/2022/01/havuclu-kek-2.html)
 - [ ] [Karadeniz Pide](https://cookingorgeous.com/blog/karadeniz-pidesi/)
 - [ ] [Pirasali Misir Ekmegi](https://www.nefisyemektarifleri.com/pirasali-misir-ekmegi-seveceginiz-lezzet/)
 - [ ] [Mercimek Koftesi](https://www.nefisyemektarifleri.com/kolay-mercimek-koftesi/)
