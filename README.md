@@ -327,7 +327,12 @@ Extras:
 - [ ] [Udemy, The Ultimate Drawing Course - Beginner to Advanced](https://www.udemy.com/course/the-ultimate-drawing-course-beginner-to-advanced/)
 
 # COOK List <a name="cook_list"></a>
+[**Direct access to my cooking**](https://github.com/hlltarakci/inspirational_tracker/tree/main/cooking#my-cooking)
+
 - [x] [Starbucks Carrot Cake](https://portakalagaci.com/2022/01/havuclu-kek-2.html) - [**my cooking**](/cooking#starbucks-carrot-cake)
+- [x] [Purple Cabbage Salad (**my cooking**)](/cooking#purple-cabbage-salad)
+- [ ] Chickpeas with Beef
+- [ ] Kiymali Pogaca
 - [ ] [Arnavut Boregi](https://www.nefisyemektarifleri.com/arnavut-boregi-tarifi-527442/)
 - [ ] [Musakka](https://vidarbergum.com/recipe/turkish-moussaka-patlican-musakka/)
 - [ ] [Yuvalama Corbasi](https://www.petitegourmets.com/recipes/turkish-yuvalama)
