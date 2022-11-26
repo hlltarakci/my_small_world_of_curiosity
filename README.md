@@ -331,8 +331,8 @@ Extras:
 
 - [x] [Starbucks Carrot Cake](https://portakalagaci.com/2022/01/havuclu-kek-2.html) - [**my cooking**](/cooking#starbucks-carrot-cake)
 - [x] [Purple Cabbage Salad (**my cooking**)](/cooking#purple-cabbage-salad)
+- [x] [Kiymali Pogaca (**my cooking**)](/cooking#kiymali-pogaca)
 - [ ] Chickpeas with Beef
-- [ ] Kiymali Pogaca
 - [ ] [Arnavut Boregi](https://www.nefisyemektarifleri.com/arnavut-boregi-tarifi-527442/)
 - [ ] [Musakka](https://vidarbergum.com/recipe/turkish-moussaka-patlican-musakka/)
 - [ ] [Yuvalama Corbasi](https://www.petitegourmets.com/recipes/turkish-yuvalama)
