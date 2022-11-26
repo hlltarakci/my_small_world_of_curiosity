@@ -7,3 +7,9 @@
 3. 2 su bardagi un + 1,5 tatli kasigi tarcin -> en dusuk ayar ile cirp
 4. 1 hamur kabartma tozu -> en dusuk ayar ile cirp
 5. 175 derecede pisir
+
+## Purple Cabbage Salad
+[<img src="purple_cabbage_salad.jpg" width="500"/>](purple_cabbage_salad.jpg)
+1. Mor lahanayi ince ince kes
+2. 3 cay kasigi tuz + 2 tatli kasigi seker -> Mor lahanayi iyice ovala
+3. 2,5 cay bardagi sirke ekle, iyice karistirip kavanoza koy.
