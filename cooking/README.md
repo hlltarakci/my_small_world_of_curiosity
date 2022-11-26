@@ -1,18 +1,12 @@
 # My Cooking
 
-## Starbucks Carrot Cake
-[<img src="carrot_cake.jpg" width="500"/>](carrot_cake.jpg)
-1. 5 yumurta + 1,5 su bardagi seker -> mikserin en yuksek ayari ile cirp
-2. 1 su bardagi rendelenmis havuc + 1 su bardagi iri cekilmis ceviz -> daha dusuk ayar ile cirp
-3. 2 su bardagi un + 1,5 tatli kasigi tarcin -> en dusuk ayar ile cirp
-4. 1 hamur kabartma tozu -> en dusuk ayar ile cirp
-5. 175 derecede pisir
-
-## Purple Cabbage Salad
-[<img src="purple_cabbage_salad.jpg" width="500"/>](purple_cabbage_salad.jpg)
-1. Mor lahanayi ince ince kes
-2. 3 cay kasigi tuz + 2 tatli kasigi seker -> Mor lahanayi iyice ovala
-3. 2,5 cay bardagi sirke ekle, iyice karistirip kavanoza koy.
+## Chickpeas with Beef
+[<img src="chickpeas_with_beef.jpg" width="500"/>](chickpeas_with_beef.jpg)
+1. Kusbasi eti suyunu cekene kadar kavur.
+2. 2 orta boy sogani yemeklik dogra, biraz zeytingaygi ekle, kavurmaya devam et.
+3. 2 yemek kasigi kadar biber salcasi ekle, karistir.
+4. Ustunu gececek kadar sicak su koy, eti pisir.
+5. Haslanmis nohutu ekle, 3 cay kasigi tuz, yarim cay kasigi karabiber ekle. Pisirmeye devam et.
 
 ## Kiymali Pogaca
 [<img src="kiymali_pogaca.jpg" width="500"/>](kiymali_pogaca.jpg)
@@ -23,3 +17,17 @@
 5. Hamurdan parca kopar, kiymali harc ekle, sekil ver.
 6. Ustune yumurta sarisi sur, susam, corekotu serp.
 7. 180 derecede pisir.
+
+## Purple Cabbage Salad
+[<img src="purple_cabbage_salad.jpg" width="500"/>](purple_cabbage_salad.jpg)
+1. Mor lahanayi ince ince kes
+2. 3 cay kasigi tuz + 2 tatli kasigi seker -> Mor lahanayi iyice ovala
+3. 2,5 cay bardagi sirke ekle, iyice karistirip kavanoza koy.
+
+## Starbucks Carrot Cake
+[<img src="carrot_cake.jpg" width="500"/>](carrot_cake.jpg)
+1. 5 yumurta + 1,5 su bardagi seker -> mikserin en yuksek ayari ile cirp
+2. 1 su bardagi rendelenmis havuc + 1 su bardagi iri cekilmis ceviz -> daha dusuk ayar ile cirp
+3. 2 su bardagi un + 1,5 tatli kasigi tarcin -> en dusuk ayar ile cirp
+4. 1 hamur kabartma tozu -> en dusuk ayar ile cirp
+5. 175 derecede pisir
