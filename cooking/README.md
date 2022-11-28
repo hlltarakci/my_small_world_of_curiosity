@@ -24,6 +24,13 @@
 2. 3 cay kasigi tuz + 2 tatli kasigi seker -> Mor lahanayi iyice ovala
 3. 2,5 cay bardagi sirke ekle, iyice karistirip kavanoza koy.
 
+## Roast Chicken
+[<img src="roast_chicken.jpg" width="500"/>](roast_chicken.jpg)
+1. 2 yemek kasigi biber salcasi + biraz zeytinyagi + 1 cay kasigi tuz + bir tutam kekik, nane, kirmizi toz biber, kirmizi pul biber, karabiber -> karistir
+2. Tavuk butlarini karisima bula.
+3. Patates, sivri biber kizartmalik dogra, biraz zeytinyagi, 2 cay kasigi tuz ile karistir
+4. Herseyi firin posetina koy, 185 derecede pisir.
+
 ## Starbucks Carrot Cake
 [<img src="carrot_cake.jpg" width="500"/>](carrot_cake.jpg)
 1. 5 yumurta + 1,5 su bardagi seker -> mikserin en yuksek ayari ile cirp
