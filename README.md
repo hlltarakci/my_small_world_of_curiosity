@@ -333,6 +333,8 @@ Extras:
 - [x] [Purple Cabbage Salad (**my cooking**)](/cooking#purple-cabbage-salad)
 - [x] [Kiymali Pogaca (**my cooking**)](/cooking#kiymali-pogaca)
 - [x] [Chickpeas with Beef (**my cooking**)](cooking#chickpeas-with-beef)
+- [x] [Roast Chicken (**my cooking**)](cooking#roast-chicken)
+- [ ] [Russian Salad](https://eatingeuropean.com/russian-salad-olivier-salad/)
 - [ ] [Arnavut Boregi](https://www.nefisyemektarifleri.com/arnavut-boregi-tarifi-527442/)
 - [ ] [Musakka](https://vidarbergum.com/recipe/turkish-moussaka-patlican-musakka/)
 - [ ] [Yuvalama Corbasi](https://www.petitegourmets.com/recipes/turkish-yuvalama)
