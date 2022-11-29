@@ -36,7 +36,7 @@
 - [ ] [How Did the Soviet Union Begin?](https://youtu.be/mY5P2ehFDPQ)
 - [ ] **Documentary Series**
    - [ ] [**Cold War, 1998 - 24 episodes**](https://www.imdb.com/title/tt0170896/) - [where to watch](https://archive.org/details/Cold_War_1998_CNN_Kenneth_Branagh)
-   - [ ] [**Soviet Storm, WW2 in the East, 2010**](https://www.imdb.com/title/tt3610248/), [where to watch](https://www.youtube.com/playlist?list=PLwGzY25TNHPC_SsXFcIH-ba0nWuNbHOM6)
+   - [ ] **In Progress** [**Soviet Storm, WW2 in the East, 2010**](https://www.imdb.com/title/tt3610248/), [where to watch](https://www.youtube.com/playlist?list=PLwGzY25TNHPC_SsXFcIH-ba0nWuNbHOM6) [1.Comrades, 1917-1945](https://www.youtube.com/watch?v=22KIQ1QNnhE&list=PL3H6z037pboGWTxs3xGP7HRGrQ5dOQdGc&index=2)
    - [ ] [Putin, Russia and the West, 2011](https://www.imdb.com/title/tt2131951/?ref_=tt_sims_tt_t_1)
    - [ ] [The Lost World of Communism, 2009](https://www.imdb.com/title/tt2976152/)
    - [ ] [The Putin Interviews, 2017](https://www.imdb.com/title/tt6840134/)
