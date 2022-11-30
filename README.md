@@ -322,6 +322,10 @@ Extras:
 - [8](https://www.youtube.com/watch?v=h_rAyZgbSPM)
 - [9](https://www.youtube.com/watch?v=s0CkBw5Wock)
 
+### Monthly Program
+
+- [ ] [Blogilates Monthly Program](https://www.blogilates.com/blog/new-beginners-calendar-2-0-for-2015/)
+
 
 ## Drawing
 - [ ] [Udemy, The Ultimate Drawing Course - Beginner to Advanced](https://www.udemy.com/course/the-ultimate-drawing-course-beginner-to-advanced/)
