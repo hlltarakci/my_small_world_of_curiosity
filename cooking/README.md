@@ -47,3 +47,10 @@
 4. Yarim kap yaban mersini ekle -> cirp
 5. Kek kalibina aldiktan sonra kalan yarim kap yaban mersinini uzerine dok
 6. 175 derecede pisir.
+
+## Salty Cake
+[<img src="salty_cake.jpg" width="500"/>](salty_cake.jpg)
+1. 3 yumurta + 1 yemek kasigi seker + 1 su bardagi yogurt + yarim su bardagi siviyag -> cirp
+2. 2 su bardagi un + 1 paket kabartma tozu + 1 silme tatli kasigi tuz -> cirp
+3. Ince kiyilmis bir tutam maydanoz, dereotu + kucuk dogranmis kirmizi biber + 1 su bardagi ufalanmis beyaz peynir + yarim su bardagi dogranmis siyah zeytin + ince dogranmis yarim sogan -> cirp
+4. 170 derecede pisir.
