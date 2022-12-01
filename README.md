@@ -341,6 +341,7 @@ Extras:
 - [x] [Chickpeas with Beef (**my cooking**)](cooking#chickpeas-with-beef)
 - [x] [Roast Chicken (**my cooking**)](cooking#roast-chicken)
 - [x] [Blueberry Cake](https://www.simplyrecipes.com/recipes/blueberry_cake/)  - [**my cooking**](/cooking#blueberry-cake)
+- [x] [Salty Cake (**my cooking**)](/cooking#salty-cake)
 - [ ] [Russian Salad](https://eatingeuropean.com/russian-salad-olivier-salad/)
 - [ ] [Arnavut Boregi](https://www.nefisyemektarifleri.com/arnavut-boregi-tarifi-527442/)
 - [ ] [Musakka](https://vidarbergum.com/recipe/turkish-moussaka-patlican-musakka/)
