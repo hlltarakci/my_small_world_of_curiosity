@@ -38,3 +38,12 @@
 3. 2 su bardagi un + 1,5 tatli kasigi tarcin -> en dusuk ayar ile cirp
 4. 1 hamur kabartma tozu -> en dusuk ayar ile cirp
 5. 175 derecede pisir
+
+## Blueberry Cake
+[<img src="blueberry_cake.jpg" width="500"/>](blueberry_cake.jpg)
+1. 3 yumurta + 1 su bardagi sut + yarim su bardagi siviyag -> cirp
+2. 1 su bardagi seker + 1 paket vanilin -> cirp
+3. 2,5 su bardagi un + 1 paket hamur kabartma tozu -> cirp
+4. Yarim kap yaban mersini ekle -> cirp
+5. Kek kalibina aldiktan sonra kalan yarim kap yaban mersinini uzerine dok
+6. 175 derecede pisir.
