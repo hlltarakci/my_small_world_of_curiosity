@@ -40,7 +40,7 @@
 5. 175 derecede pisir
 
 ## Blueberry Cake
-[<img src="blueberry_cake.jpg" width="500"/>](blueberry_cake.jpg)
+[<img src="blueberrycake.jpg" width="500"/>](blueberrycake.jpg)
 1. 3 yumurta + 1 su bardagi sut + yarim su bardagi siviyag -> cirp
 2. 1 su bardagi seker + 1 paket vanilin -> cirp
 3. 2,5 su bardagi un + 1 paket hamur kabartma tozu -> cirp
