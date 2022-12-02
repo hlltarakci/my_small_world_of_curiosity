@@ -54,3 +54,28 @@
 2. 2 su bardagi un + 1 paket kabartma tozu + 1 silme tatli kasigi tuz -> cirp
 3. Ince kiyilmis bir tutam maydanoz, dereotu + kucuk dogranmis kirmizi biber + 1 su bardagi ufalanmis beyaz peynir + yarim su bardagi dogranmis siyah zeytin + ince dogranmis yarim sogan -> cirp
 4. 170 derecede pisir.
+
+## El Acmasi Kol Boregi (Pirasali)
+[<img src="acma_borek.jpg" width="500"/>](acma_borek.jpg)
+1. Ic harci: Pirasayi dogra, tencereye al. Tuz at, kavur. Cok az siviyag, sut kaymagi koy. Pisir.
+2. KitchenAid e un + su + 1 kasik zeytinyagi + tuz -> yogur. Yumusak bir hamur olsun.
+3. Hamuru parcalara bol, ustune sofra bezini kapat. En az 1 saat beklesin.
+4. Hamuru actir, ince olmali. Kenarlarini kes. Harctan koyup rulo yap, tepsiye yerlestir.
+5. 180 derecede pisir.
+
+## Rolled Pastry
+[<img src="rolled_pastry.jpg" width="500"/>](rolled_pastry.jpg)
+1. 4 haslanmis patates + 1 yemek kasigi tereyag + yarim demet ince kiyilmis maydanoz -> iyice ez, karistir
+2. 1 yumurta + 1 su bardagi sut + 1 su bardagi rendelenmis kasar + biraz tuz -> karistir
+3. Yufkayi ser, arasina harctan koy, 5 adet yufkayi boyle sirala. Rulo yap, 3e bol. Bir gece buzlukta beklet.
+4. 2 yemek kasigi yogurt + 1 yumurta -> karistir.
+5. Rulolari 1 santim kalinliginda kes, uzerine karisimdan sur.
+6. 180 derecede pisir.
+
+## False Chicken Breast Pudding
+[<img src="false_chicken_breast_pudding.jpg" width="500"/>](false_chicken_breast_pudding.jpg)
+1. 125 gram kadar tereyagi tencerede erit.
+2. 1 su bardagi un ekle, 2-3 dk kavur
+3. 1,5 su bardagi seker, 1-2 dk kavur
+4. 1 kilo soguk sut ekle, karistir. Kaynamaya baslayinca 10 dk kaynat.
+5. Biraz soguyunca 1 paket vanilya ilave et. En az 5 dk. mikserle cirp, sut ilave edip kivami ayarla.
