@@ -171,6 +171,8 @@
 - [x] [**The Shop around the Corner, 1940**](https://www.imdb.com/title/tt0033045/)
 - [x] [High Fidelity, 2000](https://www.imdb.com/title/tt0146882/)
 - [x] [One Week, 2008](https://www.imdb.com/title/tt1104806/)
+- [ ] [Dersu Uzala, 1975](https://www.imdb.com/title/tt0071411/)
+- [ ] [True Friends (Vernye druz'ya), 1954](https://www.imdb.com/title/tt0047650/) - [where to watch](https://www.youtube.com/watch?v=qGXoycbxSnA), cannot find subtitles :(
 - [ ] [Chernobyl, 2019](https://www.imdb.com/title/tt7366338/)
 - [ ] [Love, Death & Robots, 2019](https://www.imdb.com/title/tt9561862/)
 - [ ] [The Diamond Arm, 1969](https://www.imdb.com/title/tt0062759/)
