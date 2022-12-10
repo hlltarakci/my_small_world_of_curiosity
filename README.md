@@ -40,7 +40,8 @@
      [2: Iron Curtain, 1945-1947](https://www.youtube.com/watch?v=yzcZBFlmLoA&list=PL3H6z037pboGWTxs3xGP7HRGrQ5dOQdGc&index=2) / 
      [3: Marshall Plan, 1947-1952](https://www.youtube.com/watch?v=g0I6UVPkGWM&list=PL3H6z037pboGWTxs3xGP7HRGrQ5dOQdGc&index=3) / 
      [4: Berlin, 1948-1949](https://www.youtube.com/watch?v=G-qu7Qs8410&list=PL3H6z037pboGWTxs3xGP7HRGrQ5dOQdGc&index=4) / 
-     [5: Korea, 1949-1953](https://www.youtube.com/watch?v=eYeWURHhr04&list=PL3H6z037pboGWTxs3xGP7HRGrQ5dOQdGc&index=5)
+     [5: Korea, 1949-1953](https://www.youtube.com/watch?v=eYeWURHhr04&list=PL3H6z037pboGWTxs3xGP7HRGrQ5dOQdGc&index=5) / 
+     [6: Reds, 1947-1953](https://www.youtube.com/watch?v=n0U-b1TNf1Q&list=PL3H6z037pboGWTxs3xGP7HRGrQ5dOQdGc&index=6)
    - [ ] [**Soviet Storm, WW2 in the East, 2010**](https://www.imdb.com/title/tt3610248/), [where to watch](https://www.youtube.com/playlist?list=PLwGzY25TNHPC_SsXFcIH-ba0nWuNbHOM6)
    - [ ] [Putin, Russia and the West, 2011](https://www.imdb.com/title/tt2131951/?ref_=tt_sims_tt_t_1)
    - [ ] [The Lost World of Communism, 2009](https://www.imdb.com/title/tt2976152/)
