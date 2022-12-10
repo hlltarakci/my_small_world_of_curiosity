@@ -183,7 +183,7 @@
 - [ ] [Heart of a Dog, 1988](https://www.imdb.com/title/tt0096126/)
 - [ ] [Inglourious Basterds, 2009](https://www.imdb.com/title/tt0361748/)
 - [ ] [Requiem for a Dream, 2000](https://www.imdb.com/title/tt0180093/)
-- [ ] [Cingeneler Zamani, 1988](https://www.imdb.com/title/tt0097223/)
+- [x] [Time of the Gypsies, 1988](https://www.imdb.com/title/tt0097223/) - [soundtrack](https://open.spotify.com/album/1HrPH9JGhdudroFGQs55i6)
 - [ ] [Andrei Tarkovsky](http://thecinemaarchives.com/2019/04/23/the-8th-best-director-of-all-time-andrei-tarkovsky/)
      - [ ] [Solaris, 1972](https://www.imdb.com/title/tt0069293/)
      - [ ] [The Mirror, 1975](https://www.imdb.com/title/tt0072443/)
