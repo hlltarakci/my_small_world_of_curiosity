@@ -178,6 +178,7 @@
 - [ ] [True Friends (Vernye druz'ya), 1954](https://www.imdb.com/title/tt0047650/) - [where to watch](https://www.youtube.com/watch?v=qGXoycbxSnA), cannot find subtitles :(
 - [ ] [Chernobyl, 2019](https://www.imdb.com/title/tt7366338/)
 - [ ] [Love, Death & Robots, 2019](https://www.imdb.com/title/tt9561862/)
+- [ ] [Angels in America, 2003](https://www.imdb.com/title/tt0318997/)
 - [ ] [The Diamond Arm, 1969](https://www.imdb.com/title/tt0062759/)
 - [ ] [Heart of a Dog, 1988](https://www.imdb.com/title/tt0096126/)
 - [ ] [Inglourious Basterds, 2009](https://www.imdb.com/title/tt0361748/)
