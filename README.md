@@ -317,6 +317,7 @@
 - [Thursday](https://www.youtube.com/watch?v=sQVFoWGjD4k)
 - [Saturday, *if no hiking*](https://www.youtube.com/watch?v=jaqciTxwDoE)
 - [Sunday, *if no hiking*](https://www.youtube.com/watch?v=_CDbPNZx5Ao)
+- or walk 10k
 
 Extras: 
 - [1](https://www.youtube.com/watch?v=bMnW7bbkV6Q)
@@ -332,6 +333,8 @@ Extras:
 ### Monthly Program
 
 - [ ] [Blogilates Monthly Program](https://www.blogilates.com/blog/new-beginners-calendar-2-0-for-2015/)
+   - [x] [Day 1](https://www.blogilates.com/beginners-2-0-day-1/)
+   - [x] [Day 2](https://www.blogilates.com/beginners-2-0-day-2/)
 
 
 ## Drawing
