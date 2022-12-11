@@ -340,6 +340,7 @@ Extras:
    - [x] [Day 1](https://www.blogilates.com/beginners-2-0-day-1/)
    - [x] [Day 2](https://www.blogilates.com/beginners-2-0-day-2/)
    - [x] [Day 3](https://www.blogilates.com/beginners-2-0-day-3/)
+   - [x] [Day 4](https://www.blogilates.com/beginners-2-0-day-4/)
 
 
 ## Drawing
