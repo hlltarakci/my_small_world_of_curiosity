@@ -101,7 +101,7 @@
 
 ## Quince Filled Cookies
 [<img src="quince_filled_cookies.jpg" width="500"/>](quince_filled_cookies.jpg)
-1. Ici: 1  ayva rendele, 1 cay bardagi tos seker ekle. Suyunu salip cekinceye kadar pisir. Yarim cay bardagi cekilmis ceviz, 1 cay kasigi tarcin ekle, karistir. Sogumaya birak.
+1. Ici: 1  ayva rendele, 1 cay bardagi toz seker ekle. Suyunu salip cekinceye kadar pisir. Yarim cay bardagi cekilmis ceviz, 1 cay kasigi tarcin ekle, karistir. Sogumaya birak.
 2. 200 gram oda sicakliginda tereyag, 1 cay bardagi pudra sekeri, 1 yemek kasigi yogurt -> yogurmaya basla.
 3. 2-2.5 su bardagi unu azar azar ekle. 1 paket vanilin, 1 paket hamur kabartma tozunu unla karistirip ekle. Ele yapismayan hamur olsun. Ustunu nemli bezle kapatip, 20 dk beklet.
 4. Sekil ver, icini koy.
