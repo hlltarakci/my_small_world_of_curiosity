@@ -359,6 +359,7 @@ Extras:
 - [x] [El Acmasi Kol Boregi (Pirasali) (**my cooking**)](/cooking#el-acmasi-kol-boregi-pirasali)
 - [x] [Rolled Pastry (**my cooking**)](/cooking#rolled-pastry)
 - [x] [False Chicken Breast Pudding (**my cooking**)](/cooking#false-chicken-breast-pudding)
+- [x] [Cig Kofte (Turkish style vegetarian steak tartar balls)](/cooking#cig-kofte)
 - [ ] [Quince Filled Cookies](https://www.nefisyemektarifleri.com/ayvali-kurabiye/)
 - [ ] [Russian Salad](https://eatingeuropean.com/russian-salad-olivier-salad/)
 - [ ] [Arnavut Boregi](https://www.nefisyemektarifleri.com/arnavut-boregi-tarifi-527442/)
