@@ -96,4 +96,5 @@
   - Yarim cay kasigi muskat rendesi (opsiyonel)
   - Rendelenmis 2 sogan
   - 1 bas sarimsak, rendelenmis
-3. Servis etmeye yakin sekil ver.
+3. KitchenAid de 20-30 dk karistir.
+4. Servis etmeye yakin sekil ver.
