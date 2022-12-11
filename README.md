@@ -183,8 +183,10 @@
 - [ ] [Heart of a Dog, 1988](https://www.imdb.com/title/tt0096126/)
 - [ ] [Inglourious Basterds, 2009](https://www.imdb.com/title/tt0361748/)
 - [ ] [Requiem for a Dream, 2000](https://www.imdb.com/title/tt0180093/)
-- [x] [Time of the Gypsies, 1988](https://www.imdb.com/title/tt0097223/) - [soundtrack](https://open.spotify.com/album/1HrPH9JGhdudroFGQs55i6)
-- [ ] [Andrei Tarkovsky](http://thecinemaarchives.com/2019/04/23/the-8th-best-director-of-all-time-andrei-tarkovsky/)
+- Emir Kusturica
+     - [x] [Time of the Gypsies, 1988](https://www.imdb.com/title/tt0097223/) - [soundtrack](https://open.spotify.com/album/1HrPH9JGhdudroFGQs55i6)
+     - [ ] [Underground, 1995](https://www.imdb.com/title/tt0114787/?ref_=nm_knf_t_1)
+- [Andrei Tarkovsky](http://thecinemaarchives.com/2019/04/23/the-8th-best-director-of-all-time-andrei-tarkovsky/)
      - [ ] [Solaris, 1972](https://www.imdb.com/title/tt0069293/)
      - [ ] [The Mirror, 1975](https://www.imdb.com/title/tt0072443/)
      - [ ] [The Sacrifice, 1986](https://www.imdb.com/title/tt0091670/)
@@ -337,6 +339,7 @@ Extras:
 - [ ] [Blogilates Monthly Program](https://www.blogilates.com/blog/new-beginners-calendar-2-0-for-2015/)
    - [x] [Day 1](https://www.blogilates.com/beginners-2-0-day-1/)
    - [x] [Day 2](https://www.blogilates.com/beginners-2-0-day-2/)
+   - [x] [Day 3](https://www.blogilates.com/beginners-2-0-day-3/)
 
 
 ## Drawing
@@ -355,6 +358,7 @@ Extras:
 - [x] [El Acmasi Kol Boregi (Pirasali) (**my cooking**)](/cooking#el-acmasi-kol-boregi-pirasali)
 - [x] [Rolled Pastry (**my cooking**)](/cooking#rolled-pastry)
 - [x] [False Chicken Breast Pudding (**my cooking**)](/cooking#false-chicken-breast-pudding)
+- [ ] [Quince Filled Cookies](https://www.nefisyemektarifleri.com/ayvali-kurabiye/)
 - [ ] [Russian Salad](https://eatingeuropean.com/russian-salad-olivier-salad/)
 - [ ] [Arnavut Boregi](https://www.nefisyemektarifleri.com/arnavut-boregi-tarifi-527442/)
 - [ ] [Musakka](https://vidarbergum.com/recipe/turkish-moussaka-patlican-musakka/)
