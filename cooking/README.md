@@ -79,3 +79,21 @@
 3. 1,5 su bardagi seker, 1-2 dk kavur
 4. 1 kilo soguk sut ekle, karistir. Kaynamaya baslayinca 10 dk kaynat.
 5. Biraz soguyunca 1 paket vanilya ilave et. En az 5 dk. mikserle cirp, sut ilave edip kivami ayarla.
+
+## Cig Kofte
+[<img src="cigkofte.jpg" width="500"/>](cigkofte.jpg)
+1. 5 su bardagi sicak su + 5 su bardagi cig koftelik esmer bulgur -> KitchenAid in kabinda, ustunu kapatip 20 dk dinlendir.
+2. Malzemeleri derin bir kapta karistir:
+  - 3 yemek kasigi domates salcasi
+  - 3 yemek kasigi biber salcasi
+  - 1,5 su bardagi zeytinyagi
+  - 1 cay bardagi isot
+  - 1 su bardagi nar eksisi
+  - 2 tatli kasigi nane
+  - Yarim tatli kasigi kimyon
+  - 1 tatli kasigi kirkizi toz biber
+  - 1 tatli kasigi karabiber
+  - Yarim cay kasigi muskat rendesi (opsiyonel)
+  - Rendelenmis 2 sogan
+  - 1 bas sarimsak, rendelenmis
+3. Servis etmeye yakin sekil ver.
