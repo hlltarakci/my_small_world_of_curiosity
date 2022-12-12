@@ -341,7 +341,9 @@ Extras:
    - [x] [Day 2](https://www.blogilates.com/beginners-2-0-day-2/)
    - [x] [Day 3](https://www.blogilates.com/beginners-2-0-day-3/)
    - [x] [Day 4](https://www.blogilates.com/beginners-2-0-day-4/)
-
+   - [x] [Day 5](https://www.blogilates.com/beginners-2-0-day-5/)
+   - [x] [Day 6](https://www.blogilates.com/beginners-2-0-day-6/)
+   - Day 7 is rest day
 
 ## Drawing
 - [ ] [Udemy, The Ultimate Drawing Course - Beginner to Advanced](https://www.udemy.com/course/the-ultimate-drawing-course-beginner-to-advanced/)
