@@ -366,6 +366,7 @@ Extras:
 - [x] [Quince Filled Cookies](https://www.nefisyemektarifleri.com/ayvali-kurabiye/) - [**my cooking**](/cooking#quince-filled-cookies)
 - [x] [Kuru Domates Salatasi (**my cooking**)](/cooking#kuru-domates-salatasi)
 - [x] [Kiymali Pide (**my cooking**)](/cooking#kiymali-pide)
+- [ ] [Strawberry Magnolia](https://www.nefisyemektarifleri.com/lezzetli-kremasiyla-cilekli-magnolia/)
 - [ ] [Russian Salad](https://eatingeuropean.com/russian-salad-olivier-salad/)
 - [ ] [Arnavut Boregi](https://www.nefisyemektarifleri.com/arnavut-boregi-tarifi-527442/)
 - [ ] [Musakka](https://vidarbergum.com/recipe/turkish-moussaka-patlican-musakka/)
@@ -375,3 +376,5 @@ Extras:
 - [ ] [Mercimek Koftesi](https://www.nefisyemektarifleri.com/kolay-mercimek-koftesi/)
 - [ ] [Quiche mit Käse](https://www.youtube.com/watch?v=kmSYTFjC6ao)
 - [ ] [Corek](https://www.youtube.com/watch?v=_phzMtmdpUo)
+- Sandwich Recipes - [link1](https://www.brit.co/fancy-sandwich-recipes/) - [link2](https://insanelygoodrecipes.com/sandwich-recipes/)
+- AirFryer Recipes - [link](https://twitter.com/AF_Recipes)
