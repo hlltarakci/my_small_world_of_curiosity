@@ -112,3 +112,13 @@
 1. 15-20 kuru domatesi 20 dk kadar sicak su icinde beklet. Daha sonra kagit havlu ile kurula.
 2. Kuru domates + 4 dis sarimsak + Yarim su bardagi ceviz + bir tutam maydanoz -> dogra, salataya karistir.
 3. 1 cay bardagi zeytinyagi + 1 tatli kasigi kekik + 1 tatli kasigi toz biber + yarim cay kasigi karabiber + tuz -> salataya ekle, karistir.
+
+## Kiymali Pide
+[<img src="kiymali_pide.jpg" width="500"/>](kiymali_pide.jpg)
+1. Kiymali Harc: Sogani siviyagda kavur, kiyma, karabiber, tuz ekle. Sogumaya birak.
+2. 10 g kuru maya (Tek pisirimlik olan 1 paket ya da 2 yemek kasigi pakmaya) + 6-7 tatli kasigi seker + 1 bardak sicaga yakin ilik su -> Mayanin kabarip tasmasini bekle.
+3. Un + 3 cay kasigi tuz + 1 su bardagi sut + 1 su bardagi siviyag -> Hamur tut. Aldigi kadar un ekle, kulak memesi kivaminda olacak.
+4. Hamurun kabarmasini bekle (1-2 saat alabilir)
+5. Hamurdan parca kopar, kiymali harc ekle, sekil ver.
+6. Ustune yumurta sarisi sur, susam, corekotu serp.
+7. 180 derecede pisir.
