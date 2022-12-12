@@ -106,3 +106,9 @@
 3. 2-2.5 su bardagi unu azar azar ekle. 1 paket vanilin, 1 paket hamur kabartma tozunu unla karistirip ekle. Ele yapismayan hamur olsun. Ustunu nemli bezle kapatip, 20 dk beklet.
 4. Sekil ver, icini koy.
 5. 175 derecede 20-25 dk pisir.
+
+## Kuru Domates Salatasi
+[<img src="kuru_domates_salatasi.jpg" width="500"/>](kuru_domates_salatasi.jpg)
+1. 15-20 kuru domatesi 20 dk kadar sicak su icinde beklet. Daha sonra kagit havlu ile kurula.
+2. Kuru domates + 4 dis sarimsak + Yarim su bardagi ceviz + bir tutam maydanoz -> dogra, salataya karistir.
+3. 1 cay bardagi zeytinyagi + 1 tatli kasigi kekik + 1 tatli kasigi toz biber + yarim cay kasigi karabiber + tuz -> salataya ekle, karistir.
