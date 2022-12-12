@@ -361,6 +361,8 @@ Extras:
 - [x] [False Chicken Breast Pudding (**my cooking**)](/cooking#false-chicken-breast-pudding)
 - [x] [Cig Kofte (Turkish style vegetarian steak tartar balls)](/cooking#cig-kofte)
 - [x] [Quince Filled Cookies](https://www.nefisyemektarifleri.com/ayvali-kurabiye/) - [**my cooking**](/cooking#quince-filled-cookies)
+- [x] [Kuru Domates Salatasi (**my cooking**)](/cooking#kuru-domates-salatasi)
+- [x] [Kiymali Pide (**my cooking**)](/cooking#kiymali-pide)
 - [ ] [Russian Salad](https://eatingeuropean.com/russian-salad-olivier-salad/)
 - [ ] [Arnavut Boregi](https://www.nefisyemektarifleri.com/arnavut-boregi-tarifi-527442/)
 - [ ] [Musakka](https://vidarbergum.com/recipe/turkish-moussaka-patlican-musakka/)
