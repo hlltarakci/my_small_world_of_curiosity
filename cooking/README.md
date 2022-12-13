@@ -122,3 +122,9 @@
 5. Hamurdan parca kopar, kiymali harc ekle, sekil ver.
 6. Ustune yumurta sarisi sur, susam, corekotu serp.
 7. 180 derecede pisir.
+
+## Fried Anchovies (Hamsi Tava)
+[<img src="fried_anchovies.jpg" width="500">](fried_anchovies.jpg]
+1. Hamsileri temizle, yika, suzdur. 10 dk beklesin.
+2. Tuz ve misir unu ile hamsileri karistir.
+3. Cok az kizartmalik yag ile tavada kizart.
