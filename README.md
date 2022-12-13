@@ -197,7 +197,7 @@
      - [ ] [Ivan's Childhood, 1960](https://www.imdb.com/title/tt0056111/)
 - [ ] [War and Peace, 1965](https://www.imdb.com/title/tt0063794/)
 - [ ] [12 Angry Man, 1957](https://www.imdb.com/title/tt0050083/)
-- [ ] [One Flew Over the Cuckoo's Nest, 1975 ](https://www.imdb.com/title/tt0073486/)
+- [x] [One Flew Over the Cuckoo's Nest, 1975 ](https://www.imdb.com/title/tt0073486/)
 - [ ] [The Grapes of Wrath, 1940](https://www.imdb.com/title/tt0032551/)
 - [ ] [It's a Wonderful Life, 1946](https://www.imdb.com/title/tt0038650/)
 
