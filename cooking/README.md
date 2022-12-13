@@ -124,7 +124,7 @@
 7. 180 derecede pisir.
 
 ## Fried Anchovies (Hamsi Tava)
-[<img src="fried_anchovies.jpg" width="500"/>](fried_anchovies.jpg]
+[<img src="fried_anchovies.jpg" width="500"/>](fried_anchovies.jpg)
 1. Hamsileri temizle, yika, suzdur. 10 dk beklesin.
 2. Tuz ve misir unu ile hamsileri karistir.
 3. Cok az kizartmalik yag ile tavada kizart.
