@@ -367,6 +367,7 @@ Extras:
 - [x] [Quince Filled Cookies](https://www.nefisyemektarifleri.com/ayvali-kurabiye/) - [**my cooking**](/cooking#quince-filled-cookies)
 - [x] [Kuru Domates Salatasi (**my cooking**)](/cooking#kuru-domates-salatasi)
 - [x] [Kiymali Pide (**my cooking**)](/cooking#kiymali-pide)
+- [x] [Fried Anchovies (Hamsi Tava)](/cooking#fried-anchovies-hamsi-tava)
 - [ ] [Strawberry Magnolia](https://www.nefisyemektarifleri.com/lezzetli-kremasiyla-cilekli-magnolia/)
 - [ ] [Russian Salad](https://eatingeuropean.com/russian-salad-olivier-salad/)
 - [ ] [Arnavut Boregi](https://www.nefisyemektarifleri.com/arnavut-boregi-tarifi-527442/)
