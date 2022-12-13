@@ -378,3 +378,8 @@ Extras:
 - [ ] [Corek](https://www.youtube.com/watch?v=_phzMtmdpUo)
 - Sandwich Recipes - [link1](https://www.brit.co/fancy-sandwich-recipes/) - [link2](https://insanelygoodrecipes.com/sandwich-recipes/)
 - AirFryer Recipes - [link](https://twitter.com/AF_Recipes)
+    - [ ] [Air Fryer Crispy Cauliflower (Easy)](https://realsimplegood.com/air-fryer-cauliflower/)
+    - [ ] [Air Fryer Twice Baked Potatoes](https://amandascookin.com/air-fryer-twice-baked-potatoes/)
+    - [ ] [Air Fryer Falafel](https://elavegan.com/air-fryer-falafel/)
+    - [ ] [Air Frier Chicken Wings](https://cookinglsl.com/how-to-make-chicken-wings-in-air-fryer/)
+- Breakfast Recipes - [link1](https://damndelicious.net/category/breakfast/) - [link2](https://damndelicious.net/category/breakfast/)
