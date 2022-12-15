@@ -128,3 +128,12 @@
 1. Hamsileri temizle, yika, suzdur. 10 dk beklesin.
 2. Tuz ve misir unu ile hamsileri karistir.
 3. Cok az kizartmalik yag ile tavada kizart.
+
+## Tomato Soup
+[<img src="tomato_soup.jpg" width="500"/>](tomato_soup.jpg)
+1. 2 yemek kasigi tereyag -> tencerede erit.
+2. 3 yemek kasi dolu dolu un -> kokusu cikana kadar kavur.
+3. 1 su bardagi sut + 1 su bardagi domates suyu -> ekle, karistir.
+4. Sicak su veya tavuk/et suyu ekle -> kaynat.
+5. 3 cay kasigi tuz + 1 tutan karabiber ekle.
+6. 5 dk kadar kaynat.
