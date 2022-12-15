@@ -137,3 +137,11 @@
 4. Sicak su veya tavuk/et suyu ekle -> kaynat.
 5. 3 cay kasigi tuz + 1 tutan karabiber ekle.
 6. 5 dk kadar kaynat.
+
+## Browni
+[<img src="browni.jpg" width="500"/>](browni.jpg)
+1. 4 yumurta + 2 su bardagi seker -> 5 dk cirp
+2. 2 su bardagi sut + 1 su bardagi siviyag -> ekle, cirp
+3. 50 gr kakao (1 paket ya da 3 yemek kasigi) + 1 paket vanilin -> cirp. 1,5 su bardagi kadar kenarda ayir
+4. 2 su bardagi un + 1 paket hamur kabartma tozu -> cirp. Kaliba dok.
+5. 170 derecede pisir
