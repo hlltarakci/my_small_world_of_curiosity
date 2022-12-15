@@ -386,6 +386,8 @@ Extras:
 - [ ] [Mercimek Koftesi](https://www.nefisyemektarifleri.com/kolay-mercimek-koftesi/)
 - [ ] [Quiche mit Käse](https://www.youtube.com/watch?v=kmSYTFjC6ao)
 - [ ] [Corek](https://www.youtube.com/watch?v=_phzMtmdpUo)
+- Soups
+    - [x] [Tomato Soup](https://github.com/hlltarakci/inspirational_tracker/blob/main/cooking/README.md#tomato-soup)
 - Sandwich Recipes - [link1](https://www.brit.co/fancy-sandwich-recipes/) - [link2](https://insanelygoodrecipes.com/sandwich-recipes/)
 - AirFryer Recipes - [link](https://twitter.com/AF_Recipes)
     - [ ] [Air Fryer Crispy Cauliflower (Easy)](https://realsimplegood.com/air-fryer-cauliflower/)
