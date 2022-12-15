@@ -376,6 +376,7 @@ Extras:
 - [x] [Kuru Domates Salatasi](https://github.com/hlltarakci/inspirational_tracker/tree/main/cooking#kuru-domates-salatasi)
 - [x] [Kiymali Pide](https://github.com/hlltarakci/inspirational_tracker/tree/main/cooking#kiymali-pide)
 - [x] [Fried Anchovies (Hamsi Tava)](https://github.com/hlltarakci/inspirational_tracker/tree/main/cooking#fried-anchovies-hamsi-tava)
+- [x] [Browni](https://github.com/hlltarakci/inspirational_tracker/blob/main/cooking/browni.jpg)
 - [ ] [Strawberry Magnolia](https://www.nefisyemektarifleri.com/lezzetli-kremasiyla-cilekli-magnolia/)
 - [ ] [Russian Salad](https://eatingeuropean.com/russian-salad-olivier-salad/)
 - [ ] [Arnavut Boregi](https://www.nefisyemektarifleri.com/arnavut-boregi-tarifi-527442/)
