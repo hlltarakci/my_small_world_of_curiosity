@@ -144,4 +144,4 @@
 2. 2 su bardagi sut + 1 su bardagi siviyag -> ekle, cirp
 3. 50 gr kakao (1 paket ya da 3 yemek kasigi) + 1 paket vanilin -> cirp. 1,5 su bardagi kadar kenarda ayir
 4. 2 su bardagi un + 1 paket hamur kabartma tozu -> cirp. Kaliba dok.
-5. 170 derecede pisir
+5. 170 derecede pisir. Catal ile delerek ayrilmis islak karisimi dok.
