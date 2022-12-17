@@ -202,7 +202,7 @@
      - [ ] [Stalker, 1979](https://www.imdb.com/title/tt0079944/)
      - [ ] [Ivan's Childhood, 1960](https://www.imdb.com/title/tt0056111/)
 - [Ingmar Bergman](https://mubi.com/cast/ingmar-bergman)
-     - [ ] [Wild Strawberries, 1957](https://www.imdb.com/title/tt0050986/)
+     - [x] [**Wild Strawberries, 1957**](https://www.imdb.com/title/tt0050986/)
 - Nuri Bilge Ceylan
      - [ ] [Winter Sleep, 2014](https://www.imdb.com/title/tt2758880/?ref_=nm_knf_t_2)
      - [ ] [Once Upon a Time in Anatolia, 2011](https://www.imdb.com/title/tt1827487/?ref_=nm_knf_t_1)
