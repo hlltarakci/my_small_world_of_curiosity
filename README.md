@@ -281,6 +281,7 @@
 - [x] [Yuval Noah Harari, Homo Deus: A Brief History of Tomorrow](https://www.amazon.co.uk/Homo-Deus-Brief-History-Tomorrow/dp/1784703931/ref=pd_bxgy_img_sccl_1/259-9606393-1929032?pd_rd_w=9VLPx&content-id=amzn1.sym.79b812bf-5c8b-4c0c-851c-784423adaff5&pf_rd_p=79b812bf-5c8b-4c0c-851c-784423adaff5&pf_rd_r=80EAMZP0RAYXB16RVQ81&pd_rd_wg=jMR7R&pd_rd_r=230cbc0f-021e-40e0-b17b-381abfa99a4a&pd_rd_i=1784703931&psc=1)
 - [ ] [Yuval Noah Harari, 21 Lessons for the 21st Century](https://www.amazon.co.uk/Lessons-21st-Century-Yuval-Harari/dp/1784708283/ref=pd_bxgy_img_sccl_2/259-9606393-1929032?pd_rd_w=9VLPx&content-id=amzn1.sym.79b812bf-5c8b-4c0c-851c-784423adaff5&pf_rd_p=79b812bf-5c8b-4c0c-851c-784423adaff5&pf_rd_r=80EAMZP0RAYXB16RVQ81&pd_rd_wg=jMR7R&pd_rd_r=230cbc0f-021e-40e0-b17b-381abfa99a4a&pd_rd_i=1784708283&psc=1)
 - [x] [**Leil Lowndes, How to Talk to Anyone: 92 Little Tricks for Big Success in Relationships**](https://www.amazon.co.uk/How-Talk-Anyone-Success-Relationships-ebook/dp/B00BAJ2MYM/ref=sr_1_1?keywords=How+to+talk+to+anyone&qid=1659384293&s=digital-text&sr=1-1) - unexpectedly useful advice! i should read this twice a year to calibrate myself.
+- [ ] [Kenneth Blanchard, The One Minute Manager](https://www.amazon.com/One-Minute-Manager-Kenneth-Blanchard/dp/0425093980)
 - [ ] [Bertrand Russell, A History of Western Philosophy](https://www.amazon.com/History-Western-Philosophy-Bertrand-Russell/dp/0671201581/ref=sr_1_1?ie=UTF8&qid=1490204564&sr=8-1&keywords=bertrand%20russell)
 - [ ] [Gary Allman, Small Talk: An Introvert's Guide to Small Talk](https://www.amazon.co.uk/Small-Talk-Introverts-Instantly-relationship-ebook/dp/B01IKPQ7AI)
 - [ ] [Chris Voss, Never Split the Difference; Negotiating as if your life depended on it](https://www.amazon.co.uk/Never-Split-Difference-Negotiating-Depended/dp/0062407805)
@@ -334,14 +335,14 @@
 
 Extras: 
 - [1](https://www.youtube.com/watch?v=bMnW7bbkV6Q)
-- [2](https://www.youtube.com/watch?v=j0rgbfeRFVA)
-- [3](https://www.youtube.com/watch?v=faQ9lkjiRaM)
-- [4](https://www.youtube.com/watch?v=Qow5XgDqEdo)
-- [5](https://www.youtube.com/watch?v=rwVzamFR-tg)
-- [6](https://www.youtube.com/watch?v=inL-zRXWpkk)
-- [7](https://www.youtube.com/watch?v=lCg_gh_fppI)
-- [8](https://www.youtube.com/watch?v=h_rAyZgbSPM)
-- [9](https://www.youtube.com/watch?v=s0CkBw5Wock)
+/ [2](https://www.youtube.com/watch?v=j0rgbfeRFVA)
+/ [3](https://www.youtube.com/watch?v=faQ9lkjiRaM)
+/ [4](https://www.youtube.com/watch?v=Qow5XgDqEdo)
+/ [5](https://www.youtube.com/watch?v=rwVzamFR-tg)
+/ [6](https://www.youtube.com/watch?v=inL-zRXWpkk)
+/ [7](https://www.youtube.com/watch?v=lCg_gh_fppI)
+/ [8](https://www.youtube.com/watch?v=h_rAyZgbSPM)
+/ [9](https://www.youtube.com/watch?v=s0CkBw5Wock)
 
 ### Monthly Program
 
@@ -355,6 +356,7 @@ Extras:
    - Day 7 is rest day
    - [x] [Day 8](https://www.blogilates.com/beginners-2-0-day-8/)
    - [x] [Day 9](https://www.blogilates.com/beginners-2-0-day-9/)
+   - [x] [Day 10](https://www.blogilates.com/beginners-2-0-day-10/)
 
 ## Drawing
 - [ ] [Udemy, The Ultimate Drawing Course - Beginner to Advanced](https://www.udemy.com/course/the-ultimate-drawing-course-beginner-to-advanced/)
@@ -375,7 +377,7 @@ Extras:
 - [x] [Cig Kofte (Turkish style vegetarian steak tartar balls)](https://github.com/hlltarakci/inspirational_tracker/tree/main/cooking#cig-kofte)
 - [x] [Quince Filled Cookies](https://github.com/hlltarakci/inspirational_tracker/tree/main/cooking#quince-filled-cookies)
 - [x] [Kuru Domates Salatasi](https://github.com/hlltarakci/inspirational_tracker/tree/main/cooking#kuru-domates-salatasi)
-- [x] [Kiymali Pide](https://github.com/hlltarakci/inspirational_tracker/tree/main/cooking#kiymali-pide)
+- [x] [Kiymali Pide](https://github.c*om/hlltarakci/inspirational_tracker/tree/main/cooking#kiymali-pide)
 - [x] [Fried Anchovies (Hamsi Tava)](https://github.com/hlltarakci/inspirational_tracker/tree/main/cooking#fried-anchovies-hamsi-tava)
 - [x] [Browni](https://github.com/hlltarakci/inspirational_tracker/blob/main/cooking/README.md#browni)
 - [ ] [Strawberry Magnolia](https://www.nefisyemektarifleri.com/lezzetli-kremasiyla-cilekli-magnolia/)
