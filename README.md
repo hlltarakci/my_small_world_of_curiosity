@@ -164,13 +164,13 @@
 - [x] [Casablanca, 1942](https://www.imdb.com/title/tt0034583/)
 - [x] [Zorba, 1964](https://www.imdb.com/title/tt0057831/)
 - [x] [The Grand Budapest Hotel, 2014](https://www.imdb.com/title/tt2278388/)
-- [x] [Gone Girl, 2014](https://www.imdb.com/title/tt2267998/)
 - [x] [The Hitchhiker's Guide to the Galaxy, 2005](https://www.imdb.com/title/tt0371724/)
 - [x] [**The Shop around the Corner, 1940**](https://www.imdb.com/title/tt0033045/)
 - [x] [High Fidelity, 2000](https://www.imdb.com/title/tt0146882/)
 - [x] [One Week, 2008](https://www.imdb.com/title/tt1104806/)
 - [x] [**One Flew Over the Cuckoo's Nest**, 1975 ](https://www.imdb.com/title/tt0073486/)
-- [ ] [Inglourious Basterds, 2009](https://www.imdb.com/title/tt0361748/)
+- [ ] [Eternity and a Day, 1998](https://www.imdb.com/title/tt0156794/)
+- [ ] [Inglourious Bastards, 2009](https://www.imdb.com/title/tt0361748/)
 - [ ] [Requiem for a Dream, 2000](https://www.imdb.com/title/tt0180093/)
 - [ ] [War and Peace, 1965](https://www.imdb.com/title/tt0063794/)
 - [ ] [12 Angry Man, 1957](https://www.imdb.com/title/tt0050083/)
@@ -206,6 +206,16 @@
 - Nuri Bilge Ceylan
      - [ ] [Winter Sleep, 2014](https://www.imdb.com/title/tt2758880/?ref_=nm_knf_t_2)
      - [ ] [Once Upon a Time in Anatolia, 2011](https://www.imdb.com/title/tt1827487/?ref_=nm_knf_t_1)
+- Stanley Kubrick
+     - [ ] [2001: A Space Odyssey, 1968](https://www.imdb.com/title/tt0062622/)
+- Alfred Hitchcock
+     - [Vertigo, 1958](https://www.imdb.com/title/tt0052357/)
+- David Fincher
+     - [x] [Gone Girl, 2014](https://www.imdb.com/title/tt2267998/)
+- Martin Scorsese
+     - [ ] [Good Fellas, 1990](https://www.imdb.com/title/tt0099685/)
+- Christopher Nolan
+     - [ ] [The Dark Knight, 2008](https://www.imdb.com/title/tt0468569/)
 - Series
      - [ ] [Love, Death & Robots, 2019](https://www.imdb.com/title/tt9561862/)
      - [ ] [Chernobyl, 2019](https://www.imdb.com/title/tt7366338/)
