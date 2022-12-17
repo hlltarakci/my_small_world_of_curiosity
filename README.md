@@ -81,14 +81,15 @@
 - [x] [Ottomans vs Venetians: Battle for Crete, 2010](https://www.imdb.com/title/tt12797060/)
 - [ ] [The History of the Ottoman Empire](https://youtu.be/f9c4Y7Vf7G0)
 - [ ] [**32. Gun Arsivi**](https://www.youtube.com/watch?app=desktop&v=sBPfjeWbp9Q)
-   - [ ] [Demirkirat Belgeseli (10 Bolum), 1991](https://www.youtube.com/watch?v=_kVCHHBRuSE)
-        - [x] [1: 1930-1945, Adnan Menderes'in siyasete girisi, Inonu donemi, 2. Dunya Savasi'nda Turkiye](https://www.youtube.com/watch?app=desktop&v=sBPfjeWbp9Q)
-        - [x] [2: 1946, Demokrat Parti'nin ilk secimi](https://www.youtube.com/watch?v=uFGz_hN-A94)
-        - [x] [3: 1950, 1950 Secimleri, Adnan Menderes'in basbakan olmasi](https://www.youtube.com/watch?v=wm8dOfQQ3Ns)
-        - [x] [4: 1950-1954, Ezanin Arapca'ya donmesi, Turkiye'nin dis politikada batiya yonelmesi, Kore savasi, 1952'de Nato uyeligi, 1954 secimleri](https://www.youtube.com/watch?v=_kVCHHBRuSE), [Marshall plani ve bogazlar](https://tr.wikipedia.org/wiki/Marshall_Planı)
-        - [x] [5: 1955, Askeri hareketlilik, 5-6 Eylul olaylari](https://www.youtube.com/watch?v=gaCnPr9o4T4), [Istanbul pogrom](https://en.wikipedia.org/wiki/Istanbul_pogrom)
-        - [x] [6: 1955-1958, 1957 secimleri, Irak'ta darbe, Menderes'in ucaginin dusmesi](https://www.youtube.com/watch?v=2Pgic61TqZY)
-        - [x] [7: 1959-May 1960, Isyan](https://www.youtube.com/watch?v=IVPS6KSE1GU)
+   - [ ] [Demirkirat Belgeseli (10 Bolum), 1991](https://www.youtube.com/watch?v=_kVCHHBRuSE) / 
+        [1: 1930-1945, Adnan Menderes'in siyasete girisi, Inonu donemi, 2. Dunya Savasi'nda Turkiye](https://www.youtube.com/watch?app=desktop&v=sBPfjeWbp9Q) /
+        [2: 1946, Demokrat Parti'nin ilk secimi](https://www.youtube.com/watch?v=uFGz_hN-A94) /
+        [3: 1950, 1950 Secimleri, Adnan Menderes'in basbakan olmasi](https://www.youtube.com/watch?v=wm8dOfQQ3Ns) /
+        [4: 1950-1954, Ezanin Arapca'ya donmesi, Turkiye'nin dis politikada batiya yonelmesi, Kore savasi, 1952'de Nato uyeligi, 1954 secimleri](https://www.youtube.com/watch?v=_kVCHHBRuSE), [Marshall plani ve bogazlar](https://tr.wikipedia.org/wiki/Marshall_Planı) /
+        [5: 1955, Askeri hareketlilik, 5-6 Eylul olaylari](https://www.youtube.com/watch?v=gaCnPr9o4T4), [Istanbul pogrom](https://en.wikipedia.org/wiki/Istanbul_pogrom) /
+        [6: 1955-1958, 1957 secimleri, Irak'ta darbe, Menderes'in ucaginin dusmesi](https://www.youtube.com/watch?v=2Pgic61TqZY) /
+        [7: 1959-May 1960, Isyan](https://www.youtube.com/watch?v=IVPS6KSE1GU) /
+        [8: 27 Mayis 1960 Darbe](https://www.youtube.com/watch?v=DzNr4rwXsq4)
    - [ ] [12 Mart](https://www.youtube.com/watch?v=_kVCHHBRuSE) 
    - [ ] [12 Eylul](https://www.youtube.com/watch?v=arGodO-a1sE)
    - [ ] [Ozalli Yillar](https://www.youtube.com/watch?v=arGodO-a1sE)
@@ -377,7 +378,7 @@ Extras:
 - [x] [Cig Kofte (Turkish style vegetarian steak tartar balls)](https://github.com/hlltarakci/inspirational_tracker/tree/main/cooking#cig-kofte)
 - [x] [Quince Filled Cookies](https://github.com/hlltarakci/inspirational_tracker/tree/main/cooking#quince-filled-cookies)
 - [x] [Kuru Domates Salatasi](https://github.com/hlltarakci/inspirational_tracker/tree/main/cooking#kuru-domates-salatasi)
-- [x] [Kiymali Pide](https://github.c*om/hlltarakci/inspirational_tracker/tree/main/cooking#kiymali-pide)
+- [x] [Kiymali Pide](https://github.com/hlltarakci/inspirational_tracker/tree/main/cooking#kiymali-pide)
 - [x] [Fried Anchovies (Hamsi Tava)](https://github.com/hlltarakci/inspirational_tracker/tree/main/cooking#fried-anchovies-hamsi-tava)
 - [x] [Browni](https://github.com/hlltarakci/inspirational_tracker/blob/main/cooking/README.md#browni)
 - [ ] [Strawberry Magnolia](https://www.nefisyemektarifleri.com/lezzetli-kremasiyla-cilekli-magnolia/)
