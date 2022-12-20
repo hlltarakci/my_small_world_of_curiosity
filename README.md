@@ -89,7 +89,8 @@
         [5: 1955, Askeri hareketlilik, 5-6 Eylul olaylari](https://www.youtube.com/watch?v=gaCnPr9o4T4), [Istanbul pogrom](https://en.wikipedia.org/wiki/Istanbul_pogrom) /
         [6: 1955-1958, 1957 secimleri, Irak'ta darbe, Menderes'in ucaginin dusmesi](https://www.youtube.com/watch?v=2Pgic61TqZY) /
         [7: 1959-May 1960, Isyan](https://www.youtube.com/watch?v=IVPS6KSE1GU) /
-        [8: 27 Mayis 1960 Darbe](https://www.youtube.com/watch?v=DzNr4rwXsq4)
+        [8: 27 Mayis 1960 Darbe](https://www.youtube.com/watch?v=DzNr4rwXsq4) /
+        [9: Ada](https://www.youtube.com/watch?v=lpVS7AcwX9s)
    - [ ] [12 Mart](https://www.youtube.com/watch?v=_kVCHHBRuSE) 
    - [ ] [12 Eylul](https://www.youtube.com/watch?v=arGodO-a1sE)
    - [ ] [Ozalli Yillar](https://www.youtube.com/watch?v=arGodO-a1sE)
