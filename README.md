@@ -284,6 +284,7 @@
          - [x] [Judson Brewer, A simple way to break a bad habit](https://www.ted.com/talks/judson_brewer_a_simple_way_to_break_a_bad_habit?referrer=playlist-talks_to_help_practice_patienc&autoplay=true) - get curious :)
     - [x] [**How to be more patient and calm**](https://www.youtube.com/watch?v=mfmsNW7lf8c) - 1. Ask self introspective questions (ask why several times to get to the bottom) Lacking patience happen when we want to control the situation (micro manage) 2. Accept the present moment for what it is 3. Count to 10 before reacting 4. Be gentle with self 5. Zoom out, see the big picture
     - [ ] [Matt Abrahams, How to Make Your Communication Memorable](https://www.youtube.com/watch?v=Fsr4yrSAIAQ)
+    - [ ] [Top 10 TED 2022](https://www.ted.com/playlists/823/the_most_popular_ted_talks_of_2022)
 
 # READ List <a name="read_list"></a>
 ## Non-fictional <a name="nonfictional"></a>
