@@ -410,7 +410,7 @@ Extras:
     - [x] [Tomato Soup](https://github.com/hlltarakci/inspirational_tracker/blob/main/cooking/README.md#tomato-soup)
 - Sandwich Recipes - [link1](https://www.brit.co/fancy-sandwich-recipes/) - [link2](https://insanelygoodrecipes.com/sandwich-recipes/)
 - AirFryer Recipes - [link](https://twitter.com/AF_Recipes)
-    - [ ] [Air Fryer Crispy Cauliflower (Easy)](https://realsimplegood.com/air-fryer-cauliflower/) - [video recipe](https://www.youtube.com/watch?v=692IzLrL5hY)
+    - [ ] [Air Fryer Crispy Cauliflower](https://github.com/hlltarakci/inspirational_tracker/blob/main/cooking/README.md#airfryer-crispy-cauliflower)
     - [ ] [Air Fryer Twice Baked Potatoes](https://amandascookin.com/air-fryer-twice-baked-potatoes/)
     - [ ] [Air Fryer Falafel](https://elavegan.com/air-fryer-falafel/)
     - [ ] [Air Frier Chicken Wings](https://cookinglsl.com/how-to-make-chicken-wings-in-air-fryer/)
