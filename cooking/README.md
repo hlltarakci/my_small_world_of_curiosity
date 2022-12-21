@@ -145,3 +145,11 @@
 3. 50 gr kakao (1 paket ya da 3 yemek kasigi) + 1 paket vanilin -> cirp. 1,5 su bardagi kadar kenarda ayir
 4. 2 su bardagi un + 1 paket hamur kabartma tozu -> cirp. Kaliba dok.
 5. 170 derecede pisir. Catal ile delerek ayrilmis islak karisimi dok.
+
+
+## AirFryer Crispy Cauliflower
+[<img src="airfryer_crispy_cauliflower.jpg" width="500"/>](airfryer_crispy_cauliflower.jpg)
+1. Karnibahari yika, buyuk parcalar halinde kes
+2. Bir kaseye un + tuz koy, bir kaseye 2-3 yumurta cirp, bir kaseye galeta unu + tuz + baharatlar (kirmizi toz biber, karabiber, kirmizi pul biber, kekik vs) koy
+3. Karnibaharlari sirayla una, yumurtaya ve galeta unu karisimina bula. Uzerlerine siviyag spreyle.
+4. AirFryer da 200 derecede arada karistirarak 20 dk kadar pisir. Cacik veya sarimsakli yogurtla servis yap.
