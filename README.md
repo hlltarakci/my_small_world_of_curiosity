@@ -160,6 +160,7 @@
   - [ ] [Curious Minds: Space, 2015](https://www.imdb.com/title/tt6951516/)
 
 ## Movie <a name="movie"></a>
+- [100 Best Movies List by Variety](https://variety.com/lists/best-movies-of-all-time/)
 - [x] [Doctor Zhivago, 1965](https://www.imdb.com/title/tt0059113/)
 - [x] [Last Night, 1998](https://www.imdb.com/title/tt0156729/)
 - [x] [**Before Sunrise**, 1995](https://www.imdb.com/title/tt0112471/)
@@ -172,6 +173,7 @@
 - [x] [High Fidelity, 2000](https://www.imdb.com/title/tt0146882/)
 - [x] [One Week, 2008](https://www.imdb.com/title/tt1104806/)
 - [x] [**One Flew Over the Cuckoo's Nest**, 1975 ](https://www.imdb.com/title/tt0073486/)
+- [ ] [In the Mood for Love, 2000](https://www.imdb.com/title/tt0118694/)
 - [ ] [Eternity and a Day, 1998](https://www.imdb.com/title/tt0156794/)
 - [ ] [Inglourious Bastards, 2009](https://www.imdb.com/title/tt0361748/)
 - [ ] [Requiem for a Dream, 2000](https://www.imdb.com/title/tt0180093/)
