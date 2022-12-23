@@ -173,7 +173,6 @@
 - [x] [High Fidelity, 2000](https://www.imdb.com/title/tt0146882/)
 - [x] [One Week, 2008](https://www.imdb.com/title/tt1104806/)
 - [x] [**One Flew Over the Cuckoo's Nest**, 1975 ](https://www.imdb.com/title/tt0073486/)
-- [ ] [In the Mood for Love, 2000](https://www.imdb.com/title/tt0118694/)
 - [ ] [Eternity and a Day, 1998](https://www.imdb.com/title/tt0156794/)
 - [ ] [Inglourious Bastards, 2009](https://www.imdb.com/title/tt0361748/)
 - [ ] [Requiem for a Dream, 2000](https://www.imdb.com/title/tt0180093/)
@@ -221,6 +220,8 @@
      - [ ] [Good Fellas, 1990](https://www.imdb.com/title/tt0099685/)
 - Christopher Nolan
      - [ ] [The Dark Knight, 2008](https://www.imdb.com/title/tt0468569/)
+- Wong Kar Wai
+     - [x] [**In the Mood for Love, 2000**](https://www.imdb.com/title/tt0118694/) - [soundtrack](https://open.spotify.com/album/7sQUHy86ZsAl0rVwUrYi8s)
 - Series
      - [ ] [Love, Death & Robots, 2019](https://www.imdb.com/title/tt9561862/)
      - [ ] [Chernobyl, 2019](https://www.imdb.com/title/tt7366338/)
