@@ -44,7 +44,8 @@
      [6: Reds, 1947-1953](https://www.youtube.com/watch?v=n0U-b1TNf1Q&list=PL3H6z037pboGWTxs3xGP7HRGrQ5dOQdGc&index=6) / 
      [7: After Stalin, 1953-1956](https://www.youtube.com/watch?v=7K-hcgPom7Q&list=PL3H6z037pboGWTxs3xGP7HRGrQ5dOQdGc&index=7) / 
      [8: Sputnik, 1949-1961](https://www.youtube.com/watch?v=3uGT0mZOhR0&list=PL3H6z037pboGWTxs3xGP7HRGrQ5dOQdGc&index=8) /
-     [9: The Wall, 1958-1963](https://www.youtube.com/watch?v=VVX-iOKty9k&list=PL3H6z037pboGWTxs3xGP7HRGrQ5dOQdGc&index=9) 
+     [9: The Wall, 1958-1963](https://www.youtube.com/watch?v=VVX-iOKty9k&list=PL3H6z037pboGWTxs3xGP7HRGrQ5dOQdGc&index=9) / 
+     [10: Cuba, 1959-1962](https://www.youtube.com/watch?v=yOxeZt217uw&list=PL3H6z037pboGWTxs3xGP7HRGrQ5dOQdGc&index=10) 
    - [ ] [**Soviet Storm, WW2 in the East, 2010**](https://www.imdb.com/title/tt3610248/), [where to watch](https://www.youtube.com/playlist?list=PLwGzY25TNHPC_SsXFcIH-ba0nWuNbHOM6)
    - [ ] [Putin, Russia and the West, 2011](https://www.imdb.com/title/tt2131951/?ref_=tt_sims_tt_t_1)
    - [ ] [The Lost World of Communism, 2009](https://www.imdb.com/title/tt2976152/)
@@ -226,7 +227,6 @@
      - [ ] [Love, Death & Robots, 2019](https://www.imdb.com/title/tt9561862/)
      - [ ] [Chernobyl, 2019](https://www.imdb.com/title/tt7366338/)
      - [ ] [Angels in America, 2003](https://www.imdb.com/title/tt0318997/)
-   
 
 # LISTEN List (Podcast)<a name="listen_list"></a>
 - [x] [Kendine Iyi Davran](https://open.spotify.com/show/1OsUxSME9IyoE1ZyDpRLxc)
