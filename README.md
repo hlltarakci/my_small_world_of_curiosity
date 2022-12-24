@@ -179,6 +179,7 @@
 - [ ] [Requiem for a Dream, 2000](https://www.imdb.com/title/tt0180093/)
 - [ ] [War and Peace, 1965](https://www.imdb.com/title/tt0063794/)
 - [ ] [12 Angry Man, 1957](https://www.imdb.com/title/tt0050083/)
+- [ ] [Citizen Cane, 1941](https://www.imdb.com/title/tt0033467/)
 - [ ] [The Grapes of Wrath, 1940](https://www.imdb.com/title/tt0032551/)
 - [ ] [It's a Wonderful Life, 1946](https://www.imdb.com/title/tt0038650/)
 - [Mosfilm](https://www.youtube.com/c/Mosfilm_eng)
@@ -213,6 +214,8 @@
      - [ ] [Once Upon a Time in Anatolia, 2011](https://www.imdb.com/title/tt1827487/?ref_=nm_knf_t_1)
 - Stanley Kubrick
      - [ ] [2001: A Space Odyssey, 1968](https://www.imdb.com/title/tt0062622/)
+     - [ ] [Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb, 1964](https://www.imdb.com/title/tt0057012/)
+     - [ ] [A Clockwork Orange, 1971](https://www.imdb.com/title/tt0066921/)
 - Alfred Hitchcock
      - [Vertigo, 1958](https://www.imdb.com/title/tt0052357/)
 - David Fincher
