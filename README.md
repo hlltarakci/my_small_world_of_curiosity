@@ -178,7 +178,7 @@
 - [ ] [Inglourious Bastards, 2009](https://www.imdb.com/title/tt0361748/)
 - [ ] [Requiem for a Dream, 2000](https://www.imdb.com/title/tt0180093/)
 - [ ] [War and Peace, 1965](https://www.imdb.com/title/tt0063794/)
-- [ ] [12 Angry Man, 1957](https://www.imdb.com/title/tt0050083/)
+- [x] [**12 Angry Men, 1957**](https://www.imdb.com/title/tt0050083/)
 - [ ] [Citizen Cane, 1941](https://www.imdb.com/title/tt0033467/)
 - [ ] [The Grapes of Wrath, 1940](https://www.imdb.com/title/tt0032551/)
 - [ ] [It's a Wonderful Life, 1946](https://www.imdb.com/title/tt0038650/)
