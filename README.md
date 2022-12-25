@@ -182,7 +182,7 @@
 - [x] [**12 Angry Men, 1957**](https://www.imdb.com/title/tt0050083/)
 - [ ] [Citizen Cane, 1941](https://www.imdb.com/title/tt0033467/)
 - [ ] [The Grapes of Wrath, 1940](https://www.imdb.com/title/tt0032551/)
-- [ ] [It's a Wonderful Life, 1946](https://www.imdb.com/title/tt0038650/)
+- [x] [**It's a Wonderful Life, 1946**](https://www.imdb.com/title/tt0038650/)
 - [Mosfilm](https://www.youtube.com/c/Mosfilm_eng)
      - [x] [**Irony of Fate or Enjoy Your Bath, 1975**](https://www.imdb.com/title/tt0073179/) 
       https://understandrussia.com/soviet-apartments/
