@@ -177,8 +177,8 @@
 - [x] [High Fidelity, 2000](https://www.imdb.com/title/tt0146882/)
 - [x] [One Week, 2008](https://www.imdb.com/title/tt1104806/)
 - [x] [**One Flew Over the Cuckoo's Nest**, 1975 ](https://www.imdb.com/title/tt0073486/)
+- [ ] [To Kill a Mockingbird, 1962](https://www.imdb.com/title/tt0056592/)
 - [ ] [Eternity and a Day, 1998](https://www.imdb.com/title/tt0156794/)
-- [ ] [Inglourious Bastards, 2009](https://www.imdb.com/title/tt0361748/)
 - [ ] [Requiem for a Dream, 2000](https://www.imdb.com/title/tt0180093/)
 - [ ] [War and Peace, 1965](https://www.imdb.com/title/tt0063794/)
 - [x] [**12 Angry Men, 1957**](https://www.imdb.com/title/tt0050083/)
@@ -229,6 +229,9 @@
      - [ ] [The Dark Knight, 2008](https://www.imdb.com/title/tt0468569/)
 - Wong Kar Wai
      - [x] [**In the Mood for Love, 2000**](https://www.imdb.com/title/tt0118694/) - [soundtrack](https://open.spotify.com/album/7sQUHy86ZsAl0rVwUrYi8s)
+- Quentin Tarantino
+     - [ ] [Pulp Fiction, 1994](https://www.imdb.com/title/tt0110912/)
+     - [ ] [Inglourious Basterds, 2009](https://www.imdb.com/title/tt0361748/)
 - Series 
      - [x] [The Crown, 2016](https://www.imdb.com/title/tt4786824/)
      - [ ] [Love, Death & Robots, 2019](https://www.imdb.com/title/tt9561862/)
