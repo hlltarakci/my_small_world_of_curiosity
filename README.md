@@ -393,6 +393,7 @@ Extras:
    - Day 14 is rest day
    - [x] [Day 15](https://www.blogilates.com/beginners-2-0-day-15/)
    - [x] [Day 16](https://www.blogilates.com/beginners-2-0-day-16/)
+   - [x] [Day 17](https://www.blogilates.com/beginners-2-0-day-17/)
 
 ## Drawing
 - [ ] [Udemy, The Ultimate Drawing Course - Beginner to Advanced](https://www.udemy.com/course/the-ultimate-drawing-course-beginner-to-advanced/)
