@@ -146,10 +146,17 @@
 4. 2 su bardagi un + 1 paket hamur kabartma tozu -> cirp. Kaliba dok.
 5. 170 derecede pisir. Catal ile delerek ayrilmis islak karisimi dok.
 
-
 ## AirFryer Crispy Cauliflower
 [<img src="airfryer_crispy_cauliflower.jpg" width="500"/>](airfryer_crispy_cauliflower.jpg)
 1. Karnibahari yika, buyuk parcalar halinde kes
 2. Bir kaseye un + tuz koy, bir kaseye 2-3 yumurta cirp, bir kaseye galeta unu + tuz + baharatlar (kirmizi toz biber, karabiber, kirmizi pul biber, kekik vs) koy
 3. Karnibaharlari sirayla una, yumurtaya ve galeta unu karisimina bula. Uzerlerine siviyag spreyle.
 4. AirFryer da 200 derecede arada karistirarak 20 dk kadar pisir. Cacik veya sarimsakli yogurtla servis yap.
+
+## Russian Tea Cakes
+[<img src="russian_tea_cakes.jpg" width="500"/>](russian_tea_cakes.jpg)
+1. 200 gr oda sicakliginda tereyag + 1 paket vanilya -> 2-3 dk mikserle cirp
+2. 2 su bardagi un + yarim su bardagi pudra sekeri -> Bir kasede karistir. Sonra ekle ve mikserle biraz cirp
+3. 1 su bardagi kesilmis ceviz -> Ekle ve biraz cirp.p
+4. Sekil ver. Dondurma kasiginda presleyerek sekil verilebiliyor.
+5. 175 derecede 15 dk pisir. Izgara uzerine al, 10-15 dk soguduktan sonra pudra sekerinde yuvarla
