@@ -397,6 +397,7 @@ Extras:
    - [x] [Day 16](https://www.blogilates.com/beginners-2-0-day-16/)
    - [x] [Day 17](https://www.blogilates.com/beginners-2-0-day-17/)
    - [x] [Day 18](https://www.blogilates.com/beginners-2-0-day-18/)
+   - [x] [Day 19](https://www.blogilates.com/beginners-2-0-day-19/)
 
 ## Drawing
 - [ ] [Udemy, The Ultimate Drawing Course - Beginner to Advanced](https://www.udemy.com/course/the-ultimate-drawing-course-beginner-to-advanced/)
