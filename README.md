@@ -110,7 +110,7 @@
 - [x] [The Origins of Machu Picchu](https://www.youtube.com/watch?v=JMAKRKkdOlw)
 - [x] [The Architecture of Machu Picchu](https://www.youtube.com/watch?v=31SFLloQ-hU&t=0s)
 - [x] [**Everybody Street, 2013**](https://www.imdb.com/title/tt2784462/) - [where to watch](https://www.eherg.com/blog/7-free-to-stream-documentaries-for-street-photographers) - [direct link](https://archive.org/embed/everstreet) - *"...other photographers go to the world and say "show me". Those select few, through time, who are willing to go out into chaos with some high hopes of interacting with a moment where life will become clarified for them. They can welcome ambiguity and surreal aspects of this kind of chaos. Even though it is chaos, they will have a moment of clarification."*
-- [ ] [Lost in the Woods, 2020](https://www.imdb.com/title/tt13416956/) - [where to watch](https://vimeo.com/392454256) - **"The purpose of the journey is to get lost, in forests, cities and people."**
+- [x] [**Lost in the Woods, 2020**](https://www.imdb.com/title/tt13416956/) - [where to watch](https://vimeo.com/392454256) - **"The purpose of the journey is to get lost, in forests, cities and people."**
 - [x] [**The Colours of Infinity, Arthur C. Clarke**, 1995](https://www.imdb.com/title/tt0241317/) - Nature is compatible with fractal geometry.
 - [ ] [Fun to Imagine, Richard Feynman, 1983](https://www.imdb.com/title/tt1118155/?ref_=tt_sims_tt_t_3) - [where to watch](https://www.youtube.com/watch?v=P1ww1IXRfTA)
 - [ ] [The Fantastic Mr Feynman, 2013](https://www.imdb.com/title/tt5182420/?ref_=tt_sims_tt_t_3) - [where to watch](https://www.youtube.com/watch?v=H9fjhQMsDW4)
