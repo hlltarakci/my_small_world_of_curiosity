@@ -201,6 +201,7 @@
      - [ ] [True Friends (Vernye druz'ya), 1954](https://www.imdb.com/title/tt0047650/) - [where to watch](https://www.youtube.com/watch?v=qGXoycbxSnA), cannot find subtitles :(
      - [ ] [The Diamond Arm, 1969](https://www.imdb.com/title/tt0062759/)
      - [ ] [Heart of a Dog, 1988](https://www.imdb.com/title/tt0096126/)
+     - [x] [Chernobyl 1986, 2021](https://www.imdb.com/title/tt10648714/)
 - Emir Kusturica
      - [x] [Time of the Gypsies, 1988](https://www.imdb.com/title/tt0097223/) - [soundtrack](https://open.spotify.com/album/1HrPH9JGhdudroFGQs55i6)
      - [ ] [Underground, 1995](https://www.imdb.com/title/tt0114787/?ref_=nm_knf_t_1)
