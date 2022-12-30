@@ -401,6 +401,7 @@ Extras:
    - [x] [Day 19](https://www.blogilates.com/beginners-2-0-day-19/)
    - [x] [Day 20](https://www.blogilates.com/beginners-2-0-day-20/)
    - Day 21 is rest day
+   - [x] [Day 22](https://www.blogilates.com/beginners-2-0-day-22/)
 
 ## Drawing
 - [ ] [Udemy, The Ultimate Drawing Course - Beginner to Advanced](https://www.udemy.com/course/the-ultimate-drawing-course-beginner-to-advanced/)
