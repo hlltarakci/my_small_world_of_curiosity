@@ -169,3 +169,16 @@
 4. 3 cay kasigi tuz + 1 cay kasigi karabiber -> ekle
 5. (Opsiyonel) 1 tavuk ya da et bulyon ekle
 6. Arpa sehriyeler pisince dinlenmeye birak
+
+## Kale Soup from Black Sea Region
+[<img src="kale_soup_from_blacksea_region.jpg" width="500"/>](kale_soup_from_blacksea_region.jpg)
+1. 2 demet kadar kara lahanayi yika, dogra.
+2. 2 orta boy sogan -> yemeklik dogra
+3. Soganlari 4-5 yemek kasigi zeytonyagi ile kavur
+4. 2-3 dis sarimsak -> dogra ve tencereye ekle
+5. 2 yemek kasigi biber salcasi -> tencereye ekle
+6. 3 orta boy patates -> kup kup dogra
+7. 3 kucuk havuc -> kucuk kucuk dogra
+8. Sogan-sarimsak kavrulunca, patates, havuc ve 1 cay bardagi barbunya tencereye ekle, kavur
+9. Karalahanayi ekle, biraz kavrulsun
+10. 2-3 yemek kasigi bulgur ekle, ustune gececek kadar su ilave et. Yarim saat kadar pisir
