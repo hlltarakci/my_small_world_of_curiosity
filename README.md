@@ -115,6 +115,7 @@
 - [ ] [Fun to Imagine, Richard Feynman, 1983](https://www.imdb.com/title/tt1118155/?ref_=tt_sims_tt_t_3) - [where to watch](https://www.youtube.com/watch?v=P1ww1IXRfTA)
 - [ ] [The Fantastic Mr Feynman, 2013](https://www.imdb.com/title/tt5182420/?ref_=tt_sims_tt_t_3) - [where to watch](https://www.youtube.com/watch?v=H9fjhQMsDW4)
 - [ ] [All Genius, All Buffoon: 100 Years of Richard Feynman](https://www.youtube.com/watch?v=A8pBn8S_JPAa)
+- [x] [The Lucy Mission (NASA) Origins of the Solar System](https://curiositystream.com/video/6652)
 - [ ] [The Ancient Bottomless Tunnels of Turkey and the Mystery of Gobekli Tepe](https://www.youtube.com/watch?v=qO-l_SN-XLY)
 - [ ] [Secrets of the Stone Age](https://www.youtube.com/watch?v=I2vYr6gx56o) - [Part 2](https://www.youtube.com/watch?v=XSGRd5Ve1zI)
 - [ ] [Solving The Mystery Of Stonehenge With Dan Snow](https://www.youtube.com/watch?v=D-m_g5JUO88)
