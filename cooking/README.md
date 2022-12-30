@@ -160,3 +160,12 @@
 3. 1 su bardagi kesilmis ceviz -> Ekle ve biraz cirp.p
 4. Sekil ver. Dondurma kasiginda presleyerek sekil verilebiliyor.
 5. 175 derecede 15 dk pisir. Izgara uzerine al, 10-15 dk soguduktan sonra pudra sekerinde yuvarla
+
+## Turkish Noodle Soup
+[<img src="turkish_noodle_soup.jpg" width="500"/>](turkish_noodle_soup.jpg)
+1. 5 yemek kasigi zeytinyagi + 5-6 yemek kasigi domates rendesi + (opsiyonel)1 tatli kasigi salca -> Tencereye koy, isit
+2. 5-6 su bardagi sicak su -> tencereye ekle, kaynat
+3. 1 cay bardagindan biraz fazla arpa sehriye -> ekle, karistir
+4. 3 cay kasigi tuz + 1 cay kasigi karabiber -> ekle
+5. (Opsiyonel) 1 tavuk ya da et bulyon ekle
+6. Arpa sehriyeler pisince dinlenmeye birak
