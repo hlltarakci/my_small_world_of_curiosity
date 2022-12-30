@@ -274,6 +274,7 @@
     - [ ] [Roger Penrose: Physics of Consiousness and Infinite Universe](https://www.youtube.com/watch?v=orMtwOz6Db0)
     - [ ] [Saagar Enjeti: Politics, History, and Power](https://www.youtube.com/watch?v=grceJbuPUXI)
     - [ ] [Martin Rees: Black Holes, Alien Life, Dark Matter, and the Big Bang](https://www.youtube.com/watch?v=50r-5ULcWgY)
+    - [ ] [Betul Kacar: Origin of Life, Ancient DNA, Panspermia, and Aliens](https://lexfridman.com/betul-kacar/)
 - [ ] Adam Grant
     - [x] [Leadership Lessons from Zelensky and Putin](https://open.spotify.com/show/4eylg9GZJOVvUhTynt4jjA)
     - [x] [That blah you are feeling is called languishing](https://open.spotify.com/episode/6Tq74UDl5D6c3FsVgrTQBT)
