@@ -442,6 +442,7 @@ Extras:
 - Soups
     - [x] [Tomato Soup](https://github.com/hlltarakci/inspirational_tracker/blob/main/cooking/README.md#tomato-soup)
     - [x] [Turkish Noodle Soup](https://github.com/hlltarakci/inspirational_tracker/blob/main/cooking/README.md#turkish-noodle-soup)
+    - [x] [Kale Soup from Black Sea Region](https://github.com/hlltarakci/inspirational_tracker/blob/main/cooking/README.md#kale-soup-from-black-sea-region)
 - Sandwich Recipes - [link1](https://www.brit.co/fancy-sandwich-recipes/) - [link2](https://insanelygoodrecipes.com/sandwich-recipes/)
 - AirFryer Recipes - [link](https://twitter.com/AF_Recipes)
     - [x] [Air Fryer Crispy Cauliflower](https://github.com/hlltarakci/inspirational_tracker/blob/main/cooking/README.md#airfryer-crispy-cauliflower)
