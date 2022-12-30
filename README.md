@@ -237,6 +237,9 @@
 - Quentin Tarantino
      - [ ] [Pulp Fiction, 1994](https://www.imdb.com/title/tt0110912/)
      - [ ] [Inglourious Basterds, 2009](https://www.imdb.com/title/tt0361748/)
+- Hayao Miyazaki
+     - [ ] [Howl's Moving Castle, 2004](https://www.imdb.com/title/tt0347149/)
+     - [ ] [Spirited Away, 2001](https://www.imdb.com/title/tt0245429/)
 - Series 
      - [x] [The Crown, 2016](https://www.imdb.com/title/tt4786824/)
      - [ ] [Love, Death & Robots, 2019](https://www.imdb.com/title/tt9561862/)
