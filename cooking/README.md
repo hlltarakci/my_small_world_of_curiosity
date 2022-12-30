@@ -181,4 +181,4 @@
 7. 3 kucuk havuc -> kucuk kucuk dogra
 8. Sogan-sarimsak kavrulunca, patates, havuc ve 1 cay bardagi barbunya tencereye ekle, kavur
 9. Karalahanayi ekle, biraz kavrulsun
-10. 2-3 yemek kasigi bulgur ekle, ustune gececek kadar su ilave et. Yarim saat kadar pisir
+10. 2-3 yemek kasigi bulgur, 3 cay kasigi tuz + 1 cay kasigi pul biber + yarim cay kasigi karabiber ekle, ustune gececek kadar su ilave et. Yarim saat kadar pisir
