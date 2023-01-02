@@ -1,5 +1,49 @@
 # My Cooking
 
+# COOK List <a name="cook_list"></a>
+[**Direct access to my cooking**]()
+
+- [x] [Starbucks Carrot Cake](https://github.com/hlltarakci/inspirational_tracker/tree/main/cooking#starbucks-carrot-cake)
+- [x] [Purple Cabbage Salad](https://github.com/hlltarakci/inspirational_tracker/tree/main/cooking#purple-cabbage-salad)
+- [x] [Kiymali Pogaca](https://github.com/hlltarakci/inspirational_tracker/tree/main/cooking#kiymali-pogaca)
+- [x] [Chickpeas with Beef](https://github.com/hlltarakci/inspirational_tracker/tree/main/cooking#chickpeas-with-beef)
+- [x] [Roast Chicken](https://github.com/hlltarakci/inspirational_tracker/tree/main/cooking#roast-chicken)
+- [x] [Blueberry Cake](https://github.com/hlltarakci/inspirational_tracker/tree/main/cooking#blueberry-cake)
+- [x] [Salty Cake](https://github.com/hlltarakci/inspirational_tracker/tree/main/cooking#salty-cake)
+- [x] [El Acmasi Kol Boregi (Pirasali)](https://github.com/hlltarakci/inspirational_tracker/tree/main/cooking#el-acmasi-kol-boregi-pirasali)
+- [x] [Rolled Pastry](https://github.com/hlltarakci/inspirational_tracker/tree/main/cooking#rolled-pastry)
+- [x] [False Chicken Breast Pudding](https://github.com/hlltarakci/inspirational_tracker/tree/main/cooking#false-chicken-breast-pudding)
+- [x] [Cig Kofte (Turkish style vegetarian steak tartar balls)](https://github.com/hlltarakci/inspirational_tracker/tree/main/cooking#cig-kofte)
+- [x] [Quince Filled Cookies](https://github.com/hlltarakci/inspirational_tracker/tree/main/cooking#quince-filled-cookies)
+- [x] [Kuru Domates Salatasi](https://github.com/hlltarakci/inspirational_tracker/tree/main/cooking#kuru-domates-salatasi)
+- [x] [Kiymali Pide](https://github.com/hlltarakci/inspirational_tracker/tree/main/cooking#kiymali-pide)
+- [x] [Fried Anchovies (Hamsi Tava)](https://github.com/hlltarakci/inspirational_tracker/tree/main/cooking#fried-anchovies-hamsi-tava)
+- [x] [Browni](https://github.com/hlltarakci/inspirational_tracker/blob/main/cooking/README.md#browni)
+- [x] [Russian Tea Cakes](https://github.com/hlltarakci/inspirational_tracker/blob/main/cooking/README.md#russian-tea-cakes)
+- [ ] [Strawberry Magnolia](https://www.nefisyemektarifleri.com/lezzetli-kremasiyla-cilekli-magnolia/)
+- [ ] [Russian Salad](https://eatingeuropean.com/russian-salad-olivier-salad/)
+- [ ] [Arnavut Boregi](https://www.nefisyemektarifleri.com/arnavut-boregi-tarifi-527442/)
+- [ ] [Musakka](https://vidarbergum.com/recipe/turkish-moussaka-patlican-musakka/)
+- [ ] [Yuvalama Corbasi](https://www.petitegourmets.com/recipes/turkish-yuvalama)
+- [ ] [Karadeniz Pide](https://cookingorgeous.com/blog/karadeniz-pidesi/)
+- [ ] [Pirasali Misir Ekmegi](https://www.nefisyemektarifleri.com/pirasali-misir-ekmegi-seveceginiz-lezzet/)
+- [ ] [Mercimek Koftesi](https://www.nefisyemektarifleri.com/kolay-mercimek-koftesi/)
+- [ ] [Quiche mit Käse](https://www.youtube.com/watch?v=kmSYTFjC6ao)
+- [ ] [Corek](https://www.youtube.com/watch?v=_phzMtmdpUo)
+- Soups
+    - [x] [Tomato Soup](https://github.com/hlltarakci/inspirational_tracker/blob/main/cooking/README.md#tomato-soup)
+    - [x] [Turkish Noodle Soup](https://github.com/hlltarakci/inspirational_tracker/blob/main/cooking/README.md#turkish-noodle-soup)
+    - [x] [Kale Soup from Black Sea Region](https://github.com/hlltarakci/inspirational_tracker/blob/main/cooking/README.md#kale-soup-from-black-sea-region)
+- Sandwich Recipes - [link1](https://www.brit.co/fancy-sandwich-recipes/) - [link2](https://insanelygoodrecipes.com/sandwich-recipes/)
+- AirFryer Recipes - [link](https://twitter.com/AF_Recipes)
+    - [x] [Air Fryer Crispy Cauliflower](https://github.com/hlltarakci/inspirational_tracker/blob/main/cooking/README.md#airfryer-crispy-cauliflower)
+    - [ ] [Air Fryer Twice Baked Potatoes](https://amandascookin.com/air-fryer-twice-baked-potatoes/)
+    - [ ] [Air Fryer Falafel](https://elavegan.com/air-fryer-falafel/)
+    - [ ] [Air Frier Chicken Wings](https://cookinglsl.com/how-to-make-chicken-wings-in-air-fryer/)
+- Breakfast Recipes - [link1](https://damndelicious.net/category/breakfast/) - [link2](https://damndelicious.net/category/breakfast/)
+
+---
+
 ## Chickpeas with Beef
 [<img src="chickpeas_with_beef.jpg" width="500"/>](chickpeas_with_beef.jpg)
 1. Kusbasi eti suyunu cekene kadar kavur.
