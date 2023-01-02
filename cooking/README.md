@@ -1,8 +1,4 @@
-# My Cooking
-
-# COOK List <a name="cook_list"></a>
-[**Direct access to my cooking**]()
-
+# Cooking
 - [x] [Starbucks Carrot Cake](https://github.com/hlltarakci/inspirational_tracker/tree/main/cooking#starbucks-carrot-cake)
 - [x] [Purple Cabbage Salad](https://github.com/hlltarakci/inspirational_tracker/tree/main/cooking#purple-cabbage-salad)
 - [x] [Kiymali Pogaca](https://github.com/hlltarakci/inspirational_tracker/tree/main/cooking#kiymali-pogaca)
@@ -41,8 +37,6 @@
     - [ ] [Air Fryer Falafel](https://elavegan.com/air-fryer-falafel/)
     - [ ] [Air Frier Chicken Wings](https://cookinglsl.com/how-to-make-chicken-wings-in-air-fryer/)
 - Breakfast Recipes - [link1](https://damndelicious.net/category/breakfast/) - [link2](https://damndelicious.net/category/breakfast/)
-
----
 
 ## Chickpeas with Beef
 [<img src="chickpeas_with_beef.jpg" width="500"/>](chickpeas_with_beef.jpg)
