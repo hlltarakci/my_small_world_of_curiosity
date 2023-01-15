@@ -1,14 +1,15 @@
 # ACTIVITY List
 ## Tracking Group Hiking & Sightseeing Activity
-- [x] [October 2022 - Seven Sisters coastal hike](https://www.alltrails.com/en-gb/trail/england/east-sussex/seven-sisters)
-- [x] [October 2022 - **The Ridgeway, lovely views and the Chilterns**](http://www.senderismoenlondres.co.uk/events/the-ridgeway-lovely-views-and-the-chilterns-hiking-uk.html)
-- [x] [October 2022 - Henley, the Greys and the Rotherfields](https://www.alltrails.com/explore/trail/england/oxfordshire/henley-the-greys-and-the-rotherfields?u=i)
-- [x] [September 2022 - Alaxandra Palace, Highgate Wood, Parkland Walk, Finsbury Park](https://www.alltrails.com/en-gb/trail/england/london/parkland-walk)
-- [x] [August 2022 - Windsor Castle](https://www.windsor.gov.uk/things-to-do/windsor-castle-p43983) - [**Stonehenge**](https://www.english-heritage.org.uk/visit/places/stonehenge/) - [Oxford](https://oxfordcity.co.uk)
-- [x] [August 2022 - Dover and a Seawalk to **Folkestone**](https://www.youtube.com/watch?v=EYPWkXJpBCk)
-- [x] [June 2022 - Seven Sisters coastal hike - The Chalk Cliffs of Sussex](https://www.youtube.com/watch?v=IQuccORLDxQ)
+- [x] [Jan 2023 - **The White Cliffs of Dover**](https://www.youtube.com/watch?v=yNMRcbNbU9w)
+- [x] [Oct 2022 - Seven Sisters coastal hike](https://www.alltrails.com/en-gb/trail/england/east-sussex/seven-sisters)
+- [x] [Oct 2022 - **The Ridgeway, lovely views and the Chilterns**](http://www.senderismoenlondres.co.uk/events/the-ridgeway-lovely-views-and-the-chilterns-hiking-uk.html)
+- [x] [Oct 2022 - Henley, the Greys and the Rotherfields](https://www.alltrails.com/explore/trail/england/oxfordshire/henley-the-greys-and-the-rotherfields?u=i)
+- [x] [Sep 2022 - Alaxandra Palace, Highgate Wood, Parkland Walk, Finsbury Park](https://www.alltrails.com/en-gb/trail/england/london/parkland-walk)
+- [x] [Aug 2022 - Windsor Castle](https://www.windsor.gov.uk/things-to-do/windsor-castle-p43983) - [**Stonehenge**](https://www.english-heritage.org.uk/visit/places/stonehenge/) - [Oxford](https://oxfordcity.co.uk)
+- [x] [Aug 2022 - Dover and a Seawalk to **Folkestone**](https://www.youtube.com/watch?v=EYPWkXJpBCk)
+- [x] [Jun 2022 - Seven Sisters coastal hike - The Chalk Cliffs of Sussex](https://www.youtube.com/watch?v=IQuccORLDxQ)
 - [x] [May 2022 - Country Walking: Cliffe & Cooling, Kent](https://www.google.com/search?q=Cliffe+Cooling+Kent&hl=tr&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiujbS119X5AhWaS0EAHeH-CwIQ_AUoAnoECAIQBA&biw=1792&bih=898&dpr=2)
-- [x] [March 2022 - Parkland Walk/Hampstead Heath](https://www.cityoflondon.gov.uk/things-to-do/green-spaces/hampstead-heath)
+- [x] [Mar 2022 - Parkland Walk/Hampstead Heath](https://www.cityoflondon.gov.uk/things-to-do/green-spaces/hampstead-heath)
 - [x] [Feb 2022 - Sevenoaks Circular Walk](https://www.alltrails.com/england/kent/sevenoaks/walking)
 
 ## Daily Exercise 
