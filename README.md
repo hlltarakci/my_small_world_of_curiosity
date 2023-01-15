@@ -7,4 +7,3 @@
 - [READ List](https://github.com/hlltarakci/inspirational_tracker/blob/main/readREADME.md)
 - [ACTIVITY List](https://github.com/hlltarakci/inspirational_tracker/blob/main/activityREADME.md)
 - [COOK List](https://github.com/hlltarakci/inspirational_tracker/tree/main/cooking#my-cooking)
-- [WRITE List](https://github.com/hlltarakci/inspirational_tracker/blob/main/writeREADME.md)
