@@ -4,6 +4,7 @@ Hike Groups: https://theflamingohiker.com/hiking-groups-in-london/
 - http://www.senderismoenlondres.co.uk
 - https://outdooraholics.co.uk
 - https://www.meetup.com/Love-To-Hike/
+- https://www.meetup.com/AAA-London-Group/
 
 Hikes:
 - [x] [Jan 2023 - **The White Cliffs of Dover**](https://www.youtube.com/watch?v=yNMRcbNbU9w)
