@@ -1,5 +1,11 @@
 # ACTIVITY List
 ## Tracking Group Hiking & Sightseeing Activity
+Hike Groups: https://theflamingohiker.com/hiking-groups-in-london/
+- http://www.senderismoenlondres.co.uk
+- https://outdooraholics.co.uk
+- https://www.meetup.com/Love-To-Hike/
+
+Hikes:
 - [x] [Jan 2023 - **The White Cliffs of Dover**](https://www.youtube.com/watch?v=yNMRcbNbU9w)
 - [x] [Oct 2022 - Seven Sisters coastal hike](https://www.alltrails.com/en-gb/trail/england/east-sussex/seven-sisters)
 - [x] [Oct 2022 - **The Ridgeway, lovely views and the Chilterns**](http://www.senderismoenlondres.co.uk/events/the-ridgeway-lovely-views-and-the-chilterns-hiking-uk.html)
