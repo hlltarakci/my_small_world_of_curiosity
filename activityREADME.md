@@ -34,7 +34,18 @@ Extras:
 / [8](https://www.youtube.com/watch?v=h_rAyZgbSPM)
 / [9](https://www.youtube.com/watch?v=s0CkBw5Wock)
 
-### Option 2 (Monthly Program)
+### [CURRENT] Option 2 (Weekly Program - Intermediate)
+- [Sunday](https://www.youtube.com/watch?v=koTzaUu7Vws)
+- [Monday](https://www.youtube.com/watch?v=GTZioQTSy8o)
+- [Tuesday](https://www.youtube.com/watch?v=_HnWLkHL1hU)
+- [Wednesday](https://www.youtube.com/watch?v=koTzaUu7Vws)
+- [Thursday](https://www.youtube.com/watch?v=_HnWLkHL1hU)
+- [Saturday](https://www.youtube.com/watch?v=GTZioQTSy8o)
+
+Alternative: Hike or 10k+ km walk
+
+
+### Option 3 (Monthly Program)
 
 - [ ] [Blogilates Monthly Program](https://www.blogilates.com/blog/new-beginners-calendar-2-0-for-2015/)
    - [x] [Day 1](https://www.blogilates.com/beginners-2-0-day-1/)
