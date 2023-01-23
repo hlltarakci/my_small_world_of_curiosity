@@ -37,6 +37,8 @@
    - [ ] [The Lost World of Communism, 2009](https://www.imdb.com/title/tt2976152/)
    - [ ] [The Putin Interviews, 2017](https://www.imdb.com/title/tt6840134/)
    - [ ] [**Apocalypse: WW1, 2014**](https://www.imdb.com/title/tt3638584/) - [where to watch, 5 episodes](https://curiositystream.com/video/3047) - [For many, this excitement for war was similar to a celebration or a festival. One of the first main reasons for the excitement of the war was that many in Europe had a romantic feeling towards war.  In the years before war was declared in 1914, Europe had enjoyed a prolonged period of piece in its otherwise violent past.](https://www.historycrunch.com/excitement-for-world-war-i.html#/) - [Sarikamis](https://military-history.fandom.com/wiki/Battle_of_Sarikamish] - [Dardanelles Campaign](https://www.iwm.org.uk/history/a-short-history-of-the-dardanelles-campaign)
+   - [ ] [Apocalypse: WW2, 2009](https://www.imdb.com/title/tt1508238/)
+   - [ ] [Apocalypse: War of Worlds 1945-1991](https://www.imdb.com/title/tt8589702/)
    - [x] [Hitler's Circle of Evil, 2017](https://www.netflix.com/nl-en/title/80138915)
    - [x] [Greatest Events of WW2 in Color](https://www.netflix.com/nl-en/title/80989924) 
    - [ ] [WW2 in color - Road to Victory, 2021](https://www.netflix.com/gb/title/81488464)
