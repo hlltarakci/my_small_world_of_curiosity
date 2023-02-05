@@ -42,7 +42,7 @@ Extras:
 / [8](https://www.youtube.com/watch?v=h_rAyZgbSPM)
 / [9](https://www.youtube.com/watch?v=s0CkBw5Wock)
 
-### [CURRENT] Option 2 (Weekly Program - Intermediate)
+### Option 2 (Weekly Program - Intermediate)
 - [Sunday](https://www.youtube.com/watch?v=koTzaUu7Vws)
 - [Monday](https://www.youtube.com/watch?v=GTZioQTSy8o)
 - [Tuesday](https://www.youtube.com/watch?v=_HnWLkHL1hU)
