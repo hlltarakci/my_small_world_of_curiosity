@@ -80,5 +80,14 @@ Alternative: Hike or 10k+ km walk
    - [x] [Day 22](https://www.blogilates.com/beginners-2-0-day-22/)
    - [x] [Day 23](https://www.blogilates.com/beginners-2-0-day-23/)
 
-## Misc
-- [ ] [Udemy, The Ultimate Drawing Course - Beginner to Advanced](https://www.udemy.com/course/the-ultimate-drawing-course-beginner-to-advanced/)
+## Unlocking New Experiences
+Goal: At least one new thing per month
+### Pool to choose from
+   - https://www.londonxlondon.com/things-to-do-in-london/
+   - https://www.timeout.com/london/things-to-do
+   - https://www.pushkinhouse.org/events
+   - https://open-city.org.uk
+   - https://www.weroad.co.uk/destinations-europe
+   - https://www.londontheatre.co.uk/whats-on
+   - https://thelondonlocal.com/fun-things-to-do-in-london/
+### Tracker
