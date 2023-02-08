@@ -32,6 +32,7 @@
      - [x] [Office Romance, 1977](https://www.imdb.com/title/tt0076727/) - [music](https://www.youtube.com/watch?v=zczb2E4zwj0)
      - [x] [**Love and Doves, 1985**](https://www.imdb.com/title/tt0087650/)
      - [x] [**Dersu Uzala, 1975**](https://www.imdb.com/title/tt0071411/) - [where to watch](https://www.youtube.com/watch?v=2EWdAnJsfdc)
+     - [ ] [Staryy novyy god (The old new year), 1981](https://www.imdb.com/title/tt0081557/) - [where to watch part 1](https://www.youtube.com/watch?v=vSAVYvnSJ3U) - [where to watch part 2](https://www.youtube.com/watch?v=M7JCEQDunGo)
      - [ ] [The Cranes Are Flying, 1957](https://www.imdb.com/title/tt0050634/) - [where to watch](https://www.youtube.com/watch?v=2rINnJat-5k)
      - [ ] [True Friends (Vernye druz'ya), 1954](https://www.imdb.com/title/tt0047650/) - [where to watch](https://www.youtube.com/watch?v=qGXoycbxSnA), cannot find subtitles :(
      - [ ] [The Diamond Arm, 1969](https://www.imdb.com/title/tt0062759/)
