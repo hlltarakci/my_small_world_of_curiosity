@@ -99,7 +99,7 @@
 - [x] [**Everybody Street, 2013**](https://www.imdb.com/title/tt2784462/) - [where to watch](https://www.eherg.com/blog/7-free-to-stream-documentaries-for-street-photographers) - [direct link](https://archive.org/embed/everstreet) - *"...other photographers go to the world and say "show me". Those select few, through time, who are willing to go out into chaos with some high hopes of interacting with a moment where life will become clarified for them. They can welcome ambiguity and surreal aspects of this kind of chaos. Even though it is chaos, they will have a moment of clarification."*
 - [x] [**Lost in the Woods, 2020**](https://www.imdb.com/title/tt13416956/) - [where to watch](https://vimeo.com/392454256) - **"The purpose of the journey is to get lost, in forests, cities and people."**
 - [x] [**The Colours of Infinity, Arthur C. Clarke**, 1995](https://www.imdb.com/title/tt0241317/) - Nature is compatible with fractal geometry.
-- [ ] [**Rocky Mountain Express, 2011**](https://www.imdb.com/title/tt2287993/) / [Canadian Pacific ailway](https://www.thecanadianencyclopedia.ca/en/article/canadian-pacific-railway-plain-language-summary) / [William C Van Horne](https://en.wikipedia.org/wiki/William_Cornelius_Van_Horne) / [2816](https://en.wikipedia.org/wiki/Canadian_Pacific_2816)
+- [x] [**Rocky Mountain Express, 2011**](https://www.imdb.com/title/tt2287993/) / [Canadian Pacific ailway](https://www.thecanadianencyclopedia.ca/en/article/canadian-pacific-railway-plain-language-summary) / [William C Van Horne](https://en.wikipedia.org/wiki/William_Cornelius_Van_Horne) / [2816](https://en.wikipedia.org/wiki/Canadian_Pacific_2816)
 - [ ] [The Edge of Democracy, 2019](https://www.imdb.com/title/tt6016744/)
 - [ ] [Fun to Imagine, Richard Feynman, 1983](https://www.imdb.com/title/tt1118155/?ref_=tt_sims_tt_t_3) - [where to watch](https://www.youtube.com/watch?v=P1ww1IXRfTA)
 - [ ] [The Fantastic Mr Feynman, 2013](https://www.imdb.com/title/tt5182420/?ref_=tt_sims_tt_t_3) - [where to watch](https://www.youtube.com/watch?v=H9fjhQMsDW4)
@@ -121,6 +121,8 @@
 - [ ] [A Traveler's Guide to the Planets, 2010](https://www.imdb.com/title/tt1616205/)
 - [ ] [Eye in the Sky: Nordic Wonders, Curiosity Stream](https://curiositystream.com/video/4604)
 - [ ] [Hidden Japan, Curiosity Stream](https://curiositystream.com/video/3643)
+- [ ] [Aftershock: Everest and the Nepal Earthquake, 2022](https://www.imdb.com/title/tt22010560/)
+- [ ] [The Volcano: Rescue from Whakaari, 2022](https://www.imdb.com/title/tt21439528/)
 - [ ] **Documentary Series**
   - [x] [Turning Point 9/11, 2021](https://www.netflix.com/gb/title/81315804)
   - [x] [**Deep Time History, Curiosity Stream**](https://www.imdb.com/title/tt6052190/) - quite similar in context to Harari's Sapiens. Linking ideas, providing a general structure why things happened the way they did fascinates me. And this is a transferable thought experiment skill.
@@ -157,3 +159,4 @@
   - [ ] [Ancient Earth, Curiosity Stream](https://curiositystream.com/collections/55)
   - [ ] [What Went Wrong, Curiosity Stream](https://curiositystream.com/video/4054)
   - [ ] [Curious Minds: Space, 2015](https://www.imdb.com/title/tt6951516/)
+  - [ ] [Earthstorm, 2022](https://www.imdb.com/title/tt22437106/)
