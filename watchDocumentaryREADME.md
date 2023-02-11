@@ -123,7 +123,7 @@
 - [ ] [Hidden Japan, Curiosity Stream](https://curiositystream.com/video/3643)
 - [ ] [Aftershock: Everest and the Nepal Earthquake, 2022](https://www.imdb.com/title/tt22010560/)
 - [ ] [The Volcano: Rescue from Whakaari, 2022](https://www.imdb.com/title/tt21439528/)
-- [ ] [Istanbul earthquake - Risk and early warning, 2023](https://www.youtube.com/watch?v=Uix59ojUmOw)
+- [x] [Istanbul earthquake - Risk and early warning, 2023](https://www.youtube.com/watch?v=Uix59ojUmOw)
 - [ ] **Documentary Series**
   - [x] [Turning Point 9/11, 2021](https://www.netflix.com/gb/title/81315804)
   - [x] [**Deep Time History, Curiosity Stream**](https://www.imdb.com/title/tt6052190/) - quite similar in context to Harari's Sapiens. Linking ideas, providing a general structure why things happened the way they did fascinates me. And this is a transferable thought experiment skill.
