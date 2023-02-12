@@ -80,6 +80,11 @@ Alternative: Hike or 10k+ km walk
    - [x] [Day 22](https://www.blogilates.com/beginners-2-0-day-22/)
    - [x] [Day 23](https://www.blogilates.com/beginners-2-0-day-23/)
 
+### Option 4: Cycling Weekends
+   - [ ] Get a small, light, city bike
+   - [ ] Exercise value, evaluation?
+
+
 ## Unlocking New Experiences
 Goal: At least one new thing per month
 ### Pool to choose from
@@ -91,3 +96,4 @@ Goal: At least one new thing per month
    - https://www.londontheatre.co.uk/whats-on
    - https://thelondonlocal.com/fun-things-to-do-in-london/
 ### Tracker
+   - [x] Feb 2023 - Wandering around [Covent Garden](https://www.visitlondon.com/things-to-do/london-areas/covent-garden) with a visit to [Heaven's Gate](https://www.instagram.com/p/CofUStyoFpj/?hl=en)
