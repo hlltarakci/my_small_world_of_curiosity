@@ -92,12 +92,12 @@
 ## Nature, Space, Tech and misc
 - [x] [Hidden Russia, Curiosity Stream](https://curiositystream.com/video/3655)
 - [ ] [The Russians – An intimate journey through Russia - Part 1](https://www.youtube.com/watch?v=qfuDZEQjro8) / [Part 2](https://www.youtube.com/watch?v=z35dX3EEGko)
-- [ ] Living in Russia
-     - [Part 1: Birth](https://youtu.be/3cO58tL1CUw) / [**music by Shortparis is amazing!**](https://www.youtube.com/watch?v=3cO58tL1CUw&t=1224s)
+- [x] **Living in Russia** / [**music by Shortparis is amazing!**](https://www.youtube.com/watch?v=3cO58tL1CUw&t=1224s)
+     - [Part 1: Birth](https://youtu.be/3cO58tL1CUw) 
      - [Part 2: Childhood](https://youtu.be/4IG4eVdhbxI)
      - [Part 3: Youth](https://youtu.be/sRIiTk1nR78)
      - [Part 4: Adulthood](https://youtu.be/he8FGw9e-pc)
-     - [Part 5: Old age](https://youtu.be/SAnWF6yTaWQ)
+     - [**Part 5: Old age**](https://youtu.be/SAnWF6yTaWQ)
      - [Part 6: Death](https://youtu.be/bQN420LIwrc)
 - [x] [Challenger: The Final Flight, 2020](https://www.netflix.com/nl-en/title/81012137)
 - [x] [Anadolu'nun Gözleri: Kapadokya, TRT Belgesel](https://www.youtube.com/watch?v=o6wSitX7XFE)
