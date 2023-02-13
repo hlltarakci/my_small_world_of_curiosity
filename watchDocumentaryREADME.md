@@ -99,6 +99,7 @@
      - [Part 4: Adulthood](https://youtu.be/he8FGw9e-pc)
      - [**Part 5: Old age**](https://youtu.be/SAnWF6yTaWQ)
      - [Part 6: Death](https://youtu.be/bQN420LIwrc)
+- [ ] [The melting ice of the Arctic - Part 1](https://www.youtube.com/watch?v=GystZIxWQ3o) / [Part 2](https://www.youtube.com/watch?v=Hz6xkR4mNlo)
 - [x] [Challenger: The Final Flight, 2020](https://www.netflix.com/nl-en/title/81012137)
 - [x] [Anadolu'nun Gözleri: Kapadokya, TRT Belgesel](https://www.youtube.com/watch?v=o6wSitX7XFE)
 - [x] [Google, Facebook, Amazon - The rise of the mega-corporations](https://youtu.be/Dy8ogOaKk4Y)
@@ -150,7 +151,7 @@
   - [ ] [How the Universe Works, 2010](https://www.imdb.com/title/tt1832668/?ref_=tt_sims_tt_i_1)
   - Brian Cox:
      - [x] [Wonders of the Universe, 2011](https://www.imdb.com/title/tt1854226/?ref_=tt_sims_tt_i_1)
-     - [ ] [Wonders of the Solar System, 2010](https://www.imdb.com/title/tt1611787/?ref_=tt_sims_tt_i_2)
+     - [ ] [Wonders of the Solar System, 2010](ht(tps://www.imdb.com/title/tt1611787/?ref_=tt_sims_tt_i_2)
      - [ ] [Wonders of Life, 2013](https://www.imdb.com/title/tt2699374/?ref_=tt_sims_tt_i_3)
      - [ ] [Forces of Nature with Brian Cox, 2016](https://www.imdb.com/title/tt5907228/?ref_=tt_sims_tt_i_4)
      - [ ] [Universe, 2021](https://www.imdb.com/title/tt15757074/?ref_=tt_sims_tt_i_7)
