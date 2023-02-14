@@ -18,6 +18,8 @@
 - [ ] [Economic Update: Rise and Fall of the USSR](https://youtu.be/_Y-TWFKw4tU)
 - [ ] [Meeting Gorbachev, 2018](https://www.imdb.com/title/tt8811382/)
 - [ ] [How Did the Soviet Union Begin?](https://youtu.be/mY5P2ehFDPQ)
+- [ ] [Ambassador to Hitler - An unusual inside perspective on the Third Reich](https://www.youtube.com/watch?v=wqLqulHfZFc)
+- [ ] [Music in Nazi Germany - The maestro and the cellist of Auschwitz](https://www.youtube.com/watch?v=gvoT8QANp8I)
 - [ ] **Documentary Series**
    - [ ] **In Progress** [**Cold War, 1998 - 24 episodes**](https://www.imdb.com/title/tt0170896/) - [where to watch](https://archive.org/details/Cold_War_1998_CNN_Kenneth_Branagh)  
      [1: Comrades, 1917-1945](https://www.youtube.com/watch?v=22KIQ1QNnhE&list=PL3H6z037pboGWTxs3xGP7HRGrQ5dOQdGc&index=1) / 
@@ -135,6 +137,7 @@
 - [x] [Istanbul earthquake - Risk and early warning, 2023](https://www.youtube.com/watch?v=Uix59ojUmOw)
 - [ ] [Biggest Volcanic Eruptions & Disastrous Earthquakes](https://www.youtube.com/watch?v=PPkBABO7y2M)
 - [ ] [Aftermath: Population Zero - The World without Humans](https://www.youtube.com/watch?v=l11zPNb-MFg)
+- [ ] [Malaysia Airlines flight 370 disappearance](https://www.youtube.com/watch?v=myBmq87fJeQ)
 - [ ] **Documentary Series**
   - [x] [Turning Point 9/11, 2021](https://www.netflix.com/gb/title/81315804)
   - [x] [**Deep Time History, Curiosity Stream**](https://www.imdb.com/title/tt6052190/) - quite similar in context to Harari's Sapiens. Linking ideas, providing a general structure why things happened the way they did fascinates me. And this is a transferable thought experiment skill.
@@ -151,7 +154,7 @@
   - [ ] [How the Universe Works, 2010](https://www.imdb.com/title/tt1832668/?ref_=tt_sims_tt_i_1)
   - Brian Cox:
      - [x] [Wonders of the Universe, 2011](https://www.imdb.com/title/tt1854226/?ref_=tt_sims_tt_i_1)
-     - [ ] [Wonders of the Solar System, 2010](ht(tps://www.imdb.com/title/tt1611787/?ref_=tt_sims_tt_i_2)
+     - [ ] [Wonders of the Solar System, 2010](https://www.imdb.com/title/tt1611787/?ref_=tt_sims_tt_i_2)
      - [ ] [Wonders of Life, 2013](https://www.imdb.com/title/tt2699374/?ref_=tt_sims_tt_i_3)
      - [ ] [Forces of Nature with Brian Cox, 2016](https://www.imdb.com/title/tt5907228/?ref_=tt_sims_tt_i_4)
      - [ ] [Universe, 2021](https://www.imdb.com/title/tt15757074/?ref_=tt_sims_tt_i_7)
