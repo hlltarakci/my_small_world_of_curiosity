@@ -102,6 +102,7 @@
      - [**Part 5: Old age**](https://youtu.be/SAnWF6yTaWQ)
      - [Part 6: Death](https://youtu.be/bQN420LIwrc)
 - [ ] [The melting ice of the Arctic - Part 1](https://www.youtube.com/watch?v=GystZIxWQ3o) / [Part 2](https://www.youtube.com/watch?v=Hz6xkR4mNlo)
+- [ ] [One Day in the Coldest Village on Earth | Yakutia](https://www.youtube.com/watch?v=lj5GXZaE7qs)
 - [x] [Challenger: The Final Flight, 2020](https://www.netflix.com/nl-en/title/81012137)
 - [x] [Anadolu'nun Gözleri: Kapadokya, TRT Belgesel](https://www.youtube.com/watch?v=o6wSitX7XFE)
 - [x] [Google, Facebook, Amazon - The rise of the mega-corporations](https://youtu.be/Dy8ogOaKk4Y)
@@ -138,6 +139,8 @@
 - [ ] [Biggest Volcanic Eruptions & Disastrous Earthquakes](https://www.youtube.com/watch?v=PPkBABO7y2M)
 - [ ] [Aftermath: Population Zero - The World without Humans](https://www.youtube.com/watch?v=l11zPNb-MFg)
 - [ ] [Malaysia Airlines flight 370 disappearance](https://www.youtube.com/watch?v=myBmq87fJeQ)
+- [ ] [The vanishing of flight 370](https://www.youtube.com/watch?v=kd2KEHvK-q8)
+- [ ] [Timelapse of the future](https://www.youtube.com/watch?v=uD4izuDMUQA)
 - [ ] **Documentary Series**
   - [x] [Turning Point 9/11, 2021](https://www.netflix.com/gb/title/81315804)
   - [x] [**Deep Time History, Curiosity Stream**](https://www.imdb.com/title/tt6052190/) - quite similar in context to Harari's Sapiens. Linking ideas, providing a general structure why things happened the way they did fascinates me. And this is a transferable thought experiment skill.
