@@ -93,7 +93,7 @@
 
 ## Nature, Space, Tech and misc
 - [x] [Hidden Russia, Curiosity Stream](https://curiositystream.com/video/3655)
-- [ ] [The Russians – An intimate journey through Russia - Part 1](https://www.youtube.com/watch?v=qfuDZEQjro8) / [Part 2](https://www.youtube.com/watch?v=z35dX3EEGko)
+- [x] [**The Russians – An intimate journey through Russia - Part 1**](https://www.youtube.com/watch?v=qfuDZEQjro8) / [Part 2](https://www.youtube.com/watch?v=z35dX3EEGko)
 - [x] **Living in Russia** / [**music by Shortparis is amazing!**](https://www.youtube.com/watch?v=3cO58tL1CUw&t=1224s)
      - [Part 1: Birth](https://youtu.be/3cO58tL1CUw) 
      - [Part 2: Childhood](https://youtu.be/4IG4eVdhbxI)
@@ -101,8 +101,9 @@
      - [Part 4: Adulthood](https://youtu.be/he8FGw9e-pc)
      - [**Part 5: Old age**](https://youtu.be/SAnWF6yTaWQ)
      - [Part 6: Death](https://youtu.be/bQN420LIwrc)
+- [ ] [Russia: A small town (Yelnya) clings to its Soviet past](https://www.youtube.com/watch?v=48DaLYiO-yk)
 - [ ] [The melting ice of the Arctic - Part 1](https://www.youtube.com/watch?v=GystZIxWQ3o) / [Part 2](https://www.youtube.com/watch?v=Hz6xkR4mNlo)
-- [ ] [One Day in the Coldest Village on Earth | Yakutia](https://www.youtube.com/watch?v=lj5GXZaE7qs)
+- [x] [**One Day in the Coldest Village on Earth | Yakutia**](https://www.youtube.com/watch?v=lj5GXZaE7qs)
 - [x] [Challenger: The Final Flight, 2020](https://www.netflix.com/nl-en/title/81012137)
 - [x] [Anadolu'nun Gözleri: Kapadokya, TRT Belgesel](https://www.youtube.com/watch?v=o6wSitX7XFE)
 - [x] [Google, Facebook, Amazon - The rise of the mega-corporations](https://youtu.be/Dy8ogOaKk4Y)
