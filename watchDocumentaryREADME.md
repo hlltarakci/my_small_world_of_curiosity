@@ -102,6 +102,8 @@
      - [**Part 5: Old age**](https://youtu.be/SAnWF6yTaWQ)
      - [Part 6: Death](https://youtu.be/bQN420LIwrc)
 - [ ] [Russia: A small town (Yelnya) clings to its Soviet past](https://www.youtube.com/watch?v=48DaLYiO-yk)
+- [ ] [Katya, Vitya, Dima, 2012](https://vimeo.com/644478894)
+- [ ] [Third Class Travel, 2017](https://guidedoc.tv/documentary/third-class-travel-documentary-film/#)
 - [ ] [Tour of the Arctic – from Svalbard to Siberia - Part 1](https://www.youtube.com/watch?v=gD89hfPh4vY) / [Part 2 - from Greenland to Alaska](https://www.youtube.com/watch?v=sdB0_oVInuk)
 - [ ] [The melting ice of the Arctic - Part 1](https://www.youtube.com/watch?v=GystZIxWQ3o) / [Part 2](https://www.youtube.com/watch?v=Hz6xkR4mNlo)
 - [ ] [Alaska 8 Day Road Trip: Anchorage, Fairbanks, Glaciers, Wildlife & Denali over 1,000 Miles](https://www.youtube.com/watch?v=JN11JClxdA4)
