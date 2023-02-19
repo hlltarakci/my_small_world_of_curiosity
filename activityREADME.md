@@ -6,7 +6,8 @@ Hike Groups: https://theflamingohiker.com/hiking-groups-in-london/
 - https://www.meetup.com/Love-To-Hike/
 - https://www.meetup.com/AAA-London-Group/
 
-1-Day Events:
+Day Events:
+- [x] [Feb 2023 - Hampton Court](http://www.senderismoenlondres.co.uk/beginner-walkers-hampton-court-circular-walk.html)
 - [x] [Jan 2023 - Gatton Park and North Downs](http://www.senderismoenlondres.co.uk/events/gatton-park-and-north-downs-way.html)
 - [x] [Jan 2023 - **The White Cliffs of Dover**](https://www.youtube.com/watch?v=yNMRcbNbU9w)
 - [x] [Oct 2022 - Seven Sisters coastal hike](https://www.alltrails.com/en-gb/trail/england/east-sussex/seven-sisters)
@@ -97,3 +98,8 @@ Goal: At least one new thing per month
    - https://thelondonlocal.com/fun-things-to-do-in-london/
 ### Tracker
    - [x] Feb 2023 - Wandering around [Covent Garden](https://www.visitlondon.com/things-to-do/london-areas/covent-garden) with a visit to [Heaven's Gate](https://www.instagram.com/p/CofUStyoFpj/?hl=en)
+
+
+# Useful Apps
+
+
