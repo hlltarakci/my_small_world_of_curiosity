@@ -32,6 +32,11 @@
      - [x] [Office Romance, 1977](https://www.imdb.com/title/tt0076727/) - [music](https://www.youtube.com/watch?v=zczb2E4zwj0)
      - [x] [**Love and Doves, 1985**](https://www.imdb.com/title/tt0087650/)
      - [x] [**Dersu Uzala, 1975**](https://www.imdb.com/title/tt0071411/) - [where to watch](https://www.youtube.com/watch?v=2EWdAnJsfdc)
+     - [ ] [Brat, 1997](https://www.imdb.com/title/tt0118767/)
+     - [ ] [The Barber of Siberia](https://www.imdb.com/title/tt0120125/)
+     - [ ] [12, 2007](https://www.imdb.com/title/tt0488478/)
+     - [ ] [Burnt By The Sun, 1994](https://www.imdb.com/title/tt0111579/)
+     - [ ] [A Cruel Romance, 1984](https://www.imdb.com/title/tt0090368/)
      - [ ] [Staryy novyy god (The old new year), 1981](https://www.imdb.com/title/tt0081557/) - [where to watch part 1](https://www.youtube.com/watch?v=vSAVYvnSJ3U) - [where to watch part 2](https://www.youtube.com/watch?v=M7JCEQDunGo)
      - [ ] [The Cranes Are Flying, 1957](https://www.imdb.com/title/tt0050634/) - [where to watch](https://www.youtube.com/watch?v=2rINnJat-5k)
      - [ ] [True Friends (Vernye druz'ya), 1954](https://www.imdb.com/title/tt0047650/) - [where to watch](https://www.youtube.com/watch?v=qGXoycbxSnA), cannot find subtitles :(
