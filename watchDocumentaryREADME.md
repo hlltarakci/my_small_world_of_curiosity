@@ -151,7 +151,7 @@
 - [ ] [Biggest Volcanic Eruptions & Disastrous Earthquakes](https://www.youtube.com/watch?v=PPkBABO7y2M)
 - [ ] [Aftermath: Population Zero - The World without Humans](https://www.youtube.com/watch?v=l11zPNb-MFg)
 - [ ] [Malaysia Airlines flight 370 disappearance](https://www.youtube.com/watch?v=myBmq87fJeQ)
-- [ ] [The vanishing of flight 370](https://www.youtube.com/watch?v=kd2KEHvK-q8)
+- [x] [The vanishing of flight 370](https://www.youtube.com/watch?v=kd2KEHvK-q8)
 - [ ] [Timelapse of the future](https://www.youtube.com/watch?v=uD4izuDMUQA)
 - [ ] **Documentary Series**
   - [x] [Turning Point 9/11, 2021](https://www.netflix.com/gb/title/81315804)
