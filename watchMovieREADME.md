@@ -84,3 +84,12 @@
      - [ ] [Love, Death & Robots, 2019](https://www.imdb.com/title/tt9561862/)
      - [ ] [Chernobyl, 2019](https://www.imdb.com/title/tt7366338/)
      - [ ] [Angels in America, 2003](https://www.imdb.com/title/tt0318997/)
+     - [x] [**The Office, 2005**](https://www.imdb.com/title/tt0386676/)
+     - [x] [**Stargate SG1, 1997**](https://www.imdb.com/title/tt0118480/)
+     - [x] [**Poirot, 1989**](https://www.imdb.com/title/tt0094525/)
+     - [ ] [Curb Your Enthusiasm, 2000](https://www.imdb.com/title/tt0264235/)
+- Guilty Pleasure
+     - [The Harlan Coben Collection](https://www.netflix.com/gb/browse/genre/81180221?so=su)
+     - [Criminal Collection](https://screenrant.com/netflix-criminal-shows-watch-order/)
+     - [Agatha Christie Adaptations](https://collider.com/best-agatha-christies-tv-adaptations)
+  
