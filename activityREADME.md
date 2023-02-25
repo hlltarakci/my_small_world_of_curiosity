@@ -1,12 +1,14 @@
 # ACTIVITY List
+
 ## Tracking Group Hiking & Sightseeing Activity
+
 Hike Groups: https://theflamingohiker.com/hiking-groups-in-london/
 - http://www.senderismoenlondres.co.uk
 - https://outdooraholics.co.uk
 - https://www.meetup.com/Love-To-Hike/
 - https://www.meetup.com/AAA-London-Group/
 
-Day Events:
+Day Hikes:
 - [x] [Feb 2023 - Hampton Court](http://www.senderismoenlondres.co.uk/beginner-walkers-hampton-court-circular-walk.html)
 - [x] [Jan 2023 - Gatton Park and North Downs](http://www.senderismoenlondres.co.uk/events/gatton-park-and-north-downs-way.html)
 - [x] [Jan 2023 - **The White Cliffs of Dover**](https://www.youtube.com/watch?v=yNMRcbNbU9w)
@@ -23,83 +25,39 @@ Day Events:
 
 ## Daily Exercise 
 
-### Option 1 (Weekly)
-- [Monday](https://www.youtube.com/watch?v=jaqciTxwDoE)
-- [Tuesday](https://www.youtube.com/watch?v=CKe6EYSzmtU)
-- [Wednesday](https://www.youtube.com/watch?v=Q1SHe5IPtk8)
-- [Thursday](https://www.youtube.com/watch?v=sQVFoWGjD4k)
-- [Saturday, *if no hiking*](https://www.youtube.com/watch?v=jaqciTxwDoE)
-- [Sunday, *if no hiking*](https://www.youtube.com/watch?v=_CDbPNZx5Ao)
-- or walk 10k
+Kelly:
+- [1](https://www.youtube.com/watch?v=jaqciTxwDoE)
+- [2](https://www.youtube.com/watch?v=Q1SHe5IPtk8)
+
+Cassey:
+- [Blogilates Monthly Program](https://www.blogilates.com/blog/new-beginners-calendar-2-0-for-2015/))
+- [1](https://www.youtube.com/watch?v=CKe6EYSzmtU)
+- [2](https://www.youtube.com/watch?v=inL-zRXWpkk)
+- [3](https://www.youtube.com/watch?v=s0CkBw5Wock)
+
+
+Sophie:
+- [1](https://www.youtube.com/watch?v=sQVFoWGjD4k)
+- [2](https://www.youtube.com/watch?v=nHxdKUI_r_g)
+- [3](https://www.youtube.com/watch?v=VvrHo1NDITY)
+
+Nicole:
+- [1](https://www.youtube.com/watch?v=koTzaUu7Vws)
+- [2](https://www.youtube.com/watch?v=GTZioQTSy8o)
+- [3](https://www.youtube.com/watch?v=_HnWLkHL1hU)
+
+Tandy:
+- [1](https://www.youtube.com/watch?v=_CDbPNZx5Ao)
 
 Extras: 
-- [1](https://www.youtube.com/watch?v=bMnW7bbkV6Q)
-/ [2](https://www.youtube.com/watch?v=j0rgbfeRFVA)
-/ [3](https://www.youtube.com/watch?v=faQ9lkjiRaM)
-/ [4](https://www.youtube.com/watch?v=Qow5XgDqEdo)
-/ [5](https://www.youtube.com/watch?v=rwVzamFR-tg)
-/ [6](https://www.youtube.com/watch?v=inL-zRXWpkk)
-/ [7](https://www.youtube.com/watch?v=lCg_gh_fppI)
-/ [8](https://www.youtube.com/watch?v=h_rAyZgbSPM)
-/ [9](https://www.youtube.com/watch?v=s0CkBw5Wock)
-
-### Option 2 (Weekly Program - Intermediate)
-- [Sunday](https://www.youtube.com/watch?v=koTzaUu7Vws)
-- [Monday](https://www.youtube.com/watch?v=GTZioQTSy8o)
-- [Tuesday](https://www.youtube.com/watch?v=_HnWLkHL1hU)
-- [Wednesday](https://www.youtube.com/watch?v=koTzaUu7Vws)
-- [Thursday](https://www.youtube.com/watch?v=_HnWLkHL1hU)
-- [Saturday](https://www.youtube.com/watch?v=GTZioQTSy8o)
-
-Alternative: Hike or 10k+ km walk
+- [8 min buns](https://www.youtube.com/watch?v=bMnW7bbkV6Q)
+/ [Lift your booty](https://www.youtube.com/watch?v=j0rgbfeRFVA)
+/ [Bubble butt](https://www.youtube.com/watch?v=faQ9lkjiRaM)
+/ [Brazilian buttocks workout](https://www.youtube.com/watch?v=Qow5XgDqEdo)
+/ [Butt challenge](https://www.youtube.com/watch?v=rwVzamFR-tg)
+/ [Butt lifting & thigh sculpting](https://www.youtube.com/watch?v=h_rAyZgbSPM)
 
 
-### Option 3 (Monthly Program)
-
-- [ ] [Blogilates Monthly Program](https://www.blogilates.com/blog/new-beginners-calendar-2-0-for-2015/)
-   - [x] [Day 1](https://www.blogilates.com/beginners-2-0-day-1/)
-   - [x] [Day 2](https://www.blogilates.com/beginners-2-0-day-2/)
-   - [x] [Day 3](https://www.blogilates.com/beginners-2-0-day-3/)
-   - [x] [Day 4](https://www.blogilates.com/beginners-2-0-day-4/)
-   - [x] [Day 5](https://www.blogilates.com/beginners-2-0-day-5/)
-   - [x] [Day 6](https://www.blogilates.com/beginners-2-0-day-6/)
-   - Day 7 is rest day
-   - [x] [Day 8](https://www.blogilates.com/beginners-2-0-day-8/)
-   - [x] [Day 9](https://www.blogilates.com/beginners-2-0-day-9/)
-   - [x] [Day 10](https://www.blogilates.com/beginners-2-0-day-10/)
-   - [x] [Day 11](https://www.blogilates.com/beginners-2-0-day-11/)
-   - [x] [Day 12](https://www.blogilates.com/beginners-2-0-day-12/)
-   - [x] [Day 13](https://www.blogilates.com/beginners-2-0-day-13/)
-   - Day 14 is rest day
-   - [x] [Day 15](https://www.blogilates.com/beginners-2-0-day-15/)
-   - [x] [Day 16](https://www.blogilates.com/beginners-2-0-day-16/)
-   - [x] [Day 17](https://www.blogilates.com/beginners-2-0-day-17/)
-   - [x] [Day 18](https://www.blogilates.com/beginners-2-0-day-18/)
-   - [x] [Day 19](https://www.blogilates.com/beginners-2-0-day-19/)
-   - [x] [Day 20](https://www.blogilates.com/beginners-2-0-day-20/)
-   - Day 21 is rest day
-   - [x] [Day 22](https://www.blogilates.com/beginners-2-0-day-22/)
-   - [x] [Day 23](https://www.blogilates.com/beginners-2-0-day-23/)
-
-### Option 4: Cycling Weekends
-   - [ ] Get a small, light, city bike
-   - [ ] Exercise value, evaluation?
-
-
-## Unlocking New Experiences
-Goal: At least one new thing per month
-### Pool to choose from
-   - https://www.londonxlondon.com/things-to-do-in-london/
-   - https://www.timeout.com/london/things-to-do
-   - https://www.pushkinhouse.org/events
-   - https://open-city.org.uk
-   - https://www.weroad.co.uk/destinations-europe
-   - https://www.londontheatre.co.uk/whats-on
-   - https://thelondonlocal.com/fun-things-to-do-in-london/
-### Tracker
-   - [x] Feb 2023 - Wandering around [Covent Garden](https://www.visitlondon.com/things-to-do/london-areas/covent-garden) with a visit to [Heaven's Gate](https://www.instagram.com/p/CofUStyoFpj/?hl=en)
-
-
-# Useful Apps
+Alternative: Hike / 10k+ km walk / cycling
 
 
