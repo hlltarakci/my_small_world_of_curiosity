@@ -149,7 +149,7 @@
 - [x] [**The Volcano: Rescue from Whakaari, 2022**](https://www.imdb.com/title/tt21439528/)
 - [x] [Istanbul earthquake - Risk and early warning, 2023](https://www.youtube.com/watch?v=Uix59ojUmOw)
 - [ ] [Biggest Volcanic Eruptions & Disastrous Earthquakes](https://www.youtube.com/watch?v=PPkBABO7y2M)
-- [ ] [Aftermath: Population Zero - The World without Humans](https://www.youtube.com/watch?v=l11zPNb-MFg)
+- [x] [Aftermath: Population Zero - The World without Humans](https://www.youtube.com/watch?v=l11zPNb-MFg)
 - [ ] [Malaysia Airlines flight 370 disappearance](https://www.youtube.com/watch?v=myBmq87fJeQ)
 - [x] [The vanishing of flight 370](https://www.youtube.com/watch?v=kd2KEHvK-q8)
 - [ ] [Timelapse of the future](https://www.youtube.com/watch?v=uD4izuDMUQA)
