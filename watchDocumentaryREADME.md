@@ -203,4 +203,11 @@
   - [ ] [The Metaverse and How We'll Build It Together -- Connect 2021](https://www.youtube.com/watch?v=Uvufun6xer8)
   - [x] [Lex Fridman Podcast: Mark Zuckerberg: Meta, Facebook, Instagram, and the Metaverse](https://www.youtube.com/watch?v=5zOHSysMmH0)
   - [ ] [Brian Jung: How The Metaverse Will Change The World](https://www.youtube.com/watch?v=ExUovs0n4bA)
+  - Articles
+      - [x] [A reality check for the metaverse is coming](https://www.economist.com/the-world-ahead/2022/11/14/a-reality-check-for-the-metaverse-is-coming)
+      - [x] [What is the metaverse?](https://about.meta.com/what-is-the-metaverse/)
+      - [x] [FlexNaija Launches in Nigeria: A First-of-its-kind Mixed Reality Event for African Creators](https://about.fb.com/news/2022/11/flexnaija-launches-in-nigeria-a-first-of-its-kind-mixed-reality-event-for-african-creators/) / 3 key points: Meta Spark augmented reality (AR), Digital Collectible (NFTs), and Avatars
+      - [x] [Introducing the Meta Avatars Store](https://about.fb.com/news/2022/06/introducing-the-meta-avatars-store/)
+      - [ ] [The Metaverse Standards Forum](https://metaverse-standards.org/) 
+      - [ ] [Metaverse Standards Forum Establishes Pipeline of Exploratory and Working Groups](https://metaverse-standards.org/news/blog/metaverse-standards-forum-announces-first-approved-domain-groups/)
 
