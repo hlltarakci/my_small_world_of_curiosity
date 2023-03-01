@@ -199,3 +199,8 @@
   - [ ] [What Went Wrong, Curiosity Stream](https://curiositystream.com/video/4054)
   - [ ] [Curious Minds: Space, 2015](https://www.imdb.com/title/tt6951516/)
   - [ ] [Earthstorm, 2022](https://www.imdb.com/title/tt22437106/)
+- Metaverse
+  - [ ] [The Metaverse and How We'll Build It Together -- Connect 2021](https://www.youtube.com/watch?v=Uvufun6xer8)
+  - [x] [Lex Fridman Podcast: Mark Zuckerberg: Meta, Facebook, Instagram, and the Metaverse](https://www.youtube.com/watch?v=5zOHSysMmH0)
+  - [ ] [Brian Jung: How The Metaverse Will Change The World](https://www.youtube.com/watch?v=ExUovs0n4bA)
+
