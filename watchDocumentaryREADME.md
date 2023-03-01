@@ -104,6 +104,8 @@
 - [ ] [Russia: A small town (Yelnya) clings to its Soviet past](https://www.youtube.com/watch?v=48DaLYiO-yk)
 - [x] [**Katya, Vitya, Dima, 2012**](https://www.imdb.com/video/vi2836900121/) / [poster](https://nataliaantonova.com/2012/04/18/poster-for-katya-vitya-dima/)
 - [x] [**Life in a small Tatar village in the Urals of Russia**](https://www.youtube.com/watch?v=z1S4W2acLsk) / [chak chak](https://theculturetrip.com/europe/russia/articles/chak-chak-the-national-sweet-you-must-try-in-tartarstan/)
+- [x] [Life at the edge of Russian North on Kola Peninsula | Murmansk & Teriberka](https://www.youtube.com/watch?v=qgz3XP2aCjE)
+- [ ] [Day in the life during winter in the Urals of Russia](https://www.youtube.com/watch?v=IbQLUhQ2sUE)
 - [ ] [The Dyatlov Pass Incident](https://www.youtube.com/watch?v=Ee8iLRVOHDw)
 - [ ] [North Nomads life in winter. Ural mountains and tundra life](https://www.youtube.com/watch?v=8COjtY1egvc)
 - [ ] [Third Class Travel, 2017](https://guidedoc.tv/documentary/third-class-travel-documentary-film/#)
