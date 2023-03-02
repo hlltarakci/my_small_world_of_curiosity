@@ -12,9 +12,14 @@ Cassey:
 - [100 Glute Challenge](https://www.youtube.com/playlist?list=PLSCcAGyv98idAYy_syDOjnnZ5E362V-wK)
 - [Total Body Transformation Series](https://www.youtube.com/playlist?list=PLSCcAGyv98idtpf9ieOEyWtpVXgnLxvZt)
 - [Glow Up Sessions](https://www.youtube.com/playlist?list=PLSCcAGyv98icXNi46_I3t-qy58p846WPr)
+- [Toned Series](https://www.youtube.com/playlist?list=PLSCcAGyv98ick76ygMkdu7PuRFfpn8ixM)
 - [1](https://www.youtube.com/watch?v=CKe6EYSzmtU)
 - [2](https://www.youtube.com/watch?v=inL-zRXWpkk)
 - [3](https://www.youtube.com/watch?v=s0CkBw5Wock)
+- [4](https://www.youtube.com/watch?v=aE4j3KR5m54)
+- [5](https://www.youtube.com/watch?v=cyh82HKddUc)
+- [6](https://www.youtube.com/watch?v=QhxwCPwCrOQ)
+- [7](https://www.youtube.com/watch?v=Yd0ywRGT-zg)
 
 Sophie:
 - [1](https://www.youtube.com/watch?v=sQVFoWGjD4k)
