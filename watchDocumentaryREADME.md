@@ -108,6 +108,7 @@
 - [ ] [Day in the life during winter in the Urals of Russia](https://www.youtube.com/watch?v=IbQLUhQ2sUE)
 - [ ] [The Dyatlov Pass Incident](https://www.youtube.com/watch?v=Ee8iLRVOHDw)
 - [ ] [North Nomads life in winter. Ural mountains and tundra life](https://www.youtube.com/watch?v=8COjtY1egvc)
+- [ ] [A journey through Mongolia](https://www.youtube.com/watch?v=ykAisB_4WLg)
 - [ ] [Third Class Travel, 2017](https://guidedoc.tv/documentary/third-class-travel-documentary-film/#)
 - [x] [**Antarctica: A message from another planet**](https://www.youtube.com/watch?v=EzJqbR2rPwY) / [Antartic treaty](https://en.wikipedia.org/wiki/Antarctic_Treaty_System) / [Explorers](https://explore.quarkexpeditions.com/blog/top-10-most-famous-and-intriguing-polar-explorers)
 - [x] [**Tour of the Arctic – from Svalbard to Siberia** - Part 1](https://www.youtube.com/watch?v=gD89hfPh4vY) / [Part 2 - **from Greenland to Alaska**](https://www.youtube.com/watch?v=sdB0_oVInuk) / [Arctic vs Antarctica](https://www.coolantarctica.com/Antarctica%20fact%20file/antarctica%20environment/antarctic_arctic_comparison.php) / [Permafrost](https://en.wikipedia.org/wiki/Permafrost)
