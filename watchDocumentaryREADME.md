@@ -108,7 +108,7 @@
 - [ ] [Day in the life during winter in the Urals of Russia](https://www.youtube.com/watch?v=IbQLUhQ2sUE)
 - [ ] [The Dyatlov Pass Incident](https://www.youtube.com/watch?v=Ee8iLRVOHDw)
 - [ ] [North Nomads life in winter. Ural mountains and tundra life](https://www.youtube.com/watch?v=8COjtY1egvc)
-- [ ] [Kamchatka Peninsula: Exploring Siberia's Cold War 'Forbidden Zone](https://www.youtube.com/watch?v=hD84SfkPmFU)
+- [x] [**Kamchatka Peninsula: Exploring Siberia's Cold War 'Forbidden Zone**](https://www.youtube.com/watch?v=hD84SfkPmFU) / [powder snow](http://snow.guide/snow-types/)
 - [ ] [Russia's Hidden Paradises](https://www.youtube.com/watch?v=eDTI5FqqoVU)
 - [ ] [The Volcanos of Kamchatka Peninsula](https://www.youtube.com/watch?v=TM1u7pe-AxE)
 - [ ] [A journey through Mongolia](https://www.youtube.com/watch?v=ykAisB_4WLg)
