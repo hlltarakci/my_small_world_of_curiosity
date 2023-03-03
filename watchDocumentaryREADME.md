@@ -109,6 +109,7 @@
 - [ ] [The Dyatlov Pass Incident](https://www.youtube.com/watch?v=Ee8iLRVOHDw)
 - [ ] [North Nomads life in winter. Ural mountains and tundra life](https://www.youtube.com/watch?v=8COjtY1egvc)
 - [x] [**Kamchatka Peninsula: Exploring Siberia's Cold War 'Forbidden Zone**](https://www.youtube.com/watch?v=hD84SfkPmFU) / [powder snow](http://snow.guide/snow-types/)
+- [ ] [Kamchatka, Yury Dud](https://www.youtube.com/watch?v=Zv4hIaVvFVI)
 - [ ] [Russia's Hidden Paradises](https://www.youtube.com/watch?v=eDTI5FqqoVU)
 - [ ] [The Volcanos of Kamchatka Peninsula](https://www.youtube.com/watch?v=TM1u7pe-AxE)
 - [ ] [A journey through Mongolia](https://www.youtube.com/watch?v=ykAisB_4WLg)
