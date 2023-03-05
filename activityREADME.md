@@ -59,7 +59,7 @@ Day Hikes:
 - [x] [Jan 2023 - Gatton Park and North Downs](http://www.senderismoenlondres.co.uk/events/gatton-park-and-north-downs-way.html)
 - [x] [Jan 2023 - **The White Cliffs of Dover**](https://www.youtube.com/watch?v=yNMRcbNbU9w)
 - [x] [Oct 2022 - Seven Sisters coastal hike](https://www.alltrails.com/en-gb/trail/england/east-sussex/seven-sisters)
-- [x] [Oct 2022 - **The Ridgeway, lovely views and the Chilterns**](http://www.senderismoenlondres.co.uk/events/the-ridgeway-lovely-views-and-the-chilterns-hiking-uk.html)
+- [x] [Oct 2022 - **The Ridgeway, lovely views and the Chilterns**](http://www.senderismoenlondres.co.uk/events/the-ridgeway-lovely-views-and-the-chilterns-hiking-uk.html) / [summary](https://www.youtube.com/watch?v=wx5ZAZjn_3k)
 - [x] [Oct 2022 - Henley, the Greys and the Rotherfields](https://www.alltrails.com/explore/trail/england/oxfordshire/henley-the-greys-and-the-rotherfields?u=i)
 - [x] [Sep 2022 - Alaxandra Palace, Highgate Wood, Parkland Walk, Finsbury Park](https://www.alltrails.com/en-gb/trail/england/london/parkland-walk)
 - [x] [Aug 2022 - Windsor Castle](https://www.windsor.gov.uk/things-to-do/windsor-castle-p43983) - [**Stonehenge**](https://www.english-heritage.org.uk/visit/places/stonehenge/) - [Oxford](https://oxfordcity.co.uk)
