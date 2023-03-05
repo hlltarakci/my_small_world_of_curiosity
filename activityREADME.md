@@ -55,7 +55,7 @@ Hike Groups: https://theflamingohiker.com/hiking-groups-in-london/
 
 Day Hikes:
 - [x] [Mar 2023 - Virginia Water Cascades and Windsor Castle](http://www.senderismoenlondres.co.uk/virginia-water-cascades-and-windsor-castle.html)
-- [x] [Feb 2023 - Hampton Court](http://www.senderismoenlondres.co.uk/beginner-walkers-hampton-court-circular-walk.html)
+- [x] [Feb 2023 - Hampton Court](http://www.senderismoenlondres.co.uk/beginner-walkers-hampton-court-circular-walk.html) / [summary](https://www.youtube.com/watch?v=z1WbJLTAKdU)
 - [x] [Jan 2023 - Gatton Park and North Downs](http://www.senderismoenlondres.co.uk/events/gatton-park-and-north-downs-way.html)
 - [x] [Jan 2023 - **The White Cliffs of Dover**](https://www.youtube.com/watch?v=yNMRcbNbU9w)
 - [x] [Oct 2022 - Seven Sisters coastal hike](https://www.alltrails.com/en-gb/trail/england/east-sussex/seven-sisters)
