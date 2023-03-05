@@ -109,7 +109,7 @@
 - [ ] [The Dyatlov Pass Incident](https://www.youtube.com/watch?v=Ee8iLRVOHDw)
 - [ ] [North Nomads life in winter. Ural mountains and tundra life](https://www.youtube.com/watch?v=8COjtY1egvc)
 - [x] [**Ice Skating On The World's Deepest Lake | Legendary Lake Baikal**](https://www.youtube.com/watch?v=Pgo12hC8bOs)
-- [ ] [Alone, 180 days on lake Baikal](https://www.youtube.com/watch?v=8zskcSA0bfM)
+- [x] [**Alone, 180 days on lake Baikal**](https://www.youtube.com/watch?v=8zskcSA0bfM) / the book written there: [Consolations of the Forest: Alone in a Cabin in the Middle Taiga](https://www.amazon.co.uk/Consolations-Forest-Alone-Cabin-Middle/dp/0141975474)
 - [x] [**Kamchatka Peninsula: Exploring Siberia's Cold War 'Forbidden Zone**](https://www.youtube.com/watch?v=hD84SfkPmFU) / [powder snow](http://snow.guide/snow-types/)
 - [x] [**The remotest part of Russia - the Far East | Unforgettable experience on Kamchatka peninsula**](https://www.youtube.com/watch?v=dO-b9fEv6Mg)
 - [ ] [Kamchatka, Yury Dud](https://www.youtube.com/watch?v=Zv4hIaVvFVI)
