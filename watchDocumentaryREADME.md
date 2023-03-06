@@ -134,6 +134,8 @@
 - [ ] [Trans-Siberian by Private Train](https://www.youtube.com/watch?v=1NtdmNVNosA)
 - [ ] [The Trans-Siberian Railway](https://www.youtube.com/watch?app=desktop&v=tlRrWDdJPqY)
 - [x] [**One Day in the Coldest Village on Earth | Yakutia**](https://www.youtube.com/watch?v=lj5GXZaE7qs)
+- [ ] [Life in a day, 2011](https://www.imdb.com/title/tt1687247/) / [where to watch](https://www.youtube.com/watch?v=JaFVr_cJJIY)
+- [ ] [Life in a day, 2021](https://www.imdb.com/title/tt12706768/) / [where to watch](https://www.youtube.com/watch?v=vcsSc2iksC0)
 - [x] [Challenger: The Final Flight, 2020](https://www.netflix.com/nl-en/title/81012137)
 - [x] [Anadolu'nun Gözleri: Kapadokya, TRT Belgesel](https://www.youtube.com/watch?v=o6wSitX7XFE)
 - [x] [Google, Facebook, Amazon - The rise of the mega-corporations](https://youtu.be/Dy8ogOaKk4Y)
