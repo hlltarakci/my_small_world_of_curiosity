@@ -137,7 +137,7 @@
 - [ ] [Happy People: A Year in the Taiga, 2010](https://www.imdb.com/title/tt1683876/)
 - [ ] [Big Underground System: Moscow Metro](https://www.youtube.com/watch?v=wnkNvA5SWoc)
 - [ ] [World's Busiest Cities: Moscow](https://www.imdb.com/title/tt9772764/) / [where to watch](https://www.dailymotion.com/video/x6syfeo)
-- [x] [Life in Moscow: Daily life in the capital](https://www.youtube.com/watch?v=NnFaClkxY0M) / [Kremlin and Red Square](https://whc.unesco.org/en/list/545/) / [**The Moscow Kremlin: The Heart of the Russian Empire](https://www.youtube.com/watch?v=BPcXNqafKcQ)
+- [x] [Life in Moscow: Daily life in the capital](https://www.youtube.com/watch?v=NnFaClkxY0M) / [Kremlin and Red Square](https://whc.unesco.org/en/list/545/) / [**The Moscow Kremlin: The Heart of the Russian Empire**](https://www.youtube.com/watch?v=BPcXNqafKcQ) / [St. Basil's Cathedral](https://www.masterclass.com/articles/st-basils-cathedral-architecture-and-history)
 - [ ] [Life in a day, 2011](https://www.imdb.com/title/tt1687247/) / [where to watch](https://www.youtube.com/watch?v=JaFVr_cJJIY)
 - [ ] [Life in a day, 2021](https://www.imdb.com/title/tt12706768/) / [where to watch](https://www.youtube.com/watch?v=vcsSc2iksC0)
 - [x] [Challenger: The Final Flight, 2020](https://www.netflix.com/nl-en/title/81012137)
