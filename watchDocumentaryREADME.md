@@ -113,7 +113,7 @@
 - [x] [**Kamchatka Peninsula: Exploring Siberia's Cold War 'Forbidden Zone**](https://www.youtube.com/watch?v=hD84SfkPmFU) / [powder snow](http://snow.guide/snow-types/)
 - [x] [**The remotest part of Russia - the Far East | Unforgettable experience on Kamchatka peninsula**](https://www.youtube.com/watch?v=dO-b9fEv6Mg)
 - [ ] [Kamchatka, Yury Dud](https://www.youtube.com/watch?v=Zv4hIaVvFVI)
-- [ ] [Russia's Hidden Paradises](https://www.youtube.com/watch?v=eDTI5FqqoVU)
+- [x] [**Russia's Hidden Paradises**](https://www.youtube.com/watch?v=eDTI5FqqoVU) / [11 timezones](https://www.worldatlas.com/articles/how-many-time-zones-are-in-russia.html)
 - [ ] [The Volcanos of Kamchatka Peninsula](https://www.youtube.com/watch?v=TM1u7pe-AxE)
 - [ ] [Russia's Icy Northern Sea Coast](https://www.youtube.com/watch?v=pH_KyXXDpJQ)
 - [ ] [Realm of the Volga - A River is Born](https://www.youtube.com/watch?v=YlxEmDPeoTE)
