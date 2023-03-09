@@ -25,6 +25,7 @@ Sophie:
 - [1](https://www.youtube.com/watch?v=sQVFoWGjD4k)
 - [2](https://www.youtube.com/watch?v=nHxdKUI_r_g)
 - [3](https://www.youtube.com/watch?v=VvrHo1NDITY)
+- [4](https://www.youtube.com/watch?v=YvmC1mTWXnQ)
 
 Nicole:
 - [1](https://www.youtube.com/watch?v=koTzaUu7Vws)
