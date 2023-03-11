@@ -118,7 +118,7 @@
 - [x] [**From Kurils With Love**](https://www.youtube.com/watch?v=kHGarqZFY1k)
 - [x] [**Russia's Hidden Paradises**](https://www.youtube.com/watch?v=eDTI5FqqoVU) / [11 timezones](https://www.worldatlas.com/articles/how-many-time-zones-are-in-russia.html)
 - [ ] [The Volcanos of Kamchatka Peninsula](https://www.youtube.com/watch?v=TM1u7pe-AxE)
-- [ ] [Russia's Icy Northern Sea Coast](https://www.youtube.com/watch?v=pH_KyXXDpJQ)
+- [x] [**Russia's Icy Northern Sea Coast**](https://www.youtube.com/watch?v=pH_KyXXDpJQ)
 - [ ] [Realm of the Volga - A River is Born](https://www.youtube.com/watch?v=YlxEmDPeoTE)
 - [ ] [Realm of the Volga - A River Becomes A Sea](https://www.youtube.com/watch?v=YrL3tDj5WSY)
 - [ ] [The Greater Caucasus - Between Europe and Asia](https://www.youtube.com/watch?v=GK0YEiEZELA)
