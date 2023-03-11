@@ -37,6 +37,14 @@
     - [ ] [Air Fryer Falafel](https://elavegan.com/air-fryer-falafel/)
     - [ ] [Air Frier Chicken Wings](https://cookinglsl.com/how-to-make-chicken-wings-in-air-fryer/)
 - Breakfast Recipes - [link1](https://damndelicious.net/category/breakfast/) - [link2](https://damndelicious.net/category/breakfast/)
+- AirFryer Pastry - [link](https://yemek.com/airfryer-tarifleri/'
+    - [ ] [Peynirli Mayasiz Pogaca](https://yemek.com/tarif/airfryerda-peynirli-mayasiz-pogaca/)
+    - [ ] [Patatesli Kasarli Kalem Borek](https://yemek.com/tarif/airfryerda-patatesli-kasarli-kalem-borek/)
+    - [ ] [Milfoy Simit](https://yemek.com/tarif/airfryerda-milfoy-simit/)
+    - [ ] [Chocolate Croissant](https://yemek.com/tarif/airfryerda-milfoyden-cikolatali-kruvasan/)
+    - [ ] [Apple-Carrot Cake](https://yemek.com/tarif/airfryerda-elmali-havuclu-kek/)
+    - [ ] [Chestnut](https://yemek.com/tarif/airfryerda-kestane-kebap/)
+    - [ ] [Chickpea Chips](https://www.nefisyemektarifleri.com/airfryerde-citir-nohut-videolu/)
 
 ## Chickpeas with Beef
 [<img src="chickpeas_with_beef.jpg" width="500"/>](chickpeas_with_beef.jpg)
