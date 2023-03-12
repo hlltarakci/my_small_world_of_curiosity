@@ -39,6 +39,7 @@
      - [ ] [Burnt By The Sun, 1994](https://www.imdb.com/title/tt0111579/)
      - [ ] [A Cruel Romance, 1984](https://www.imdb.com/title/tt0090368/)
      - [ ] [Staryy novyy god (The old new year), 1981](https://www.imdb.com/title/tt0081557/) - [where to watch part 1](https://www.youtube.com/watch?v=vSAVYvnSJ3U) - [where to watch part 2](https://www.youtube.com/watch?v=M7JCEQDunGo)
+     - [ ] [A Few Days from the Life of I.I. Oblomov, 1980](https://www.imdb.com/title/tt0079619/?ref_=nv_sr_srsg_0)
      - [ ] [The Cranes Are Flying, 1957](https://www.imdb.com/title/tt0050634/) - [where to watch](https://www.youtube.com/watch?v=2rINnJat-5k)
      - [ ] [True Friends (Vernye druz'ya), 1954](https://www.imdb.com/title/tt0047650/) - [where to watch](https://www.youtube.com/watch?v=qGXoycbxSnA), cannot find subtitles :(
      - [ ] [The Diamond Arm, 1969](https://www.imdb.com/title/tt0062759/)
@@ -60,6 +61,11 @@
 - Nuri Bilge Ceylan
      - [ ] [Winter Sleep, 2014](https://www.imdb.com/title/tt2758880/?ref_=nm_knf_t_2)
      - [ ] [Once Upon a Time in Anatolia, 2011](https://www.imdb.com/title/tt1827487/?ref_=nm_knf_t_1)
+- Yavuz Turgul
+     - [ ] [Eskiya, 1996](https://www.imdb.com/title/tt0116231/?ref_=nm_knf_t_1)
+     - [ ] [Muhsin Bey, 1987](https://www.imdb.com/title/tt0184756/?ref_=nm_knf_t_3)
+     - [ ] [Ask Filmlerinin Unutulmaz Yönetmeni, 1990](https://www.imdb.com/title/tt0263074/?ref_=tt_sims_tt_t_2)
+     - [ ] [Hunting Season, 2010](https://www.imdb.com/title/tt1668191/?ref_=nm_knf_t_2)
 - Stanley Kubrick
      - [ ] [2001: A Space Odyssey, 1968](https://www.imdb.com/title/tt0062622/)
      - [ ] [Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb, 1964](https://www.imdb.com/title/tt0057012/)
