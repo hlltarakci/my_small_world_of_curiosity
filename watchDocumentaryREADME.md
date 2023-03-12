@@ -85,7 +85,9 @@
         [8: 27 Mayis 1960 Darbe](https://www.youtube.com/watch?v=DzNr4rwXsq4) /
         [9: Ada](https://www.youtube.com/watch?v=lpVS7AcwX9s) / 
         [10: Idamlar (Menderes, Zorlu, Polatkan](https://www.youtube.com/watch?v=XQZJmACpU7w)
-   - [ ] [12 Mart](https://www.youtube.com/watch?v=UcCKCx5G0dM) 
+   - [ ] [12 Mart](https://www.youtube.com/playlist?list=PL19EshdPt3R_nBWDkdv7BjSGbJ87mc4o2) /
+        [12 Mart 1971 Muhtırası Nasıl Verildi?](https://www.youtube.com/watch?v=vTG9BSqGOEE)
+        [1: Sanci](https://www.youtube.com/watch?v=S-Hwh7mrZU0&list=PL19EshdPt3R_nBWDkdv7BjSGbJ87mc4o2&index=16)
    - [ ] [12 Eylul](https://www.youtube.com/watch?v=arGodO-a1sE)
    - [ ] [Ozalli Yillar](https://www.youtube.com/watch?v=arGodO-a1sE)
    - [ ] [28 Subat](https://www.youtube.com/watch?v=arGodO-a1sE)
@@ -138,6 +140,10 @@
 - [ ] [The Trans-Siberian Railway](https://www.youtube.com/watch?app=desktop&v=tlRrWDdJPqY)
 - [x] [**One Day in the Coldest Village on Earth | Yakutia**](https://www.youtube.com/watch?v=lj5GXZaE7qs)
 - [ ] [Happy People: A Year in the Taiga, 2010](https://www.imdb.com/title/tt1683876/)
+- [x] [Russian habits in life and communication | Understand the Russian culture better](https://www.youtube.com/watch?v=eRjV946xsRU) / [peach cultures vs coconut cultures](https://www.shortform.com/blog/peach-and-coconut-culture/)
+- [x] [**Traditions That Surprise Foreigners in a Russian Culture**](https://www.youtube.com/watch?v=YitP7gdbIwQ)
+- [x] [Things you didn't understand about Russia](https://www.youtube.com/watch?v=PYmIabGGGPQ)
+- [ ] [Russian habits](https://www.youtube.com/watch?v=2pVu9PDhm2Y)
 - [ ] [Big Underground System: Moscow Metro](https://www.youtube.com/watch?v=wnkNvA5SWoc)
 - [ ] [World's Busiest Cities: Moscow](https://www.imdb.com/title/tt9772764/) / [where to watch](https://www.dailymotion.com/video/x6syfeo)
 - [x] [Life in Moscow: Daily life in the capital](https://www.youtube.com/watch?v=NnFaClkxY0M) / [Kremlin and Red Square](https://whc.unesco.org/en/list/545/) / [**The Moscow Kremlin: The Heart of the Russian Empire**](https://www.youtube.com/watch?v=BPcXNqafKcQ) / [St. Basil's Cathedral](https://www.masterclass.com/articles/st-basils-cathedral-architecture-and-history)
