@@ -64,6 +64,7 @@
 - [ ] [Ukraine on Fire, 2016](https://www.imdb.com/title/tt5724358/)
 - [ ] [Winter on Fire: Ukraine's Fight for Freedom](https://www.imdb.com/title/tt4908644/)
 - **Documentary Series**
+   - [ ] [The Romanovs, 2013](https://www.imdb.com/title/tt3560728/) / [where to watch](https://www.youtube.com/watch?v=46DEVQ8UacA)
    - [ ] [The Last Czars, 2019](https://www.imdb.com/title/tt7949606/?ref_=tt_sims_tt_i_1)
    - [ ] [Last of the Czars, 1996](https://www.imdb.com/title/tt3546970/?ref_=tt_sims_tt_i_5)
 
@@ -74,7 +75,7 @@
 - [x] [Ottomans vs Venetians: Battle for Crete, 2010](https://www.imdb.com/title/tt12797060/)
 - [ ] [The History of the Ottoman Empire](https://youtu.be/f9c4Y7Vf7G0)
 - [ ] [**32. Gun Arsivi**](https://www.youtube.com/watch?app=desktop&v=sBPfjeWbp9Q)
-   - [x] [**Demirkirat Belgeseli (10 Bolum), 1991**](https://www.youtube.com/watch?v=_kVCHHBRuSE) / 
+   - [x] [**Demirkirat: Bir Demokrasinin Dogusu (10 Bolum), 1991**](https://www.imdb.com/title/tt4077876/) / [where to watch](https://www.youtube.com/watch?v=_kVCHHBRuSE) / 
         [1: 1930-1945, Adnan Menderes'in siyasete girisi, Inonu donemi, 2. Dunya Savasi'nda Turkiye](https://www.youtube.com/watch?app=desktop&v=sBPfjeWbp9Q) /
         [2: 1946, Demokrat Parti'nin ilk secimi](https://www.youtube.com/watch?v=uFGz_hN-A94) /
         [3: 1950, 1950 Secimleri, Adnan Menderes'in basbakan olmasi](https://www.youtube.com/watch?v=wm8dOfQQ3Ns) /
@@ -85,8 +86,9 @@
         [8: 27 Mayis 1960 Darbe](https://www.youtube.com/watch?v=DzNr4rwXsq4) /
         [9: Ada](https://www.youtube.com/watch?v=lpVS7AcwX9s) / 
         [10: Idamlar (Menderes, Zorlu, Polatkan](https://www.youtube.com/watch?v=XQZJmACpU7w)
-   - [ ] [12 Mart](https://www.youtube.com/playlist?list=PL19EshdPt3R_nBWDkdv7BjSGbJ87mc4o2) /
-        [12 Mart 1971 Muhtırası Nasıl Verildi?](https://www.youtube.com/watch?v=vTG9BSqGOEE)
+   - [ ] [12 Mart: Ihtilalin Pencesinde Demokrasi (10 Bolum), 1994](https://www.imdb.com/title/tt10313338/) / [where to watch](https://www.youtube.com/playlist?list=PL19EshdPt3R_nBWDkdv7BjSGbJ87mc4o2) /
+        [12 Mart 1971 Muhtırası Nasıl Verildi?](https://www.youtube.com/watch?v=vTG9BSqGOEE) / 
+        [Suleyman Demirel Interview, 1993](https://www.youtube.com/watch?v=slUdmA2bfFk&list=PL19EshdPt3R_nBWDkdv7BjSGbJ87mc4o2&index=3) / 
         [1: Sanci](https://www.youtube.com/watch?v=S-Hwh7mrZU0&list=PL19EshdPt3R_nBWDkdv7BjSGbJ87mc4o2&index=16)
    - [ ] [12 Eylul](https://www.youtube.com/watch?v=arGodO-a1sE)
    - [ ] [Ozalli Yillar](https://www.youtube.com/watch?v=arGodO-a1sE)
@@ -143,7 +145,7 @@
 - [x] [Russian habits in life and communication | Understand the Russian culture better](https://www.youtube.com/watch?v=eRjV946xsRU) / [peach cultures vs coconut cultures](https://www.shortform.com/blog/peach-and-coconut-culture/)
 - [x] [**Traditions That Surprise Foreigners in a Russian Culture**](https://www.youtube.com/watch?v=YitP7gdbIwQ)
 - [x] [Things you didn't understand about Russia](https://www.youtube.com/watch?v=PYmIabGGGPQ)
-- [ ] [Russian habits](https://www.youtube.com/watch?v=2pVu9PDhm2Y)
+- [x] [Russian habits](https://www.youtube.com/watch?v=2pVu9PDhm2Y) / [semaver :)](https://en.wikipedia.org/wiki/Samovar) / [**old new year**](https://russiapedia.rt.com/of-russian-origin/old-new-year/index.html)
 - [ ] [Big Underground System: Moscow Metro](https://www.youtube.com/watch?v=wnkNvA5SWoc)
 - [ ] [World's Busiest Cities: Moscow](https://www.imdb.com/title/tt9772764/) / [where to watch](https://www.dailymotion.com/video/x6syfeo)
 - [x] [Life in Moscow: Daily life in the capital](https://www.youtube.com/watch?v=NnFaClkxY0M) / [Kremlin and Red Square](https://whc.unesco.org/en/list/545/) / [**The Moscow Kremlin: The Heart of the Russian Empire**](https://www.youtube.com/watch?v=BPcXNqafKcQ) / [St. Basil's Cathedral](https://www.masterclass.com/articles/st-basils-cathedral-architecture-and-history)
