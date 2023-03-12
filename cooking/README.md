@@ -33,7 +33,7 @@
 - Sandwich Recipes - [link1](https://www.brit.co/fancy-sandwich-recipes/) - [link2](https://insanelygoodrecipes.com/sandwich-recipes/)
 - AirFryer Recipes - [link](https://twitter.com/AF_Recipes)
     - [x] [Air Fryer Crispy Cauliflower](https://github.com/hlltarakci/inspirational_tracker/blob/main/cooking/README.md#airfryer-crispy-cauliflower)
-    - [x] [Air Fryer Roast Potatoes](https://github.com/hlltarakci/inspirational_tracker/blob/main/cooking/README.md#airfryer-roast_potatoes)
+    - [x] [Air Fryer Roast Potatoes](https://github.com/hlltarakci/inspirational_tracker/blob/main/cooking/README.md#airfryer-roast-potatoes)
     - [ ] [Air Fryer Twice Baked Potatoes](https://amandascookin.com/air-fryer-twice-baked-potatoes/)
     - [ ] [Air Fryer Falafel](https://elavegan.com/air-fryer-falafel/)
     - [ ] [Air Frier Chicken Wings](https://cookinglsl.com/how-to-make-chicken-wings-in-air-fryer/)
