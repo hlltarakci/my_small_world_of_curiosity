@@ -33,6 +33,7 @@
 - Sandwich Recipes - [link1](https://www.brit.co/fancy-sandwich-recipes/) - [link2](https://insanelygoodrecipes.com/sandwich-recipes/)
 - AirFryer Recipes - [link](https://twitter.com/AF_Recipes)
     - [x] [Air Fryer Crispy Cauliflower](https://github.com/hlltarakci/inspirational_tracker/blob/main/cooking/README.md#airfryer-crispy-cauliflower)
+    - [x] [Air Fryer Roast Potatoes](https://github.com/hlltarakci/inspirational_tracker/blob/main/cooking/README.md#airfryer-roast_potatoes)
     - [ ] [Air Fryer Twice Baked Potatoes](https://amandascookin.com/air-fryer-twice-baked-potatoes/)
     - [ ] [Air Fryer Falafel](https://elavegan.com/air-fryer-falafel/)
     - [ ] [Air Frier Chicken Wings](https://cookinglsl.com/how-to-make-chicken-wings-in-air-fryer/)
@@ -232,3 +233,9 @@
 8. Sogan-sarimsak kavrulunca, patates, havuc ve 1 cay bardagi barbunya tencereye ekle, kavur
 9. Karalahanayi ekle, biraz kavrulsun
 10. 2-3 yemek kasigi bulgur, 3 cay kasigi tuz + 1 cay kasigi pul biber + yarim cay kasigi karabiber ekle, ustune gececek kadar su ilave et. Yarim saat kadar pisir
+
+
+## AirFryer Roast Potatoes
+[<img src="roast_potatoes.jpeg" width="500"/>](roast_potatoes.jpeg)
+1. Patatesleri ortadan kes, tuzla, AirFryer da pisir.
+2. Ustune tereyag, peynir, poy (karisik baharat) ekle.
