@@ -20,6 +20,9 @@ Cassey:
 - [5](https://www.youtube.com/watch?v=cyh82HKddUc)
 - [6](https://www.youtube.com/watch?v=QhxwCPwCrOQ)
 - [7](https://www.youtube.com/watch?v=Yd0ywRGT-zg)
+- [8](https://www.youtube.com/watch?v=I6xCb7s5CE4)
+- [9](https://www.youtube.com/watch?v=ph1NjaXvOvg)
+- [10](https://www.youtube.com/watch?v=-SN-TQDqWXU)
 
 Sophie:
 - [1](https://www.youtube.com/watch?v=sQVFoWGjD4k)
