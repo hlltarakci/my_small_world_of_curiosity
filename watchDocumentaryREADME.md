@@ -124,7 +124,7 @@
 - [ ] [The Volcanos of Kamchatka Peninsula](https://www.youtube.com/watch?v=TM1u7pe-AxE)
 - [x] [**Russia's Icy Northern Sea Coast**](https://www.youtube.com/watch?v=pH_KyXXDpJQ)
 - [ ] [Coldest Place on Earth, Oymyakon - Yakutia](https://www.youtube.com/watch?v=sFWtQ5AV0vg)
-- [ ] [Life in the Arctic Villages & suburbs of Vorkuta](https://www.youtube.com/watch?v=RNCjZXffuyE)
+- [x] [**Life in the Arctic Villages & suburbs of Vorkuta**](https://www.youtube.com/watch?v=RNCjZXffuyE) / [**Vorkuta**](https://www.theguardian.com/artanddesign/gallery/2018/apr/18/the-last-town-in-sovietland-vorkuta-russia-tomeu-coll-in-pictures)
 - [ ] [Russian North village life in winter. Making Russian North cheese.](https://www.youtube.com/watch?v=rFlH3T1Y7q0)
 - [ ] [Realm of the Volga - A River is Born](https://www.youtube.com/watch?v=YlxEmDPeoTE)
 - [ ] [Realm of the Volga - A River Becomes A Sea](https://www.youtube.com/watch?v=YrL3tDj5WSY)
