@@ -46,7 +46,7 @@
      - [ ] [Heart of a Dog, 1988](https://www.imdb.com/title/tt0096126/)
      - [x] [Chernobyl 1986, 2021](https://www.imdb.com/title/tt10648714/)
 - Steven Spielberg
-     - [ ] [Ready Player One, 2018](https://www.imdb.com/title/tt1677720/)
+     - [x] [**Ready Player One, 2018**](https://www.imdb.com/title/tt1677720/) - [Metaverse related movies](https://medium.com/building-the-metaverse/movies-about-the-metaverse-a0797323e7f6) - [References in Ready Player One](https://readyplayerone.fandom.com/wiki/References)
 - Emir Kusturica
      - [x] [Time of the Gypsies, 1988](https://www.imdb.com/title/tt0097223/) - [soundtrack](https://open.spotify.com/album/1HrPH9JGhdudroFGQs55i6)
      - [ ] [Underground, 1995](https://www.imdb.com/title/tt0114787/?ref_=nm_knf_t_1)
