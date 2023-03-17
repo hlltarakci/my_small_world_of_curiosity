@@ -129,7 +129,7 @@
 - [x] [**Realm of the Volga - A River is Born**](https://www.youtube.com/watch?v=YlxEmDPeoTE) / [magestic Volga river](https://escape-magazin.com/14-fun-facts-about-the-volga-river/?lang=en) / [**Manpupuner**](https://mybestplace.com/en/article/manpupuner-the-seven-stone-giants-of-the-urals)
 - [ ] [Realm of the Volga - A River Becomes A Sea](https://www.youtube.com/watch?v=YrL3tDj5WSY)
 - [ ] [Manpupuner Rock Formations](https://www.youtube.com/watch?v=cdQgUdgEHrc)
-- [ ] [What is Man Pupu Ner & how to get there | Snowmobile expedition in the Far North of Russia](https://www.youtube.com/watch?v=MaeXsjMIi6w)
+- [x] [**What is Man Pupu Ner & how to get there | Snowmobile expedition in the Far North of Russia**](https://www.youtube.com/watch?v=MaeXsjMIi6w) / [7 wonders of Russia](https://www.russiadiscovery.com/news/seven_wonders_of_russia/)
 - [ ] [The Greater Caucasus - Between Europe and Asia](https://www.youtube.com/watch?v=GK0YEiEZELA)
 - [ ] [The Lesser Caucasus - Between Ararat and the Caspian Sea](https://www.youtube.com/watch?v=jTnDOuNADw8)
 - [ ] [A journey through Mongolia](https://www.youtube.com/watch?v=ykAisB_4WLg)
