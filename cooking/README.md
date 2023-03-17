@@ -50,6 +50,7 @@
     - [ ] [Grilled Cheese Sandwich](https://www.youtube.com/watch?v=pfpR4lMyVi0)
     - [ ] [Potato Wedges](https://www.youtube.com/watch?v=DKfha8VL3ho)
     - [ ] [Garlic Bread](https://www.youtube.com/watch?v=4z-sZKDsX7M)
+- Cold Appetizer - [link1](https://yemek.com/soguk-meze-tarifleri/) - [link2](https://www.nefisyemektarifleri.com/liste/yilbasi-soguk-mezeler/) - [link3](https://insanelygoodrecipes.com/cold-appetizers/) 
 
 ## Chickpeas with Beef
 [<img src="chickpeas_with_beef.jpg" width="500"/>](chickpeas_with_beef.jpg)
