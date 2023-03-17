@@ -1,4 +1,5 @@
-# LISTEN List (Podcast)<a name="listen_list"></a>
+# LISTEN List <a name="listen_list"></a>
+## Podcast
 - [x] [Kendine Iyi Davran](https://open.spotify.com/show/1OsUxSME9IyoE1ZyDpRLxc)
 - [ ] [Think Fast, Talk Smart](https://open.spotify.com/show/6ll0MwobDt1JW9gYaOONEo): 
     - [X] Asking better questions lead to better results (Ask "What was important to you about this?" instead of "How it went?").
@@ -62,3 +63,15 @@
     - [x] [**How to be more patient and calm**](https://www.youtube.com/watch?v=mfmsNW7lf8c) - 1. Ask self introspective questions (ask why several times to get to the bottom) Lacking patience happen when we want to control the situation (micro manage) 2. Accept the present moment for what it is 3. Count to 10 before reacting 4. Be gentle with self 5. Zoom out, see the big picture
     - [ ] [Matt Abrahams, How to Make Your Communication Memorable](https://www.youtube.com/watch?v=Fsr4yrSAIAQ)
     - [ ] [Top 10 TED 2022](https://www.ted.com/playlists/823/the_most_popular_ted_talks_of_2022)
+
+## Music
+- [The Man Who Sold the World, Nirvana, 1994](https://open.spotify.com/track/15VRO9CQwMpbqUYA7e6Hwg?si=8e7bd624ac5540ae)
+- [Livin’ Thing, ELO, 1976](https://open.spotify.com/track/2hdNya0b6Cc2YJ8IyaQIWp?si=2ca4bee5a8644ecc)
+- [Have You Ever Seen the Rain, CCR, 1970](https://open.spotify.com/track/2LawezPeJhN4AWuSB0GtAU?si=0d2df46114504cfd)
+- [Losing My Religion, R.E.M., 1991](https://open.spotify.com/track/31AOj9sFz2gM0O3hMARRBx?si=56f3d98a347f4529)
+- [I Miss You, Blink-182, 2003](https://open.spotify.com/track/1AdYZ6X00nXmO613Y7GJOl?si=900ff3863f9a46ac)
+- [Wind of Change, Scorpions, 1990](https://open.spotify.com/track/3ovjw5HZZv43SxTwApooCM?si=b53453a6771e49da)
+- [Like a Stone, Audioslave, 2002](https://open.spotify.com/track/3YuaBvuZqcwN3CEAyyoaei?si=c49e40af943e4cbf)
+- [The Reason, Hoobastank, 2003](https://open.spotify.com/track/77loZpT5Y5PRP1S451P9Yz?si=f57e216cd9324cbb)
+- [Home, Edward Sharpe & The Magnetic Zeros, 2009](https://open.spotify.com/track/0cBPuDA3xUjR4Vh9o7CKy8?si=44e28bb811824096)
+- [Truly Madly Deeply, Savage Garden, 1997](https://open.spotify.com/track/013AWvizllIUEC2FOBzOnh?si=be2aa9ec23f0475d)
