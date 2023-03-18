@@ -50,6 +50,7 @@
     - [ ] [Grilled Cheese Sandwich](https://www.youtube.com/watch?v=pfpR4lMyVi0)
     - [ ] [Potato Wedges](https://www.youtube.com/watch?v=DKfha8VL3ho)
     - [ ] [Garlic Bread](https://www.youtube.com/watch?v=4z-sZKDsX7M)
+    - [ ] [Glace Cherry Cake](https://github.com/hlltarakci/inspirational_tracker/blob/main/cooking/README.md#glace-cherry-cake)
 - Cold Appetizers - [link1](https://yemek.com/soguk-meze-tarifleri/) - [link2](https://www.nefisyemektarifleri.com/liste/yilbasi-soguk-mezeler/) - [link3](https://insanelygoodrecipes.com/cold-appetizers/) 
 - Puff Pastry Recipes - [link1](https://www.youtube.com/watch?v=AURckArzbrY) - [link2](https://www.tasteofhome.com/collection/must-try-puff-pastry-recipes/) - [link3](https://www.bbcgoodfood.com/recipes/collection/puff-pastry-recipes) - [link4](https://www.bonappetit.com/recipes/slideshow/puff-pastry-recipe-ideas)
 
@@ -241,3 +242,14 @@
 [<img src="roast_potatoes.jpeg" width="500"/>](roast_potatoes.jpeg)
 1. Patatesleri ortadan kes, tuzla, AirFryer da pisir.
 2. Ustune tereyag, peynir, poy (karisik baharat) ekle.
+
+
+## Glace Cherry Cake
+[<img src="glace_cherry_cake.jpg" width="500"/>](glace_cherry_cake.jpg)
+1. 2 yumurta, cirp
+2. 1/2 bardak seker, iki seferde ekle, cirp
+3. 5 yemek kasigi yag (ceviz yagi) ekle, cirp
+4. 1 su bardagi un, 1/2 cay kasigi baking powder, 1/4 cay kasigi tuz ekle, iki severde karisima ekle, cirp
+5. 1/4 su bardagi sut ekle, cirp
+6. Bir kap glace cherry ekle
+7. AirFryerda 175 derecede pisir
