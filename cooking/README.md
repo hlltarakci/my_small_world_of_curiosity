@@ -48,7 +48,7 @@
     - [ ] [Chickpea Chips](https://www.nefisyemektarifleri.com/airfryerde-citir-nohut-videolu/)
     - [ ] [Potato Croquettes](https://yemek.com/tarif/airfryerda-patates-kroket/)
     - [ ] [Grilled Cheese Sandwich](https://www.youtube.com/watch?v=pfpR4lMyVi0)
-    - [ ] [Potato Wedges](https://www.youtube.com/watch?v=DKfha8VL3ho)
+    - [x] [Potato Wedges](https://github.com/hlltarakci/inspirational_tracker/blob/main/cooking/README.md#potato-wedges)
     - [ ] [Garlic Bread](https://www.youtube.com/watch?v=4z-sZKDsX7M)
     - [x] [AirFryer Cake](https://github.com/hlltarakci/inspirational_tracker/blob/main/cooking/README.md#airfryer-cake)
 - Cold Appetizers - [link1](https://yemek.com/soguk-meze-tarifleri/) - [link2](https://www.nefisyemektarifleri.com/liste/yilbasi-soguk-mezeler/) - [link3](https://insanelygoodrecipes.com/cold-appetizers/) 
@@ -257,5 +257,11 @@
 ## Carrot Tarator
 [<img src="carrot_tarator.jpg" width="500"/>](carrot_tarator.jpg)
 1. 4-5 rendelenmis havucu yagda kavur.
-2. Yogurdu tuzla, havucla karistit
+2. Yogurdu tuzla, havucla karistir
+
+## Potato Wedges
+[<img src="potato_wedges.jpg" width="500"/>](potato_wedges.jpg)
+1. 4-5 patates, esit sekilde kizartmalik dogra
+2. Zeytinyagi (ya da ceviz yagi), tuz, kirmizi biber ve kekik ile harmanla
+3. AirFryer da pisir
 
