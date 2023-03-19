@@ -49,6 +49,7 @@
     - [ ] [Potato Croquettes](https://yemek.com/tarif/airfryerda-patates-kroket/)
     - [ ] [Grilled Cheese Sandwich](https://www.youtube.com/watch?v=pfpR4lMyVi0)
     - [x] [Potato Wedges](https://github.com/hlltarakci/inspirational_tracker/blob/main/cooking/README.md#potato-wedges)
+    - [x] [AirFryer Toasted Bread](https://github.com/hlltarakci/inspirational_tracker/blob/main/cooking/README.md#airfryer-toasted-bread)
     - [ ] [Garlic Bread](https://www.youtube.com/watch?v=4z-sZKDsX7M)
     - [x] [AirFryer Cake](https://github.com/hlltarakci/inspirational_tracker/blob/main/cooking/README.md#airfryer-cake)
 - Cold Appetizers - [link1](https://yemek.com/soguk-meze-tarifleri/) - [link2](https://www.nefisyemektarifleri.com/liste/yilbasi-soguk-mezeler/) - [link3](https://insanelygoodrecipes.com/cold-appetizers/) 
@@ -264,4 +265,10 @@
 1. 4-5 patates, esit sekilde kizartmalik dogra
 2. Zeytinyagi (ya da ceviz yagi), tuz, kirmizi biber ve kekik ile harmanla
 3. AirFryer da pisir
+
+## AirFryer Toasted Bread
+[<img src="airfryer_toasted_bread.jpg" width="500"/>](airfryer_toasted_bread.jpg)
+1. Ekmegin uzerine tereyagi, sarimsak, cherry domates, rendelenmis kasar ve maydanoz koy
+2. AirFryer da pisir
+3. 
 
