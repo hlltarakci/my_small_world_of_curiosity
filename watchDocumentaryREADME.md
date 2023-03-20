@@ -152,7 +152,7 @@
 - [x] [Things you didn't understand about Russia](https://www.youtube.com/watch?v=PYmIabGGGPQ)
 - [x] [Russian habits](https://www.youtube.com/watch?v=2pVu9PDhm2Y) / [semaver :)](https://en.wikipedia.org/wiki/Samovar) / [**old new year**](https://russiapedia.rt.com/of-russian-origin/old-new-year/index.html)
 - [x] [**Visiting Perm in Winter**](https://www.youtube.com/watch?v=UbRI-l8Hluk) / [**Recipe: Posikunchiki**](https://en.edunclub.ru/recipe/74031-cakes-posikunchiki/)
-- [ ] [Life in a provincial Russian town in the Urals: Perm](https://www.youtube.com/watch?v=Zsi3Naelsyw)
+- [x] [**Life in a provincial Russian town in the Urals: Perm**](https://www.youtube.com/watch?v=Zsi3Naelsyw)
 - [ ] [Big Underground System: Moscow Metro](https://www.youtube.com/watch?v=wnkNvA5SWoc)
 - [ ] [World's Busiest Cities: Moscow](https://www.imdb.com/title/tt9772764/) / [where to watch](https://www.dailymotion.com/video/x6syfeo)
 - [x] [Life in Moscow: Daily life in the capital](https://www.youtube.com/watch?v=NnFaClkxY0M) / [Kremlin and Red Square](https://whc.unesco.org/en/list/545/) / [**The Moscow Kremlin: The Heart of the Russian Empire**](https://www.youtube.com/watch?v=BPcXNqafKcQ) / [St. Basil's Cathedral](https://www.masterclass.com/articles/st-basils-cathedral-architecture-and-history)
@@ -202,6 +202,8 @@
   - [x] [**Magical Andes**, 2019](https://www.imdb.com/title/tt11229002/) - Episode 1.1:  *"Choosing where you want to live is about making the decision of where you want to be happy. Otherwise, we are just staying alive, not living."*  Episode 2.4: *"It is a priviledge to know our planet. Travel through its roads, discover ancient customs,and to learn about different cultures makes us better human beings. It helps us to understand our roles on Earth, and how small we are compared to the power of nature. There will always be something else to know, a new valley behind the mountain and a new adventure."*
   - [x] [Ancient Apocalypse, 2022](https://www.imdb.com/title/tt22807484/)
   - [ ] [**Wild Russia, 2008**](https://www.imdb.com/title/tt1442188/) - [where to watch S1](https://www.youtube.com/playlist?list=PL7OI0OXIFrYlSwUac08lUjwQiHbNxch8z) - [Siberia](https://www.youtube.com/watch?v=jahcZadyy18&feature=youtu.be) / [Kamchatka](https://www.youtube.com/watch?v=V_EiAkX-qtc) / [Ural Mountains](https://youtu.be/SeI69Z54RAE) / [Caucasus](https://youtu.be/UK-5XH2IsDs) / [The Arctic](https://www.youtube.com/watch?v=EkFMSm2qy0M&list=PL7OI0OXIFrYlSwUac08lUjwQiHbNxch8z&index=4)
+  - [ ] [Anadolu'da Yasam](https://www.trtizle.com/belgesel/anadoluda-yasam)
+  - [ ] [Turkiye Ekspresi](https://www.trtizle.com/belgesel/turkiye-ekspresi)
   - [ ] [Serengeti, 2019](https://www.imdb.com/title/tt8164448/)
   - [ ] [Drain the Oceans, 2018](https://www.imdb.com/title/tt8676618/)
   - [ ] [Frozen Planet, 2011](https://www.imdb.com/title/tt2092588/?ref_=tt_sims_tt_i_12)
