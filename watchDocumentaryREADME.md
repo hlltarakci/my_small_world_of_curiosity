@@ -13,6 +13,7 @@
 - [x] [How did Planners Design Soviet Cities?](https://www.youtube.com/watch?v=JGVBv7svKLo)
 - [x] [My Perestroika, 2010](https://www.imdb.com/title/tt1557720/) - [where to watch](https://www.youtube.com/watch?v=nlpsIrOHG_k)
 - [x] [Karosta: Life After the USSR, 2008](https://www.imdb.com/title/tt1327804/)
+- [ ] [Russia: History, Geography, Economy and Culture](https://www.youtube.com/watch?v=wT8UlOlY3K8)
 - [ ] [Putin: The New Tsar, 2018](https://www.imdb.com/title/tt8365160/?ref_=tt_sims_tt_i_1)
 - [ ] [The Long Road to War, 2018](https://www.imdb.com/title/tt3713222/?ref_=nv_sr_srsg_0)
 - [ ] [Economic Update: Rise and Fall of the USSR](https://youtu.be/_Y-TWFKw4tU)
@@ -128,7 +129,7 @@
 - [ ] [Russian North village life in winter. Making Russian North cheese.](https://www.youtube.com/watch?v=rFlH3T1Y7q0)
 - [x] [**Realm of the Volga - A River is Born**](https://www.youtube.com/watch?v=YlxEmDPeoTE) / [magestic Volga river](https://escape-magazin.com/14-fun-facts-about-the-volga-river/?lang=en) / [**Manpupuner**](https://mybestplace.com/en/article/manpupuner-the-seven-stone-giants-of-the-urals)
 - [ ] [Realm of the Volga - A River Becomes A Sea](https://www.youtube.com/watch?v=YrL3tDj5WSY)
-- [ ] [Manpupuner Rock Formations](https://www.youtube.com/watch?v=cdQgUdgEHrc)
+- [x] [**Manpupuner Rock Formations**](https://www.youtube.com/watch?v=cdQgUdgEHrc)
 - [x] [**What is Man Pupu Ner & how to get there | Snowmobile expedition in the Far North of Russia**](https://www.youtube.com/watch?v=MaeXsjMIi6w) / [7 wonders of Russia](https://www.russiadiscovery.com/news/seven_wonders_of_russia/)
 - [ ] [The Greater Caucasus - Between Europe and Asia](https://www.youtube.com/watch?v=GK0YEiEZELA)
 - [ ] [The Lesser Caucasus - Between Ararat and the Caspian Sea](https://www.youtube.com/watch?v=jTnDOuNADw8)
@@ -163,6 +164,10 @@
 - [x] [Google, Facebook, Amazon - The rise of the mega-corporations](https://youtu.be/Dy8ogOaKk4Y)
 - [x] [The Origins of Machu Picchu](https://www.youtube.com/watch?v=JMAKRKkdOlw)
 - [x] [The Architecture of Machu Picchu](https://www.youtube.com/watch?v=31SFLloQ-hU&t=0s)
+- [ ] [The Economy of Tomorrow | AI Revolution | Megacities](https://www.youtube.com/watch?v=jR2ho31tor4)
+- [ ] [How the Internet was Stolen](https://www.youtube.com/watch?v=oLLxpAZzy0s)
+- [ ] [What's Philosophy?](https://www.youtube.com/watch?v=XdlfDlcaAAw)
+- [ ] [How We Perceive Time? Cyclical vs Linear vs Vertical (the philosophy of time perception)](https://www.youtube.com/watch?v=eaXCvA08J44)
 - [x] [**Everybody Street, 2013**](https://www.imdb.com/title/tt2784462/) - [where to watch](https://www.eherg.com/blog/7-free-to-stream-documentaries-for-street-photographers) - [direct link](https://archive.org/embed/everstreet) - *"...other photographers go to the world and say "show me". Those select few, through time, who are willing to go out into chaos with some high hopes of interacting with a moment where life will become clarified for them. They can welcome ambiguity and surreal aspects of this kind of chaos. Even though it is chaos, they will have a moment of clarification."*
 - [x] [**Lost in the Woods, 2020**](https://www.imdb.com/title/tt13416956/) - [where to watch](https://vimeo.com/392454256) - **"The purpose of the journey is to get lost, in forests, cities and people."**
 - [x] [**The Colours of Infinity, Arthur C. Clarke**, 1995](https://www.imdb.com/title/tt0241317/) - Nature is compatible with fractal geometry.
