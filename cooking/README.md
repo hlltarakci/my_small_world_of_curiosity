@@ -273,5 +273,4 @@
 [<img src="airfryer_toasted_bread.jpg" width="500"/>](airfryer_toasted_bread.jpg)
 1. Ekmegin uzerine tereyagi, sarimsak, cherry domates, rendelenmis kasar ve maydanoz koy
 2. AirFryer da pisir
-3. 
 
