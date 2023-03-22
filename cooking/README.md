@@ -55,6 +55,7 @@
 - Cold Appetizers - [link1](https://yemek.com/soguk-meze-tarifleri/) - [link2](https://www.nefisyemektarifleri.com/liste/yilbasi-soguk-mezeler/) - [link3](https://insanelygoodrecipes.com/cold-appetizers/) 
     - [x] [Carrot Tarator](https://github.com/hlltarakci/inspirational_tracker/blob/main/cooking/README.md#carrot-tarator)
 - Puff Pastry Recipes - [link1](https://www.youtube.com/watch?v=AURckArzbrY) - [link2](https://www.tasteofhome.com/collection/must-try-puff-pastry-recipes/) - [link3](https://www.bbcgoodfood.com/recipes/collection/puff-pastry-recipes) - [link4](https://www.bonappetit.com/recipes/slideshow/puff-pastry-recipe-ideas)
+- One Pan Dish - [link1](https://www.bbc.co.uk/food/collections/one-pan_dinners)
 
 ## Chickpeas with Beef
 [<img src="chickpeas_with_beef.jpg" width="500"/>](chickpeas_with_beef.jpg)
