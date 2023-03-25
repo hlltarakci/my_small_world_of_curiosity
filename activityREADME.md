@@ -10,6 +10,11 @@ Cassey:
 - [Blogilates Monthly Program](https://www.blogilates.com/blog/new-beginners-calendar-2-0-for-2015/)
 - Current Program (5) ==> [Sculpt Program](https://www.blogilates.com/blog/28daysummersculpt/)
 - Current Program (5) ==> [100 Glute Challenge](https://www.youtube.com/playlist?list=PLSCcAGyv98idAYy_syDOjnnZ5E362V-wK)
+- 7 day challenges 
+    - [Booty](https://www.youtube.com/watch?v=Zq9uQyt3BG0&list=PLSCcAGyv98idsr2mlwrjr9w9vrQeC2uxh)
+    - [Abs](https://www.youtube.com/watch?v=LzYAgCw-_B0&list=PLSCcAGyv98ieXOSyUaEhhVUyXxYRsgmVs)
+    - [Arms](https://www.youtube.com/watch?v=Ai8KfyJ69Bc&list=PLSCcAGyv98ieUBomz5_JVs6KmAFINaEJk)
+    - [Thigh](https://www.youtube.com/watch?v=KpCPgNer_Oo&list=PLSCcAGyv98idrEo-k0LeLFt0zdczptKqh)
 - [Total Body Transformation Series](https://www.youtube.com/playlist?list=PLSCcAGyv98idtpf9ieOEyWtpVXgnLxvZt)
 - [Glow Up Sessions](https://www.youtube.com/playlist?list=PLSCcAGyv98icXNi46_I3t-qy58p846WPr)
 - [Toned Series](https://www.youtube.com/playlist?list=PLSCcAGyv98ick76ygMkdu7PuRFfpn8ixM)
