@@ -25,6 +25,7 @@
 - [AirFryer Toasted Bread](https://github.com/hlltarakci/inspirational_tracker/blob/main/cooking/README.md#airfryer-toasted-bread)
 - [AirFryer Cake](https://github.com/hlltarakci/inspirational_tracker/blob/main/cooking/README.md#airfryer-cake)
 - [Carrot Tarator](https://github.com/hlltarakci/inspirational_tracker/blob/main/cooking/README.md#carrot-tarator)
+- [Capia_Pepper_with_Cheddar_Cheese](https://github.com/hlltarakci/inspirational_tracker/blob/main/cooking/README.md#capia-pepper-with-cheddar-cheese)
 
 ## Chickpeas with Beef
 [<img src="chickpeas_with_beef.jpg" width="500"/>](chickpeas_with_beef.jpg)
@@ -240,6 +241,11 @@
 [<img src="airfryer_toasted_bread.jpg" width="500"/>](airfryer_toasted_bread.jpg)
 1. Ekmegin uzerine tereyagi, sarimsak, cherry domates, rendelenmis kasar ve maydanoz koy
 2. AirFryer da pisir
+
+## Capia Pepper with Cheddar Cheese
+[<img src="capia_pepper_with_cheddar_cheese.jpg" width="500"/>](capia_pepper_with_cheddar_cheese.jpg)
+1. Tereyagini erit, kirmizi kapya biberleri dogra ve kavur
+2. Rendelenmis kasari ekle, karistirmadan kisik ateste peynir eriyince servis yap.
 
 # References
 - Breakfast Recipes - [link1](https://damndelicious.net/category/breakfast/) - [link2](https://damndelicious.net/category/breakfast/)
