@@ -61,6 +61,7 @@ Hike Groups: https://theflamingohiker.com/hiking-groups-in-london/
 - https://www.meetup.com/AAA-London-Group/
 
 Day Hikes:
+- [x] [Mar 2023 - Crystal Palace to Forest Hill](http://www.senderismoenlondres.co.uk/london-walk-crystal-palace-to-forest-hill.html)
 - [x] [Mar 2023 - Virginia Water Cascades and Windsor Castle](http://www.senderismoenlondres.co.uk/virginia-water-cascades-and-windsor-castle.html) / [summary](https://www.youtube.com/watch?v=OyKsmssCkY4)
 - [x] [Feb 2023 - Hampton Court](http://www.senderismoenlondres.co.uk/beginner-walkers-hampton-court-circular-walk.html) / [summary](https://www.youtube.com/watch?v=z1WbJLTAKdU)
 - [x] [Jan 2023 - Gatton Park and North Downs](http://www.senderismoenlondres.co.uk/events/gatton-park-and-north-downs-way.html)
