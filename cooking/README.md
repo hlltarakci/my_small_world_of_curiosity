@@ -22,6 +22,7 @@
 - [Air Fryer Crispy Cauliflower](https://github.com/hlltarakci/inspirational_tracker/blob/main/cooking/README.md#airfryer-crispy-cauliflower)
 - [Air Fryer Roast Potatoes](https://github.com/hlltarakci/inspirational_tracker/blob/main/cooking/README.md#airfryer-roast-potatoes)
 - [Potato Wedges](https://github.com/hlltarakci/inspirational_tracker/blob/main/cooking/README.md#potato-wedges)
+- [Crispy Potatoes](https://github.com/hlltarakci/inspirational_tracker/blob/main/cooking/README.md#crispy-potatoes)
 - [AirFryer Toasted Bread](https://github.com/hlltarakci/inspirational_tracker/blob/main/cooking/README.md#airfryer-toasted-bread)
 - [AirFryer Cake](https://github.com/hlltarakci/inspirational_tracker/blob/main/cooking/README.md#airfryer-cake)
 - [Carrot Tarator](https://github.com/hlltarakci/inspirational_tracker/blob/main/cooking/README.md#carrot-tarator)
@@ -246,6 +247,10 @@
 [<img src="capia_pepper_with_cheddar_cheese.jpg" width="500"/>](capia_pepper_with_cheddar_cheese.jpg)
 1. Tereyagini erit, kirmizi kapya biberleri dogra ve kavur
 2. Rendelenmis kasari ekle, karistirmadan kisik ateste peynir eriyince servis yap.
+
+## Crispy Potatoes
+[<img src="crispy_potatoes.jpg" width="500"/>](crispy_potatoes.jpg)
+Protip: Esit olcude kes. Patatesleri kagit havluyla iyice kurula. Pisirirken arada bak, erken oluyor.
 
 # References
 - Breakfast Recipes - [link1](https://damndelicious.net/category/breakfast/) - [link2](https://damndelicious.net/category/breakfast/)
