@@ -138,7 +138,7 @@
 - [x] [**Tour of the Arctic – from Svalbard to Siberia** - Part 1](https://www.youtube.com/watch?v=gD89hfPh4vY) / [Part 2 - **from Greenland to Alaska**](https://www.youtube.com/watch?v=sdB0_oVInuk) / [Arctic vs Antarctica](https://www.coolantarctica.com/Antarctica%20fact%20file/antarctica%20environment/antarctic_arctic_comparison.php) / [Permafrost](https://en.wikipedia.org/wiki/Permafrost)
 - [ ] [A visa-free zone in the Arctic (Svalbard)](https://www.youtube.com/watch?v=MKeIx4wVjIg)
 - [x] [**Svalbard: Life at the edge of the world**](https://www.youtube.com/watch?v=IC6J747uq-8)
-- [ ] [Pyramiden. A soviet-era ghost town in the middle of Arctic](https://www.youtube.com/watch?v=i1QOvkgMIAk)
+- [x] [**Pyramiden. A soviet-era ghost town in the middle of Arctic**](https://www.youtube.com/watch?v=i1QOvkgMIAk) / [Pyramiden](https://en.wikipedia.org/wiki/Pyramiden)
 - [ ] [Arctic Sinkholes](https://www.youtube.com/watch?v=HvKpnaXYUPU)
 - [ ] [The melting ice of the Arctic - Part 1](https://www.youtube.com/watch?v=GystZIxWQ3o) / [Part 2](https://www.youtube.com/watch?v=Hz6xkR4mNlo)
 - [ ] [Alaska 8 Day Road Trip: Anchorage, Fairbanks, Glaciers, Wildlife & Denali over 1,000 Miles](https://www.youtube.com/watch?v=JN11JClxdA4)
@@ -168,7 +168,6 @@
 - [x] [**Everybody Street, 2013**](https://www.imdb.com/title/tt2784462/) - [where to watch](https://www.eherg.com/blog/7-free-to-stream-documentaries-for-street-photographers) - [direct link](https://archive.org/embed/everstreet) - *"...other photographers go to the world and say "show me". Those select few, through time, who are willing to go out into chaos with some high hopes of interacting with a moment where life will become clarified for them. They can welcome ambiguity and surreal aspects of this kind of chaos. Even though it is chaos, they will have a moment of clarification."*
 - [x] [**Lost in the Woods, 2020**](https://www.imdb.com/title/tt13416956/) - [where to watch](https://vimeo.com/392454256) - **"The purpose of the journey is to get lost, in forests, cities and people."**
 - [x] [**Rocky Mountain Express, 2011**](https://www.imdb.com/title/tt2287993/) / [Canadian Pacific ailway](https://www.thecanadianencyclopedia.ca/en/article/canadian-pacific-railway-plain-language-summary) / [William C Van Horne](https://en.wikipedia.org/wiki/William_Cornelius_Van_Horne) / [2816](https://en.wikipedia.org/wiki/Canadian_Pacific_2816)
-- [ ] [The Edge of Democracy, 2019](https://www.imdb.com/title/tt6016744/)
 - [ ] [The Ancient Bottomless Tunnels of Turkey and the Mystery of Gobekli Tepe](https://www.youtube.com/watch?v=qO-l_SN-XLY)
 - [ ] [Secrets of the Stone Age](https://www.youtube.com/watch?v=I2vYr6gx56o) - [Part 2](https://www.youtube.com/watch?v=XSGRd5Ve1zI)
 - [ ] [Solving The Mystery Of Stonehenge With Dan Snow](https://www.youtube.com/watch?v=D-m_g5JUO88)
@@ -238,6 +237,7 @@
 - [x] [The Largest Megaproject in History: Trans-Siberian Railway](https://www.youtube.com/watch?v=E96mQyxSxfk) / [Sergey Witte](https://en.wikipedia.org/wiki/Sergei_Witte)
 - [ ] [Malaysia Airlines flight 370 disappearance](https://www.youtube.com/watch?v=myBmq87fJeQ)
 - [x] [The vanishing of flight 370](https://www.youtube.com/watch?v=kd2KEHvK-q8)
+- [ ] [The Edge of Democracy, 2019](https://www.imdb.com/title/tt6016744/)
 - [ ] [The Economy of Tomorrow | AI Revolution | Megacities](https://www.youtube.com/watch?v=jR2ho31tor4)
 - [ ] [The System of Money | Money Creation Explained](https://www.youtube.com/watch?v=yLZUVsmUwZY)
 - [ ] [The Danger of AI](https://www.youtube.com/watch?v=5guiUrgcblM)
