@@ -36,6 +36,7 @@
      [11: Vietnam, 1954-1968](https://www.youtube.com/watch?v=6s0Z2mwTrXY&list=PL3H6z037pboGWTxs3xGP7HRGrQ5dOQdGc&index=11) / 
      [12: MAD (Mutual Assured Destruction, 1960-1972](https://www.youtube.com/watch?v=MV8MdlxtqaU&list=PL3H6z037pboGWTxs3xGP7HRGrQ5dOQdGc&index=12) 
    - [ ] [**Soviet Storm, WW2 in the East, 2010**](https://www.imdb.com/title/tt3610248/), [where to watch](https://www.youtube.com/playlist?list=PLwGzY25TNHPC_SsXFcIH-ba0nWuNbHOM6)
+   - [ ] [Cold War, Hot Jets, 2013](https://www.imdb.com/title/tt3440758/)
    - [ ] [Putin, Russia and the West, 2011](https://www.imdb.com/title/tt2131951/?ref_=tt_sims_tt_t_1)
    - [ ] [The Lost World of Communism, 2009](https://www.imdb.com/title/tt2976152/)
    - [ ] [The Putin Interviews, 2017](https://www.imdb.com/title/tt6840134/)
