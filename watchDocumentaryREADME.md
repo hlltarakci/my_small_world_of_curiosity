@@ -144,7 +144,7 @@
 - [x] [**Svalbard: Life at the edge of the world**](https://www.youtube.com/watch?v=IC6J747uq-8)
 - [x] [**Pyramiden. A soviet-era ghost town in the middle of Arctic**](https://www.youtube.com/watch?v=i1QOvkgMIAk) / [Pyramiden](https://en.wikipedia.org/wiki/Pyramiden)
 - [x] [**Pyramiden: Take a Tour of a Soviet-Era Ghost Town at the Edge of the World**](https://www.youtube.com/watch?v=1_jYGVHRkuQ)
-- [ ] [Pyramiden: Russian Ghost Town on the North Pole](https://www.youtube.com/watch?v=D_ncku6A7iA)
+- [x] [**Pyramiden: Russian Ghost Town on the North Pole**](https://www.youtube.com/watch?v=D_ncku6A7iA)
 - [ ] [Traveling to the Most Northern Town on Earth](https://www.youtube.com/watch?v=m0vIzYjLw5Q)
 - [ ] [Arctic Sinkholes](https://www.youtube.com/watch?v=HvKpnaXYUPU)
 - [ ] [The melting ice of the Arctic - Part 1](https://www.youtube.com/watch?v=GystZIxWQ3o) / [Part 2](https://www.youtube.com/watch?v=Hz6xkR4mNlo)
