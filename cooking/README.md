@@ -27,6 +27,7 @@
 - [AirFryer Cake](https://github.com/hlltarakci/inspirational_tracker/blob/main/cooking/README.md#airfryer-cake)
 - [Carrot Tarator](https://github.com/hlltarakci/inspirational_tracker/blob/main/cooking/README.md#carrot-tarator)
 - [Capia_Pepper_with_Cheddar_Cheese](https://github.com/hlltarakci/inspirational_tracker/blob/main/cooking/README.md#capia-pepper-with-cheddar-cheese)
+- [Puff Pastry Pie](https://github.com/hlltarakci/inspirational_tracker/blob/main/cooking/README.md#puff-pastry-pie)
 
 ## Chickpeas with Beef
 [<img src="chickpeas_with_beef.jpg" width="500"/>](chickpeas_with_beef.jpg)
@@ -251,6 +252,13 @@
 ## Crispy Potatoes
 [<img src="crispy_potatoes.jpg" width="500"/>](crispy_potatoes.jpg)
 Protip: Esit olcude kes. Patatesleri kagit havluyla iyice kurula. Pisirirken arada bak, erken oluyor.
+
+## Puff Pastry Pie
+[<img src="puff_pastry_pie.jpg" width="500"/>](puff_pastry_pie.jpg)
+1. Milfoy hamuruna sekil vermek icin [link1](https://www.youtube.com/watch?v=mEjUj_KNRTI), [link2](https://www.youtube.com/watch?v=IIJaoXC_u2E)
+2. Icine beyaz peynir/rendelenmis kasar/nutella konabilir
+3. Uzerine yumurta sarisi sur, susam ya da corek otu serp.
+4. Airfryerda 185 derece 12 dk ayarla, 5 dk kala borekleri cevir.
 
 # References
 - Breakfast Recipes - [link1](https://damndelicious.net/category/breakfast/) - [link2](https://damndelicious.net/category/breakfast/)
