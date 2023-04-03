@@ -134,7 +134,7 @@
 - [x] [**What is Man Pupu Ner & how to get there | Snowmobile expedition in the Far North of Russia**](https://www.youtube.com/watch?v=MaeXsjMIi6w) / [7 wonders of Russia](https://www.russiadiscovery.com/news/seven_wonders_of_russia/)
 - [ ] [The Greater Caucasus - Between Europe and Asia](https://www.youtube.com/watch?v=GK0YEiEZELA)
 - [ ] [The Lesser Caucasus - Between Ararat and the Caspian Sea](https://www.youtube.com/watch?v=jTnDOuNADw8)
-- [ ] [Elbrus - South Route](https://www.youtube.com/watch?v=RhwmavKyUzI)
+- [x] [**Elbrus - South Route**](https://www.youtube.com/watch?v=RhwmavKyUzI) / [Mount Elbrus](https://www.adventurealternative.com/adventure-blog/elbrus-facts/) / [7 summits](https://www.adventurealternative.com/seven-summits/)
 - [ ] [Mount Elbrus Russia | Full experience of Summit Climb](https://www.youtube.com/watch?v=kOUfXH0KNBk)
 - [ ] [A journey through Mongolia](https://www.youtube.com/watch?v=ykAisB_4WLg)
 - [ ] [Third Class Travel, 2017](https://guidedoc.tv/documentary/third-class-travel-documentary-film/#)
