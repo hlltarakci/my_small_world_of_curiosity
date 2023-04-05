@@ -137,7 +137,7 @@
 - [ ] [Karelia: Russia's Primeval Forests](https://www.youtube.com/watch?v=7raq4I0r4XY)
 - [x] [**Elbrus - South Route**](https://www.youtube.com/watch?v=RhwmavKyUzI) / [Mount Elbrus](https://www.adventurealternative.com/adventure-blog/elbrus-facts/) / [7 summits](https://www.adventurealternative.com/seven-summits/)
 - [x] [**Mount Elbrus Russia | Full experience of Summit Climb**](https://www.youtube.com/watch?v=kOUfXH0KNBk) 
-- [ ] [Climbing the highest peak of Russia & Europe | Mt Elbrus by the North route](https://www.youtube.com/watch?v=tjkx8YWRVpM)
+- [x] [**Climbing the highest peak of Russia & Europe | Mt Elbrus by the North route**](https://www.youtube.com/watch?v=tjkx8YWRVpM)
 - [ ] [A journey through Mongolia](https://www.youtube.com/watch?v=ykAisB_4WLg)
 - [ ] [Third Class Travel, 2017](https://guidedoc.tv/documentary/third-class-travel-documentary-film/#)
 - [x] [**Antarctica: A message from another planet**](https://www.youtube.com/watch?v=EzJqbR2rPwY) / [Antartic treaty](https://en.wikipedia.org/wiki/Antarctic_Treaty_System) / [Explorers](https://explore.quarkexpeditions.com/blog/top-10-most-famous-and-intriguing-polar-explorers)
