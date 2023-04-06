@@ -79,3 +79,4 @@
 - [Glitter & Gold, Barns Courtney, 2017](https://open.spotify.com/track/1Mf27cnAF1Q6Ko83XTM5d1)
 - [Carmelita, Warren Zevon, 1976](https://open.spotify.com/track/7hIdRDgUBPbqiQ7duhCyux)
 - [Live Forever, Oasis, 1994](https://open.spotify.com/track/1KgfeuVn5OlsBEtoEmBa1t)
+- [I Have a Dream, Abba, 1979](https://open.spotify.com/track/1PtJclc46wTk367PlsU6Uj)
