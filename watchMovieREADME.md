@@ -33,6 +33,7 @@
      - [x] [**Love and Doves, 1985**](https://www.imdb.com/title/tt0087650/)
      - [x] [**Dersu Uzala, 1975**](https://www.imdb.com/title/tt0071411/) - [where to watch](https://www.youtube.com/watch?v=2EWdAnJsfdc)
      - [x] [**Railway station for Two, 1983**](https://www.imdb.com/title/tt0084873/) - [where to watch](https://www.youtube.com/watch?v=bUya5DBvw_g) - [**soundtrack**](https://www.youtube.com/watch?v=LTbGVTofwyA)
+     - [ ] [The Girls (Devchata), 1962](https://www.imdb.com/title/tt0134614/?ref_=tt_sims_tt_t_8) - [where to watch](https://www.youtube.com/watch?v=4GskjSBw9lA)
      - [ ] [Brat, 1997](https://www.imdb.com/title/tt0118767/)
      - [ ] [The Barber of Siberia](https://www.imdb.com/title/tt0120125/)
      - [ ] [12, 2007](https://www.imdb.com/title/tt0488478/)
@@ -73,7 +74,7 @@
      - [ ] [Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb, 1964](https://www.imdb.com/title/tt0057012/)
      - [ ] [A Clockwork Orange, 1971](https://www.imdb.com/title/tt0066921/)
 - Alfred Hitchcock
-     - [Vertigo, 1958](https://www.imdb.com/title/tt0052357/)
+     - [ ] [Vertigo, 1958](https://www.imdb.com/title/tt0052357/)
 - David Fincher
      - [x] [Gone Girl, 2014](https://www.imdb.com/title/tt2267998/)
 - Martin Scorsese
