@@ -140,7 +140,7 @@
 - [x] [**Climbing the highest peak of Russia & Europe | Mt Elbrus by the North route**](https://www.youtube.com/watch?v=tjkx8YWRVpM)
 - [x] [**Mars in the Urals, Yekaterinburg and Russian farm in Sverdlovsk region**](https://www.youtube.com/watch?v=7k74tRWqJ5M)
 - [ ] [Life in the Russian exclave Kaliningrad | German heritage, Russian people and Soviet buildings](https://www.youtube.com/watch?v=GqYOZuT7TtY)
-- [ ] [Pyatigorsk, Russia | Soviet districts, mineral waters and Caucasus resorts](https://www.youtube.com/watch?v=mTGWjF62yN8)
+- [ ] [**Pyatigorsk, Russia | Soviet districts, mineral waters and Caucasus resorts**](https://www.youtube.com/watch?v=mTGWjF62yN8) / [the poet of the Caucasus: Lermontov](https://en.wikipedia.org/wiki/Mikhail_Lermontov) / [Pyatigorsk](https://en.wikipedia.org/wiki/Pyatigorsk)
 - [ ] [A journey through Mongolia](https://www.youtube.com/watch?v=ykAisB_4WLg)
 - [ ] [Third Class Travel, 2017](https://guidedoc.tv/documentary/third-class-travel-documentary-film/#)
 - [x] [**Antarctica: A message from another planet**](https://www.youtube.com/watch?v=EzJqbR2rPwY) / [Antartic treaty](https://en.wikipedia.org/wiki/Antarctic_Treaty_System) / [Explorers](https://explore.quarkexpeditions.com/blog/top-10-most-famous-and-intriguing-polar-explorers)
