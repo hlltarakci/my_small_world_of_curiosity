@@ -8,6 +8,7 @@ AirFryer Recipes
 - [Toasted Bread](https://github.com/hlltarakci/inspirational_tracker/blob/main/cooking/README.md#toasted-bread)
 - [Cake](https://github.com/hlltarakci/inspirational_tracker/blob/main/cooking/README.md#cake)
 - [Puff Pastry Pie](https://github.com/hlltarakci/inspirational_tracker/blob/main/cooking/README.md#puff-pastry-pie)
+- [Chicken Parmesan](https://github.com/hlltarakci/inspirational_tracker/blob/main/cooking/README.md#chicken-parmesan)
 
 Oven Recipes
 - [El Acmasi Kol Boregi (Pirasali)](https://github.com/hlltarakci/inspirational_tracker/tree/main/cooking#el-acmasi-kol-boregi-pirasali)
@@ -84,6 +85,20 @@ Protip: Esit olcude kes. Patatesleri kagit havluyla iyice kurula. Pisirirken ara
 2. Icine beyaz peynir/rendelenmis kasar/nutella konabilir
 3. Uzerine yumurta sarisi sur, susam ya da corek otu serp.
 4. Airfryerda 185 derece 12 dk ayarla, 5 dk kala borekleri cevir.
+
+## Chicken Parmesan
+[<img src="chicken_parmesan.jpg" width="500"/>](chicken_parmesan.jpg)
+1. Bir kapta karistir: 1/3 bardak un + 1 cay kasigi tuz + 1 cay kasigi karabiber
+2. Ayri bir kapta: 2 yumurta kir, karistir
+3. Ayri bir kapta: 1 su bardagi panko breadcrumbs + ceyrek su bardagi rendelenmis paremsan + 1 cay kasigi kekik + 1 cay kasigi garlic granular (ya da yarim cay kasigi garlic powder) + yarim cay kasigi chili flakes
+4. 2 tavuk gogsunu kalinligi ayni olacak sekilde inceltmeye calis. Cok kalin ise ortadan serit halinde kes
+5. Tavuklari sirasiyla unlu karisima, yumurtaya, panko lu karisima iyice bula. Daha crispy olsun istiyorsan iki kat bula.
+6. AirFryer da 190 derecede pisir. Tavuklarin kalinligina gore pisirme suresi degisir. 10-15 dk. surebilir, iki tarafi da cevirerek pisir.
+7. Istege gore uzerine marinara sosu (ya da domates sosu) ve rendelenmis mozarella koy, peynir eriyene kadar birkac dk daha pisir.
+8. Istege gore uzerine maydanoz ile servis et.
+- [Orjinal tarif](https://www.youtube.com/watch?v=kl9YEMNGqgQ)
+- NOT 1: Bana agir geldi, cok doyurucu, bir parca yetiyor.
+- NOT 2: Yumurta yerine mayonez kullanan ve daha az baharatli bir tarif var: [link](https://www.youtube.com/watch?v=c105n9qGTlg)
 
 # OVEN RECIPES
 
