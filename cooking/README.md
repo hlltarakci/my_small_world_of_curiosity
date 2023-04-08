@@ -306,5 +306,5 @@ Protip: Esit olcude kes. Patatesleri kagit havluyla iyice kurula. Pisirirken ara
 - [Jamie Oliver Recipes](https://www.jamieoliver.com)
 
 # WishList
-- [Chicken Parmesan](https://www.youtube.com/watch?v=kl9YEMNGqgQ)
 - [Tortilla Chips](https://airfryingfoodie.com/air-fryer-tortilla-chips/)
+- [AirFryer Salmon](https://www.wellplated.com/air-fryer-salmon/)
