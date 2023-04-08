@@ -9,6 +9,7 @@ AirFryer Recipes
 - [Cake](https://github.com/hlltarakci/inspirational_tracker/blob/main/cooking/README.md#cake)
 - [Puff Pastry Pie](https://github.com/hlltarakci/inspirational_tracker/blob/main/cooking/README.md#puff-pastry-pie)
 - [Chicken Parmesan](https://github.com/hlltarakci/inspirational_tracker/blob/main/cooking/README.md#chicken-parmesan)
+- [Homemade Tortilla Chips](https://github.com/hlltarakci/inspirational_tracker/blob/main/cooking/README.md#homemade-tortilla-chips)
 
 Oven Recipes
 - [El Acmasi Kol Boregi (Pirasali)](https://github.com/hlltarakci/inspirational_tracker/tree/main/cooking#el-acmasi-kol-boregi-pirasali)
@@ -99,6 +100,12 @@ Protip: Esit olcude kes. Patatesleri kagit havluyla iyice kurula. Pisirirken ara
 - [Orjinal tarif](https://www.youtube.com/watch?v=kl9YEMNGqgQ)
 - NOT 1: Bana agir geldi, cok doyurucu, bir parca yetiyor.
 - NOT 2: Yumurta yerine mayonez kullanan ve daha az baharatli bir tarif var: [link](https://www.youtube.com/watch?v=c105n9qGTlg)
+
+## Homemade Tortilla Chips
+[<img src="homemade_tortilla_chips.jpg" width="500"/>](homemade_tortilla_chips.jpg)
+1. 2-3 tortilla uzerine siviyag iyice yay, tuz, karabiber serp. Cips seklinde kes.
+2. 200 derecede 3-4 dk da pisiyor
+- [Orjinal tarif](https://www.youtube.com/watch?v=-eudAnySdKk)
 
 # OVEN RECIPES
 
@@ -306,7 +313,6 @@ Protip: Esit olcude kes. Patatesleri kagit havluyla iyice kurula. Pisirirken ara
 - [Jamie Oliver Recipes](https://www.jamieoliver.com)
 
 # WishList
-- [Tortilla Chips](https://airfryingfoodie.com/air-fryer-tortilla-chips/)
 - [AirFryer Salmon](https://www.wellplated.com/air-fryer-salmon/)
 - [Turkish Cokertme Kebabi](https://www.youtube.com/watch?v=6zDgJlnp44o)
 - [Turkish Meat Stew with Aubergine Puree: Sultan's Delight (Hunkarbegendi)](https://www.youtube.com/watch?v=NWyIEW1o6k4)
