@@ -141,7 +141,7 @@
 - [x] [**Climbing the highest peak of Russia & Europe | Mt Elbrus by the North route**](https://www.youtube.com/watch?v=tjkx8YWRVpM)
 - [x] [**Mars in the Urals, Yekaterinburg and Russian farm in Sverdlovsk region**](https://www.youtube.com/watch?v=7k74tRWqJ5M)
 - [x] [**Life in the Russian exclave Kaliningrad | German heritage, Russian people and Soviet buildings**](https://www.youtube.com/watch?v=GqYOZuT7TtY) / [Khrushchevka - Soviet housing](https://en.wikipedia.org/wiki/Khrushchevka) / [Marzipan](https://en.wikipedia.org/wiki/Königsberg_marzipan) / [Why does Russia Own Kaliningrad](https://www.youtube.com/watch?v=H5K4tq-9osc)
-- [ ] [My expedition in Kaliningrad | The fortress of Baltiysk - the westernmost citadel of Russia](https://www.youtube.com/watch?v=2Bq6VBA2vBI)
+- [x] [My expedition in Kaliningrad | The fortress of Baltiysk - the westernmost citadel of Russia](https://www.youtube.com/watch?v=2Bq6VBA2vBI)
 - [ ] [Life in Vladivostok - the capital of the Far East of Russia](https://www.youtube.com/watch?v=NigPRpk0V-k)
 - [ ] [**Pyatigorsk, Russia | Soviet districts, mineral waters and Caucasus resorts**](https://www.youtube.com/watch?v=mTGWjF62yN8) / [the poet of the Caucasus: Lermontov](https://en.wikipedia.org/wiki/Mikhail_Lermontov) / [Pyatigorsk](https://en.wikipedia.org/wiki/Pyatigorsk)
 - [ ] [A journey through Mongolia](https://www.youtube.com/watch?v=ykAisB_4WLg)
