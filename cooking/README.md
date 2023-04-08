@@ -311,3 +311,4 @@ Protip: Esit olcude kes. Patatesleri kagit havluyla iyice kurula. Pisirirken ara
 - [Turkish Cokertme Kebabi](https://www.youtube.com/watch?v=6zDgJlnp44o)
 - [Turkish Meat Stew with Aubergine Puree: Sultan's Delight (Hunkarbegendi)](https://www.youtube.com/watch?v=NWyIEW1o6k4)
 - [Ali Nazik Kebab](https://turkishstylecooking.com/ali-nazik-kebab-recipe.html)
+- [Marzipan Chocolate](https://www.youtube.com/watch?v=0QzbFr9wC7w)
