@@ -308,3 +308,6 @@ Protip: Esit olcude kes. Patatesleri kagit havluyla iyice kurula. Pisirirken ara
 # WishList
 - [Tortilla Chips](https://airfryingfoodie.com/air-fryer-tortilla-chips/)
 - [AirFryer Salmon](https://www.wellplated.com/air-fryer-salmon/)
+- [Turkish Cokertme Kebabi](https://www.youtube.com/watch?v=6zDgJlnp44o)
+- [Turkish Meat Stew with Aubergine Puree: Sultan's Delight (Hunkarbegendi)](https://www.youtube.com/watch?v=NWyIEW1o6k4)
+- [Ali Nazik Kebab](https://turkishstylecooking.com/ali-nazik-kebab-recipe.html)
