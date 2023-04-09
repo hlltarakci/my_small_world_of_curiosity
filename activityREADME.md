@@ -64,6 +64,7 @@ Hike Groups: https://theflamingohiker.com/hiking-groups-in-london/
 - https://www.meetup.com/AAA-London-Group/
 
 Day Hikes & Sightseeing:
+- [x] [Apr 2023 - **Richmond Park**](https://www.komoot.com/tour/1074597453?ref=avs&share_token=aXH0EvkWOnhn3zyUyhlYEcncUAJC8R9m7U2gJBD8mz6bZDOCnR)
 - [x] [Apr 2023 - **Northern Heights (North London)**](http://www.senderismoenlondres.co.uk/northern-heights-hiking-for-beginners.html)
 - [x] [Mar 2023 - Crystal Palace to Forest Hill](http://www.senderismoenlondres.co.uk/london-walk-crystal-palace-to-forest-hill.html)
 - [x] [Mar 2023 - Virginia Water Cascades and Windsor Castle](http://www.senderismoenlondres.co.uk/virginia-water-cascades-and-windsor-castle.html) / [summary](https://www.youtube.com/watch?v=OyKsmssCkY4)
