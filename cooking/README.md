@@ -10,6 +10,7 @@ AirFryer Recipes
 - [Puff Pastry Pie](https://github.com/hlltarakci/inspirational_tracker/blob/main/cooking/README.md#puff-pastry-pie)
 - [Chicken Parmesan](https://github.com/hlltarakci/inspirational_tracker/blob/main/cooking/README.md#chicken-parmesan)
 - [Homemade Tortilla Chips](https://github.com/hlltarakci/inspirational_tracker/blob/main/cooking/README.md#homemade-tortilla-chips)
+- [Salmon and Asparagus](https://github.com/hlltarakci/inspirational_tracker/blob/main/cooking/README.md#salmon-and-asparagus)
 
 Oven Recipes
 - [El Acmasi Kol Boregi (Pirasali)](https://github.com/hlltarakci/inspirational_tracker/tree/main/cooking#el-acmasi-kol-boregi-pirasali)
@@ -106,6 +107,13 @@ Protip: Esit olcude kes. Patatesleri kagit havluyla iyice kurula. Pisirirken ara
 1. 2-3 tortilla uzerine siviyag iyice yay, tuz, karabiber serp. Cips seklinde kes.
 2. 200 derecede 3-4 dk da pisiyor
 - [Orjinal tarif](https://www.youtube.com/watch?v=-eudAnySdKk)
+
+## Salmon and Asparagus
+[<img src="salmon_and_asparagus.jpg" width="500"/>](salmon_and_asparagus.jpg)
+1. Somonun uzerine zeytin yagi (ya da ceviz yagi), tuz, karabiber ve kirmizi biber dok, masaj yap. Kirmizi biber yuzeyi kaplasin, rengini o veriyor.
+2. Kuskonmazlarin kalin sapini kes, zeytinyagi, tuz ve karabiber karisimi ile seasonla.
+3. AirFryerda => Somon 190 derece 6-8 dk, kuskonmaz 200 derecede 7-8 dk
+- Orjinal tarif: [somon](https://www.youtube.com/watch?app=desktop&v=cyRi_-TgFl8), [kuskonmaz](https://www.youtube.com/watch?v=1uh_LOcJeSQ)
 
 # OVEN RECIPES
 
