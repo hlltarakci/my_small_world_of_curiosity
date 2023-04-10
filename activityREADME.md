@@ -59,6 +59,7 @@ Cycling tips:
 - [Braking tips](https://www.youtube.com/watch?v=wX4tFn4RzrU)
 - [9 beginner mistakes and how to avoid them](https://www.youtube.com/watch?v=x4WHeVf5DN4)
 - [Tips For Starting To Cycle In London From Someone Who’s Been In Your Position](https://www.coachweb.com/cycling/8986/cycling-in-london-beginner-tips)
+- [Cycle Confident](https://www.cycleconfident.com/sponsors/city-of-westminster/)
 
 ## Tracking Group Hiking & Sightseeing Activity
 
