@@ -128,7 +128,7 @@
 - [x] [**Russia's Icy Northern Sea Coast**](https://www.youtube.com/watch?v=pH_KyXXDpJQ)
 - [ ] [Coldest Place on Earth, Oymyakon - Yakutia](https://www.youtube.com/watch?v=sFWtQ5AV0vg)
 - [x] [**Life in the Arctic Villages & suburbs of Vorkuta**](https://www.youtube.com/watch?v=RNCjZXffuyE) / [**Vorkuta**](https://www.theguardian.com/artanddesign/gallery/2018/apr/18/the-last-town-in-sovietland-vorkuta-russia-tomeu-coll-in-pictures) / [**frozen apartments**](https://www.thisiscolossal.com/2021/03/arseniy-kotov-vorkuta-photographs/?mc_cid=61aa1b43fa&mc_eid=369958f9ef)
-- [ ] [Life in the capital of Kamchatka in the remotest region of Russia](https://www.youtube.com/watch?v=G6zYUuYLsP8)
+- [x] [**Life in the capital of Kamchatka in the remotest region of Russia**](https://www.youtube.com/watch?v=G6zYUuYLsP8)
 - [ ] [Russian North village life in winter. Making Russian North cheese.](https://www.youtube.com/watch?v=rFlH3T1Y7q0)
 - [x] [**Realm of the Volga - A River is Born**](https://www.youtube.com/watch?v=YlxEmDPeoTE) / [magestic Volga river](https://escape-magazin.com/14-fun-facts-about-the-volga-river/?lang=en) / [**Manpupuner**](https://mybestplace.com/en/article/manpupuner-the-seven-stone-giants-of-the-urals)
 - [x] [**Realm of the Volga - A River Becomes A Sea**](https://www.youtube.com/watch?v=YrL3tDj5WSY) / [Caspian Sea](https://www.worldatlas.com/lakes/caspian-sea.html)
