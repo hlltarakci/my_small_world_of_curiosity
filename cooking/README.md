@@ -321,7 +321,7 @@ Protip: Esit olcude kes. Patatesleri kagit havluyla iyice kurula. Pisirirken ara
 - [Jamie Oliver Recipes](https://www.jamieoliver.com)
 
 # WishList
-- [AirFryer Salmon](https://www.wellplated.com/air-fryer-salmon/)
+- [Turkish Melted Cheese and Cornmeal (Mihlama)](https://www.thespruceeats.com/mihlama-traditional-turkish-breakfast-dish-3274164)
 - [Turkish Cokertme Kebabi](https://www.youtube.com/watch?v=6zDgJlnp44o)
 - [Turkish Meat Stew with Aubergine Puree: Sultan's Delight (Hunkarbegendi)](https://www.youtube.com/watch?v=NWyIEW1o6k4)
 - [Ali Nazik Kebab](https://turkishstylecooking.com/ali-nazik-kebab-recipe.html)
