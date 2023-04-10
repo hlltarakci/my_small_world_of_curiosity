@@ -57,6 +57,7 @@ Alternative: Hike / 10k+ km walk / cycling
 
 Cycling tips:
 - [Braking tips](https://www.youtube.com/watch?v=wX4tFn4RzrU)
+- [9 beginner mistakes and how to avoid them](https://www.youtube.com/watch?v=x4WHeVf5DN4)
 
 ## Tracking Group Hiking & Sightseeing Activity
 
