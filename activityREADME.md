@@ -55,6 +55,9 @@ Extras:
 
 Alternative: Hike / 10k+ km walk / cycling
 
+Cycling tips:
+- [Braking tips](https://www.youtube.com/watch?v=wX4tFn4RzrU)
+
 ## Tracking Group Hiking & Sightseeing Activity
 
 Hike Groups: https://theflamingohiker.com/hiking-groups-in-london/
