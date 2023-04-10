@@ -229,6 +229,7 @@
   - [ ] [Great Continental Railway Journeys, 2012](https://www.imdb.com/title/tt2498076/)
   - [ ] [Great Alaskan and Canadian Railroad Journeys, 2019](https://www.imdb.com/title/tt9523448/)
   - [ ] [Great British Railway Journeys, 2010](https://www.imdb.com/title/tt1578652/)
+  - [ ] [Our Great National Parks, 2022](https://www.imdb.com/title/tt18750552/)
   - [ ] [Ancient Earth, Curiosity Stream](https://curiositystream.com/collections/55)
   - [ ] [Earthstorm, 2022](https://www.imdb.com/title/tt22437106/)
 
@@ -280,6 +281,10 @@
 - [x] [**Downfall: The Case Against Boeing**, 2022](https://www.imdb.com/title/tt11893274/)
 - [ ] [Enron: The Smartest Guys in the Room, 2005](https://www.imdb.com/title/tt1016268/)
 - [ ] [The Dyatlov Pass Incident](https://www.youtube.com/watch?v=Ee8iLRVOHDw)
+- [ ] [The Man Who Saved the World, 2014](https://www.imdb.com/title/tt2277106/)
+- [ ] [Home, 2009](https://www.imdb.com/title/tt1014762/)
+- [ ] [Free Energy of Tesla, 2013](https://www.imdb.com/title/tt2947386/)
+- [ ] [Soviet Bus Stops, 2023](https://www.imdb.com/title/tt22697846/)
 - [ ] [What's Philosophy?](https://www.youtube.com/watch?v=XdlfDlcaAAw)
 - [ ] [Philosophy for Beginners](https://www.youtube.com/watch?v=1AvzBt_yHHw)
 - [x] [**How We Perceive Time? Cyclical vs Linear vs Vertical (the philosophy of time perception)**](https://www.youtube.com/watch?v=eaXCvA08J44) / [The concept of time across cultures](http://janwillemverstraten.com/the-concept-of-time-across-cultures/) / [Peru Aymara language view time flowing backwards](https://www.thendobetter.com/blog/2019/12/6/aymara-time-backwards-comorant-fishing)
@@ -292,6 +297,9 @@
   - [x] [**Deep Time History, Curiosity Stream**](https://www.imdb.com/title/tt6052190/) - quite similar in context to Harari's Sapiens. Linking ideas, providing a general structure why things happened the way they did fascinates me. And this is a transferable thought experiment skill.
   - [ ] [What Went Wrong, Curiosity Stream](https://curiositystream.com/video/4054)
   - [ ] [Bad Sport, 2021](https://www.netflix.com/gb/title/81084829)  
+  - [ ] [Explained, 2018](https://www.imdb.com/title/tt8005374/)
+  - [ ] [The Mind, Explained, 2019](https://www.imdb.com/title/tt10810430/)
+  - [ ] [Connected: The Hidden Science of Everything, 2020](https://www.imdb.com/title/tt12753692/)
   - [ ] [Impossible Engineering, 2015](https://yesterday.uktv.co.uk/shows/impossible-engineering/)
   - [ ] [Abandoned Engineering, 2016](https://yesterday.uktv.co.uk/shows/abandoned-engineering/)
   - [ ] [Air Crash Investigation, 2003](https://www.imdb.com/title/tt0386950/)
