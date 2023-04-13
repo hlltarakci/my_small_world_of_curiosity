@@ -113,6 +113,7 @@
 - [x] [**Katya, Vitya, Dima, 2012**](https://www.imdb.com/video/vi2836900121/) / [poster](https://nataliaantonova.com/2012/04/18/poster-for-katya-vitya-dima/)
 - [x] [**Life in a small Tatar village in the Urals of Russia**](https://www.youtube.com/watch?v=z1S4W2acLsk) / [chak chak](https://theculturetrip.com/europe/russia/articles/chak-chak-the-national-sweet-you-must-try-in-tartarstan/)
 - [x] [Life at the edge of Russian North on Kola Peninsula | Murmansk & Teriberka](https://www.youtube.com/watch?v=qgz3XP2aCjE)
+- [x] [**Experiencing snowstorm & traditional epiphany bathing in the Extreme North of Russia**](https://www.youtube.com/watch?v=qTtfPHV3vWY) / [Murmansk](https://arctic-russia.ru/en/article/murmansk-the-largest-city-north-of-the-arctic-circle/) / [19 January, Epiphany](https://www.officeholidays.com/holidays/orthodox-epiphany)
 - [x] [Day in the life during winter in the Urals of Russia](https://www.youtube.com/watch?v=IbQLUhQ2sUE)
 - [ ] [North Nomads life in winter. Ural mountains and tundra life](https://www.youtube.com/watch?v=8COjtY1egvc)
 - [x] [**Ice Skating On The World's Deepest Lake | Legendary Lake Baikal**](https://www.youtube.com/watch?v=Pgo12hC8bOs)
