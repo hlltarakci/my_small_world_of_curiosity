@@ -3,7 +3,7 @@
 ## Daily Exercise 
 
 Cassey:
-- **Current Program (1)** ==> [Sculpt Program](https://www.blogilates.com/blog/28daysummersculpt/)
+- **Current Program (2)** ==> [Sculpt Program](https://www.blogilates.com/blog/28daysummersculpt/)
 - [100 Glute Challenge](https://www.youtube.com/playlist?list=PLSCcAGyv98idAYy_syDOjnnZ5E362V-wK)
 - [Glow Up Sessions](https://www.youtube.com/playlist?list=PLSCcAGyv98icXNi46_I3t-qy58p846WPr)
 - [Blogilates Monthly Program](https://www.blogilates.com/blog/new-beginners-calendar-2-0-for-2015/)
