@@ -1,4 +1,4 @@
-# My Small World of Curiosity
+# My Small World of Curiosity (Personal Tracker)
 
 - WATCH List
    - [Documentary](https://github.com/hlltarakci/personal_tracker/blob/main/watchDocumentaryREADME.md)
