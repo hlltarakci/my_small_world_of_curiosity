@@ -134,6 +134,7 @@
      - [x] [Russian habits](https://www.youtube.com/watch?v=2pVu9PDhm2Y) / [semaver :)](https://en.wikipedia.org/wiki/Samovar) / [**old new year**](https://russiapedia.rt.com/of-russian-origin/old-new-year/index.html)
      - [x] [**Visiting Perm in Winter**](https://www.youtube.com/watch?v=UbRI-l8Hluk) / [**Recipe: Posikunchiki**](https://en.edunclub.ru/recipe/74031-cakes-posikunchiki/)
      - [x] [**Life in a provincial Russian town in the Urals: Perm**](https://www.youtube.com/watch?v=Zsi3Naelsyw)
+     - [x] [My first impression of Türkiye as a Russian](https://www.youtube.com/watch?v=1CTobY2TCWw)
 - [ ] [Russia: A small town (Yelnya) clings to its Soviet past](https://www.youtube.com/watch?v=48DaLYiO-yk)
 - [x] [**Katya, Vitya, Dima, 2012**](https://www.imdb.com/video/vi2836900121/) / [poster](https://nataliaantonova.com/2012/04/18/poster-for-katya-vitya-dima/)
 - [ ] [North Nomads life in winter. Ural mountains and tundra life](https://www.youtube.com/watch?v=8COjtY1egvc)
