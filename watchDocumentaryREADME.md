@@ -296,6 +296,7 @@
    - [ ] [Proust’s Genius Artistic Philosophy](https://www.youtube.com/watch?v=jT9LSdpfFvg)
    - [ ] [Carl Jung's Genius Philosophy](https://www.youtube.com/watch?v=slB2WbZIOM4)
    - [ ] [Dostoevsky's Genius Life Philosophy](https://www.youtube.com/watch?v=vEFlbz9SSEU)
+   - [ ] [This is Why Chekhov was a Genius](https://www.youtube.com/watch?v=xqVRNAxgQwQ)
 - **Documentary Series**
   - [x] [Turning Point 9/11, 2021](https://www.netflix.com/gb/title/81315804)
   - [x] [**Deep Time History, Curiosity Stream**](https://www.imdb.com/title/tt6052190/) - quite similar in context to Harari's Sapiens. Linking ideas, providing a general structure why things happened the way they did fascinates me. And this is a transferable thought experiment skill.
