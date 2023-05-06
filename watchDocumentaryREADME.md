@@ -15,7 +15,7 @@
 - [x] [Karosta: Life After the USSR, 2008](https://www.imdb.com/title/tt1327804/)
 - [ ] [How Khrushchev Housed Everyone - Cold War Soviet History](https://www.youtube.com/watch?v=lazVrmC7IVQ)
 - [ ] [Russia: History, Geography, Economy and Culture](https://www.youtube.com/watch?v=wT8UlOlY3K8)
-- [ ] [Putin: The New Tsar, 2018](https://www.imdb.com/title/tt8365160/?ref_=tt_sims_tt_i_1)
+- [x] [Putin: The New Tsar, 2018](https://www.imdb.com/title/tt8365160/?ref_=tt_sims_tt_i_1)
 - [ ] [The Long Road to War, 2018](https://www.imdb.com/title/tt3713222/?ref_=nv_sr_srsg_0)
 - [ ] [Economic Update: Rise and Fall of the USSR](https://youtu.be/_Y-TWFKw4tU)
 - [ ] [Meeting Gorbachev, 2018](https://www.imdb.com/title/tt8811382/)
