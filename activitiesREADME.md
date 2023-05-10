@@ -52,6 +52,7 @@ Extras:
 / [Brazilian buttocks workout](https://www.youtube.com/watch?v=Qow5XgDqEdo)
 / [Butt challenge](https://www.youtube.com/watch?v=rwVzamFR-tg)
 / [Butt lifting & thigh sculpting](https://www.youtube.com/watch?v=h_rAyZgbSPM)
+/ [15 min butt](https://www.youtube.com/watch?v=Byn9mPPZrtk)
 
 Alternative: Hike / 10k+ km walk / cycling
 - [Cycle Confident](https://www.cycleconfident.com/sponsors/city-of-westminster/)
