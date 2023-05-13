@@ -14,6 +14,8 @@
 - [x] [My Perestroika, 2010](https://www.imdb.com/title/tt1557720/) - [where to watch](https://www.youtube.com/watch?v=nlpsIrOHG_k)
 - [x] [Karosta: Life After the USSR, 2008](https://www.imdb.com/title/tt1327804/)
 - [ ] [How Khrushchev Housed Everyone - Cold War Soviet History](https://www.youtube.com/watch?v=lazVrmC7IVQ)
+- [ ] [The Human Face of Russia (1984) - Society and Everyday Life in 1980s USSR](https://www.youtube.com/watch?v=Hlb-HwxUxSU)
+- [ ] [Back in the USSR (1988) - Soviet Union in Late 1980](https://youtu.be/51yLIUAwu8Q)
 - [ ] [Russia: History, Geography, Economy and Culture](https://www.youtube.com/watch?v=wT8UlOlY3K8)
 - [x] [Putin: The New Tsar, 2018](https://www.imdb.com/title/tt8365160/?ref_=tt_sims_tt_i_1)
 - [ ] [The Long Road to War, 2018](https://www.imdb.com/title/tt3713222/?ref_=nv_sr_srsg_0)
