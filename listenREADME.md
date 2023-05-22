@@ -5,6 +5,7 @@
     - [x] [Insanlarin %99undan daha guclu ve direncli olmak](https://open.spotify.com/episode/1swZPwzeGsyXowVIk5X9K2?si=HTICriwwR-2Eazk5h5HCgA&nd=1)
     - [x] [Onemli konularda en dogru karari vermek icin 6 teknik](https://open.spotify.com/episode/18dpO99AkvQaP9uIsqOuvl?si=af5983f9f28d41d4&nd=1) 
     - [x] [Seni gucsuzlestiren 5 dusunme hatasi](https://open.spotify.com/episode/2xTistF0NJZFOdYFmW7t3Z?si=731c9c4194644e54&nd=1)
+    - [x] [Hersey kotu giderken hayati nasil akisina birakirsin?](https://open.spotify.com/episode/498V8e0ssAfIFZfDuRKN4p?si=1e7fc35e90964a7b)
 - [ ] [Think Fast, Talk Smart](https://open.spotify.com/show/6ll0MwobDt1JW9gYaOONEo): 
     - [X] Asking better questions lead to better results (Ask "What was important to you about this?" instead of "How it went?").
     - [X] [High-Stakes Communication: How to manage anxiety when speaking in front of others?](https://open.spotify.com/episode/0X6mdscnepO358a7VeElO8?si=f431e1a009ed4b60)
