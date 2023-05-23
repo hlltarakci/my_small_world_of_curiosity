@@ -8,6 +8,7 @@
     - [x] [Hersey kotu giderken hayati nasil akisina birakirsin?](https://open.spotify.com/episode/498V8e0ssAfIFZfDuRKN4p?si=1e7fc35e90964a7b)
     - [x] [Kendini tanimak icin psikolojik teknikler](https://open.spotify.com/episode/5sHBO8ybCkZzGde0J1Q2Cf?si=90ccf23bb94440da&nd=1)
     - [x] [Zor sorunlarin cozumu icin hayatina reset atmak](https://open.spotify.com/episode/0BJ0bW8cWzUU9vo12EhkHR?si=96a0bc17a27c40a6&nd=1)
+    - [x] [Keske daha once bilseydim dedigin 7 hayat gercegi](https://open.spotify.com/episode/4LxakPhmvcVpbEGMDEg0Ub?si=5b40d306069b47a8&nd=1)
 - [ ] [Think Fast, Talk Smart](https://open.spotify.com/show/6ll0MwobDt1JW9gYaOONEo): 
     - [X] Asking better questions lead to better results (Ask "What was important to you about this?" instead of "How it went?").
     - [X] [High-Stakes Communication: How to manage anxiety when speaking in front of others?](https://open.spotify.com/episode/0X6mdscnepO358a7VeElO8?si=f431e1a009ed4b60)
