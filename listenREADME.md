@@ -10,6 +10,7 @@
     - [x] [Zor sorunlarin cozumu icin hayatina reset atmak](https://open.spotify.com/episode/0BJ0bW8cWzUU9vo12EhkHR?si=96a0bc17a27c40a6&nd=1)
     - [x] [Keske daha once bilseydim dedigin 7 hayat gercegi](https://open.spotify.com/episode/4LxakPhmvcVpbEGMDEg0Ub?si=5b40d306069b47a8&nd=1)
     - [x] [Kendine yetmeyi ogrenmek icin ipuclari](https://open.spotify.com/episode/6JPNE23eN6ULbNsPZWNNYw?si=620c6a888bb343d4&nd=1)
+    - [x] [Hak ettigin degeri ve saygiyi goremiyorsan degistirmen gereken tek sey](https://open.spotify.com/episode/2alaKkCZE1DQ6aFvIxd26g?si=da5b5a5866a444d8)
 - [ ] [Think Fast, Talk Smart](https://open.spotify.com/show/6ll0MwobDt1JW9gYaOONEo): 
     - [X] Asking better questions lead to better results (Ask "What was important to you about this?" instead of "How it went?").
     - [X] [High-Stakes Communication: How to manage anxiety when speaking in front of others?](https://open.spotify.com/episode/0X6mdscnepO358a7VeElO8?si=f431e1a009ed4b60)
