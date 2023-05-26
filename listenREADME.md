@@ -15,6 +15,7 @@
     - [x] [Yalniz kalmana neden olan 4 dusunce kalibi](https://open.spotify.com/episode/696YBmZZkjDVP2oJLCr2sJ?si=HcXrVTasT1WJXoLl4cDWxQ&nd=1)
     - [x] [Nova etkisi: en kotu olayin en buyuk sansin olabilir](https://open.spotify.com/episode/2Z0CNxUk9gMM5eLgCBaaHl?si=22fa3df09fc944b2)
     - [x] [**Kabullendigin zaman hayatini kolaylastiran 6 rahatsiz edici gercek**](https://open.spotify.com/episode/2WUvMH0cqNVLzwIzGXM3au?si=560044657ef84bcd)
+    - [x] [Cok bunaldiginda hatirlaman gereken 8 sey](https://open.spotify.com/episode/3TXn0F3rNl9cBc5asmKweE?si=0ff195cc2a504076)
 - [ ] [Think Fast, Talk Smart](https://open.spotify.com/show/6ll0MwobDt1JW9gYaOONEo): 
     - [X] Asking better questions lead to better results (Ask "What was important to you about this?" instead of "How it went?").
     - [X] [High-Stakes Communication: How to manage anxiety when speaking in front of others?](https://open.spotify.com/episode/0X6mdscnepO358a7VeElO8?si=f431e1a009ed4b60)
