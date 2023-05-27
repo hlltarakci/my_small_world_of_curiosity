@@ -249,6 +249,7 @@
 - [ ] [The Fantastic Mr Feynman, 2013](https://www.imdb.com/title/tt5182420/?ref_=tt_sims_tt_t_3) - [where to watch](https://www.youtube.com/watch?v=H9fjhQMsDW4)
 - [ ] [All Genius, All Buffoon: 100 Years of Richard Feynman](https://www.youtube.com/watch?v=A8pBn8S_JPAa)
 - [x] [The Lucy Mission (NASA) Origins of the Solar System, Curiosity Stream](https://curiositystream.com/video/6652)
+- [x] [Jupiter's Moons And The Search For Life | Breakthrough](https://www.youtube.com/watch?v=6uEwKVVEyGg)
 - [ ] [Gagarin: First in space](https://www.imdb.com/title/tt2856930/)
 - **Documentary Series**
   - [ ] [Carl Sagan's Cosmos, 1980](https://www.imdb.com/title/tt0081846/?ref_=tt_sims_tt_i_5) 
