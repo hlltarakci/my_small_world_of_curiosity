@@ -17,6 +17,7 @@
     - [x] [**Kabullendigin zaman hayatini kolaylastiran 6 rahatsiz edici gercek**](https://open.spotify.com/episode/2WUvMH0cqNVLzwIzGXM3au?si=560044657ef84bcd)
     - [x] [Cok bunaldiginda hatirlaman gereken 8 sey](https://open.spotify.com/episode/3TXn0F3rNl9cBc5asmKweE?si=0ff195cc2a504076)
     - [x] [**Mutlu ve huzurlu olmak icin vazgecmen gereken 5 sey**](https://open.spotify.com/episode/68I4LpmjIxOe72bgEhbaA4?si=db738472026f407d)
+    - [x] [**Hersey bitti derken nasil yeniden baslarsin?**](https://open.spotify.com/episode/4zPCIwlWfKgyeQuhLuVaf7?si=c7b9ed3dab1c44d8)
 - [ ] [Think Fast, Talk Smart](https://open.spotify.com/show/6ll0MwobDt1JW9gYaOONEo): 
     - [X] Asking better questions lead to better results (Ask "What was important to you about this?" instead of "How it went?").
     - [X] [High-Stakes Communication: How to manage anxiety when speaking in front of others?](https://open.spotify.com/episode/0X6mdscnepO358a7VeElO8?si=f431e1a009ed4b60)
