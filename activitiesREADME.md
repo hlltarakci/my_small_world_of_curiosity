@@ -66,6 +66,9 @@ Hike Groups: https://theflamingohiker.com/hiking-groups-in-london/
 - https://www.meetup.com/AAA-London-Group/
 
 Day Hikes & Sightseeing:
+- [x] [May 2023 - **Boxhill and Stepping Stones**](https://www.nationaltrust.org.uk/visit/surrey/box-hill/the-box-hill-hike)
+- [x] [May 2023 - Chess Valley Walk](https://www.chilternsaonb.org/map_marker/chess-valley-walk/)
+- [x] [May 2023 - **Otford Mount & Shoreham bluebell woods**](https://www.meetup.com/free-outdoor-trips-from-london/events/292942455/)
 - [x] [Apr 2023 - **St Martha’s Hill (Guildford)**](https://www.meetup.com/londonwellnessgroup/events/292781394/)
 - [x] [Apr 2023 - **Richmond Park / Route: Central london view – Richmond Park loop from Putney Vale**](https://www.komoot.com/tour/1074597453?ref=avs&share_token=aXH0EvkWOnhn3zyUyhlYEcncUAJC8R9m7U2gJBD8mz6bZDOCnR)
 - [x] [Apr 2023 - **Northern Heights (North London)**](http://www.senderismoenlondres.co.uk/northern-heights-hiking-for-beginners.html)
