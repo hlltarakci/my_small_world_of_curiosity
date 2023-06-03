@@ -1,6 +1,6 @@
 # Documentary 
 
-## WW1 (1914-1918), WW2 (1939-1945), Cold War (1947-1991), History and lifestyle of USSR (1922-1991)
+## WW1 (1914-1918), WW2 (1939-1945), Cold War (1947-1991), History and lifestyle of USSR (1922-1991), World History
 - [x] [The Last Days of the USSR, Curiosity Stream](https://curiositystream.com/video/4723?utm_campaign=D-PerformanceMax-ROW&utm_medium=display&utm_source=google&utm_placement=&utm_content=&gclid=EAIaIQobChMI9YqEwMbV9gIVxJrVCh1rfAACEAAYASAAEgIww_D_BwE)
 - [x] [The Breakup of the Soviet Union Explained](https://youtu.be/t2GmtBCVHzY)
 - [x] [The Entire History of the Cold War Explained | Best Cold War Documentary](https://www.youtube.com/watch?v=XDrykOhrb5s) - provides complete overview of events, helping to see their relation and chronology, difficult to digest
@@ -19,6 +19,7 @@
 - [ ] [USSR Memories - Daily life of a Russian family in the Soviet Union - Part 1](https://www.youtube.com/watch?v=GAVqM4geAAk) / [Part 2](https://www.youtube.com/watch?v=YkWEDJXtsA0)
 - [ ] [101 Facts About The Soviet Union](https://www.youtube.com/watch?v=2kwS-aKRqzY)
 - [ ] [Never Before Seen Life In The USSR | Red Empire | Our History](https://youtu.be/INyIPTf4NyQ)
+- [ ] [After Gorbachev's USSR (1992) - Russia during winter of 1992](https://www.youtube.com/watch?v=Kr1HnZxdyXM)
 - [ ] [Russia: History, Geography, Economy and Culture](https://www.youtube.com/watch?v=wT8UlOlY3K8)
 - [x] [Putin: The New Tsar, 2018](https://www.imdb.com/title/tt8365160/?ref_=tt_sims_tt_i_1)
 - [ ] [The Long Road to War, 2018](https://www.imdb.com/title/tt3713222/?ref_=nv_sr_srsg_0)
@@ -54,6 +55,7 @@
    - [x] [Greatest Events of WW2 in Color](https://www.netflix.com/nl-en/title/80989924) 
    - [ ] [WW2 in color - Road to Victory, 2021](https://www.netflix.com/gb/title/81488464)
    - [ ] [Civil War, 1990](https://www.imdb.com/title/tt0098769/)
+   - [ ] [The Cuba Libre Story, 2015](https://www.imdb.com/title/tt6335696/)
   
 ## Russia
 - [x] [A History of Eastern Europe: Ukraine-Russia Crisis](https://www.youtube.com/watch?v=l1WL2VJOn2A)
