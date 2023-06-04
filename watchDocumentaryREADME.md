@@ -15,7 +15,7 @@
 - [x] [Karosta: Life After the USSR, 2008](https://www.imdb.com/title/tt1327804/)
 - [ ] [How Khrushchev Housed Everyone - Cold War Soviet History](https://www.youtube.com/watch?v=lazVrmC7IVQ)
 - [ ] [The Human Face of Russia (1984) - Society and Everyday Life in 1980s USSR](https://www.youtube.com/watch?v=Hlb-HwxUxSU)
-- [ ] [Back in the USSR (1988) - Soviet Union in Late 1980](https://youtu.be/51yLIUAwu8Q)
+- [x] [**Back in the USSR (1988) - Soviet Union in Late 1980**](https://youtu.be/51yLIUAwu8Q) / [glasnost and perestroika](https://kids.britannica.com/students/article/glasnost-and-perestroika/274571)
 - [ ] [USSR Memories - Daily life of a Russian family in the Soviet Union - Part 1](https://www.youtube.com/watch?v=GAVqM4geAAk) / [Part 2](https://www.youtube.com/watch?v=YkWEDJXtsA0)
 - [ ] [101 Facts About The Soviet Union](https://www.youtube.com/watch?v=2kwS-aKRqzY)
 - [ ] [Never Before Seen Life In The USSR | Red Empire | Our History](https://youtu.be/INyIPTf4NyQ)
