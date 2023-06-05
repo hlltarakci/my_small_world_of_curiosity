@@ -20,6 +20,7 @@
 - [x] [**Back in the USSR (1988) - Soviet Union in Late 1980**](https://youtu.be/51yLIUAwu8Q) / [glasnost and perestroika](https://kids.britannica.com/students/article/glasnost-and-perestroika/274571)
 - [x] [**Soviet Bikes. I Liked to Ride My Bicycle Back in the USSR**](https://www.youtube.com/watch?v=BU9GrLtGtcY) / [Monument of friendship](https://www.wikidata.org/wiki/Q21392738) / [Soviet bikes](https://www.reddit.com/r/bicycling/comments/oovxl1/i_grew_up_in_russia_in_the_80s_we_didnt_have_a/)
 - [ ] [Old soviet bike full restoration. He is 40 years old](https://www.youtube.com/watch?v=imqkwyoHbIE)
+- [x] [Growing up in Russia in 90s - Part1](https://www.youtube.com/watch?v=WAHjsqJANZM) / [Part 2](https://www.youtube.com/watch?v=pSpWjKuwwtI)
 - [ ] [Soviet Style: Life in the USSR - The People, Culture and Politics](https://www.youtube.com/watch?v=bx6n-R7ThRI)
 - [ ] [Soviet Humor Playlist](https://www.youtube.com/playlist?list=PLNq3y0OU1_Bb9BRmETQhUKL1aqCuUi3xJ)
 - [ ] [USSR Memories - Daily life of a Russian family in the Soviet Union - Part 1](https://www.youtube.com/watch?v=GAVqM4geAAk) / [Part 2](https://www.youtube.com/watch?v=YkWEDJXtsA0)
