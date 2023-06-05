@@ -21,6 +21,7 @@
 - [x] [**Soviet Bikes. I Liked to Ride My Bicycle Back in the USSR**](https://www.youtube.com/watch?v=BU9GrLtGtcY) / [Monument of friendship](https://www.wikidata.org/wiki/Q21392738) / [Soviet bikes](https://www.reddit.com/r/bicycling/comments/oovxl1/i_grew_up_in_russia_in_the_80s_we_didnt_have_a/)
 - [ ] [Old soviet bike full restoration. He is 40 years old](https://www.youtube.com/watch?v=imqkwyoHbIE)
 - [x] [Growing up in Russia in 90s - Part1](https://www.youtube.com/watch?v=WAHjsqJANZM) / [Part 2](https://www.youtube.com/watch?v=pSpWjKuwwtI)
+- [x] [Soviet Education System](https://www.youtube.com/watch?v=AD_JwbivtMA) / [Little Octobrists](https://en.wikipedia.org/wiki/Little_Octobrists) / [Pioneers](https://en.wikipedia.org/wiki/Pioneer_movement) / [Komsomol](https://en.wikipedia.org/wiki/Komsomol) / [Communist Party of the Soviet Union](https://en.wikipedia.org/wiki/Communist_Party_of_the_Soviet_Union) / [Stilyagi](https://en.wikipedia.org/wiki/Stilyagi)
 - [ ] [Soviet Style: Life in the USSR - The People, Culture and Politics](https://www.youtube.com/watch?v=bx6n-R7ThRI)
 - [ ] [Soviet Humor Playlist](https://www.youtube.com/playlist?list=PLNq3y0OU1_Bb9BRmETQhUKL1aqCuUi3xJ)
 - [ ] [USSR Memories - Daily life of a Russian family in the Soviet Union - Part 1](https://www.youtube.com/watch?v=GAVqM4geAAk) / [Part 2](https://www.youtube.com/watch?v=YkWEDJXtsA0)
