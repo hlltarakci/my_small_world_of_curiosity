@@ -15,6 +15,7 @@
     - [x] [**Communal Apartments In Soviet Union - History of "Kommunalka"**](https://www.youtube.com/watch?v=X3QEzdDoDSQ&list=PLnxa6i-yhiiq7ymST1MUt9dPjIa7kxSIZ&index=1) / [Kommunalka](https://en.wikipedia.org/wiki/Communal_apartment) / [How St. Petersburg’s young people are reinventing the Soviet kommunalka](https://www.rbth.com/lifestyle/329679-petersburg-communal-apartments)
     - [x] [**The Allure and Horror of Stalinist Housing: A Closer Look**](https://youtu.be/bmB7RvTL2rk) / [Stalinka](https://en.wikipedia.org/wiki/Stalinist_architecture) / [Stalinka in architecture](https://www.hisour.com/stalinka-in-architecture-33475/amp/)
     - [x] [**Khrushchyovka**](https://youtu.be/ZN-419d7vt4) / [Khrushchevka](https://en.wikipedia.org/wiki/Khrushchevka)
+    - [x] [**Brezhnevka**](https://youtu.be/NC8mME1-GR4) / [Brezhnevka](https://en.wikipedia.org/wiki/Brezhnevka) / [Panelka](https://en.wikipedia.org/wiki/Panelák) / [CIS - Commonwealth of Independent States](https://en.wikipedia.org/wiki/Commonwealth_of_Independent_States) / This is the apartment in Irony of Fate :)
     - [x] [What’s Inside a Typical Soviet Apartment?](https://www.youtube.com/watch?v=zZhGrjPavII) / [Soviet Furniture](https://www.rbth.com/history/332727-soviet-furniture-home)
 - [x] [My Perestroika, 2010](https://www.imdb.com/title/tt1557720/) - [where to watch](https://www.youtube.com/watch?v=nlpsIrOHG_k)
 - [x] [Karosta: Life After the USSR, 2008](https://www.imdb.com/title/tt1327804/)
