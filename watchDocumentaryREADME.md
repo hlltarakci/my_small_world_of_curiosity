@@ -12,6 +12,7 @@
 - [x] [What Life in Soviet Union was Like?](https://www.youtube.com/watch?v=EF_GjtpR1Xo)
 - [x] [How did Planners Design Soviet Cities?](https://www.youtube.com/watch?v=JGVBv7svKLo)
 - [ ] [Russian/Soviet Housing - Playlist](https://www.youtube.com/playlist?list=PLnxa6i-yhiiq7ymST1MUt9dPjIa7kxSIZ)
+    - [x] [**Communal Apartments In Soviet Union - History of "Kommunalka"**](https://www.youtube.com/watch?v=X3QEzdDoDSQ&list=PLnxa6i-yhiiq7ymST1MUt9dPjIa7kxSIZ&index=1) / [Kommunalka](https://en.wikipedia.org/wiki/Communal_apartment) / [How St. Petersburg’s young people are reinventing the Soviet kommunalka](https://www.rbth.com/lifestyle/329679-petersburg-communal-apartments)
     - [x] [What’s Inside a Typical Soviet Apartment?](https://www.youtube.com/watch?v=zZhGrjPavII) / [Soviet Furniture](https://www.rbth.com/history/332727-soviet-furniture-home)
 - [x] [My Perestroika, 2010](https://www.imdb.com/title/tt1557720/) - [where to watch](https://www.youtube.com/watch?v=nlpsIrOHG_k)
 - [x] [Karosta: Life After the USSR, 2008](https://www.imdb.com/title/tt1327804/)
