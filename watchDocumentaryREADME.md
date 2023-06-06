@@ -19,6 +19,7 @@
     - [x] [Why does EVERY old Soviet apartment have THIS?](https://youtu.be/3c3rpzQRafM) - the window between kitchen and bathroom
     - [x] [What’s Inside a Typical Soviet Apartment?](https://www.youtube.com/watch?v=zZhGrjPavII) / [Soviet Furniture](https://www.rbth.com/history/332727-soviet-furniture-home)
 - [x] [Russia and Alcohol/Vodka](https://youtu.be/iSai0oIIsMQ)
+- [x] [**10 Things I LOVE About Living In Russia**](https://youtu.be/CR70e_fSQPk) / free healthcare & free education, housing and communal services, low natural disaster risk, nanchalant attitude (Russians been through so much stuff throughout their history they do not really care about anything anymore), sense of humor and freedom for jokes (The severity of Russian laws is compensated by the non-binding nature of their implementation), 24/7 access to quality service, low taxes and lots of holidays, internet, Russian culture (literature,art, science ..), diversity (nature, 190 nationalities)
 - [x] [My Perestroika, 2010](https://www.imdb.com/title/tt1557720/) - [where to watch](https://www.youtube.com/watch?v=nlpsIrOHG_k)
 - [x] [Karosta: Life After the USSR, 2008](https://www.imdb.com/title/tt1327804/)
 - [ ] [How Khrushchev Housed Everyone - Cold War Soviet History](https://www.youtube.com/watch?v=lazVrmC7IVQ)
