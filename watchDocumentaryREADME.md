@@ -18,6 +18,7 @@
     - [x] [**Brezhnevka**](https://youtu.be/NC8mME1-GR4) / [Brezhnevka](https://en.wikipedia.org/wiki/Brezhnevka) / [Panelka](https://en.wikipedia.org/wiki/Panelák) / [CIS - Commonwealth of Independent States](https://en.wikipedia.org/wiki/Commonwealth_of_Independent_States) / This is the apartment in Irony of Fate :)
     - [x] [Why does EVERY old Soviet apartment have THIS?](https://youtu.be/3c3rpzQRafM) - the window between kitchen and bathroom
     - [x] [What’s Inside a Typical Soviet Apartment?](https://www.youtube.com/watch?v=zZhGrjPavII) / [Soviet Furniture](https://www.rbth.com/history/332727-soviet-furniture-home)
+- [x] [Russia and Alcohol/Vodka](https://youtu.be/iSai0oIIsMQ)
 - [x] [My Perestroika, 2010](https://www.imdb.com/title/tt1557720/) - [where to watch](https://www.youtube.com/watch?v=nlpsIrOHG_k)
 - [x] [Karosta: Life After the USSR, 2008](https://www.imdb.com/title/tt1327804/)
 - [ ] [How Khrushchev Housed Everyone - Cold War Soviet History](https://www.youtube.com/watch?v=lazVrmC7IVQ)
