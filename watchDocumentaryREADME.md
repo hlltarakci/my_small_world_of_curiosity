@@ -22,7 +22,7 @@
 - [x] [Russia and Alcohol/Vodka](https://youtu.be/iSai0oIIsMQ)
 - [x] [**10 Things I LOVE About Living In Russia**](https://youtu.be/CR70e_fSQPk) / free healthcare & free education, housing and communal services, low natural disaster risk, nanchalant attitude (Russians been through so much stuff throughout their history they do not really care about anything anymore), sense of humor and freedom for jokes (The severity of Russian laws is compensated by the non-binding nature of their implementation), 24/7 access to quality service, low taxes and lots of holidays, internet, Russian culture (literature,art, science ..), diversity (nature, 190 nationalities)
 - [ ] [Russian New Year: History and Traditions](https://www.youtube.com/watch?v=dkC6yBXdQ-4)
-- [ ] [Mikhail Gorbachev - Our Worst Best Leader](https://www.youtube.com/watch?v=yvLRLY5CD_I)
+- [x] [**Mikhail Gorbachev - Our Worst Best Leader**](https://www.youtube.com/watch?v=yvLRLY5CD_I) / [Alexei Navalny](https://en.wikipedia.org/wiki/Alexei_Navalny)
 - [ ] [Collapse of the Soviet Union – Why It Was Inevitable](https://www.youtube.com/watch?v=n72O8ZoRO6c)
 - [x] [Dating in the Soviet Union](https://www.youtube.com/watch?v=xNSl2iZApHk)
 - [x] [The Secret Behind Brezhnev's Famous Kisses](https://www.youtube.com/watch?v=ygnH_iGyDfk) / [Leonid Brezhnev](https://en.wikipedia.org/wiki/Leonid_Brezhnev) / [My God, Help Me to Survive This Deadly Love](https://en.wikipedia.org/wiki/My_God,_Help_Me_to_Survive_This_Deadly_Love)
