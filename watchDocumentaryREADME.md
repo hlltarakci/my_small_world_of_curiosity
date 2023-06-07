@@ -24,6 +24,7 @@
 - [ ] [Russian New Year: History and Traditions](https://www.youtube.com/watch?v=dkC6yBXdQ-4)
 - [ ] [Mikhail Gorbachev - Our Worst Best Leader](https://www.youtube.com/watch?v=yvLRLY5CD_I)
 - [ ] [Collapse of the Soviet Union – Why It Was Inevitable](https://www.youtube.com/watch?v=n72O8ZoRO6c)
+- [x] [Dating in the Soviet Union](https://www.youtube.com/watch?v=xNSl2iZApHk)
 - [ ] [**Understanding the Russian mindset**](https://youtu.be/HE6rSljTwdU) - "Geography determines destiny...Russia too can be defined by its geographic characteristics and the most obvious element of Russians geography is its enormous size, but the truth is that Russia size is both an advantage as well as a liability. You see the very core of the Russian Federation the Moscow region is simply indefensible. There are no mountains ranges, no rivers or oceans there are no swamps or deserts, only the Moscow forests and the inhospitable climate can be described as a geographic obstacle. The only thing the Russians can do in event of an invasion is drag out the war and bleed the enemy out. It is for this reason that Russia's history is largely about surviving invasion after invasion. Thes centuries long experience left the deep mark in the Russian culture and psychology and due to these experiences, the Russian leadership became obsessed with security and survival."
 - [x] [My Perestroika, 2010](https://www.imdb.com/title/tt1557720/) - [where to watch](https://www.youtube.com/watch?v=nlpsIrOHG_k)
 - [x] [Karosta: Life After the USSR, 2008](https://www.imdb.com/title/tt1327804/)
