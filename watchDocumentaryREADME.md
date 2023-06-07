@@ -130,7 +130,7 @@
 - [ ] [Atatürk - Father of the Turks](https://www.youtube.com/watch?v=6YPuTsfjZkg)
 - [ ] [The Greek-Turkish War 1919-1923](https://www.youtube.com/watch?v=ht6cz9vOnLk)
 - [ ] [The End of the Ottoman Empire](https://www.youtube.com/watch?v=0293hOikSvU)
-- [ ] [Understanding the Turkish mindset](https://www.youtube.com/watch?v=Lg-TJO5yv2Q)
+- [ ] [**Understanding the Turkish mindset**](https://www.youtube.com/watch?v=Lg-TJO5yv2Q) - "In this context, Erdogan is the most consequential leader in Turkey second only to Ataturk by exploiting the polarized political arena, he has profoundly altered the prospects of the nation. This is not necessarily a trend that is exclusive to Turkey since far-right politicians often polarized their own societies for political gains. But taken together, Turkey is a geopolitical paradox while the Marmara heartland is wealthy, innovative and extrovert; Anatolia by comparison remains underprivileged, conservative and introvert; both regions compete and cooperate with one another and this internal contradiction sits at the heart of the geopolitical mindset of Turkey."
 - [ ] [Post World War Turkey](https://www.youtube.com/watch?v=QRv--JOIPL4)
 
 ## Nature, Life
