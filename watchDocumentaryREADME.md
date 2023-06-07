@@ -127,6 +127,10 @@
    - [ ] [Ozalli Yillar](https://www.youtube.com/watch?v=arGodO-a1sE)
    - [ ] [28 Subat](https://www.youtube.com/watch?v=arGodO-a1sE)
 - [ ] [Coup: A Documentary History Of The Turkish Military Intervention](https://www.youtube.com/watch?v=A_kb7LmYpmQ)
+- [ ] [Atatürk - Father of the Turks](https://www.youtube.com/watch?v=6YPuTsfjZkg)
+- [ ] [The Greek-Turkish War 1919-1923](https://www.youtube.com/watch?v=ht6cz9vOnLk)
+- [ ] [The End of the Ottoman Empire](https://www.youtube.com/watch?v=0293hOikSvU)
+- [ ] [Understanding the Turkish mindset](https://www.youtube.com/watch?v=Lg-TJO5yv2Q)
 
 ## Nature, Life
 - [x] [Hidden Russia, Curiosity Stream](https://curiositystream.com/video/3655)
