@@ -94,9 +94,11 @@
      - [ ] [Spirited Away, 2001](https://www.imdb.com/title/tt0245429/)
 - Series 
      - [x] [The Crown, 2016](https://www.imdb.com/title/tt4786824/)
+     - [ ] [Succession, 2018](https://www.imdb.com/title/tt7660850/)
      - [ ] [Love, Death & Robots, 2019](https://www.imdb.com/title/tt9561862/)
      - [ ] [Chernobyl, 2019](https://www.imdb.com/title/tt7366338/)
      - [ ] [Angels in America, 2003](https://www.imdb.com/title/tt0318997/)
+     - [x] [Beef, 2023](https://www.imdb.com/title/tt14403178/) - [soundtrack](https://open.spotify.com/playlist/100ijjpMQkB6ovE7vOaEBh) - [best one: Somewhere only we know, Keane, 2004](https://open.spotify.com/track/0ll8uFnc0nANY35E0Lfxvg)
      - [x] [**The Office, 2005**](https://www.imdb.com/title/tt0386676/)
      - [x] [**Stargate SG1, 1997**](https://www.imdb.com/title/tt0118480/)
      - [x] [**Poirot, 1989**](https://www.imdb.com/title/tt0094525/)
