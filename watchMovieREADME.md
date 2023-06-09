@@ -37,6 +37,7 @@
      - [x] [**The Girls (Devchata), 1962**](https://www.imdb.com/title/tt0134614/?ref_=tt_sims_tt_t_8) - [where to watch](https://www.youtube.com/watch?v=4GskjSBw9lA)
      - [ ] [Could one imagine / Love and Lies / Vam i ne snilos..., 1981](https://www.imdb.com/title/tt0153489/) - [where to watch - part 1](https://youtu.be/NpxTbm3LUb4) - [part 2](https://youtu.be/aDzgEcE2gUk) - [number 5 on this list](https://www.rbth.com/arts/333411-sad-russian-movies)
      - [ ] [Afonya, 1975](https://www.imdb.com/title/tt0072613/) - [where to watch](https://www.youtube.com/watch?v=IszoiMr-nBs)
+     - [ ] [Twelve Chairs, 1971](https://www.imdb.com/title/tt0065670/) - [where to watch](https://www.youtube.com/watch?v=d5GSQY4Lt-E)
      - [ ] [Brat, 1997](https://www.imdb.com/title/tt0118767/)
      - [ ] [The Barber of Siberia](https://www.imdb.com/title/tt0120125/)
      - [ ] [12, 2007](https://www.imdb.com/title/tt0488478/)
