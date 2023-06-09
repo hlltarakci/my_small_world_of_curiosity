@@ -31,7 +31,7 @@
      - [x] [**Moscow does not Believe in Tiers, 1980**](https://www.imdb.com/title/tt0079579/) -  [movie](https://www.youtube.com/watch?v=NTWA_7-ld_U)  -  [music: Aleksandra](https://www.youtube.com/watch?v=wY_wTjgecf8)
      - [x] [Ivan Vasilyevich Changes His Profession, 1973](https://www.imdb.com/title/tt0070233/)
      - [x] [Office Romance, 1977](https://www.imdb.com/title/tt0076727/) - [music](https://www.youtube.com/watch?v=zczb2E4zwj0)
-     - [x] [**Love and Doves, 1985**](https://www.imdb.com/title/tt0087650/)
+     - [x] [**Love and Doves, 1985**](https://www.imdb.com/title/tt0087650/) - [where to watch](https://www.youtube.com/watch?v=CLjLLHDUiiA) - funny scene starts at 15:58 :)
      - [x] [**Dersu Uzala, 1975**](https://www.imdb.com/title/tt0071411/) - [where to watch](https://www.youtube.com/watch?v=2EWdAnJsfdc)
      - [x] [**Railway station for Two, 1983**](https://www.imdb.com/title/tt0084873/) - [where to watch](https://www.youtube.com/watch?v=bUya5DBvw_g) - [**soundtrack**](https://www.youtube.com/watch?v=LTbGVTofwyA)
      - [x] [**The Girls (Devchata), 1962**](https://www.imdb.com/title/tt0134614/?ref_=tt_sims_tt_t_8) - [where to watch](https://www.youtube.com/watch?v=4GskjSBw9lA)
