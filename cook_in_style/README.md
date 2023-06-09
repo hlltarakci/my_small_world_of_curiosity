@@ -1,5 +1,7 @@
 # Finding My Style in Cooking
 
+These are the finely selected recipes that i (*will*) know by heart and repeat often, which means building my own cooking style :)
+
 ## [Breakfast][Turkey, Black Sea Region] [Kuymak](https://en.wikipedia.org/wiki/Kuymak)
 <img src="kuymak.jpg" width="500"/>
 
@@ -19,4 +21,14 @@
 6. Ocagi kapat, kagit havlu koyarak 10-15 dk demlenmeye birak.
 7. Karabiber serp, [ayran](https://en.wikipedia.org/wiki/Ayran) ile servis et.
                                        
+## [Meal][Turkish Cuisine] [Et Sote (Beef Saute)](https://www.dreamstime.com/turkish-et-sote-traditional-turkish-et-sote-meat-saute-bread-vegetables-image218473270)
+<img src="et_sote.jpg" width="500"/>
+
+1. Kusbasi eti kisik ateste suyunu salip cekene kadar pisir.
+2. 4-5 kucuk soga, 2-3 dis sarimsak dogra.
+3. Et suyunu cektikten sonra 2 yemek kasigi siviyag ekle, karistir. Sogan ve sarimsagi ekle, kavur. Karabiber ekle.
+4. 2 yemek kasigi biber salcasi ekle, kavur.
+5. Ustunu gecinceye kadar sicak su ekle, pisir. Elde dagilmasi lazim.
+6. 2 - 2.5 cay kasigi tuz, biraz daha kaynat. Ocaktan al.
+7. Patates kizartmasi, pure ya da pilavla servis edilebilir.
 
