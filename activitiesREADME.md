@@ -28,7 +28,7 @@ Cassey:
 - [15 min - body slimming](https://www.youtube.com/watch?v=QhxwCPwCrOQ)
 
 Sophie:
-- [40 min - full body](https://www.youtube.com/watch?v=sQVFoWGjD4k)
+- [**40 min - full body**](https://www.youtube.com/watch?v=sQVFoWGjD4k) - Perfect for combining with other exercises to make a full program
 - [35 min - full body](https://www.youtube.com/watch?v=nHxdKUI_r_g)
 - [35 min - full body](https://www.youtube.com/watch?v=VvrHo1NDITY)
 - [35 min - full body](https://www.youtube.com/watch?v=YvmC1mTWXnQ)
@@ -44,6 +44,9 @@ Nicole:
 
 Tandy:
 - [30 min - full body](https://www.youtube.com/watch?v=_CDbPNZx5Ao)
+
+Lilly:
+- [15 min - butt lifting](https://www.youtube.com/watch?v=WUxjY2r88a8)
 
 Extras: 
 - [8 min buns](https://www.youtube.com/watch?v=bMnW7bbkV6Q)
