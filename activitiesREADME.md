@@ -47,6 +47,7 @@ Tandy:
 
 Lilly:
 - [15 min - butt lifting](https://www.youtube.com/watch?v=WUxjY2r88a8)
+- [10 min - side butt](https://www.youtube.com/watch?v=pLAWcMLRgj4)
 
 Extras: 
 - [8 min buns](https://www.youtube.com/watch?v=bMnW7bbkV6Q)
