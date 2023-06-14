@@ -95,9 +95,13 @@
 - Hayao Miyazaki
      - [ ] [Howl's Moving Castle, 2004](https://www.imdb.com/title/tt0347149/)
      - [ ] [Spirited Away, 2001](https://www.imdb.com/title/tt0245429/)
+- Coen Brothers
+     - [ ] [Fargo, 1996](https://www.imdb.com/title/tt0116282/)
+     - [ ] [No Country for Old Man, 2007](https://www.imdb.com/title/tt0477348/)
 - Series 
      - [x] [The Crown, 2016](https://www.imdb.com/title/tt4786824/)
      - [ ] [Succession, 2018](https://www.imdb.com/title/tt7660850/)
+     - [ ] [Fargo, 2014](https://www.imdb.com/title/tt2802850/)
      - [ ] [Love, Death & Robots, 2019](https://www.imdb.com/title/tt9561862/)
      - [ ] [Chernobyl, 2019](https://www.imdb.com/title/tt7366338/)
      - [ ] [Angels in America, 2003](https://www.imdb.com/title/tt0318997/)
