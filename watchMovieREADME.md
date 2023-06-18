@@ -86,7 +86,9 @@
 - Martin Scorsese
      - [ ] [Good Fellas, 1990](https://www.imdb.com/title/tt0099685/)
 - Christopher Nolan
+     - [ ] [Batman Begins, 2005](https://www.imdb.com/title/tt0372784/)
      - [ ] [The Dark Knight, 2008](https://www.imdb.com/title/tt0468569/)
+     - [ ] [The Dark Knight Rises, 2012](https://www.imdb.com/title/tt1345836/)
 - Wong Kar Wai
      - [x] [**In the Mood for Love, 2000**](https://www.imdb.com/title/tt0118694/) - [soundtrack](https://open.spotify.com/album/7sQUHy86ZsAl0rVwUrYi8s)
 - Quentin Tarantino
