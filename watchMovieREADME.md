@@ -112,6 +112,7 @@
      - [x] [**The Office, 2005**](https://www.imdb.com/title/tt0386676/)
      - [x] [**Stargate SG1, 1997**](https://www.imdb.com/title/tt0118480/)
      - [x] [**Poirot, 1989**](https://www.imdb.com/title/tt0094525/)
+     - [ ] [Rick and Morty, 2013](https://www.imdb.com/title/tt2861424/)
      - [ ] [Curb Your Enthusiasm, 2000](https://www.imdb.com/title/tt0264235/)
 - Guilty Pleasure
      - [The Harlan Coben Collection](https://www.netflix.com/gb/browse/genre/81180221?so=su)
