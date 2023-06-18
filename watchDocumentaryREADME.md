@@ -146,7 +146,7 @@
      - [Part 4: Adulthood](https://youtu.be/he8FGw9e-pc)
      - [**Part 5: Old age**](https://youtu.be/SAnWF6yTaWQ)
      - [Part 6: Death](https://youtu.be/bQN420LIwrc)
-- [ ] [Voices inside Russia | DW Documentary](https://www.youtube.com/watch?v=gep4147pJrQ)
+- [x] [Voices inside Russia | DW Documentary](https://www.youtube.com/watch?v=gep4147pJrQ)
 - [Eli from Russia](https://www.youtube.com/@ElifromRussia)
      - [x] [**Life in a small Tatar village in the Urals of Russia**](https://www.youtube.com/watch?v=z1S4W2acLsk) / [chak chak](https://theculturetrip.com/europe/russia/articles/chak-chak-the-national-sweet-you-must-try-in-tartarstan/)
      - [x] [Life at the edge of Russian North on Kola Peninsula | Murmansk & Teriberka](https://www.youtube.com/watch?v=qgz3XP2aCjE)
