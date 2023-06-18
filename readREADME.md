@@ -52,6 +52,7 @@
     - [ ] [Isaac Asimov, Foundation's Edge](https://www.amazon.com/dp/0553293389?tag=howtoread06-20&linkCode=ogi&th=1&psc=1)
     - [ ] [Isaac Asimov, Foundation and Earth](https://www.amazon.com/dp/0553587579?tag=howtoread06-20&linkCode=ogi&th=1&psc=1)
 - [ ] [Artur C. Clarke, Rama Series](https://www.goodreads.com/series/49121-rama)
+- [ ] [Robert A. Heinlein, The Moon Is a Harsh Mistress](https://www.amazon.co.uk/Moon-Harsh-Mistress-Robert-Heinlein/dp/0312863551) - *referred in [Black Mirror-Beyond the Sea](https://www.imdb.com/title/tt27731623/)*
 - [ ] [Boris Pasternak, Doctor Zhivago](https://www.goodreads.com/book/show/130440.Doctor_Zhivago)
 - [ ] [Neal Stephenson, Snow Crash](https://www.amazon.co.uk/Snow-Crash-Neal-Stephenson/dp/0241953189)
 - [ ] [Jean Baudrillard, Simulacra and Simulation](https://www.amazon.com/Simulacra-Simulation-Body-Theory-Materialism/dp/0472065211)
