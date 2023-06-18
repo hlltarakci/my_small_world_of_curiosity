@@ -106,6 +106,7 @@
      - [ ] [Chernobyl, 2019](https://www.imdb.com/title/tt7366338/)
      - [ ] [Angels in America, 2003](https://www.imdb.com/title/tt0318997/)
      - [x] [Beef, 2023](https://www.imdb.com/title/tt14403178/) - [soundtrack](https://open.spotify.com/playlist/100ijjpMQkB6ovE7vOaEBh) - [best one: Somewhere only we know, Keane, 2004](https://open.spotify.com/track/0ll8uFnc0nANY35E0Lfxvg)
+     - [x] [Black Mirror, 2011](https://www.imdb.com/title/tt2085059/) - [soundtrack](https://netflixlife.com/2023/06/16/black-mirror-season-6-soundtrack-all-songs-by-episode/)
      - [x] [**The Office, 2005**](https://www.imdb.com/title/tt0386676/)
      - [x] [**Stargate SG1, 1997**](https://www.imdb.com/title/tt0118480/)
      - [x] [**Poirot, 1989**](https://www.imdb.com/title/tt0094525/)
