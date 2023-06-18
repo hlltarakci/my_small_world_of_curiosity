@@ -134,8 +134,9 @@
 - [ ] [The End of the Ottoman Empire](https://www.youtube.com/watch?v=0293hOikSvU)
 - [ ] [**Understanding the Turkish mindset**](https://www.youtube.com/watch?v=Lg-TJO5yv2Q) - "In this context, Erdogan is the most consequential leader in Turkey second only to Ataturk by exploiting the polarized political arena, he has profoundly altered the prospects of the nation. This is not necessarily a trend that is exclusive to Turkey since far-right politicians often polarized their own societies for political gains. But taken together, Turkey is a geopolitical paradox while the Marmara heartland is wealthy, innovative and extrovert; Anatolia by comparison remains underprivileged, conservative and introvert; both regions compete and cooperate with one another and this internal contradiction sits at the heart of the geopolitical mindset of Turkey."
 - [ ] [Post World War Turkey](https://www.youtube.com/watch?v=QRv--JOIPL4)
+- [ ] [Erdoğan's world - Turkey and its President | DW Documentary](https://www.youtube.com/watch?v=WS99QTC2Hbo)
 
-## Nature, Life
+## Nature, Life, Society
 - [x] [Hidden Russia, Curiosity Stream](https://curiositystream.com/video/3655)
 - [x] [**The Russians – An intimate journey through Russia - Part 1**](https://www.youtube.com/watch?v=qfuDZEQjro8) / [Part 2](https://www.youtube.com/watch?v=z35dX3EEGko)
 - [x] **Living in Russia** / [**music by Shortparis is amazing!**](https://www.youtube.com/watch?v=3cO58tL1CUw&t=1224s)
@@ -145,6 +146,7 @@
      - [Part 4: Adulthood](https://youtu.be/he8FGw9e-pc)
      - [**Part 5: Old age**](https://youtu.be/SAnWF6yTaWQ)
      - [Part 6: Death](https://youtu.be/bQN420LIwrc)
+- [ ] [Voices inside Russia | DW Documentary](https://www.youtube.com/watch?v=gep4147pJrQ)
 - [Eli from Russia](https://www.youtube.com/@ElifromRussia)
      - [x] [**Life in a small Tatar village in the Urals of Russia**](https://www.youtube.com/watch?v=z1S4W2acLsk) / [chak chak](https://theculturetrip.com/europe/russia/articles/chak-chak-the-national-sweet-you-must-try-in-tartarstan/)
      - [x] [Life at the edge of Russian North on Kola Peninsula | Murmansk & Teriberka](https://www.youtube.com/watch?v=qgz3XP2aCjE)
@@ -303,30 +305,21 @@
   - Stephen Hawking:
      - [ ] [Stephen Hawking's Grand Design, 2012](https://www.imdb.com/title/tt2203380/?ref_=tt_tpks_tt_i_1_pd_tp1_pbr_ic)
      - [ ] [Into the Universe with Stephen Hawking, 2010](https://www.imdb.com/title/tt1655078/?ref_=tt_sims_tt_i_1)
-## Tech, Misc
-- [x] [**The Colours of Infinity, Arthur C. Clarke**, 1995](https://www.imdb.com/title/tt0241317/) - Nature is compatible with fractal geometry.
+## Tech, Phylosophy, Future, Misc
+- Tech, AI, Future
 - [x] [Google, Facebook, Amazon - The rise of the mega-corporations](https://youtu.be/Dy8ogOaKk4Y)
-- [x] [Aftermath: Population Zero - The World without Humans](https://www.youtube.com/watch?v=l11zPNb-MFg)
-- [x] [The Largest Megaproject in History: Trans-Siberian Railway](https://www.youtube.com/watch?v=E96mQyxSxfk) / [Sergey Witte](https://en.wikipedia.org/wiki/Sergei_Witte)
-- [ ] [Malaysia Airlines flight 370 disappearance](https://www.youtube.com/watch?v=myBmq87fJeQ)
-- [x] [The vanishing of flight 370](https://www.youtube.com/watch?v=kd2KEHvK-q8)
-- [ ] [The Edge of Democracy, 2019](https://www.imdb.com/title/tt6016744/)
 - [ ] [The Economy of Tomorrow | AI Revolution | Megacities](https://www.youtube.com/watch?v=jR2ho31tor4)
-- [ ] [The System of Money | Money Creation Explained](https://www.youtube.com/watch?v=yLZUVsmUwZY)
 - [ ] [The Danger of AI](https://www.youtube.com/watch?v=5guiUrgcblM)
 - [ ] [End Game - Technology](https://www.youtube.com/watch?v=-ZeeuDrknYc)
 - [ ] [The Revolution Of AI | Artificial Intelligence Explained | New Technologies | Robotics](https://www.youtube.com/watch?v=ADga4JH3Ywo)
-- [ ] [End of the Road - How Money Became Worthless](https://www.youtube.com/watch?v=cTMna_vYDJg)
 - [ ] [How the Internet was Stolen](https://www.youtube.com/watch?v=oLLxpAZzy0s)
 - [ ] [Top Science Stories of 2022, CuriosityStream](https://curiositystream.com/video/7721)
 - [x] [Amazon Empire: The Rise and Reign of Jeff Bezos](https://www.youtube.com/watch?v=RVVfJVj5z8s)
-- [x] [**Downfall: The Case Against Boeing**, 2022](https://www.imdb.com/title/tt11893274/)
-- [ ] [Enron: The Smartest Guys in the Room, 2005](https://www.imdb.com/title/tt1016268/)
-- [ ] [The Dyatlov Pass Incident](https://www.youtube.com/watch?v=Ee8iLRVOHDw)
-- [ ] [The Man Who Saved the World, 2014](https://www.imdb.com/title/tt2277106/)
-- [ ] [Home, 2009](https://www.imdb.com/title/tt1014762/)
 - [ ] [Free Energy of Tesla, 2013](https://www.imdb.com/title/tt2947386/)
-- [ ] [Soviet Bus Stops, 2023](https://www.imdb.com/title/tt22697846/)
+- [ ] [Full interview: "Godfather of artificial intelligence" talks impact and potential of AI](https://www.youtube.com/watch?v=qpoRO378qRY)
+- [ ] [The Inside Story of ChatGPT’s Astonishing Potential | Greg Brockman | TED](https://www.youtube.com/watch?v=C_78DM8fG6E)
+- [ ] [Is AI the future of humanity? - Artificial intelligence and its limitations | DW Documentary](https://www.youtube.com/watch?v=YZTutoSnXGc)
+- [ ] [The ChatGPT Revolution | CBS Reports](https://www.youtube.com/watch?v=tcFAlZIQ3NI)
 - Philosophy
    - [ ] [What's Philosophy?](https://www.youtube.com/watch?v=XdlfDlcaAAw)
    - [ ] [Philosophy for Beginners](https://www.youtube.com/watch?v=1AvzBt_yHHw)
@@ -336,6 +329,21 @@
    - [ ] [Carl Jung's Genius Philosophy](https://www.youtube.com/watch?v=slB2WbZIOM4)
    - [ ] [Dostoevsky's Genius Life Philosophy](https://www.youtube.com/watch?v=vEFlbz9SSEU)
    - [ ] [This is Why Chekhov was a Genius](https://www.youtube.com/watch?v=xqVRNAxgQwQ)
+- Misc
+   - [x] [**The Colours of Infinity, Arthur C. Clarke**, 1995](https://www.imdb.com/title/tt0241317/) - Nature is compatible with fractal geometry.
+   - [x] [Aftermath: Population Zero - The World without Humans](https://www.youtube.com/watch?v=l11zPNb-MFg)
+   - [x] [The Largest Megaproject in History: Trans-Siberian Railway](https://www.youtube.com/watch?v=E96mQyxSxfk) / [Sergey Witte](https://en.wikipedia.org/wiki/Sergei_Witte)
+   - [x] [**Downfall: The Case Against Boeing**, 2022](https://www.imdb.com/title/tt11893274/)
+   - [ ] [Home, 2009](https://www.imdb.com/title/tt1014762/)
+   - [x] [The vanishing of flight 370](https://www.youtube.com/watch?v=kd2KEHvK-q8)
+   - [ ] [Malaysia Airlines flight 370 disappearance](https://www.youtube.com/watch?v=myBmq87fJeQ)
+   - [ ] [The Edge of Democracy, 2019](https://www.imdb.com/title/tt6016744/)
+   - [ ] [The System of Money | Money Creation Explained](https://www.youtube.com/watch?v=yLZUVsmUwZY)
+   - [ ] [End of the Road - How Money Became Worthless](https://www.youtube.com/watch?v=cTMna_vYDJg)
+   - [ ] [Enron: The Smartest Guys in the Room, 2005](https://www.imdb.com/title/tt1016268/)
+   - [ ] [The Dyatlov Pass Incident](https://www.youtube.com/watch?v=Ee8iLRVOHDw)
+   - [ ] [The Man Who Saved the World, 2014](https://www.imdb.com/title/tt2277106/)
+   - [ ] [Soviet Bus Stops, 2023](https://www.imdb.com/title/tt22697846/)
 - **Documentary Series**
   - [x] [Turning Point 9/11, 2021](https://www.netflix.com/gb/title/81315804)
   - [x] [**Deep Time History, Curiosity Stream**](https://www.imdb.com/title/tt6052190/) - quite similar in context to Harari's Sapiens. Linking ideas, providing a general structure why things happened the way they did fascinates me. And this is a transferable thought experiment skill.
