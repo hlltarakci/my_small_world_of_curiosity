@@ -2,14 +2,6 @@
 
 These are the finely selected recipes that i (*will*) know by heart and repeat often, which means building my own cooking style :)
 
-## [Breakfast][Turkey, Black Sea Region] [Kuymak](https://en.wikipedia.org/wiki/Kuymak)
-<img src="kuymak.jpg" width="500"/>
-
-1. Bir kapta karistir: 3 yemek kasigi misir unu, uzayabilen bir peynir cesidi, 2 cay kasigi tuz, ustunu gececek kadar su 
-2. Tavada 3-4 yemek kasigi tereyag erit. Bol tereyagiyla guzel olan bir tarif bu. 
-3. Tereyagi iyice kizdiginda malzemeleri tavaya al. Kasikla ileri geri yapacak sekilde, seklini bozmadan karistir. Cok kati olmamasi gerekiyor, gerekiyorsa su ekle.
-4. Pistigini anlamak icin peyniri gozlemliyoruz, uzamasi gerekiyor.
-
 ## [Meal][Turkey, Street Food] [Tavuklu Pilav (Chicken Pilaf)](https://goturkiye.com/10-iconic-street-foods-in-turkiye)
 <img src="tavuklu_pilav.jpg" width="500"/>
 
@@ -31,6 +23,14 @@ These are the finely selected recipes that i (*will*) know by heart and repeat o
 5. Ustunu gecinceye kadar sicak su ekle, pisir. Elde dagilmasi lazim.
 6. 2 - 2.5 cay kasigi tuz, biraz daha kaynat. Ocaktan al.
 7. Patates kizartmasi, pure ya da pilavla servis edilebilir.
+
+## [Breakfast][Turkey, Black Sea Region] [Kuymak](https://en.wikipedia.org/wiki/Kuymak)
+<img src="kuymak.jpg" width="500"/>
+
+1. Bir kapta karistir: 3 yemek kasigi misir unu, uzayabilen bir peynir cesidi, 2 cay kasigi tuz, ustunu gececek kadar su 
+2. Tavada 3-4 yemek kasigi tereyag erit. Bol tereyagiyla guzel olan bir tarif bu. 
+3. Tereyagi iyice kizdiginda malzemeleri tavaya al. Kasikla ileri geri yapacak sekilde, seklini bozmadan karistir. Cok kati olmamasi gerekiyor, gerekiyorsa su ekle.
+4. Pistigini anlamak icin peyniri gozlemliyoruz, uzamasi gerekiyor.
 
 ## WIP
 
