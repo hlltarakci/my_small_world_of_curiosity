@@ -32,3 +32,7 @@ These are the finely selected recipes that i (*will*) know by heart and repeat o
 6. 2 - 2.5 cay kasigi tuz, biraz daha kaynat. Ocaktan al.
 7. Patates kizartmasi, pure ya da pilavla servis edilebilir.
 
+## WIP
+
+https://www.youtube.com/watch?v=O0Uv6QAJrxg 
+
