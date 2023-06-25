@@ -3,46 +3,46 @@
 **Deprecating in favor of [cook in style](https://github.com/hlltarakci/my_small_world_of_curiosity/tree/main/cook_in_style)**
 
 AirFryer Recipes
-- [Crispy Cauliflower](https://github.com/hlltarakci/inspirational_tracker/blob/main/cooking/README.md#crispy-cauliflower)
-- [Roast Potatoes](https://github.com/hlltarakci/inspirational_tracker/blob/main/cooking/README.md#roast-potatoes)
-- [Potato Wedges](https://github.com/hlltarakci/inspirational_tracker/blob/main/cooking/README.md#potato-wedges)
-- [Crispy Potatoes](https://github.com/hlltarakci/inspirational_tracker/blob/main/cooking/README.md#crispy-potatoes)
-- [Toasted Bread](https://github.com/hlltarakci/inspirational_tracker/blob/main/cooking/README.md#toasted-bread)
-- [Cake](https://github.com/hlltarakci/inspirational_tracker/blob/main/cooking/README.md#cake)
-- [Puff Pastry Pie](https://github.com/hlltarakci/inspirational_tracker/blob/main/cooking/README.md#puff-pastry-pie)
-- [Chicken Parmesan](https://github.com/hlltarakci/inspirational_tracker/blob/main/cooking/README.md#chicken-parmesan)
-- [Homemade Tortilla Chips](https://github.com/hlltarakci/inspirational_tracker/blob/main/cooking/README.md#homemade-tortilla-chips)
-- [Salmon and Asparagus](https://github.com/hlltarakci/inspirational_tracker/blob/main/cooking/README.md#salmon-and-asparagus)
+- [Crispy Cauliflower](https://github.com/hlltarakci/my_small_world_of_curiosity/blob/main/cooking/README.md#crispy-cauliflower)
+- [Roast Potatoes](https://github.com/hlltarakci/my_small_world_of_curiosity/blob/main/cooking/README.md#roast-potatoes)
+- [Potato Wedges](https://github.com/hlltarakci/my_small_world_of_curiosity/blob/main/cooking/README.md#potato-wedges)
+- [Crispy Potatoes](https://github.com/hlltarakci/my_small_world_of_curiosity/blob/main/cooking/README.md#crispy-potatoes)
+- [Toasted Bread](https://github.com/hlltarakci/my_small_world_of_curiosity/blob/main/cooking/README.md#toasted-bread)
+- [Cake](https://github.com/hlltarakci/my_small_world_of_curiosity/blob/main/cooking/README.md#cake)
+- [Puff Pastry Pie](https://github.com/hlltarakci/my_small_world_of_curiosity/blob/main/cooking/README.md#puff-pastry-pie)
+- [Chicken Parmesan](https://github.com/hlltarakci/my_small_world_of_curiosity/blob/main/cooking/README.md#chicken-parmesan)
+- [Homemade Tortilla Chips](https://github.com/hlltarakci/my_small_world_of_curiosity/blob/main/cooking/README.md#homemade-tortilla-chips)
+- [Salmon and Asparagus](https://github.com/hlltarakci/my_small_world_of_curiosity/blob/main/cooking/README.md#salmon-and-asparagus)
 
 Oven Recipes
-- [El Acmasi Kol Boregi (Pirasali)](https://github.com/hlltarakci/inspirational_tracker/tree/main/cooking#el-acmasi-kol-boregi-pirasali)
-- [Kiymali Pogaca](https://github.com/hlltarakci/inspirational_tracker/tree/main/cooking#kiymali-pogaca)
-- [Kiymali Pide](https://github.com/hlltarakci/inspirational_tracker/tree/main/cooking#kiymali-pide)
-- [Russian Tea Cakes](https://github.com/hlltarakci/inspirational_tracker/blob/main/cooking/README.md#russian-tea-cakes)
-- [Blueberry Cake](https://github.com/hlltarakci/inspirational_tracker/tree/main/cooking#blueberry-cake)
-- [Salty Cake](https://github.com/hlltarakci/inspirational_tracker/tree/main/cooking#salty-cake)
-- [Rolled Pastry](https://github.com/hlltarakci/inspirational_tracker/tree/main/cooking#rolled-pastry)
-- [Browni](https://github.com/hlltarakci/inspirational_tracker/blob/main/cooking/README.md#browni)
-- [Starbucks Carrot Cake](https://github.com/hlltarakci/inspirational_tracker/tree/main/cooking#starbucks-carrot-cake)
+- [El Acmasi Kol Boregi (Pirasali)](https://github.com/hlltarakci/my_small_world_of_curiosity/tree/main/cooking#el-acmasi-kol-boregi-pirasali)
+- [Kiymali Pogaca](https://github.com/hlltarakci/my_small_world_of_curiosity/tree/main/cooking#kiymali-pogaca)
+- [Kiymali Pide](https://github.com/hlltarakci/my_small_world_of_curiosity/tree/main/cooking#kiymali-pide)
+- [Russian Tea Cakes](https://github.com/hlltarakci/my_small_world_of_curiosity/blob/main/cooking/README.md#russian-tea-cakes)
+- [Blueberry Cake](https://github.com/hlltarakci/my_small_world_of_curiosity/tree/main/cooking#blueberry-cake)
+- [Salty Cake](https://github.com/hlltarakci/my_small_world_of_curiosity/tree/main/cooking#salty-cake)
+- [Rolled Pastry](https://github.com/hlltarakci/my_small_world_of_curiosity/tree/main/cooking#rolled-pastry)
+- [Browni](https://github.com/hlltarakci/my_small_world_of_curiosity/blob/main/cooking/README.md#browni)
+- [Starbucks Carrot Cake](https://github.com/hlltarakci/my_small_world_of_curiosity/tree/main/cooking#starbucks-carrot-cake)
 
 Stove Recipes
-- [Chickpeas with Beef](https://github.com/hlltarakci/inspirational_tracker/tree/main/cooking#chickpeas-with-beef)
-- [Roast Chicken](https://github.com/hlltarakci/inspirational_tracker/tree/main/cooking#roast-chicken)
-- [False Chicken Breast Pudding](https://github.com/hlltarakci/inspirational_tracker/tree/main/cooking#false-chicken-breast-pudding)
-- [Quince Filled Cookies](https://github.com/hlltarakci/inspirational_tracker/tree/main/cooking#quince-filled-cookies)
-- [Fried Anchovies (Hamsi Tava)](https://github.com/hlltarakci/inspirational_tracker/tree/main/cooking#fried-anchovies-hamsi-tava)
-- [Capia_Pepper_with_Cheddar_Cheese](https://github.com/hlltarakci/inspirational_tracker/blob/main/cooking/README.md#capia-pepper-with-cheddar-cheese)
+- [Chickpeas with Beef](https://github.com/hlltarakci/my_small_world_of_curiosity/tree/main/cooking#chickpeas-with-beef)
+- [Roast Chicken](https://github.com/hlltarakci/my_small_world_of_curiosity/tree/main/cooking#roast-chicken)
+- [False Chicken Breast Pudding](https://github.com/hlltarakci/my_small_world_of_curiosity/tree/main/cooking#false-chicken-breast-pudding)
+- [Quince Filled Cookies](https://github.com/hlltarakci/my_small_world_of_curiosity/tree/main/cooking#quince-filled-cookies)
+- [Fried Anchovies (Hamsi Tava)](https://github.com/hlltarakci/my_small_world_of_curiosity/tree/main/cooking#fried-anchovies-hamsi-tava)
+- [Capia_Pepper_with_Cheddar_Cheese](https://github.com/hlltarakci/my_small_world_of_curiosity/blob/main/cooking/README.md#capia-pepper-with-cheddar-cheese)
 
 Salads
-- [Carrot Tarator](https://github.com/hlltarakci/inspirational_tracker/blob/main/cooking/README.md#carrot-tarator)
-- [Purple Cabbage Salad](https://github.com/hlltarakci/inspirational_tracker/tree/main/cooking#purple-cabbage-salad)
-- [Cig Kofte (Turkish style vegetarian steak tartar balls)](https://github.com/hlltarakci/inspirational_tracker/tree/main/cooking#cig-kofte)
-- [Kuru Domates Salatasi](https://github.com/hlltarakci/inspirational_tracker/tree/main/cooking#kuru-domates-salatasi)
+- [Carrot Tarator](https://github.com/hlltarakci/my_small_world_of_curiosity/blob/main/cooking/README.md#carrot-tarator)
+- [Purple Cabbage Salad](https://github.com/hlltarakci/my_small_world_of_curiosity/tree/main/cooking#purple-cabbage-salad)
+- [Cig Kofte (Turkish style vegetarian steak tartar balls)](https://github.com/hlltarakci/my_small_world_of_curiosity/tree/main/cooking#cig-kofte)
+- [Kuru Domates Salatasi](https://github.com/hlltarakci/my_small_world_of_curiosity/tree/main/cooking#kuru-domates-salatasi)
 
 Soups
-- [Kale Soup from Black Sea Region](https://github.com/hlltarakci/inspirational_tracker/blob/main/cooking/README.md#kale-soup-from-black-sea-region)
-- [Tomato Soup](https://github.com/hlltarakci/inspirational_tracker/blob/main/cooking/README.md#tomato-soup)
-- [Turkish Noodle Soup](https://github.com/hlltarakci/inspirational_tracker/blob/main/cooking/README.md#turkish-noodle-soup)
+- [Kale Soup from Black Sea Region](https://github.com/hlltarakci/my_small_world_of_curiosity/blob/main/cooking/README.md#kale-soup-from-black-sea-region)
+- [Tomato Soup](https://github.com/hlltarakci/my_small_world_of_curiosity/blob/main/cooking/README.md#tomato-soup)
+- [Turkish Noodle Soup](https://github.com/hlltarakci/my_small_world_of_curiosity/blob/main/cooking/README.md#turkish-noodle-soup)
 
 # AIRFRYER RECIPES
 
