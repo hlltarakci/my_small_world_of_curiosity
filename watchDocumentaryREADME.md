@@ -359,9 +359,3 @@
   - [ ] [Adam Curtis, HyperNormalisation, 2016](https://www.imdb.com/title/tt6156350/?ref_=tt_sims_tt_i_2)
   - [ ] [Adam Curtis, The Century of the Self, 2012](https://www.imdb.com/title/tt0432232/?ref_=tt_sims_tt_t_4)
   
-# News Streams
-- https://www.youtube.com/@CNN
-- https://www.youtube.com/@dwnews
-- https://www.youtube.com/@BBCNews
-- https://www.youtube.com/@telegraph
-- https://www.youtube.com/@WION
