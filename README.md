@@ -18,5 +18,7 @@
 - https://www.youtube.com/@BBCNews
 - https://www.youtube.com/@telegraph
 - https://www.youtube.com/@WION
+- https://www.youtube.com/@TheEconomist
+- https://www.youtube.com/@GeoPerspective
 
 
