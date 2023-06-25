@@ -1,6 +1,26 @@
 # Finding My Style in Cooking
 
 These are the finely selected recipes that i (*will*) know by heart and repeat often, which means building my own cooking style :)
+- [Soups](https://github.com/hlltarakci/my_small_world_of_curiosity/tree/main/cook_in_style#soup)
+- [Salads](https://github.com/hlltarakci/my_small_world_of_curiosity/tree/main/cook_in_style#salad)
+- [Meals](https://github.com/hlltarakci/my_small_world_of_curiosity/tree/main/cook_in_style#meal)
+- [Breakfast](https://github.com/hlltarakci/my_small_world_of_curiosity/tree/main/cook_in_style#breakfast)
+
+# SOUP
+## [Turkish Cuisine] [Chicken Soup (with Orzo and Lemon&Egg Sauce)](https://tr.wikipedia.org/wiki/%C5%9Eehriyeli_tavuk_suyu_%C3%A7orba)
+<img src="chicken_soup.jpg" width="500"/>
+
+1. Bir tavuk gogsunu 10 su bardagi su ile hasla. Haslandiktan sonra suyu corbada kullanilacak. Tavugu bidikla.
+2. Tencerede 1 yemek kasigi tereyagi erit.
+3. 1 yemek kasigi un ekle, hizli bir sekilde kokusu cikana kadar karistir.
+4. Tavuk suyunu ekle, kaynamaya birak.
+5. 1 su bardagi (ya da biraz eksik) tel veya arpa sehriyeyi ekle. Karistirarak sehriyenin sismesini bekle.
+6. Terbiyeyi hazirla: Yarim-bir limon suyu ile bir yumurtayi guzelce cirp.
+7. Corbaya terbiyeyi eklerken, once corbadan biraz terbiyeye ekle ve karistir. Yavasca corbaya ekle, surekli karistir.
+8. Parcalanmis/bidiklanmis tavuklari ekle. 10 dk. kaynasin.
+9. Dolu dolur 1 tatli kasigi tuz ekle. Bir kac dk. daha kaynattiktran sonra ocagi kapat.
+
+# SALAD
 
 # MEAL
 ## [Turkey, Street Food] [Tavuklu Pilav (Chicken Pilaf)](https://goturkiye.com/10-iconic-street-foods-in-turkiye)
@@ -24,12 +44,6 @@ These are the finely selected recipes that i (*will*) know by heart and repeat o
 5. Ustunu gecinceye kadar sicak su ekle, pisir. Elde dagilmasi lazim.
 6. 2 - 2.5 cay kasigi tuz ekle, biraz daha kaynat. Ocaktan al.
 7. Patates kizartmasi, pure ya da pilavla servis edilebilir.
-
-# SOUP
-## WIP
-https://www.youtube.com/watch?v=O0Uv6QAJrxg 
-
-# SALAD
 
 # BREAKFAST
 ## [Turkey, Black Sea Region] [Kuymak](https://en.wikipedia.org/wiki/Kuymak)
