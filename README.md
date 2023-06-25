@@ -12,4 +12,11 @@
 - [DRAWING](https://github.com/hlltarakci/my_small_world_of_curiosity/blob/main/drawingREADME.md)
 - [SELF-ADVICE](https://github.com/hlltarakci/my_small_world_of_curiosity/blob/main/selfAdviceREADME.md)
 
+# News Streams
+- https://www.youtube.com/@CNN
+- https://www.youtube.com/@dwnews
+- https://www.youtube.com/@BBCNews
+- https://www.youtube.com/@telegraph
+- https://www.youtube.com/@WION
+
 
