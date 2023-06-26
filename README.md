@@ -20,5 +20,6 @@
 - https://www.youtube.com/@WION
 - https://www.youtube.com/@TheEconomist
 - https://www.youtube.com/@GeoPerspective
+- https://www.youtube.com/@wsj
 
 
