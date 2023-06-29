@@ -174,9 +174,9 @@
      - [x] [**Visiting Perm in Winter**](https://www.youtube.com/watch?v=UbRI-l8Hluk) / [**Recipe: Posikunchiki**](https://en.edunclub.ru/recipe/74031-cakes-posikunchiki/)
      - [x] [**Life in a provincial Russian town in the Urals: Perm**](https://www.youtube.com/watch?v=Zsi3Naelsyw)
      - [x] [My first impression of Türkiye as a Russian](https://www.youtube.com/watch?v=1CTobY2TCWw)
-- [Geo Perspective](https://www.youtube.com/c/GeoPerspective
+- [Geo Perspective](https://www.youtube.com/c/GeoPerspective)
      - [ ] [Rostov-On-Don: Gateway to the Caucasus and Southern Russia](https://www.youtube.com/watch?v=lQy3AOBAFFg)
-     - [ ] [ST. PETERSBURG: The Cultural Capital and Most EUROPEAN RUSSIAN CITY](https://m.youtube.com/watch?v=ZeYrjul5SVQ)
+     - [x] [ST. PETERSBURG: The Cultural Capital and Most EUROPEAN RUSSIAN CITY](https://m.youtube.com/watch?v=ZeYrjul5SVQ) / [Siege of Leningrad](https://en.wikipedia.org/wiki/Siege_of_Leningrad)
      - [x] [Murmansk: Why the largest ARCTIC city EXISTS?](https://www.youtube.com/watch?v=OR6HpiLuw2s)
      - [x] [Arkhangelsk Oblast || Russia's OLDEST frozen PORT CITY](https://www.youtube.com/watch?v=9EklV8W1Fws)
 - [The B1M, construction](https://www.youtube.com/@TheB1M)
