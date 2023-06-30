@@ -1,11 +1,11 @@
 # My Small World of Curiosity (Personal Tracker)
 
 - WATCH List
-   - [Documentary](https://github.com/hlltarakci/my_small_world_of_curiosity/blob/main/watchDocumentaryREADME.md)
+   - [Documentary/Research/Curiosity](https://github.com/hlltarakci/my_small_world_of_curiosity/blob/main/documentary/README.md)
    - [Movie](https://github.com/hlltarakci/my_small_world_of_curiosity/blob/main/watchMovieREADME.md)
-- Cooking
+- COOKING
    - [COOK-in-STYLE](https://github.com/hlltarakci/my_small_world_of_curiosity/tree/main/cook_in_style)
-   - [COOK List](https://github.com/hlltarakci/my_small_world_of_curiosity/tree/main/cooking#my-cooking)
+   - [COOK List (Deprecated)](https://github.com/hlltarakci/my_small_world_of_curiosity/tree/main/cooking)
 - [READ List](https://github.com/hlltarakci/my_small_world_of_curiosity/blob/main/readREADME.md)
 - [LISTEN List](https://github.com/hlltarakci/my_small_world_of_curiosity/blob/main/listenREADME.md)
 - [ACTIVITIES List](https://github.com/hlltarakci/my_small_world_of_curiosity/blob/main/activitiesREADME.md)
@@ -13,8 +13,9 @@
 - [SELF-ADVICE](https://github.com/hlltarakci/my_small_world_of_curiosity/blob/main/selfAdviceREADME.md)
 
 # News Streams
-- https://www.youtube.com/@CNN
+- https://www.youtube.com/@TheEconomist
 - https://www.youtube.com/@dwnews
+- https://www.youtube.com/@CNN
 - https://www.youtube.com/@BBCNews
 - https://www.youtube.com/@telegraph
 - https://www.youtube.com/@WION
