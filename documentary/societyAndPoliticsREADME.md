@@ -1,4 +1,5 @@
 # SOCIETY and POLITICS
+**Singles:**
 - [x] [**The Russians – An intimate journey through Russia - Part 1**](https://www.youtube.com/watch?v=qfuDZEQjro8) / [Part 2](https://www.youtube.com/watch?v=z35dX3EEGko)
 - [x] **Living in Russia** / [**music by Shortparis is amazing!**](https://www.youtube.com/watch?v=3cO58tL1CUw&t=1224s)
      - [Part 1: Birth](https://youtu.be/3cO58tL1CUw) 
@@ -37,3 +38,7 @@
      - [x] [Arkhangelsk Oblast || Russia's OLDEST frozen PORT CITY](https://www.youtube.com/watch?v=9EklV8W1Fws)
 - [The B1M, construction](https://www.youtube.com/@TheB1M)
      - [x] [Why Russia is Building an Arctic Silk Road](https://www.youtube.com/watch?v=pvy9usF7ohE)
+
+**Series:**
+- [x] [**Deep Time History, Curiosity Stream**](https://www.imdb.com/title/tt6052190/) - quite similar in context to Harari's Sapiens. Linking ideas, providing a general structure why things happened the way they did fascinates me. And this is a transferable thought experiment skill.
+- [x] [Turning Point 9/11, 2021](https://www.netflix.com/gb/title/81315804)
