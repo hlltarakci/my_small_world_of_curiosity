@@ -1,3 +1,4 @@
+
 # TECH and FUTURE
 **Singles:**
 - [x] [Google, Facebook, Amazon - The rise of the mega-corporations](https://youtu.be/Dy8ogOaKk4Y)
