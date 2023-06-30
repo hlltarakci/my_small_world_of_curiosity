@@ -35,6 +35,7 @@
      - [x] [**Dersu Uzala, 1975**](https://www.imdb.com/title/tt0071411/) - [where to watch](https://www.youtube.com/watch?v=2EWdAnJsfdc)
      - [x] [**Railway station for Two, 1983**](https://www.imdb.com/title/tt0084873/) - [where to watch](https://www.youtube.com/watch?v=bUya5DBvw_g) - [**soundtrack**](https://www.youtube.com/watch?v=LTbGVTofwyA)
      - [x] [**The Girls (Devchata), 1962**](https://www.imdb.com/title/tt0134614/?ref_=tt_sims_tt_t_8) - [where to watch](https://www.youtube.com/watch?v=4GskjSBw9lA)
+     - [x] [**Ballad of a Soldier, 1959**](https://www.imdb.com/title/tt0052600/) - [where to watch](https://youtu.be/Vsnius8Ka_I) - [post](https://www.criterion.com/current/posts/201-ballad-of-a-soldier)
      - [ ] [Could one imagine / Love and Lies / Vam i ne snilos..., 1981](https://www.imdb.com/title/tt0153489/) - [where to watch - part 1](https://youtu.be/NpxTbm3LUb4) - [part 2](https://youtu.be/aDzgEcE2gUk) - [number 5 on this list](https://www.rbth.com/arts/333411-sad-russian-movies)
      - [x] [Afonya, 1975](https://www.imdb.com/title/tt0072613/) - [where to watch](https://www.youtube.com/watch?v=IszoiMr-nBs)
      - [ ] [Operation "Y" and Shurik's Other Adventures, 1965](https://www.imdb.com/title/tt0059550/) - [where to watch](https://www.youtube.com/watch?v=m3n4LptYWNo)
@@ -46,7 +47,7 @@
      - [ ] [Burnt By The Sun, 1994](https://www.imdb.com/title/tt0111579/)
      - [ ] [A Cruel Romance, 1984](https://www.imdb.com/title/tt0090368/)
      - [ ] [Staryy novyy god (The old new year), 1981](https://www.imdb.com/title/tt0081557/) - [where to watch part 1](https://www.youtube.com/watch?v=vSAVYvnSJ3U) - [where to watch part 2](https://www.youtube.com/watch?v=M7JCEQDunGo)
-     - [ ] [A Few Days from the Life of I.I. Oblomov, 1980](https://www.imdb.com/title/tt0079619/?ref_=nv_sr_srsg_0)
+     - [ ] [A Few Days from the Life of I.I. Oblomov, 1980](https://www.imdb.com/title/tt0079619/?ref_=nv_sr_srsg_0) - [where to watch](https://youtu.be/LxEFja8NYac)
      - [ ] [The Cranes Are Flying, 1957](https://www.imdb.com/title/tt0050634/) - [where to watch](https://www.youtube.com/watch?v=2rINnJat-5k)
      - [ ] [True Friends (Vernye druz'ya), 1954](https://www.imdb.com/title/tt0047650/) - [where to watch](https://www.youtube.com/watch?v=qGXoycbxSnA), cannot find subtitles :(
      - [ ] [The Diamond Arm, 1969](https://www.imdb.com/title/tt0062759/)
