@@ -1,4 +1,4 @@
-# Society and Politics
+# SOCIETY and POLITICS
 - [x] [**The Russians – An intimate journey through Russia - Part 1**](https://www.youtube.com/watch?v=qfuDZEQjro8) / [Part 2](https://www.youtube.com/watch?v=z35dX3EEGko)
 - [x] **Living in Russia** / [**music by Shortparis is amazing!**](https://www.youtube.com/watch?v=3cO58tL1CUw&t=1224s)
      - [Part 1: Birth](https://youtu.be/3cO58tL1CUw) 
