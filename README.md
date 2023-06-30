@@ -5,7 +5,6 @@
    - [Movie](https://github.com/hlltarakci/my_small_world_of_curiosity/blob/main/watchMovieREADME.md)
 - COOKING
    - [COOK-in-STYLE](https://github.com/hlltarakci/my_small_world_of_curiosity/tree/main/cook_in_style)
-   - [COOK List (Deprecated)](https://github.com/hlltarakci/my_small_world_of_curiosity/tree/main/cooking)
 - [READ List](https://github.com/hlltarakci/my_small_world_of_curiosity/blob/main/readREADME.md)
 - [LISTEN List](https://github.com/hlltarakci/my_small_world_of_curiosity/blob/main/listenREADME.md)
 - [ACTIVITIES List](https://github.com/hlltarakci/my_small_world_of_curiosity/blob/main/activitiesREADME.md)
