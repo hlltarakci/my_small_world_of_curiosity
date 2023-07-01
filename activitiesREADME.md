@@ -1,5 +1,30 @@
 # ACTIVITY List
 
+## Program: July
+- Saturday:
+    - [38 Min - ABS & BUTT](https://www.youtube.com/watch?v=T4adtRJ_b3g)
+    - [30 Min - BUTT](https://www.youtube.com/watch?v=agIYYK8KjDg)
+    - Cycling Practice
+- Sunday:
+    - [37 Min - OBLIQUES & THIGHS](https://www.youtube.com/watch?v=sDzubGfNhew)
+    - [20 Min - THIGH & LEGS](https://www.youtube.com/watch?v=Smim7-qG8Ls)
+    - Cycling Practice
+- Monday:
+    - [34 Min - TOTAL BODY](https://www.youtube.com/watch?v=YdnqNGcmhqA)
+    - [30 Min - BUTT](https://www.youtube.com/watch?v=agIYYK8KjDg)
+- Tuesday:
+    - [34 Min - LEGS & BUTT](https://www.youtube.com/watch?v=XjiRVCEokWE)
+    - [20 Min - THIGH & LEGS](https://www.youtube.com/watch?v=Smim7-qG8Ls)
+- Wednesday:
+    - [34 Min - ARMS & BACK](https://www.youtube.com/watch?v=2YdJgcrrHKI)
+    - [30 Min - BUTT](https://www.youtube.com/watch?v=agIYYK8KjDg)
+- Thursday:
+    - [35 Min - CARDIO & ABS](https://www.youtube.com/watch?v=B5HGDbiH5S4)
+    - [20 Min - THIGH & LEGS](https://www.youtube.com/watch?v=Smim7-qG8Ls)
+- Friday:
+    - [27 Min - STRETCH](https://www.youtube.com/watch?v=J8KQ5zLBOEI) 
+    - Cycling Practice
+
 ## Daily Exercise 
 
 Cassey:
