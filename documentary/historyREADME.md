@@ -72,6 +72,11 @@
 - [ ] [Hear what Mikhail Gorbachev said about USSR communism in 1993](https://www.youtube.com/watch?v=PzIbLHYXdkw)
 - [x] [Ivan the Terrible: Russia's First Tsar](https://www.youtube.com/watch?v=2wr63FdF_sg)
 - [ ] [Nikita Khrushchev: The Red Tsar](https://www.youtube.com/watch?v=3WBUaCbQ0g8)
+- Space
+     - [ ] [Space Race to the Moon](https://www.youtube.com/watch?v=WoJcvjhbJ70)
+     - [ ] [The Golden Age Of Russian Space Exploration](https://www.youtube.com/watch?v=kuEMuB_jf0k)
+     - [ ] [The Rise and Fall of the Russian Space Program, 1977](https://www.youtube.com/watch?v=lzLFE6Q7V-U)
+     - [ ] [The Bizarre Story Of The Soviet Space Program](https://www.youtube.com/watch?v=_m9_3eB2tdI)
 
 **Series:**
 - [ ] [**Cold War, 1998 - 24 episodes**](https://www.imdb.com/title/tt0170896/) - [where to watch](https://archive.org/details/Cold_War_1998_CNN_Kenneth_Branagh)  
@@ -100,6 +105,7 @@
 
 ## World History
 **Singles:**
+- [ ] [The Tragedy of Early Nuclear Plant Workers | The Safe Side of the Fence Documentary](https://www.youtube.com/watch?v=O6OfW_L0-RI)
 
 **Series:**
 - [ ] [Butterfly Effect, Curiosity Stream, 2016](https://www.imdb.com/title/tt3790428/) - [1](https://curiositystream.com/video/1699) - [2](https://curiositystream.com/video/1996) - [3](https://curiositystream.com/video/2471) - [4](https://curiositystream.com/video/4550)
