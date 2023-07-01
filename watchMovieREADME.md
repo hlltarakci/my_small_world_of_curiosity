@@ -36,6 +36,13 @@
      - [x] [**Railway station for Two, 1983**](https://www.imdb.com/title/tt0084873/) - [where to watch](https://www.youtube.com/watch?v=bUya5DBvw_g) - [**soundtrack**](https://www.youtube.com/watch?v=LTbGVTofwyA)
      - [x] [**The Girls (Devchata), 1962**](https://www.imdb.com/title/tt0134614/?ref_=tt_sims_tt_t_8) - [where to watch](https://www.youtube.com/watch?v=4GskjSBw9lA)
      - [x] [**Ballad of a Soldier, 1959**](https://www.imdb.com/title/tt0052600/) - [where to watch](https://youtu.be/Vsnius8Ka_I) - [post](https://www.criterion.com/current/posts/201-ballad-of-a-soldier)
+     - [ ] [The Cranes Are Flying, 1957](https://www.imdb.com/title/tt0050634/) - [where to watch](https://www.youtube.com/watch?v=2rINnJat-5k)
+     - [ ] [The Destiny of a Man, 1959](https://www.imdb.com/title/tt0053317/) - [where to watch](https://www.youtube.com/watch?v=O7xGW8UvBKQ)
+     - [ ] [The Ascent, 1977](https://www.imdb.com/title/tt0075404/) - [where to watch](https://www.youtube.com/watch?v=caUnJDiWh40)
+     - [ ] [Sorok pervyy (The Forty-First), 1956](https://www.imdb.com/title/tt0049783/) - [where to watch](https://www.youtube.com/watch?v=USSRE6d6qcA) - [Russian civil war, white armny, red army](https://en.wikipedia.org/wiki/Russian_Civil_War#:~:text=The%20two%20largest%20combatants%20were,wing%20opposition%20to%20Bolshevik%20rule.)
+     - [ ] [Letter Never Sent, 1960](https://www.imdb.com/title/tt0053106/) - [where to watch](https://www.youtube.com/watch?v=CVU_Xu_AXNQ)
+     - [ ] [Clear Skies, 1961](https://www.imdb.com/title/tt0053712/) - [where to watch](https://www.youtube.com/watch?v=rTx1o8tTgJk)
+     - [ ] [Only Old Men Are Going to Battle, 1974](https://www.imdb.com/title/tt0070861/) - [where to watch](https://www.youtube.com/watch?v=i8bNInTulB4)
      - [ ] [Could one imagine / Love and Lies / Vam i ne snilos..., 1981](https://www.imdb.com/title/tt0153489/) - [where to watch - part 1](https://youtu.be/NpxTbm3LUb4) - [part 2](https://youtu.be/aDzgEcE2gUk) - [number 5 on this list](https://www.rbth.com/arts/333411-sad-russian-movies)
      - [x] [Afonya, 1975](https://www.imdb.com/title/tt0072613/) - [where to watch](https://www.youtube.com/watch?v=IszoiMr-nBs)
      - [ ] [Operation "Y" and Shurik's Other Adventures, 1965](https://www.imdb.com/title/tt0059550/) - [where to watch](https://www.youtube.com/watch?v=m3n4LptYWNo)
@@ -48,11 +55,13 @@
      - [ ] [A Cruel Romance, 1984](https://www.imdb.com/title/tt0090368/)
      - [ ] [Staryy novyy god (The old new year), 1981](https://www.imdb.com/title/tt0081557/) - [where to watch part 1](https://www.youtube.com/watch?v=vSAVYvnSJ3U) - [where to watch part 2](https://www.youtube.com/watch?v=M7JCEQDunGo)
      - [ ] [A Few Days from the Life of I.I. Oblomov, 1980](https://www.imdb.com/title/tt0079619/?ref_=nv_sr_srsg_0) - [where to watch](https://youtu.be/LxEFja8NYac)
-     - [ ] [The Cranes Are Flying, 1957](https://www.imdb.com/title/tt0050634/) - [where to watch](https://www.youtube.com/watch?v=2rINnJat-5k)
+     - [ ] [The Garage, 1980](https://www.imdb.com/title/tt0079193/) - [where to watch](https://www.youtube.com/watch?v=VahEhy4HJu4)
+     - [ ] [Beregis avtomobilya, 1966](https://www.imdb.com/title/tt0060161/) - [where to watch](https://www.youtube.com/watch?v=jZ33mMmfvaM)
      - [ ] [True Friends (Vernye druz'ya), 1954](https://www.imdb.com/title/tt0047650/) - [where to watch](https://www.youtube.com/watch?v=qGXoycbxSnA), cannot find subtitles :(
      - [ ] [The Diamond Arm, 1969](https://www.imdb.com/title/tt0062759/)
      - [ ] [Heart of a Dog, 1988](https://www.imdb.com/title/tt0096126/)
      - [x] [Chernobyl 1986, 2021](https://www.imdb.com/title/tt10648714/)
+     - [ ] [Series][The Meeting Place Cannot Be Changed, 1979](https://www.imdb.com/title/tt0078655/) - [1](https://www.youtube.com/watch?v=X7Kr8g8wps0) - [2](https://www.youtube.com/watch?v=KHDCmzmPInU) - [3](https://www.youtube.com/watch?v=CYjmTwS3DqI) - [4](https://www.youtube.com/watch?v=bRSBW5kL560) - [5](https://www.youtube.com/watch?v=Q2Of-vstUR0)
 - Steven Spielberg
      - [x] [**Ready Player One, 2018**](https://www.imdb.com/title/tt1677720/) - [Metaverse related movies](https://medium.com/building-the-metaverse/movies-about-the-metaverse-a0797323e7f6) - [References in Ready Player One](https://readyplayerone.fandom.com/wiki/References)
 - Emir Kusturica
