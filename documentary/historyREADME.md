@@ -66,6 +66,7 @@
 - [x] [Putin: The New Tsar, 2018](https://www.imdb.com/title/tt8365160/?ref_=tt_sims_tt_i_1)
 - [ ] [The Long Road to War, 2018](https://www.imdb.com/title/tt3713222/?ref_=nv_sr_srsg_0)
 - [ ] [Economic Update: Rise and Fall of the USSR](https://youtu.be/_Y-TWFKw4tU)
+- [ ] [Gorbachev's USSR: The Events That Led To The Collapse Of The Soviet Union](https://www.youtube.com/watch?v=2ZrtuZ39TRo)
 - [ ] [Meeting Gorbachev, 2018](https://www.imdb.com/title/tt8811382/)
 - [ ] [How Did the Soviet Union Begin?](https://youtu.be/mY5P2ehFDPQ)
 - [x] [The Origins of Russia - Summary on a map](https://youtu.be/qUgzqkCW6A4)
