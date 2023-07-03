@@ -86,7 +86,7 @@
         - [ ] [The Balkans in Flames - Civil Wars](https://www.youtube.com/watch?v=e-NVFqrVPq0)
         - [ ] [The Balkans in Flames - End of Yugoslavia](https://www.youtube.com/watch?v=1GJtn5p5-IA)
   - [ ] [The Death of Yugoslavia](https://www.imdb.com/title/tt0283181/)
-  - [ ] [The Breakup of Yugoslavia Explained](https://www.youtube.com/watch?v=YllzdGa3E5A)
+  - [x] [**The Breakup of Yugoslavia Explained**](https://www.youtube.com/watch?v=YllzdGa3E5A) / [the six republics that made up the federation - Bosnia and Herzegovina, Croatia, Macedonia, Montenegro, Serbia (including the regions of Kosovo and Vojvodina) and Slovenia](https://www.icty.org/en/about/what-former-yugoslavia) / [breakup of Yugoslavia](https://en.wikipedia.org/wiki/Breakup_of_Yugoslavia) / [Yugoslavia means "land of the south Slavs"](https://simple.wikipedia.org/wiki/Yugoslavia) / [Tito](https://en.wikipedia.org/wiki/Josip_Broz_Tito)
 
 **Series:**
 - [ ] [**Cold War, 1998 - 24 episodes**](https://www.imdb.com/title/tt0170896/) - [where to watch](https://archive.org/details/Cold_War_1998_CNN_Kenneth_Branagh)  
