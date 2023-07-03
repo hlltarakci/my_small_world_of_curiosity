@@ -80,6 +80,13 @@
      - [ ] [The Rise and Fall of the Russian Space Program, 1977](https://www.youtube.com/watch?v=lzLFE6Q7V-U)
      - [ ] [The Bizarre Story Of The Soviet Space Program](https://www.youtube.com/watch?v=_m9_3eB2tdI)
      - [ ] [How The Real Soviet Rocketmen Changed the World](https://www.youtube.com/watch?v=vJWQaSJDzEo)
+- Balkans
+  - [ ] The Balkans in Flames
+        - [ ] [The Balkans in Flames - The Ethnic Conflicts](https://www.youtube.com/watch?v=075VpqfiTPI&t=0s)
+        - [ ] [The Balkans in Flames - Civil Wars](https://www.youtube.com/watch?v=e-NVFqrVPq0)
+        - [ ] [The Balkans in Flames - End of Yugoslavia](https://www.youtube.com/watch?v=1GJtn5p5-IA)
+  - [ ] [The Death of Yugoslavia](https://www.imdb.com/title/tt0283181/)
+  - [ ] [The Breakup of Yugoslavia Explained](https://www.youtube.com/watch?v=YllzdGa3E5A)
 
 **Series:**
 - [ ] [**Cold War, 1998 - 24 episodes**](https://www.imdb.com/title/tt0170896/) - [where to watch](https://archive.org/details/Cold_War_1998_CNN_Kenneth_Branagh)  
