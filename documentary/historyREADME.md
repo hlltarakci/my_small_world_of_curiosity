@@ -80,6 +80,8 @@
      - [ ] [The Rise and Fall of the Russian Space Program, 1977](https://www.youtube.com/watch?v=lzLFE6Q7V-U)
      - [ ] [The Bizarre Story Of The Soviet Space Program](https://www.youtube.com/watch?v=_m9_3eB2tdI)
      - [ ] [How The Real Soviet Rocketmen Changed the World](https://www.youtube.com/watch?v=vJWQaSJDzEo)
+     - [ ] [The Space Race, 2005](https://www.imdb.com/title/tt0461887/)
+     - [ ] [Cosmonauts: How Russia Won the Space Race, 2014](https://www.imdb.com/title/tt4482288/) / [where to watch](https://vimeo.com/306311919?login=true#)
 - Balkans
   - [ ] The Balkans in Flames
         - [ ] [The Balkans in Flames - The Ethnic Conflicts](https://www.youtube.com/watch?v=075VpqfiTPI&t=0s)
