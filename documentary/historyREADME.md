@@ -76,7 +76,8 @@
 - Space
      - [x] [**Why The Soviet Cosmonauts Never Reached The Moon (But USSR Still Won The Space Race)?**](https://www.youtube.com/watch?v=wXMXGITsKtk) / [Sergei Korolev](https://en.wikipedia.org/wiki/Sergei_Korolev)
      - [ ] [Space Race to the Moon](https://www.youtube.com/watch?v=WoJcvjhbJ70)
-     - [ ] [The Golden Age Of Russian Space Exploration](https://www.youtube.com/watch?v=kuEMuB_jf0k)
+     - [x] [**The Golden Age Of Russian Space Exploration**](https://www.youtube.com/watch?v=kuEMuB_jf0k) / unexpectedly beautiful documentary! so warm :) how humble, how sweet they are! human side of the stories is always the most interesting...
+     - [x] [**The First Human in Space - A Mysterious Death**](https://www.youtube.com/watch?v=LfycThKOX8c) / [1957, The Sputnik launch marked the start of the space age and the US-USSR space race, and led to the creation of the NASA](https://guides.loc.gov/sputnik-and-the-space-race) / [The genius behind early Russian space tech: Sergei Pavlovich Korolev](https://www.bbc.com/future/article/20210415-the-genius-behind-early-russian-space-tech) / "Yuri Gagarin's death was because of another plane passing by while breaking the sound barrier meters away from Gagaron's plane which led to an uncontrollable spin. The reason why both planes didn't see each other, were due to terrible weather conditions."
      - [ ] [The Rise and Fall of the Russian Space Program, 1977](https://www.youtube.com/watch?v=lzLFE6Q7V-U)
      - [ ] [The Bizarre Story Of The Soviet Space Program](https://www.youtube.com/watch?v=_m9_3eB2tdI)
      - [ ] [How The Real Soviet Rocketmen Changed the World](https://www.youtube.com/watch?v=vJWQaSJDzEo)
@@ -84,9 +85,9 @@
      - [ ] [Cosmonauts: How Russia Won the Space Race, 2014](https://www.imdb.com/title/tt4482288/) / [where to watch](https://vimeo.com/306311919?login=true#)
 - Balkans
   - [ ] The Balkans in Flames
-        - [ ] [The Balkans in Flames - The Ethnic Conflicts](https://www.youtube.com/watch?v=075VpqfiTPI&t=0s)
-        - [ ] [The Balkans in Flames - Civil Wars](https://www.youtube.com/watch?v=e-NVFqrVPq0)
-        - [ ] [The Balkans in Flames - End of Yugoslavia](https://www.youtube.com/watch?v=1GJtn5p5-IA)
+       - [ ] [The Balkans in Flames - The Ethnic Conflicts](https://www.youtube.com/watch?v=075VpqfiTPI&t=0s)
+       - [ ] [The Balkans in Flames - Civil Wars](https://www.youtube.com/watch?v=e-NVFqrVPq0)
+       - [ ] [The Balkans in Flames - End of Yugoslavia](https://www.youtube.com/watch?v=1GJtn5p5-IA)
   - [ ] [The Death of Yugoslavia](https://www.imdb.com/title/tt0283181/)
   - [x] [**The Breakup of Yugoslavia Explained**](https://www.youtube.com/watch?v=YllzdGa3E5A) / [the six republics that made up the federation - Bosnia and Herzegovina, Croatia, Macedonia, Montenegro, Serbia (including the regions of Kosovo and Vojvodina) and Slovenia](https://www.icty.org/en/about/what-former-yugoslavia) / [breakup of Yugoslavia](https://en.wikipedia.org/wiki/Breakup_of_Yugoslavia) / [Yugoslavia means "land of the south Slavs"](https://simple.wikipedia.org/wiki/Yugoslavia) / [Tito](https://en.wikipedia.org/wiki/Josip_Broz_Tito)
 
