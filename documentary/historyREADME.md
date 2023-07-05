@@ -73,6 +73,10 @@
 - [ ] [Hear what Mikhail Gorbachev said about USSR communism in 1993](https://www.youtube.com/watch?v=PzIbLHYXdkw)
 - [x] [Ivan the Terrible: Russia's First Tsar](https://www.youtube.com/watch?v=2wr63FdF_sg)
 - [ ] [Nikita Khrushchev: The Red Tsar](https://www.youtube.com/watch?v=3WBUaCbQ0g8)
+- [ ] [Lenin & The Russian Revolution Documentary](https://www.youtube.com/watch?v=lo_KRGqbMoY) / [1917-1924](https://en.wikipedia.org/wiki/Vladimir_Lenin)
+- [ ] [Josef Stalin: The Rise Of Russia's Steel Tyrant](https://www.youtube.com/watch?v=tDBV5_AfqbE) / [1924-1953](https://en.wikipedia.org/wiki/Joseph_Stalin)
+- [ ] [Joseph Stalin - Communism's Man of Steel Documentary](https://www.youtube.com/watch?v=QHfB3aP-pn4)
+- [ ] [Leon Trotsky - Stalin's Arch Enemy](https://www.youtube.com/watch?v=6CKZEnD4nKU)
 - Space
      - [x] [**Why The Soviet Cosmonauts Never Reached The Moon (But USSR Still Won The Space Race)?**](https://www.youtube.com/watch?v=wXMXGITsKtk) / [Sergei Korolev](https://en.wikipedia.org/wiki/Sergei_Korolev)
      - [ ] [Space Race to the Moon](https://www.youtube.com/watch?v=WoJcvjhbJ70)
@@ -83,6 +87,8 @@
      - [ ] [How The Real Soviet Rocketmen Changed the World](https://www.youtube.com/watch?v=vJWQaSJDzEo)
      - [ ] [The Space Race, 2005](https://www.imdb.com/title/tt0461887/)
      - [ ] [Cosmonauts: How Russia Won the Space Race, 2014](https://www.imdb.com/title/tt4482288/) / [where to watch](https://vimeo.com/306311919?login=true#)
+- [x] [Why Did The Communist Regimes Fail In Eastern Europe?](https://www.youtube.com/watch?v=TsfLFlA_BrU) / [Eastern Bloc](https://en.wikipedia.org/wiki/Eastern_Bloc) / [Fall of Communism in Eastern Europe, 1989](https://history.state.gov/milestones/1989-1992/fall-of-communism) / [What Are the Differences Between Socialism, Marxism, Stalinism, Leninism, and Communism?](https://medium.com/the-world-times/what-are-the-differences-between-socialism-marxism-stalinism-leninism-and-communism-aaa054634641)
+- [ ] [What Happened to The Eastern Bloc After Soviet Collapse?](https://www.youtube.com/watch?v=u6WkZkUPO7M)
 - Balkans
   - [ ] [The Balkans in Flames, 2021](https://www.imdb.com/title/tt24625588/)
        - [ ] [The Balkans in Flames - The Ethnic Conflicts](https://www.youtube.com/watch?v=075VpqfiTPI&t=0s)
