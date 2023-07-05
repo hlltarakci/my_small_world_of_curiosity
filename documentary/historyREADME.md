@@ -84,12 +84,17 @@
      - [ ] [The Space Race, 2005](https://www.imdb.com/title/tt0461887/)
      - [ ] [Cosmonauts: How Russia Won the Space Race, 2014](https://www.imdb.com/title/tt4482288/) / [where to watch](https://vimeo.com/306311919?login=true#)
 - Balkans
-  - [ ] The Balkans in Flames
+  - [ ] [The Balkans in Flames, 2021](https://www.imdb.com/title/tt24625588/)
        - [ ] [The Balkans in Flames - The Ethnic Conflicts](https://www.youtube.com/watch?v=075VpqfiTPI&t=0s)
        - [ ] [The Balkans in Flames - Civil Wars](https://www.youtube.com/watch?v=e-NVFqrVPq0)
        - [ ] [The Balkans in Flames - End of Yugoslavia](https://www.youtube.com/watch?v=1GJtn5p5-IA)
   - [ ] [The Death of Yugoslavia](https://www.imdb.com/title/tt0283181/)
   - [x] [**The Breakup of Yugoslavia Explained**](https://www.youtube.com/watch?v=YllzdGa3E5A) / [the six republics that made up the federation - Bosnia and Herzegovina, Croatia, Macedonia, Montenegro, Serbia (including the regions of Kosovo and Vojvodina) and Slovenia](https://www.icty.org/en/about/what-former-yugoslavia) / [breakup of Yugoslavia](https://en.wikipedia.org/wiki/Breakup_of_Yugoslavia) / [Yugoslavia means "land of the south Slavs"](https://simple.wikipedia.org/wiki/Yugoslavia) / [Tito](https://en.wikipedia.org/wiki/Josip_Broz_Tito)
+  - [x] [How did Kosovo become a country?](https://www.youtube.com/watch?v=jo8k44_WgGg) / [Partition of Kosovo](https://en.wikipedia.org/wiki/Partition_of_Kosovo)
+  - [ ] [The Fall of Milosevic, 2001](https://www.imdb.com/title/tt1729600/)
+       - [ ] [1](https://www.youtube.com/watch?v=iRXKC14aENY&list=PLKbAOjR-oTwrVjHZLxMdMfkJpVmtdaElc)
+       - [ ] [2](https://www.youtube.com/watch?v=fj_U9m4qzcA&list=PLKbAOjR-oTwrVjHZLxMdMfkJpVmtdaElc&index=2)
+       - [ ] [3](https://www.youtube.com/watch?v=1U54X7h8Ydg&list=PLKbAOjR-oTwrVjHZLxMdMfkJpVmtdaElc&index=3)
 
 **Series:**
 - [ ] [**Cold War, 1998 - 24 episodes**](https://www.imdb.com/title/tt0170896/) - [where to watch](https://archive.org/details/Cold_War_1998_CNN_Kenneth_Branagh)  
