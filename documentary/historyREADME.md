@@ -100,6 +100,8 @@
        - [ ] [The Balkans in Flames - End of Yugoslavia](https://www.youtube.com/watch?v=1GJtn5p5-IA)
   - [ ] [The Death of Yugoslavia](https://www.imdb.com/title/tt0283181/)
   - [x] [**The Breakup of Yugoslavia Explained**](https://www.youtube.com/watch?v=YllzdGa3E5A) / [the six republics that made up the federation - Bosnia and Herzegovina, Croatia, Macedonia, Montenegro, Serbia (including the regions of Kosovo and Vojvodina) and Slovenia](https://www.icty.org/en/about/what-former-yugoslavia) / [breakup of Yugoslavia](https://en.wikipedia.org/wiki/Breakup_of_Yugoslavia) / [Yugoslavia means "land of the south Slavs"](https://simple.wikipedia.org/wiki/Yugoslavia) / [Tito](https://en.wikipedia.org/wiki/Josip_Broz_Tito)
+  - [ ] [The Weight of Chains, 2010](https://www.imdb.com/title/tt1789083/)
+  - [ ] [Balkan ekspres, 1983](https://www.imdb.com/title/tt0085215/)
   - [x] [How did Kosovo become a country?](https://www.youtube.com/watch?v=jo8k44_WgGg) / [Partition of Kosovo](https://en.wikipedia.org/wiki/Partition_of_Kosovo)
   - [ ] [The Fall of Milosevic, 2001](https://www.imdb.com/title/tt1729600/)
        - [ ] [1](https://www.youtube.com/watch?v=iRXKC14aENY&list=PLKbAOjR-oTwrVjHZLxMdMfkJpVmtdaElc)
