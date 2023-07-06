@@ -22,6 +22,8 @@
 - [ ] [The Grapes of Wrath, 1940](https://www.imdb.com/title/tt0032551/)
 - [x] [**It's a Wonderful Life, 1946**](https://www.imdb.com/title/tt0038650/)
 - [ ] [Before the Rain, 1994](https://www.imdb.com/title/tt0110882/)
+- [ ] [Pretty Village, Pretty Flame, 1996](https://www.imdb.com/title/tt0116860/)
+- [ ] [No Man's Land, 2001](https://www.imdb.com/title/tt0283509/)
 - [Mosfilm](https://www.youtube.com/c/Mosfilm_eng)
      - [x] [**Irony of Fate or Enjoy Your Bath, 1975**](https://www.imdb.com/title/tt0073179/) 
       https://understandrussia.com/soviet-apartments/
