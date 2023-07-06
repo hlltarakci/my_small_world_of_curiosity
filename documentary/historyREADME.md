@@ -77,6 +77,10 @@
 - [ ] [Josef Stalin: The Rise Of Russia's Steel Tyrant](https://www.youtube.com/watch?v=tDBV5_AfqbE) / [1924-1953](https://en.wikipedia.org/wiki/Joseph_Stalin)
 - [ ] [Joseph Stalin - Communism's Man of Steel Documentary](https://www.youtube.com/watch?v=QHfB3aP-pn4)
 - [ ] [Leon Trotsky - Stalin's Arch Enemy](https://www.youtube.com/watch?v=6CKZEnD4nKU)
+- [ ] [1962 Missile Crisis: How A Nuclear WW3 Was Narrowly Averted](https://www.youtube.com/watch?v=0lP_ICJo_Jg)
+- [ ] [H Bomb: The Cold War Weapon That Could Wipe Out All Life](https://www.youtube.com/watch?v=2aNUnBxNOjw)
+- [ ] [Nuclear Crisis: The Escalation Of The Cold War](https://www.youtube.com/watch?v=ybpU88qrnYE)
+- [ ] [Atomic Bomb: The Rise Of The Nuclear Superpowers](https://www.youtube.com/watch?v=JNtJFBeFYQo)
 - Space
      - [x] [**Why The Soviet Cosmonauts Never Reached The Moon (But USSR Still Won The Space Race)?**](https://www.youtube.com/watch?v=wXMXGITsKtk) / [Sergei Korolev](https://en.wikipedia.org/wiki/Sergei_Korolev)
      - [ ] [Space Race to the Moon](https://www.youtube.com/watch?v=WoJcvjhbJ70)
