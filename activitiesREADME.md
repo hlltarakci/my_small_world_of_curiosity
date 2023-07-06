@@ -1,6 +1,8 @@
 # ACTIVITY List
 
 ## Program: July
+Can take 1-2 days for rest and skip.
+
 - Saturday:
     - [38 Min - ABS & BUTT](https://www.youtube.com/watch?v=T4adtRJ_b3g)
     - [30 Min - BUTT](https://www.youtube.com/watch?v=agIYYK8KjDg)
