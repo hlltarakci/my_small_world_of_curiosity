@@ -58,6 +58,11 @@
     - [ ] [Artur C. Clarke, Rama Revealed](https://www.amazon.co.uk/dp/0553095366?tag=mostrecomme0e-21&geniuslink=true)
     - [ ] [Gentry Lee, Bright Messengers](https://www.amazon.co.uk/dp/0553573292?tag=mostrecomme0e-21&geniuslink=true)
     - [ ] [Gentry Lee, Double Full Moon Night](https://www.amazon.co.uk/dp/0553573365?tag=mostrecomme0e-21&geniuslink=true)
+- [ ] Adrian Tchaikovsky
+    - [ ] [Adrian Tchaikovsky, Children of Time](https://www.amazon.co.uk/Children-Time-Winner-Arthur-Clarke/dp/1447273281)
+    - [ ] [Adrian Tchaikovsky, Children of Ruin](https://www.amazon.co.uk/Children-Ruin-Time-Novels/dp/1509865853/ref=pd_lpo_sccl_1/262-8830999-6878048?pd_rd_w=83Qja&content-id=amzn1.sym.efc89c20-c5a9-4620-b6cd-2f4e51bac956&pf_rd_p=efc89c20-c5a9-4620-b6cd-2f4e51bac956&pf_rd_r=NTY8Y1251R9M3SMRYWZK&pd_rd_wg=WDgFs&pd_rd_r=d190a0fd-bfab-42a8-ba24-5b0d9dc86c77&pd_rd_i=1509865853&psc=1)
+    - [ ] [Adrian Tchaikovsky, Children of Memory](https://www.amazon.co.uk/Children-Memory-action-packed-adventure-winner/dp/1529087198/ref=pd_lpo_sccl_2/262-8830999-6878048?pd_rd_w=83Qja&content-id=amzn1.sym.efc89c20-c5a9-4620-b6cd-2f4e51bac956&pf_rd_p=efc89c20-c5a9-4620-b6cd-2f4e51bac956&pf_rd_r=NTY8Y1251R9M3SMRYWZK&pd_rd_wg=WDgFs&pd_rd_r=d190a0fd-bfab-42a8-ba24-5b0d9dc86c77&pd_rd_i=1529087198&psc=1)
+- [ ] Frank Herbert, Dune Series - [suggested reading list](https://collider.com/dune-books-in-chronological-order-explained/#dune-books-in-chronological-order)
 - [ ] [Robert A. Heinlein, The Moon Is a Harsh Mistress](https://www.amazon.co.uk/Moon-Harsh-Mistress-Robert-Heinlein/dp/0312863551) - *referred in [Black Mirror-Beyond the Sea](https://www.imdb.com/title/tt27731623/)*
 - [ ] [Boris Pasternak, Doctor Zhivago](https://www.goodreads.com/book/show/130440.Doctor_Zhivago)
 - [ ] [Neal Stephenson, Snow Crash](https://www.amazon.co.uk/Snow-Crash-Neal-Stephenson/dp/0241953189)
