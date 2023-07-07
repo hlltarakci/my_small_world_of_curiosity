@@ -12,7 +12,6 @@
 - [SELF-ADVICE](https://github.com/hlltarakci/my_small_world_of_curiosity/blob/main/selfAdviceREADME.md)
 
 # News Streams
-- https://aposto.com/  -  https://aposto.com/en
 - https://www.youtube.com/@TheEconomist
 - https://www.youtube.com/@dwnews
 - https://www.youtube.com/@CNN
@@ -25,6 +24,7 @@
 - http://politikaakademisi.org/
 - https://www.youtube.com/@business
 - https://www.youtube.com/@BBCWorldService
+- https://aposto.com/  -  https://aposto.com/en
 
 
 
