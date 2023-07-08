@@ -107,7 +107,7 @@
 - [ ] [What Happened to The Eastern Bloc After Soviet Collapse?](https://www.youtube.com/watch?v=u6WkZkUPO7M)
 - Balkans
   - [ ] [The Balkans in Flames, 2021](https://www.imdb.com/title/tt24625588/)
-       - [ ] [The Balkans in Flames - The Ethnic Conflicts](https://www.youtube.com/watch?v=075VpqfiTPI&t=0s)
+       - [x] [**The Balkans in Flames - The Ethnic Conflicts**](https://www.youtube.com/watch?v=075VpqfiTPI&t=0s) / [Ustashe](https://en.wikipedia.org/wiki/Ustaše) / [Jasenovac concentration camp](https://en.wikipedia.org/wiki/Jasenovac_concentration_camp) / [The Assassination Of King Alexander](https://warfarehistorynetwork.com/article/the-assassination-of-king-alexander/) / [Chetniks](https://en.wikipedia.org/wiki/Chetniks) / [Yugoslav Partisans](https://en.wikipedia.org/wiki/Yugoslav_Partisans) / [Goli Otok](https://en.wikipedia.org/wiki/Goli_Otok) / [Death and state funeral of Josip Broz Tito](https://en.wikipedia.org/wiki/Death_and_state_funeral_of_Josip_Broz_Tito)
        - [ ] [The Balkans in Flames - Civil Wars](https://www.youtube.com/watch?v=e-NVFqrVPq0)
        - [ ] [The Balkans in Flames - End of Yugoslavia](https://www.youtube.com/watch?v=1GJtn5p5-IA)
   - [ ] [The Death of Yugoslavia](https://www.imdb.com/title/tt0283181/)
