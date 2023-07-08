@@ -20,6 +20,20 @@ These are the finely selected recipes that i (*will*) know by heart and repeat o
 8. Parcalanmis/bidiklanmis tavuklari ekle. 10 dk. kaynasin.
 9. Dolu dolur 1 tatli kasigi tuz ekle. Bir kac dk. daha kaynattiktran sonra ocagi kapat.
 
+## [Turkish Cuisine] Yogurt Soup with Orzo
+<img src="yogurt_soup_with_orzo.jpg" width="500"/>
+
+1. Tencereye 1 yumurta kir, guzelce cirp.
+2. 1 su bardagi yogurt ekle, cirp.
+3. 2 yemek kasigi un ekle, cirp.
+4. Yavas yavas, karistirarak 7 su bardagi su ekle, cirp.
+5. Ocakta orta ateste karistirarak kaynat.
+6. Yarim su bardagi arpa sehriye ekle, 15 dakika kadar daha karistirarak kaynat.
+7. 1 tatli kasigi tuz ekle (**TIP: Yogurt corbalarina tuz en son eklenir.**)
+8. Tencereyi ocaktan al, 15 dk kadar demlenmeye birak.
+9. Tavada 1 yemek kasigi tereyagi kizdir, 1 tatli kasigi nane ekle. Corbayi servis ederken ya da tencereye ekle.   
+
+
 # SALAD
 
 # MEAL
