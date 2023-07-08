@@ -54,7 +54,12 @@
 - [ ] [Enron: The Smartest Guys in the Room, 2005](https://www.imdb.com/title/tt1016268/)
 - [ ] [The Dyatlov Pass Incident](https://www.youtube.com/watch?v=Ee8iLRVOHDw)
 - [ ] [The Man Who Saved the World, 2014](https://www.imdb.com/title/tt2277106/)
+- [ ] [Citizen K, 2019](https://www.imdb.com/title/tt10703826/)
 - [ ] [Soviet Bus Stops, 2023](https://www.imdb.com/title/tt22697846/)
+- [ ] [Icarus, 2017](https://www.imdb.com/title/tt6333060/)
+- [ ] [The Armstrong Lie, 2013](https://www.imdb.com/title/tt1638364/)
+- [ ] [Stop at Nothing: The Lance Armstrong Story, 2014](https://www.imdb.com/title/tt3511812/)
+- [ ] [Lance, 2020](https://www.imdb.com/title/tt11427436/)
 
 **Series:**
 - [x] [**Deep Time History, Curiosity Stream**](https://www.imdb.com/title/tt6052190/) - quite similar in context to Harari's Sapiens. Linking ideas, providing a general structure why things happened the way they did fascinates me. And this is a transferable thought experiment skill.
