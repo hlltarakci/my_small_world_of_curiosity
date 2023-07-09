@@ -2,6 +2,10 @@
 
 ## Program: July (W1:5)
 Can take 1-2 days for rest and skip.
+- Sunday:
+    - [20 Min - THIGH & LEGS](https://www.youtube.com/watch?v=Smim7-qG8Ls) OR [10 min - side butt](https://www.youtube.com/watch?v=pLAWcMLRgj4)
+    - [37 Min - OBLIQUES & THIGHS](https://www.youtube.com/watch?v=sDzubGfNhew)
+    - Cycling Practice
 - Monday:
     - [30 Min - BUTT](https://www.youtube.com/watch?v=agIYYK8KjDg) OR [15 min - butt lifting](https://www.youtube.com/watch?v=WUxjY2r88a8)
     - [34 Min - TOTAL BODY](https://www.youtube.com/watch?v=YdnqNGcmhqA)
@@ -21,11 +25,7 @@ Can take 1-2 days for rest and skip.
     - [30 Min - BUTT](https://www.youtube.com/watch?v=agIYYK8KjDg) OR [15 min - butt lifting](https://www.youtube.com/watch?v=WUxjY2r88a8)
     - [38 Min - ABS & BUTT](https://www.youtube.com/watch?v=T4adtRJ_b3g) 
     - Cycling Practice
-- Sunday:
-    - [20 Min - THIGH & LEGS](https://www.youtube.com/watch?v=Smim7-qG8Ls) OR [10 min - side butt](https://www.youtube.com/watch?v=pLAWcMLRgj4)
-    - [37 Min - OBLIQUES & THIGHS](https://www.youtube.com/watch?v=sDzubGfNhew)
-    - Cycling Practice
-
+      
 ## Daily Exercise 
 
 Cassey:
