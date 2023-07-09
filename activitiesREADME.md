@@ -3,28 +3,30 @@
 ## Program: July (W1:5)
 Can take 1-2 days for rest and skip.
 - Sunday:
-    - [20 Min - THIGH & LEGS](https://www.youtube.com/watch?v=Smim7-qG8Ls) OR [10 min - side butt](https://www.youtube.com/watch?v=pLAWcMLRgj4)
-    - [37 Min - OBLIQUES & THIGHS](https://www.youtube.com/watch?v=sDzubGfNhew)
+    - [35 Min - CARDIO & ABS](https://www.youtube.com/watch?v=B5HGDbiH5S4)
     - Cycling Practice
 - Monday:
-    - [30 Min - BUTT](https://www.youtube.com/watch?v=agIYYK8KjDg) OR [15 min - butt lifting](https://www.youtube.com/watch?v=WUxjY2r88a8)
     - [34 Min - TOTAL BODY](https://www.youtube.com/watch?v=YdnqNGcmhqA)
 - Tuesday:
-    - [20 Min - THIGH & LEGS](https://www.youtube.com/watch?v=Smim7-qG8Ls) OR [10 min - side butt](https://www.youtube.com/watch?v=pLAWcMLRgj4)
     - [34 Min - LEGS & BUTT](https://www.youtube.com/watch?v=XjiRVCEokWE)
 - Wednesday:
-    - [30 Min - BUTT](https://www.youtube.com/watch?v=agIYYK8KjDg) OR [15 min - butt lifting](https://www.youtube.com/watch?v=WUxjY2r88a8)
     - [34 Min - ARMS & BACK](https://www.youtube.com/watch?v=2YdJgcrrHKI)
 - Thursday:
-    - [20 Min - THIGH & LEGS](https://www.youtube.com/watch?v=Smim7-qG8Ls) OR [10 min - side butt](https://www.youtube.com/watch?v=pLAWcMLRgj4)
-    - [35 Min - CARDIO & ABS](https://www.youtube.com/watch?v=B5HGDbiH5S4)
+    - [38 Min - ABS & BUTT](https://www.youtube.com/watch?v=T4adtRJ_b3g) 
 - Friday:
     - [27 Min - STRETCH](https://www.youtube.com/watch?v=J8KQ5zLBOEI) 
     - Cycling Practice
 - Saturday:
-    - [30 Min - BUTT](https://www.youtube.com/watch?v=agIYYK8KjDg) OR [15 min - butt lifting](https://www.youtube.com/watch?v=WUxjY2r88a8)
-    - [38 Min - ABS & BUTT](https://www.youtube.com/watch?v=T4adtRJ_b3g) 
+    - [37 Min - OBLIQUES & THIGHS](https://www.youtube.com/watch?v=sDzubGfNhew)
     - Cycling Practice
+
+- Replacements OR Extras
+    - [30 Min - BUTT](https://www.youtube.com/watch?v=agIYYK8KjDg)
+    - [20 Min - THIGH & LEGS](https://www.youtube.com/watch?v=Smim7-qG8Ls)
+    - [10 min - side butt](https://www.youtube.com/watch?v=pLAWcMLRgj4)
+    - [15 min - butt lifting](https://www.youtube.com/watch?v=WUxjY2r88a8)
+    - [15 min - ARMS](https://www.youtube.com/watch?v=Y346900i9qE)
+
       
 ## Daily Exercise 
 
