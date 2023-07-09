@@ -1,7 +1,6 @@
 # ACTIVITY List
 
-## Program: July (W1:5)
-Can take 1-2 days for rest and skip.
+## Program: JULY 
 - Sunday:
     - [35 Min - CARDIO & ABS](https://www.youtube.com/watch?v=B5HGDbiH5S4)
     - Cycling Practice
@@ -19,7 +18,6 @@ Can take 1-2 days for rest and skip.
 - Saturday:
     - [37 Min - OBLIQUES & THIGHS](https://www.youtube.com/watch?v=sDzubGfNhew)
     - Cycling Practice
-
 - Replacements OR Extras
     - [30 Min - BUTT](https://www.youtube.com/watch?v=agIYYK8KjDg)
     - [20 Min - THIGH & LEGS](https://www.youtube.com/watch?v=Smim7-qG8Ls)
