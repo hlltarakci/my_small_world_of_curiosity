@@ -5,6 +5,7 @@ These are the finely selected recipes that i (*will*) know by heart and repeat o
 - [Salads](https://github.com/hlltarakci/my_small_world_of_curiosity/tree/main/cook_in_style#salad)
 - [Meals](https://github.com/hlltarakci/my_small_world_of_curiosity/tree/main/cook_in_style#meal)
 - [Breakfast](https://github.com/hlltarakci/my_small_world_of_curiosity/tree/main/cook_in_style#breakfast)
+- [Dessert](https://github.com/hlltarakci/my_small_world_of_curiosity/edit/main/cook_in_style/README.md#dessert)
 
 # SOUP
 ## [Turkish Cuisine] [Chicken Soup (with Orzo and Lemon&Egg Sauce)](https://tr.wikipedia.org/wiki/%C5%9Eehriyeli_tavuk_suyu_%C3%A7orba)
@@ -68,4 +69,15 @@ These are the finely selected recipes that i (*will*) know by heart and repeat o
 3. Tereyagi iyice kizdiginda malzemeleri tavaya al. Kasikla ileri geri yapacak sekilde, seklini bozmadan karistir. Cok kati olmamasi gerekiyor, gerekiyorsa su ekle.
 4. Pistigini anlamak icin peyniri gozlemliyoruz, uzamasi gerekiyor.
 
+# DESSERT
+## [Global] [Chocolate Chip Cookies](https://www.youtube.com/watch?v=vWP85FYQjcE)
+<img src="chocolate_chip_cookies.jpg" width="500"/>
 
+1. Homojen bir karisim olana kadar cirp (no lumps): yarim su bardagi seker + 3/4 su bardagi esmer seker + 1 cay kasigi tuz + yarim su bardagi erimis sogumus tereyag
+2. Iyice karistir: 1 yumurta + 1 cay kasigi vanilya ozutu
+3. Iyice karistir: 1 ve ceyrek su bardagi un + yarim cay kasigi baking powder
+4. Arzu edilen kadar cikolata parcalarini ekle. Dark chocolate kullandim. Iyice karistir.
+5. Kapali bir kapta buzdolabinda 30 dk dinlendir.
+6. Airfryera yagli kagit koy.
+7. Icecream scrooper ile 4 parca kopararak pisir (165 derecede, 10-12 dk), biraz yayilacak. (NOT: Yayilmaya meyilli malesef, [bazi tariflerde tek buyuk bir parca yapiyorlar, sonra kesiyorlar](https://portakalagaci.com/2022/01/airfryerda-kurabiye.html).)
+8. 2-3 dk. beklesin almadan once. Soguyunce servis et.
