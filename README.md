@@ -13,6 +13,7 @@
 
 # News Streams
 - https://www.youtube.com/@TheEconomist
+- https://twitter.com/TheEconomist
 - https://www.youtube.com/@dwnews
 - https://www.youtube.com/@CNN
 - https://www.youtube.com/@BBCNews
