@@ -78,6 +78,13 @@
 - Emir Kusturica
      - [x] [Time of the Gypsies, 1988](https://www.imdb.com/title/tt0097223/) - [soundtrack](https://open.spotify.com/album/1HrPH9JGhdudroFGQs55i6)
      - [ ] [Underground, 1995](https://www.imdb.com/title/tt0114787/?ref_=nm_knf_t_1)
+- Slobodan Sijan, Dusan Kovacevic
+     - [ ] [Who's Singin' Over There?, 1980](https://www.imdb.com/title/tt0076276/?ref_=nm_knf_t_1)
+     - [ ] [The Marathon Family, 1982](https://www.imdb.com/title/tt0084302/?ref_=nm_knf_t_2)
+     - [ ] [The Meeting Point, 1989](https://www.imdb.com/title/tt0122234/?ref_=nm_knf_t_4)
+     - [ ] [The Professional, 2003](https://www.imdb.com/title/tt0339535/?ref_=nm_knf_t_1)
+     - [ ] [Balkan Spy, 1984](https://www.imdb.com/title/tt0086935/?ref_=nm_knf_t_2)
+     - [ ] [Strangler vs. Strangler, 1984](https://www.imdb.com/title/tt0087123/?ref_=nm_knf_t_3)
 - [Andrei Tarkovsky](http://thecinemaarchives.com/2019/04/23/the-8th-best-director-of-all-time-andrei-tarkovsky/)
      - [ ] [Solaris, 1972](https://www.imdb.com/title/tt0069293/)
      - [ ] [The Mirror, 1975](https://www.imdb.com/title/tt0072443/)
