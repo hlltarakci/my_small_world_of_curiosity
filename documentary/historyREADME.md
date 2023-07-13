@@ -121,6 +121,14 @@
        - [ ] [1](https://www.youtube.com/watch?v=iRXKC14aENY&list=PLKbAOjR-oTwrVjHZLxMdMfkJpVmtdaElc)
        - [ ] [2](https://www.youtube.com/watch?v=fj_U9m4qzcA&list=PLKbAOjR-oTwrVjHZLxMdMfkJpVmtdaElc&index=2)
        - [ ] [3](https://www.youtube.com/watch?v=1U54X7h8Ydg&list=PLKbAOjR-oTwrVjHZLxMdMfkJpVmtdaElc&index=3)
+- NATO
+  - [ ] [Why Was NATO Created](https://www.youtube.com/watch?v=y6z-iwGvKcw) 
+  - [ ] [The History of NATO: The Cold War and Beyond](https://www.youtube.com/watch?v=zR7uOLy7NEE)
+  - [ ] [NATO - Summary on a Map](https://www.youtube.com/watch?v=8NlhfoFK9PI)
+  - [ ] [NATO vs BRICS - What's The Difference & How Do They Compare?](https://www.youtube.com/watch?v=-8SvfPnt9Y0)
+  - [ ] [History of NATO](https://www.youtube.com/watch?v=5jO0kez3vyA)
+  - [ ] [Creation of NATO 1949](https://www.youtube.com/watch?v=4Tyfcsnizbs)
+  - [ ] [Why Every NATO Member Joined (And Why Everyone Else Hasn't)](https://www.youtube.com/watch?v=3zx3i9s7lLY)
 
 **Series:**
 - [ ] [**Cold War, 1998 - 24 episodes**](https://www.imdb.com/title/tt0170896/) - [where to watch](https://archive.org/details/Cold_War_1998_CNN_Kenneth_Branagh)  
