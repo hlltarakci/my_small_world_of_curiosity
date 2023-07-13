@@ -129,6 +129,10 @@
   - [ ] [History of NATO](https://www.youtube.com/watch?v=5jO0kez3vyA)
   - [ ] [Creation of NATO 1949](https://www.youtube.com/watch?v=4Tyfcsnizbs)
   - [ ] [Why Every NATO Member Joined (And Why Everyone Else Hasn't)](https://www.youtube.com/watch?v=3zx3i9s7lLY)
+  - Warsaw Pact
+       - [ ] [The development of the Cold War: 1947-1955-Truman Doctrine to Warsaw Pact](https://www.youtube.com/watch?v=lagwu7EycKM)
+       - [ ] [Warsaw Pact: Creation, Structure and Effectiveness](https://www.youtube.com/watch?v=55xQypn7UJc)
+       - [ ] [World War III, 1989: NATO vs Warsaw Pact](https://www.youtube.com/watch?v=kONMKmWQyE8)
 
 **Series:**
 - [ ] [**Cold War, 1998 - 24 episodes**](https://www.imdb.com/title/tt0170896/) - [where to watch](https://archive.org/details/Cold_War_1998_CNN_Kenneth_Branagh)  
