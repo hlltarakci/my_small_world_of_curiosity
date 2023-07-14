@@ -126,8 +126,8 @@
   - [ ] [The History of NATO: The Cold War and Beyond](https://www.youtube.com/watch?v=zR7uOLy7NEE)
   - [ ] [NATO - Summary on a Map](https://www.youtube.com/watch?v=8NlhfoFK9PI)
   - [ ] [NATO vs BRICS - What's The Difference & How Do They Compare?](https://www.youtube.com/watch?v=-8SvfPnt9Y0)
-  - [ ] [History of NATO](https://www.youtube.com/watch?v=5jO0kez3vyA)
-  - [ ] [Creation of NATO 1949](https://www.youtube.com/watch?v=4Tyfcsnizbs)
+  - [x] [History of NATO](https://www.youtube.com/watch?v=5jO0kez3vyA)
+  - [x] [Creation of NATO 1949](https://www.youtube.com/watch?v=4Tyfcsnizbs) / [article 5: collective defense](https://www.history.com/news/nato-article-5-meaning-history-world-war-2)
   - [ ] [Why Every NATO Member Joined (And Why Everyone Else Hasn't)](https://www.youtube.com/watch?v=3zx3i9s7lLY)
   - Warsaw Pact
        - [ ] [The development of the Cold War: 1947-1955-Truman Doctrine to Warsaw Pact](https://www.youtube.com/watch?v=lagwu7EycKM)
