@@ -31,6 +31,7 @@
 - [ ] [Erdoğan's world - Turkey and its President | DW Documentary](https://www.youtube.com/watch?v=WS99QTC2Hbo)
 - [x] [**10 Things I LOVE About Living In Russia**](https://youtu.be/CR70e_fSQPk) / free healthcare & free education, housing and communal services, low natural disaster risk, nanchalant attitude (Russians been through so much stuff throughout their history they do not really care about anything anymore), sense of humor and freedom for jokes (The severity of Russian laws is compensated by the non-binding nature of their implementation), 24/7 access to quality service, low taxes and lots of holidays, internet, Russian culture (literature,art, science ..), diversity (nature, 190 nationalities)
 - [x] [Russian New Year: History and Traditions](https://www.youtube.com/watch?v=dkC6yBXdQ-4) / [Old New Year, 14 Jan](https://en.wikipedia.org/wiki/Old_New_Year) / [Olivier Salad](https://en.wikipedia.org/wiki/Olivier_salad)
+- [ ] [Navalny, 2022](https://www.imdb.com/title/tt17041964/)
 - [Geo Perspective](https://www.youtube.com/c/GeoPerspective)
      - [x] [Rostov-On-Don: Gateway to the Caucasus and Southern Russia](https://www.youtube.com/watch?v=lQy3AOBAFFg)
      - [x] [ST. PETERSBURG: The Cultural Capital and Most EUROPEAN RUSSIAN CITY](https://m.youtube.com/watch?v=ZeYrjul5SVQ) / [Siege of Leningrad](https://en.wikipedia.org/wiki/Siege_of_Leningrad)
