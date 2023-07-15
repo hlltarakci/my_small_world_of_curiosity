@@ -19,6 +19,7 @@
     - [37 Min - OBLIQUES & THIGHS](https://www.youtube.com/watch?v=sDzubGfNhew)
     - Cycling Practice
 - Replacements OR Extras
+    - [40 min - TOTAL BODY](https://www.youtube.com/watch?v=sQVFoWGjD4k)
     - [30 Min - BUTT](https://www.youtube.com/watch?v=agIYYK8KjDg)
     - [20 Min - THIGH & LEGS](https://www.youtube.com/watch?v=Smim7-qG8Ls)
     - [10 min - side butt](https://www.youtube.com/watch?v=pLAWcMLRgj4)
