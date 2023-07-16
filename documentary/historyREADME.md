@@ -128,7 +128,7 @@
   - [ ] [NATO vs BRICS - What's The Difference & How Do They Compare?](https://www.youtube.com/watch?v=-8SvfPnt9Y0)
   - [x] [History of NATO](https://www.youtube.com/watch?v=5jO0kez3vyA)
   - [x] [Creation of NATO 1949](https://www.youtube.com/watch?v=4Tyfcsnizbs) / [article 5: collective defense](https://www.history.com/news/nato-article-5-meaning-history-world-war-2)
-  - [ ] [Why Every NATO Member Joined (And Why Everyone Else Hasn't)](https://www.youtube.com/watch?v=3zx3i9s7lLY)
+  - [x] [**Why Every NATO Member Joined (And Why Everyone Else Hasn't)**](https://www.youtube.com/watch?v=3zx3i9s7lLY) / [Collective Security Treaty Organization (CSTO)](https://en.wikipedia.org/wiki/Collective_Security_Treaty_Organization) / [Macedonia naming dispute](https://en.wikipedia.org/wiki/Macedonia_naming_dispute) / *"NATO has general policy to not admit countries until they have settled their territorial conflicts. This was one of the motivations that  Putin had for the Russo-Ukrainian War. If Russia exacerbates tensions between Kyiv and Luhansk and Donetsk, NATO will be unwilling to make Ukraine a full partner. Indeed, the current war is history repeating itself. 14 years earlier, Georgia was  getting close to joining NATO. That required settling issues  with Abkhazia and South Ossetia. But Russia made this impossible by invading. And thus there is no Georgia in NATO today."* / *"Cyprus is out as well. This, oddly enough, involves another NATO member. In 1974, Turkey invaded Cyprus. The war lasted a month until some lines were drawn on maps. Since then, Cyprus has been de facto split into regular Cyprus and Northern Cyprus. That alone would be a problem. But to make matters worse, Turkish forces  have aided Northern Cyprus since that time, which adds an extra layer of complication  because of Turkey’s veto power."*
   - Warsaw Pact
        - [ ] [The development of the Cold War: 1947-1955-Truman Doctrine to Warsaw Pact](https://www.youtube.com/watch?v=lagwu7EycKM)
        - [ ] [Warsaw Pact: Creation, Structure and Effectiveness](https://www.youtube.com/watch?v=55xQypn7UJc)
@@ -183,6 +183,7 @@
 - [ ] [The End of the Ottoman Empire](https://www.youtube.com/watch?v=0293hOikSvU)
 - [x] [**Understanding the Turkish mindset**](https://www.youtube.com/watch?v=Lg-TJO5yv2Q) - "In this context, Erdogan is the most consequential leader in Turkey second only to Ataturk by exploiting the polarized political arena, he has profoundly altered the prospects of the nation. This is not necessarily a trend that is exclusive to Turkey since far-right politicians often polarized their own societies for political gains. But taken together, Turkey is a geopolitical paradox while the Marmara heartland is wealthy, innovative and extrovert; Anatolia by comparison remains underprivileged, conservative and introvert; both regions compete and cooperate with one another and this internal contradiction sits at the heart of the geopolitical mindset of Turkey."
 - [ ] [Post World War Turkey](https://www.youtube.com/watch?v=QRv--JOIPL4)
+- [ ] [Cyprus Crisis 1974](https://www.youtube.com/watch?v=DPxyCuzFGOQ)
 
 **Series:**
 - [ ] [**32. Gun Arsivi**](https://www.youtube.com/watch?app=desktop&v=sBPfjeWbp9Q)
