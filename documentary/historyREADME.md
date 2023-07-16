@@ -16,6 +16,7 @@
 - [x] [Hitler's Circle of Evil, 2017](https://www.netflix.com/nl-en/title/80138915)
 - [x] [Greatest Events of WW2 in Color](https://www.netflix.com/nl-en/title/80989924) 
 - [ ] [WW2 in color - Road to Victory, 2021](https://www.netflix.com/gb/title/81488464)
+- [ ] [The Abyss: Rise and Fall of the Nazis, 2021](https://www.imdb.com/title/tt14365118/) / [where to watch](https://www.youtube.com/playlist?list=PLf1QSB7YWJJQoi512Urg84f0tY_cQA0wI)
 
 ## Cold War (1947-1991), USSR (1922-1991), Russia
 **Singles:**
@@ -79,6 +80,7 @@
      - [ ] [The Unknown War, Episode 6: Survival at Stalingrad](https://www.youtube.com/watch?v=aqHRkm2AGwM)
      - [ ] [The Unknown War, Episode 7: The World's Greatest Tank Battle](https://www.youtube.com/watch?v=B4h-hm3HFT0)
 - [ ] [Deadliest Siege of WWII: Leningrad](https://www.youtube.com/watch?v=X7Nkdfx1ato)
+- [ ] [Why Couldn’t Hitler Take Leningrad?](https://www.youtube.com/watch?v=xjH5eqExFOQ)
 - [ ] [The City That Stopped Hitler: Heroic Stalingrad, 1943](https://www.imdb.com/title/tt0036385/)
 - [ ] [The Battle of Stalingrad | Doomed from the start?](https://www.youtube.com/watch?v=F679phS3xT0)
 - [x] [The Origins of Russia - Summary on a map](https://youtu.be/qUgzqkCW6A4)
