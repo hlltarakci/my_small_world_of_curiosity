@@ -69,6 +69,12 @@ These are the finely selected recipes that i (*will*) know by heart and repeat o
 3. Tereyagi iyice kizdiginda malzemeleri tavaya al. Kasikla ileri geri yapacak sekilde, seklini bozmadan karistir. Cok kati olmamasi gerekiyor, gerekiyorsa su ekle.
 4. Pistigini anlamak icin peyniri gozlemliyoruz, uzamasi gerekiyor.
 
+## [Incredibly Easy Recipe] Bread for Breakfast 
+<img src="kahvaltilik_ekmek.jpg" width="500"/>
+
+1. Ekmek uzerine malzemeleri koyup, Airfryer da 160 derecede 8 dk pisir. Tercihen flat bread uzerine biraz yag, rendelenmis mozarella ve cherry domates guzel oluyor. Maydanoz ya da pizza baharati da guzel sonuc veriyor. Eriyen herhangi bir peynir tipi de yakisiyor.
+
+
 # DESSERT
 ## [Global] [Chocolate Chip Cookies](https://www.youtube.com/watch?v=vWP85FYQjcE)
 <img src="chocolate_chip_cookies.jpg" width="500"/>
