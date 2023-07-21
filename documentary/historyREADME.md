@@ -95,6 +95,8 @@
 - [ ] [H Bomb: The Cold War Weapon That Could Wipe Out All Life](https://www.youtube.com/watch?v=2aNUnBxNOjw)
 - [ ] [Nuclear Crisis: The Escalation Of The Cold War](https://www.youtube.com/watch?v=ybpU88qrnYE)
 - [ ] [Atomic Bomb: The Rise Of The Nuclear Superpowers](https://www.youtube.com/watch?v=JNtJFBeFYQo)
+- [ ] [Rosenberg Spy Affair - How the USSR got Nuclear Weapons - COLD WAR](https://www.youtube.com/watch?v=kDCRzxpcIcE)
+- [ ] [Stealing The Atomic Bomb (Cold War Documentary)](https://www.youtube.com/watch?v=JpXWxgcP9Rs)
 - Space
      - [x] [**Why The Soviet Cosmonauts Never Reached The Moon (But USSR Still Won The Space Race)?**](https://www.youtube.com/watch?v=wXMXGITsKtk) / [Sergei Korolev](https://en.wikipedia.org/wiki/Sergei_Korolev)
      - [ ] [Space Race to the Moon](https://www.youtube.com/watch?v=WoJcvjhbJ70)
