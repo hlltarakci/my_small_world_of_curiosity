@@ -165,6 +165,8 @@
 **Singles:**
 - [ ] [The Tragedy of Early Nuclear Plant Workers | The Safe Side of the Fence Documentary](https://www.youtube.com/watch?v=O6OfW_L0-RI)
 - [ ] [The Manhattan Project: The Destroyer of Worlds](https://www.youtube.com/watch?v=SadnANGjVrU)
+- [x] [What Really Happened During the Manhattan Project?](https://www.youtube.com/watch?v=cyvwlK8ZT_g)
+- [ ] [The Man Who Created the Deadliest Weapon in History (J. Robert Oppenheimer and the Atomic Bomb)](https://www.youtube.com/watch?v=4b4B6qrDPdI)
 - [ ] [Apollo Program](https://www.youtube.com/watch?v=55Jas5HrzcQ)
 
 **Series:**
