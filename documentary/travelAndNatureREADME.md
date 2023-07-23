@@ -1,5 +1,4 @@
 # TRAVEL and NATURE
-**Singles:**
 - [x] [Hidden Russia, Curiosity Stream](https://curiositystream.com/video/3655)
 - [Eli from Russia](https://www.youtube.com/@ElifromRussia)
      - [x] [**Life in a small Tatar village in the Urals of Russia**](https://www.youtube.com/watch?v=z1S4W2acLsk) / [chak chak](https://theculturetrip.com/europe/russia/articles/chak-chak-the-national-sweet-you-must-try-in-tartarstan/)
