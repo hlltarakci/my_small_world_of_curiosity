@@ -1,6 +1,4 @@
 # SPACE
-
-**Singles:**
 - [x] [Challenger: The Final Flight, 2020](https://www.netflix.com/nl-en/title/81012137)
 - [ ] [Timelapse of the future](https://www.youtube.com/watch?v=uD4izuDMUQA)
 - [ ] [Fun to Imagine, Richard Feynman, 1983](https://www.imdb.com/title/tt1118155/?ref_=tt_sims_tt_t_3) - [where to watch](https://www.youtube.com/watch?v=P1ww1IXRfTA)
