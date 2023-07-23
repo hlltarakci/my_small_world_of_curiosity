@@ -1,25 +1,10 @@
 # HISTORY
 
 ## WW1 (1914-1918)
-**Singles:**
-
 **Series:**
 - [ ] [**Apocalypse: WW1, 2014**](https://www.imdb.com/title/tt3638584/) - [where to watch, 5 episodes](https://curiositystream.com/video/3047) - [For many, this excitement for war was similar to a celebration or a festival. One of the first main reasons for the excitement of the war was that many in Europe had a romantic feeling towards war.  In the years before war was declared in 1914, Europe had enjoyed a prolonged period of piece in its otherwise violent past.](https://www.historycrunch.com/excitement-for-world-war-i.html#/) - [Sarikamis](https://military-history.fandom.com/wiki/Battle_of_Sarikamish) - [Dardanelles Campaign](https://www.iwm.org.uk/history/a-short-history-of-the-dardanelles-campaign) - [Russian Revolution 1917](https://www.history.com/topics/european-history/russian-revolution)
 
-## WW2 (1939-1945)
-**Singles:**
-- [ ] [Ambassador to Hitler - An unusual inside perspective on the Third Reich](https://www.youtube.com/watch?v=wqLqulHfZFc)
-- [ ] [Music in Nazi Germany - The maestro and the cellist of Auschwitz](https://www.youtube.com/watch?v=gvoT8QANp8I)
-
-**Series:**
-- [ ] [Apocalypse: WW2, 2009](https://www.imdb.com/title/tt1508238/)
-- [x] [Hitler's Circle of Evil, 2017](https://www.netflix.com/nl-en/title/80138915)
-- [x] [Greatest Events of WW2 in Color](https://www.netflix.com/nl-en/title/80989924) 
-- [ ] [WW2 in color - Road to Victory, 2021](https://www.netflix.com/gb/title/81488464)
-- [ ] [The Abyss: Rise and Fall of the Nazis, 2021](https://www.imdb.com/title/tt14365118/) / [where to watch](https://www.youtube.com/playlist?list=PLf1QSB7YWJJQoi512Urg84f0tY_cQA0wI)
-
-## Cold War (1947-1991), USSR (1922-1991), Russia
-**Singles:**
+## WW2 (1939-1945), Cold War (1947-1991), USSR (1922-1991), Russia
 - [x] [The Last Days of the USSR, Curiosity Stream](https://curiositystream.com/video/4723?utm_campaign=D-PerformanceMax-ROW&utm_medium=display&utm_source=google&utm_placement=&utm_content=&gclid=EAIaIQobChMI9YqEwMbV9gIVxJrVCh1rfAACEAAYASAAEgIww_D_BwE)
 - [x] [The Breakup of the Soviet Union Explained](https://youtu.be/t2GmtBCVHzY)
 - [x] [The Entire History of the Cold War Explained | Best Cold War Documentary](https://www.youtube.com/watch?v=XDrykOhrb5s) - provides complete overview of events, helping to see their relation and chronology, difficult to digest
@@ -97,6 +82,8 @@
 - [ ] [Atomic Bomb: The Rise Of The Nuclear Superpowers](https://www.youtube.com/watch?v=JNtJFBeFYQo)
 - [ ] [Rosenberg Spy Affair - How the USSR got Nuclear Weapons - COLD WAR](https://www.youtube.com/watch?v=kDCRzxpcIcE)
 - [ ] [Stealing The Atomic Bomb (Cold War Documentary)](https://www.youtube.com/watch?v=JpXWxgcP9Rs)
+- [ ] [Ambassador to Hitler - An unusual inside perspective on the Third Reich](https://www.youtube.com/watch?v=wqLqulHfZFc)
+- [ ] [Music in Nazi Germany - The maestro and the cellist of Auschwitz](https://www.youtube.com/watch?v=gvoT8QANp8I)
 - Space
      - [x] [**Why The Soviet Cosmonauts Never Reached The Moon (But USSR Still Won The Space Race)?**](https://www.youtube.com/watch?v=wXMXGITsKtk) / [Sergei Korolev](https://en.wikipedia.org/wiki/Sergei_Korolev)
      - [ ] [Space Race to the Moon](https://www.youtube.com/watch?v=WoJcvjhbJ70)
@@ -162,9 +149,13 @@
 - [ ] [The Romanovs, 2013](https://www.imdb.com/title/tt3560728/) / [where to watch](https://www.youtube.com/watch?v=46DEVQ8UacA)
 - [ ] [The Last Czars, 2019](https://www.imdb.com/title/tt7949606/?ref_=tt_sims_tt_i_1)
 - [ ] [Last of the Czars, 1996](https://www.imdb.com/title/tt3546970/?ref_=tt_sims_tt_i_5)
+- [ ] [Apocalypse: WW2, 2009](https://www.imdb.com/title/tt1508238/)
+- [x] [Hitler's Circle of Evil, 2017](https://www.netflix.com/nl-en/title/80138915)
+- [x] [Greatest Events of WW2 in Color](https://www.netflix.com/nl-en/title/80989924) 
+- [ ] [WW2 in color - Road to Victory, 2021](https://www.netflix.com/gb/title/81488464)
+- [ ] [The Abyss: Rise and Fall of the Nazis, 2021](https://www.imdb.com/title/tt14365118/) / [where to watch](https://www.youtube.com/playlist?list=PLf1QSB7YWJJQoi512Urg84f0tY_cQA0wI)
 
 ## World History
-**Singles:**
 - [ ] [The Tragedy of Early Nuclear Plant Workers | The Safe Side of the Fence Documentary](https://www.youtube.com/watch?v=O6OfW_L0-RI)
 - [ ] [The Manhattan Project: The Destroyer of Worlds](https://www.youtube.com/watch?v=SadnANGjVrU)
 - [x] [What Really Happened During the Manhattan Project?](https://www.youtube.com/watch?v=cyvwlK8ZT_g)
@@ -177,7 +168,6 @@
 - [ ] [Civil War, 1990](https://www.imdb.com/title/tt0098769/)
 
 ## Turkey
-**Singles:**
 - [x] [Gallipoli 1915, Curiosity Stream](https://curiositystream.com/video/4085?collectionId=140)
 - [x] [Why Turkey is turning Istanbul into an island?](https://youtu.be/F6I7eHVXh2A) - rationale for Kanal Istanbul project - pros and cons
 - [x] [Why was Turkey neutral in WW2?](https://youtu.be/apwmP2g_D7k)
