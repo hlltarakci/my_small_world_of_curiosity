@@ -22,12 +22,6 @@
     - Cycling Practice
  
 ### Weekly - Version 2
-- Sunday:
-    - [15 min - butt lifting](https://www.youtube.com/watch?v=WUxjY2r88a8)
-    - [10 min - side butt](https://www.youtube.com/watch?v=pLAWcMLRgj4)
-    - [15 min - ARMS](https://www.youtube.com/watch?v=Y346900i9qE)
-    - [40 min - TOTAL BODY](https://www.youtube.com/watch?v=sQVFoWGjD4k)
-    - Cycling Practice
 - Monday:
     - [12 Minutes to Toned Booty Workout](https://www.youtube.com/watch?v=c3ji2LZ9-GQ&list=PLSCcAGyv98ick76ygMkdu7PuRFfpn8ixM&index=6)
     - [12 Minutes to Toned Thighs Workout](https://www.youtube.com/watch?v=3Vti3KctPe4&list=PLSCcAGyv98ick76ygMkdu7PuRFfpn8ixM&index=3)
@@ -45,6 +39,12 @@
 - Saturday:
     - [30 Min - BUTT](https://www.youtube.com/watch?v=agIYYK8KjDg)
     - [12 minutes - Stretches You Need After a Stressful Day](https://www.youtube.com/watch?v=NRWz91kQuJk)    
+    - Cycling Practice
+- Sunday:
+    - [15 min - butt lifting](https://www.youtube.com/watch?v=WUxjY2r88a8)
+    - [10 min - side butt](https://www.youtube.com/watch?v=pLAWcMLRgj4)
+    - [15 min - ARMS](https://www.youtube.com/watch?v=Y346900i9qE)
+    - [40 min - TOTAL BODY](https://www.youtube.com/watch?v=sQVFoWGjD4k)
     - Cycling Practice
       
 ## Daily Exercise 
