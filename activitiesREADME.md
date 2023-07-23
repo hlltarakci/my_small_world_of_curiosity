@@ -2,6 +2,8 @@
 
 ## Program 
 
+if no time [15 Minute Full Body Pilates - thighs, arms, obliques](https://www.youtube.com/watch?v=inL-zRXWpkk)
+
 ### Weekly - Version 1
 - Sunday:
     - [35 Min - CARDIO & ABS](https://www.youtube.com/watch?v=B5HGDbiH5S4)
