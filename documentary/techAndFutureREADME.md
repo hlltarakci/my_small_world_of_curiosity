@@ -1,6 +1,5 @@
 
 # TECH and FUTURE
-**Singles:**
 - [x] [Google, Facebook, Amazon - The rise of the mega-corporations](https://youtu.be/Dy8ogOaKk4Y)
 - [x] [**The Colours of Infinity, Arthur C. Clarke**, 1995](https://www.imdb.com/title/tt0241317/) - Nature is compatible with fractal geometry.
 - [ ] [The Economy of Tomorrow | AI Revolution | Megacities](https://www.youtube.com/watch?v=jR2ho31tor4)
