@@ -96,6 +96,12 @@
      - [ ] [Cosmonauts: How Russia Won the Space Race, 2014](https://www.imdb.com/title/tt4482288/) / [where to watch](https://vimeo.com/306311919?login=true#)
 - [x] [Why Did The Communist Regimes Fail In Eastern Europe?](https://www.youtube.com/watch?v=TsfLFlA_BrU) / [Eastern Bloc](https://en.wikipedia.org/wiki/Eastern_Bloc) / [Fall of Communism in Eastern Europe, 1989](https://history.state.gov/milestones/1989-1992/fall-of-communism) / [What Are the Differences Between Socialism, Marxism, Stalinism, Leninism, and Communism?](https://medium.com/the-world-times/what-are-the-differences-between-socialism-marxism-stalinism-leninism-and-communism-aaa054634641)
 - [ ] [What Happened to The Eastern Bloc After Soviet Collapse?](https://www.youtube.com/watch?v=u6WkZkUPO7M)
+- [ ] [The Tragedy of Early Nuclear Plant Workers | The Safe Side of the Fence Documentary](https://www.youtube.com/watch?v=O6OfW_L0-RI)
+- [ ] [The Manhattan Project: The Destroyer of Worlds](https://www.youtube.com/watch?v=SadnANGjVrU)
+- [x] [What Really Happened During the Manhattan Project?](https://www.youtube.com/watch?v=cyvwlK8ZT_g)
+- [x] [The Atomic Bomb: Crash Course History of Science](https://www.youtube.com/watch?v=w4q1fG1vh5I) 
+- [ ] [The Man Who Created the Deadliest Weapon in History (J. Robert Oppenheimer and the Atomic Bomb)](https://www.youtube.com/watch?v=4b4B6qrDPdI)
+- [ ] [Apollo Program](https://www.youtube.com/watch?v=55Jas5HrzcQ)
 - Balkans
   - [x] [The Balkans in Flames, 2021](https://www.imdb.com/title/tt24625588/)
        - [x] [**The Balkans in Flames - The Ethnic Conflicts**](https://www.youtube.com/watch?v=075VpqfiTPI&t=0s) / [Ustashe](https://en.wikipedia.org/wiki/Ustaše) / [Jasenovac concentration camp](https://en.wikipedia.org/wiki/Jasenovac_concentration_camp) / [The Assassination Of King Alexander](https://warfarehistorynetwork.com/article/the-assassination-of-king-alexander/) / [Chetniks](https://en.wikipedia.org/wiki/Chetniks) / [Yugoslav Partisans](https://en.wikipedia.org/wiki/Yugoslav_Partisans) / [Goli Otok](https://en.wikipedia.org/wiki/Goli_Otok) / [Death and state funeral of Josip Broz Tito](https://en.wikipedia.org/wiki/Death_and_state_funeral_of_Josip_Broz_Tito)
@@ -155,12 +161,6 @@
 - [ ] [WW2 in color - Road to Victory, 2021](https://www.netflix.com/gb/title/81488464)
 - [ ] [The Abyss: Rise and Fall of the Nazis, 2021](https://www.imdb.com/title/tt14365118/) / [where to watch](https://www.youtube.com/playlist?list=PLf1QSB7YWJJQoi512Urg84f0tY_cQA0wI)
 
-## World History
-- [ ] [The Tragedy of Early Nuclear Plant Workers | The Safe Side of the Fence Documentary](https://www.youtube.com/watch?v=O6OfW_L0-RI)
-- [ ] [The Manhattan Project: The Destroyer of Worlds](https://www.youtube.com/watch?v=SadnANGjVrU)
-- [x] [What Really Happened During the Manhattan Project?](https://www.youtube.com/watch?v=cyvwlK8ZT_g)
-- [ ] [The Man Who Created the Deadliest Weapon in History (J. Robert Oppenheimer and the Atomic Bomb)](https://www.youtube.com/watch?v=4b4B6qrDPdI)
-- [ ] [Apollo Program](https://www.youtube.com/watch?v=55Jas5HrzcQ)
 
 **Series:**
 - [ ] [Butterfly Effect, Curiosity Stream, 2016](https://www.imdb.com/title/tt3790428/) - [1](https://curiositystream.com/video/1699) - [2](https://curiositystream.com/video/1996) - [3](https://curiositystream.com/video/2471) - [4](https://curiositystream.com/video/4550)
