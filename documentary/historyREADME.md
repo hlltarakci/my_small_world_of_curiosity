@@ -94,6 +94,7 @@
      - [ ] [How The Real Soviet Rocketmen Changed the World](https://www.youtube.com/watch?v=vJWQaSJDzEo)
      - [ ] [The Space Race, 2005](https://www.imdb.com/title/tt0461887/)
      - [ ] [Cosmonauts: How Russia Won the Space Race, 2014](https://www.imdb.com/title/tt4482288/) / [where to watch](https://vimeo.com/306311919?login=true#)
+     - [ ] [Out of the Present, 1996](https://www.imdb.com/title/tt0123211/) - [Sergei Krikalev](https://en.wikipedia.org/wiki/Sergei_Krikalev) - [where to watch](https://vimeo.com/325601048)
 - [x] [Why Did The Communist Regimes Fail In Eastern Europe?](https://www.youtube.com/watch?v=TsfLFlA_BrU) / [Eastern Bloc](https://en.wikipedia.org/wiki/Eastern_Bloc) / [Fall of Communism in Eastern Europe, 1989](https://history.state.gov/milestones/1989-1992/fall-of-communism) / [What Are the Differences Between Socialism, Marxism, Stalinism, Leninism, and Communism?](https://medium.com/the-world-times/what-are-the-differences-between-socialism-marxism-stalinism-leninism-and-communism-aaa054634641)
 - [ ] [What Happened to The Eastern Bloc After Soviet Collapse?](https://www.youtube.com/watch?v=u6WkZkUPO7M)
 - [ ] [The Tragedy of Early Nuclear Plant Workers | The Safe Side of the Fence Documentary](https://www.youtube.com/watch?v=O6OfW_L0-RI)
