@@ -68,6 +68,7 @@
 - [ ] [Neal Stephenson, Snow Crash](https://www.amazon.co.uk/Snow-Crash-Neal-Stephenson/dp/0241953189)
 - [ ] [Jean Baudrillard, Simulacra and Simulation](https://www.amazon.com/Simulacra-Simulation-Body-Theory-Materialism/dp/0472065211)
 - [ ] [Sean Adams, The Thing in the Snow](https://www.amazon.com/Thing-Snow-Novel-Sean-Adams-ebook/dp/B09Y93W3TQ)
+- [ ] [Matt Haig, The Midnight Library](https://www.amazon.co.uk/Midnight-Library-Matt-Haig/dp/1786892731)
 - [ ] [Marcel Proust, In Search of Lost Time](https://www.amazon.co.uk/Search-Lost-Time-Proust-Complete/dp/0812969642)
 - Science Fiction Magazines
     - https://clarkesworldmagazine.com/
