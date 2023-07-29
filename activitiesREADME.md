@@ -32,6 +32,8 @@ if no time [15 Minute Full Body Pilates - thighs, arms, obliques](https://www.yo
     - *Optional* [27 Min - STRETCH](https://www.youtube.com/watch?v=J8KQ5zLBOEI) OR [12 minutes - Stretches You Need After a Stressful Day](https://www.youtube.com/watch?v=NRWz91kQuJk)
 
 ### Weekly - Version 2
+- Saturday:
+    - [37 Min - OBLIQUES & THIGHS](https://www.youtube.com/watch?v=sDzubGfNhew)
 - Sunday:
     - [35 Min - CARDIO & ABS](https://www.youtube.com/watch?v=B5HGDbiH5S4)
 - Monday:
@@ -44,8 +46,6 @@ if no time [15 Minute Full Body Pilates - thighs, arms, obliques](https://www.yo
     - [38 Min - ABS & BUTT](https://www.youtube.com/watch?v=T4adtRJ_b3g) 
 - Friday:
     - [27 Min - STRETCH](https://www.youtube.com/watch?v=J8KQ5zLBOEI) 
-- Saturday:
-    - [37 Min - OBLIQUES & THIGHS](https://www.youtube.com/watch?v=sDzubGfNhew)
 
 ### Others
 - [30 Min - BUTT](https://www.youtube.com/watch?v=agIYYK8KjDg)
