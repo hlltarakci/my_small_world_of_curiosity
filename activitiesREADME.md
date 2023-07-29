@@ -2,12 +2,38 @@
 
 ## Program 
 
-if no time [15 Minute Full Body Pilates - thighs, arms, obliques](https://www.youtube.com/watch?v=inL-zRXWpkk)
+if no time [15 Minute Full Body Pilates - thighs, arms, obliques](https://www.youtube.com/watch?v=inL-zRXWpkk) or see others below
 
 ### Weekly - Version 1
+- Saturday:
+    - *Optional* [12 Minutes to Burn Fat - Low Impact Cardio Workout](https://www.youtube.com/watch?v=xEoCXW09-pk&list=PLSCcAGyv98ick76ygMkdu7PuRFfpn8ixM&index=2)
+    - [12 Minutes to Toned Abs Workout](https://www.youtube.com/watch?v=BTa6crp6L9g&list=PLSCcAGyv98ick76ygMkdu7PuRFfpn8ixM&index=3)  
+    - [12 Minutes to Toned Booty Workout](https://www.youtube.com/watch?v=c3ji2LZ9-GQ&list=PLSCcAGyv98ick76ygMkdu7PuRFfpn8ixM&index=6)
+    - [12 Minutes to Toned Thighs Workout](https://www.youtube.com/watch?v=3Vti3KctPe4&list=PLSCcAGyv98ick76ygMkdu7PuRFfpn8ixM&index=3)
+    - [12 Minutes to Toned Arms Workout](https://www.youtube.com/watch?v=nejA_F4D2ps&list=PLSCcAGyv98ick76ygMkdu7PuRFfpn8ixM&index=4) 
+    - [12 minutes - Stretches You Need After a Stressful Day](https://www.youtube.com/watch?v=NRWz91kQuJk)
+- Sunday:
+    - *Optional* [15 min - butt lifting](https://www.youtube.com/watch?v=WUxjY2r88a8)
+    - *Optional* [10 min - side butt](https://www.youtube.com/watch?v=pLAWcMLRgj4) 
+    - [40 min - TOTAL BODY](https://www.youtube.com/watch?v=sQVFoWGjD4k)
+- Monday:
+    - [12 Minutes to Toned Booty Workout](https://www.youtube.com/watch?v=c3ji2LZ9-GQ&list=PLSCcAGyv98ick76ygMkdu7PuRFfpn8ixM&index=6)
+    - [12 Minutes to Toned Thighs Workout](https://www.youtube.com/watch?v=3Vti3KctPe4&list=PLSCcAGyv98ick76ygMkdu7PuRFfpn8ixM&index=3)
+    - [12 minutes - Stretches You Need After a Stressful Day](https://www.youtube.com/watch?v=NRWz91kQuJk)
+- Tuesday
+    - [40 min - TOTAL BODY](https://www.youtube.com/watch?v=sQVFoWGjD4k)
+- Wednesday:
+    - [12 Minutes to Toned Abs Workout](https://www.youtube.com/watch?v=BTa6crp6L9g&list=PLSCcAGyv98ick76ygMkdu7PuRFfpn8ixM&index=3)
+    - [12 Minutes to Toned Arms Workout](https://www.youtube.com/watch?v=nejA_F4D2ps&list=PLSCcAGyv98ick76ygMkdu7PuRFfpn8ixM&index=4) 
+    - [12 minutes - Stretches You Need After a Stressful Day](https://www.youtube.com/watch?v=NRWz91kQuJk)
+- Thursday:
+    - [40 min - TOTAL BODY](https://www.youtube.com/watch?v=sQVFoWGjD4k)
+- Friday: FREE DAY
+    - *Optional* [27 Min - STRETCH](https://www.youtube.com/watch?v=J8KQ5zLBOEI) OR [12 minutes - Stretches You Need After a Stressful Day](https://www.youtube.com/watch?v=NRWz91kQuJk)
+
+### Weekly - Version 2
 - Sunday:
     - [35 Min - CARDIO & ABS](https://www.youtube.com/watch?v=B5HGDbiH5S4)
-    - Cycling Practice
 - Monday:
     - [34 Min - TOTAL BODY](https://www.youtube.com/watch?v=YdnqNGcmhqA)
 - Tuesday:
@@ -18,36 +44,13 @@ if no time [15 Minute Full Body Pilates - thighs, arms, obliques](https://www.yo
     - [38 Min - ABS & BUTT](https://www.youtube.com/watch?v=T4adtRJ_b3g) 
 - Friday:
     - [27 Min - STRETCH](https://www.youtube.com/watch?v=J8KQ5zLBOEI) 
-    - Cycling Practice
 - Saturday:
     - [37 Min - OBLIQUES & THIGHS](https://www.youtube.com/watch?v=sDzubGfNhew)
-    - Cycling Practice
- 
-### Weekly - Version 2
-- Monday:
-    - [12 Minutes to Toned Booty Workout](https://www.youtube.com/watch?v=c3ji2LZ9-GQ&list=PLSCcAGyv98ick76ygMkdu7PuRFfpn8ixM&index=6)
-    - [12 Minutes to Toned Thighs Workout](https://www.youtube.com/watch?v=3Vti3KctPe4&list=PLSCcAGyv98ick76ygMkdu7PuRFfpn8ixM&index=3)
-    - [12 minutes - Stretches You Need After a Stressful Day](https://www.youtube.com/watch?v=NRWz91kQuJk)
-- Tuesday:
-    - [12 Minutes to Toned Abs Workout](https://www.youtube.com/watch?v=BTa6crp6L9g&list=PLSCcAGyv98ick76ygMkdu7PuRFfpn8ixM&index=3)
-    - [40 min - TOTAL BODY](https://www.youtube.com/watch?v=sQVFoWGjD4k)
-- Wednesday:
-    - [20 Min - THIGH & LEGS](https://www.youtube.com/watch?v=Smim7-qG8Ls)
-    - [12 minutes - Stretches You Need After a Stressful Day](https://www.youtube.com/watch?v=NRWz91kQuJk)
-- Thursday:
-    - [12 Minutes to Toned Arms Workout](https://www.youtube.com/watch?v=nejA_F4D2ps&list=PLSCcAGyv98ick76ygMkdu7PuRFfpn8ixM&index=4) 
-    - [40 min - TOTAL BODY](https://www.youtube.com/watch?v=sQVFoWGjD4k)
-- Friday: FREE DAY
-- Saturday:
-    - [30 Min - BUTT](https://www.youtube.com/watch?v=agIYYK8KjDg)
-    - [12 minutes - Stretches You Need After a Stressful Day](https://www.youtube.com/watch?v=NRWz91kQuJk)    
-    - Cycling Practice
-- Sunday:
-    - [15 min - butt lifting](https://www.youtube.com/watch?v=WUxjY2r88a8)
-    - [10 min - side butt](https://www.youtube.com/watch?v=pLAWcMLRgj4)
-    - [15 min - ARMS](https://www.youtube.com/watch?v=Y346900i9qE)
-    - [40 min - TOTAL BODY](https://www.youtube.com/watch?v=sQVFoWGjD4k)
-    - Cycling Practice
+
+### Others
+- [30 Min - BUTT](https://www.youtube.com/watch?v=agIYYK8KjDg)
+- [20 Min - THIGH & LEGS](https://www.youtube.com/watch?v=Smim7-qG8Ls)
+- [15 min - ARMS](https://www.youtube.com/watch?v=Y346900i9qE)
       
 ## Daily Exercise 
 
