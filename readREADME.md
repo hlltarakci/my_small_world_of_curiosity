@@ -39,7 +39,7 @@
     - [x] [Isaac Asimov, 3 Robot Yasasi](https://1000kitap.com/kitap/uc-robot-yasasi--23075)
     - [x] [Isaac Asimov, The Caves of Steel](https://www.amazon.co.uk/dp/0553293400?psc=1&th=1&linkCode=gg2&tag=howtoread06-20)
     - [x] [**Isaac Asimov, The Naked Sun**](https://www.amazon.com/dp/0553293397?tag=howtoread06-20&linkCode=ogi&th=1&psc=1)
-    - [ ] [Isaac Asimov, The Robots of Dawn](https://www.amazon.com/dp/0553299492?tag=howtoread06-20&linkCode=ogi&th=1&psc=1)
+    - [x] [Isaac Asimov, The Robots of Dawn](https://www.amazon.com/dp/0553299492?tag=howtoread06-20&linkCode=ogi&th=1&psc=1)
     - [ ] [Isaac Asimov, Robots and Empire](https://www.amazon.com/dp/0586062009?tag=howtoread06-20&linkCode=ogi&th=1&psc=1)
     - [ ] [Isaac Asimov, The Stars, Like Dust](https://www.amazon.com/dp/0765319152?tag=howtoread06-20&linkCode=ogi&th=1&psc=1)
     - [ ] [Isaac Asimov, The Currents of Space](https://www.amazon.com/dp/0765319179?tag=howtoread06-20&linkCode=ogi&th=1&psc=1)
