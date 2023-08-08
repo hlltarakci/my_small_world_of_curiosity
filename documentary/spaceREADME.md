@@ -9,7 +9,11 @@
 - [ ] [Gagarin: First in space](https://www.imdb.com/title/tt2856930/)
 - [Fermi Paradox](https://en.wikipedia.org/wiki/Fermi_paradox)
    - [x] [The Fermi Paradox — Where Are All The Aliens? - Part 1](https://www.youtube.com/watch?v=sNhhvQGsMEc) / [Part 2](https://www.youtube.com/watch?v=1fQkVqno-uI) / [Dyson Sphere](https://en.wikipedia.org/wiki/Dyson_sphere) / [Kardashev scale](https://en.wikipedia.org/wiki/Kardashev_scale)
-   - [ ] [Brian Cox - Solving The Fermi Paradox: Intelligent Alien Life in Our Galaxy](https://www.youtube.com/watch?v=KNQuGF03Ve4)    
+   - [x] [Brian Cox - Solving The Fermi Paradox: Intelligent Alien Life in Our Galaxy](https://www.youtube.com/watch?v=KNQuGF03Ve4)
+- [Multiverse Hyphotesis](https://en.wikipedia.org/wiki/Multiverse)
+   - [ ] [The Multiverse Hypothesis Explained by Brian Cox](https://www.youtube.com/watch?v=D_VrMvTNvX0)
+   - [ ] [The Multiverse Hypothesis Explained by Neil deGrasse Tyson](https://www.youtube.com/watch?v=h6OoaNPSZeM)
+   - [ ] [Multiverse Theory Explained: Does the Multiverse Really Exist? Truth of Multiple Realities](https://www.youtube.com/watch?v=TLGcmDbleWQ)
 
 **Series:**
 - [ ] [Carl Sagan's Cosmos, 1980](https://www.imdb.com/title/tt0081846/?ref_=tt_sims_tt_i_5) 
