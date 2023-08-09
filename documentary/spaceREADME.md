@@ -14,6 +14,18 @@
    - [ ] [The Multiverse Hypothesis Explained by Brian Cox](https://www.youtube.com/watch?v=D_VrMvTNvX0)
    - [ ] [The Multiverse Hypothesis Explained by Neil deGrasse Tyson](https://www.youtube.com/watch?v=h6OoaNPSZeM)
    - [ ] [Multiverse Theory Explained: Does the Multiverse Really Exist? Truth of Multiple Realities](https://www.youtube.com/watch?v=TLGcmDbleWQ)
+- [History of the Universe Channel](https://www.youtube.com/@HistoryoftheUniverse)
+- [ ] [Why Does The Universe Look Like This?](https://www.youtube.com/watch?v=iDqQ9qgTWmg)
+- [ ] [Why Is The Universe The Same Everywhere?](https://www.youtube.com/watch?v=5JM9RJFMHgc)
+- [ ] [Is Time Travel Possible In Our Universe?](https://www.youtube.com/watch?v=JXZpac6TREw)
+- [ ] [Why Did Time Start Going Forward?](https://www.youtube.com/watch?v=x9m0sz2sUfU)
+- [ ] [What Actually Are Space And Time?](https://www.youtube.com/watch?v=yPVQtvbiS4Y)
+- [ ] [Why Is Gravity So Weak?](https://www.youtube.com/watch?v=4IxuXuLbMoQ)
+- [ ] [What Is Beyond The Edge?](https://www.youtube.com/watch?v=_IkaetPoBZM)
+- [ ] [Have We Really Found The Theory Of Everything?](https://www.youtube.com/watch?v=E4CsY5B3BoI)
+- [ ] [What Was The Big Bang?](https://www.youtube.com/watch?v=XSCrSkK2HcQ)
+- [ ] [What Is Hidden In The Darkness At The Beginning Of Time?](https://www.youtube.com/watch?v=o6wgOd8ghRY)
+- [ ] [What Was The First Black Hole?](https://www.youtube.com/watch?v=HWVnmJpEPjk)
 
 **Series:**
 - [ ] [Carl Sagan's Cosmos, 1980](https://www.imdb.com/title/tt0081846/?ref_=tt_sims_tt_i_5) 
