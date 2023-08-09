@@ -4,7 +4,7 @@
 
 if no time [15 Minute Full Body Pilates - thighs, arms, obliques](https://www.youtube.com/watch?v=inL-zRXWpkk) or see [others](https://github.com/hlltarakci/my_small_world_of_curiosity/blob/main/activitiesREADME.md#others) below
 
-alternative/extra: 10k+ hiking or cycling
+alternative/extra: 10k+ hiking or cycling, or **free format** (any around 30 minute exercise video from below)
 
 ### Weekly - Version 1
 - Saturday:
