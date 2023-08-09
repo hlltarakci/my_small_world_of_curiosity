@@ -14,6 +14,8 @@
    - [ ] [The Multiverse Hypothesis Explained by Brian Cox](https://www.youtube.com/watch?v=D_VrMvTNvX0)
    - [ ] [The Multiverse Hypothesis Explained by Neil deGrasse Tyson](https://www.youtube.com/watch?v=h6OoaNPSZeM)
    - [ ] [Multiverse Theory Explained: Does the Multiverse Really Exist? Truth of Multiple Realities](https://www.youtube.com/watch?v=TLGcmDbleWQ)
+   - [ ] [11 Dimensions Explained - Higher Dimensions Explained](https://www.youtube.com/watch?v=UxubeeSqSmk)
+   - [ ] [Does Gravity Require Extra Dimensions?](https://www.youtube.com/watch?v=z91oGI5aP0A)
 - [History of the Universe Channel](https://www.youtube.com/@HistoryoftheUniverse)
    - [ ] [Why Does The Universe Look Like This?](https://www.youtube.com/watch?v=iDqQ9qgTWmg)
    - [ ] [Why Is The Universe The Same Everywhere?](https://www.youtube.com/watch?v=5JM9RJFMHgc)
@@ -26,6 +28,10 @@
    - [ ] [What Was The Big Bang?](https://www.youtube.com/watch?v=XSCrSkK2HcQ)
    - [ ] [What Is Hidden In The Darkness At The Beginning Of Time?](https://www.youtube.com/watch?v=o6wgOd8ghRY)
    - [ ] [What Was The First Black Hole?](https://www.youtube.com/watch?v=HWVnmJpEPjk)
+   - [ ] [Was The Universe Born From Nothing?](https://www.youtube.com/watch?v=MOItjGpiAfo)
+   - [ ] [How Many Multiverses Are There?](https://www.youtube.com/watch?v=1jmNzlTd09E)
+   - [ ] [Where Are All The Hidden Dimensions?](https://www.youtube.com/watch?v=9If-K9R3Ka4)
+   - [ ] [How Did Our Universe Emerge From Chaos?](https://www.youtube.com/watch?v=qr0wyKbm7m4)
 
 **Series:**
 - [ ] [Carl Sagan's Cosmos, 1980](https://www.imdb.com/title/tt0081846/?ref_=tt_sims_tt_i_5) 
