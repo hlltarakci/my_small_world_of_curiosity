@@ -4,7 +4,7 @@
 
 if no time [15 Minute Full Body Pilates - thighs, arms, obliques](https://www.youtube.com/watch?v=inL-zRXWpkk) or see [others](https://github.com/hlltarakci/my_small_world_of_curiosity/blob/main/activitiesREADME.md#others) below
 
-alternative/extra: 10k+ hiking or cycling, or **free format** (any around 30 minute exercise video from below)
+**alternative/extra**: 10k+ hiking or cycling, or **free format** (any around 30 minute exercise video from below)
 
 ### Weekly - Version 1
 - Saturday:
@@ -17,19 +17,19 @@ alternative/extra: 10k+ hiking or cycling, or **free format** (any around 30 min
 - Sunday:
     - *Optional* [15 min - butt lifting](https://www.youtube.com/watch?v=WUxjY2r88a8)
     - *Optional* [10 min - side butt](https://www.youtube.com/watch?v=pLAWcMLRgj4) 
-    - [40 min - TOTAL BODY](https://www.youtube.com/watch?v=sQVFoWGjD4k)
+    - [40 min - TOTAL BODY](https://www.youtube.com/watch?v=sQVFoWGjD4k) **OR** [26 min, dense version](https://youtu.be/jaqciTxwDoE)
 - Monday:
     - [12 Minutes to Toned Booty Workout](https://www.youtube.com/watch?v=c3ji2LZ9-GQ&list=PLSCcAGyv98ick76ygMkdu7PuRFfpn8ixM&index=6)
     - [12 Minutes to Toned Thighs Workout](https://www.youtube.com/watch?v=3Vti3KctPe4&list=PLSCcAGyv98ick76ygMkdu7PuRFfpn8ixM&index=3)
     - [12 minutes - Stretches You Need After a Stressful Day](https://www.youtube.com/watch?v=NRWz91kQuJk)
 - Tuesday
-    - [40 min - TOTAL BODY](https://www.youtube.com/watch?v=sQVFoWGjD4k)
+    - [40 min - TOTAL BODY](https://www.youtube.com/watch?v=sQVFoWGjD4k) **OR** [26 min, dense version](https://youtu.be/jaqciTxwDoE)
 - Wednesday:
     - [12 Minutes to Toned Abs Workout](https://www.youtube.com/watch?v=BTa6crp6L9g&list=PLSCcAGyv98ick76ygMkdu7PuRFfpn8ixM&index=3)
     - [12 Minutes to Toned Arms Workout](https://www.youtube.com/watch?v=nejA_F4D2ps&list=PLSCcAGyv98ick76ygMkdu7PuRFfpn8ixM&index=4) 
     - [12 minutes - Stretches You Need After a Stressful Day](https://www.youtube.com/watch?v=NRWz91kQuJk)
 - Thursday:
-    - [40 min - TOTAL BODY](https://www.youtube.com/watch?v=sQVFoWGjD4k)
+    - [40 min - TOTAL BODY](https://www.youtube.com/watch?v=sQVFoWGjD4k) **OR** [26 min, dense version](https://youtu.be/jaqciTxwDoE)
 - Friday: FREE DAY
     - *Optional* [27 Min - STRETCH](https://www.youtube.com/watch?v=J8KQ5zLBOEI) OR [12 minutes - Stretches You Need After a Stressful Day](https://www.youtube.com/watch?v=NRWz91kQuJk)
 
