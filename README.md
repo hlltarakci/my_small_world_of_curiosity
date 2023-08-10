@@ -1,7 +1,7 @@
 # My Small World of Curiosity (Personal Tracker)
 
 - WATCH List
-   - [**Documentary / Research / Curiosity**](https://github.com/hlltarakci/my_small_world_of_curiosity/blob/main/documentary/README.md)
+   - [Documentary / Research / Curiosity](https://github.com/hlltarakci/my_small_world_of_curiosity/blob/main/documentary/README.md)
    - [Movie](https://github.com/hlltarakci/my_small_world_of_curiosity/blob/main/watchMovieREADME.md)
 - COOKING
    - [COOK-in-STYLE](https://github.com/hlltarakci/my_small_world_of_curiosity/tree/main/cook_in_style)
