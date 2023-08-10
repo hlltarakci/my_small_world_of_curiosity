@@ -87,6 +87,3 @@ These are the finely selected recipes that i (*will*) know by heart and repeat o
 6. Airfryera yagli kagit koy.
 7. Icecream scrooper ile 4 parca kopararak pisir (165 derecede, 10-12 dk), biraz yayilacak. (NOT: Yayilmaya meyilli malesef, [bazi tariflerde tek buyuk bir parca yapiyorlar, sonra kesiyorlar](https://portakalagaci.com/2022/01/airfryerda-kurabiye.html).)
 8. 2-3 dk. beklesin almadan once. Soguyunce servis et.
-
-# Wishlist to try soon
-- [ ] [Hungarian Gulash](https://www.youtube.com/watch?v=vCe-nMNMDRA)
