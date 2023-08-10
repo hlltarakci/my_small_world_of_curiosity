@@ -12,6 +12,8 @@
 - [x] [High Fidelity, 2000](https://www.imdb.com/title/tt0146882/)
 - [x] [One Week, 2008](https://www.imdb.com/title/tt1104806/)
 - [x] [**One Flew Over the Cuckoo's Nest**, 1975 ](https://www.imdb.com/title/tt0073486/)
+- [x] [**Another Earth, 2011**](https://www.imdb.com/title/tt1549572/)
+- [x] [**Radius, 2017**](https://www.imdb.com/title/tt6097798/)
 - [ ] [Band of Outsiders, 1964](https://www.imdb.com/title/tt0057869/)
 - [ ] [To Kill a Mockingbird, 1962](https://www.imdb.com/title/tt0056592/)
 - [ ] [Eternity and a Day, 1998](https://www.imdb.com/title/tt0156794/)
