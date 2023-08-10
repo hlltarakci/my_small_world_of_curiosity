@@ -1,4 +1,4 @@
-# My Cooking - Deprecating in favor of [cook in style](https://github.com/hlltarakci/my_small_world_of_curiosity/tree/main/cook_in_style)**
+# My Cooking - Deprecating in favor of [cook in style](https://github.com/hlltarakci/my_small_world_of_curiosity/tree/main/cook_in_style)
 
 AirFryer Recipes
 - [Crispy Cauliflower](https://github.com/hlltarakci/my_small_world_of_curiosity/blob/main/cooking/README.md#crispy-cauliflower)
