@@ -1,5 +1,7 @@
 # Finding My Style in Cooking
 
+- [ ] Move recipes from [here](https://github.com/hlltarakci/my_small_world_of_curiosity/tree/main/cooking)
+
 These are the finely selected recipes that i (*will*) know by heart and repeat often, which means building my own cooking style :)
 - [Soups](https://github.com/hlltarakci/my_small_world_of_curiosity/tree/main/cook_in_style#soup)
 - [Salads](https://github.com/hlltarakci/my_small_world_of_curiosity/tree/main/cook_in_style#salad)
