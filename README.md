@@ -22,10 +22,8 @@
 - https://www.youtube.com/@TheEconomist
 - https://www.youtube.com/@GeoPerspective
 - https://www.youtube.com/@wsj
-- http://politikaakademisi.org/
 - https://www.youtube.com/@business
 - https://www.youtube.com/@BBCWorldService
-- https://aposto.com/  -  https://aposto.com/en
 
 
 
