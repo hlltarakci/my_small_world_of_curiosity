@@ -153,7 +153,7 @@
      - [x] [**Poirot, 1989**](https://www.imdb.com/title/tt0094525/)
      - [ ] [Rick and Morty, 2013](https://www.imdb.com/title/tt2861424/)
      - [ ] [Curb Your Enthusiasm, 2000](https://www.imdb.com/title/tt0264235/)
-     - [ ] [House of Cards, 2013](https://www.imdb.com/title/tt1856010/)
+     - [x] [House of Cards, 2013](https://www.imdb.com/title/tt1856010/)
      - [ ] [The West Wing, 1999](https://www.imdb.com/title/tt0200276/)
      - [x] [Secret City, 2016](https://www.imdb.com/title/tt4976512/)
 - Guilty Pleasure
