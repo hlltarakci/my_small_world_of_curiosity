@@ -1,122 +1,65 @@
-# My Cooking - Deprecating in favor of [cook in style](https://github.com/hlltarakci/my_small_world_of_curiosity/tree/main/cook_in_style)
+# Cooking
 
-AirFryer Recipes
-- [Crispy Cauliflower](https://github.com/hlltarakci/my_small_world_of_curiosity/blob/main/cooking/README.md#crispy-cauliflower)
-- [Roast Potatoes](https://github.com/hlltarakci/my_small_world_of_curiosity/blob/main/cooking/README.md#roast-potatoes)
-- [Potato Wedges](https://github.com/hlltarakci/my_small_world_of_curiosity/blob/main/cooking/README.md#potato-wedges)
-- [Crispy Potatoes](https://github.com/hlltarakci/my_small_world_of_curiosity/blob/main/cooking/README.md#crispy-potatoes)
-- [Toasted Bread](https://github.com/hlltarakci/my_small_world_of_curiosity/blob/main/cooking/README.md#toasted-bread)
-- [Cake](https://github.com/hlltarakci/my_small_world_of_curiosity/blob/main/cooking/README.md#cake)
-- [Puff Pastry Pie](https://github.com/hlltarakci/my_small_world_of_curiosity/blob/main/cooking/README.md#puff-pastry-pie)
-- [Chicken Parmesan](https://github.com/hlltarakci/my_small_world_of_curiosity/blob/main/cooking/README.md#chicken-parmesan)
-- [Homemade Tortilla Chips](https://github.com/hlltarakci/my_small_world_of_curiosity/blob/main/cooking/README.md#homemade-tortilla-chips)
-- [Salmon and Asparagus](https://github.com/hlltarakci/my_small_world_of_curiosity/blob/main/cooking/README.md#salmon-and-asparagus)
+# SOUPS
 
-Oven Recipes
-- [El Acmasi Kol Boregi (Pirasali)](https://github.com/hlltarakci/my_small_world_of_curiosity/tree/main/cooking#el-acmasi-kol-boregi-pirasali)
-- [Kiymali Pogaca](https://github.com/hlltarakci/my_small_world_of_curiosity/tree/main/cooking#kiymali-pogaca)
-- [Kiymali Pide](https://github.com/hlltarakci/my_small_world_of_curiosity/tree/main/cooking#kiymali-pide)
-- [Russian Tea Cakes](https://github.com/hlltarakci/my_small_world_of_curiosity/blob/main/cooking/README.md#russian-tea-cakes)
-- [Blueberry Cake](https://github.com/hlltarakci/my_small_world_of_curiosity/tree/main/cooking#blueberry-cake)
-- [Salty Cake](https://github.com/hlltarakci/my_small_world_of_curiosity/tree/main/cooking#salty-cake)
-- [Rolled Pastry](https://github.com/hlltarakci/my_small_world_of_curiosity/tree/main/cooking#rolled-pastry)
-- [Browni](https://github.com/hlltarakci/my_small_world_of_curiosity/blob/main/cooking/README.md#browni)
-- [Starbucks Carrot Cake](https://github.com/hlltarakci/my_small_world_of_curiosity/tree/main/cooking#starbucks-carrot-cake)
+## Kale Soup from Black Sea Region
+[<img src="kale_soup_from_blacksea_region.jpg" width="500"/>](kale_soup_from_blacksea_region.jpg)
+1. 2 demet kadar kara lahanayi yika, dogra.
+2. 2 orta boy sogan -> yemeklik dogra
+3. Soganlari 4-5 yemek kasigi zeytonyagi ile kavur
+4. 2-3 dis sarimsak -> dogra ve tencereye ekle
+5. 2 yemek kasigi biber salcasi -> tencereye ekle
+6. 3 orta boy patates -> kup kup dogra
+7. 3 kucuk havuc -> kucuk kucuk dogra
+8. Sogan-sarimsak kavrulunca, patates, havuc ve 1 cay bardagi barbunya tencereye ekle, kavur
+9. Karalahanayi ekle, biraz kavrulsun
+10. 2-3 yemek kasigi bulgur, 3 cay kasigi tuz + 1 cay kasigi pul biber + yarim cay kasigi karabiber ekle, ustune gececek kadar su ilave et. Yarim saat kadar pisir
 
-Stove Recipes
-- [Chickpeas with Beef](https://github.com/hlltarakci/my_small_world_of_curiosity/tree/main/cooking#chickpeas-with-beef)
-- [Roast Chicken](https://github.com/hlltarakci/my_small_world_of_curiosity/tree/main/cooking#roast-chicken)
-- [False Chicken Breast Pudding](https://github.com/hlltarakci/my_small_world_of_curiosity/tree/main/cooking#false-chicken-breast-pudding)
-- [Quince Filled Cookies](https://github.com/hlltarakci/my_small_world_of_curiosity/tree/main/cooking#quince-filled-cookies)
-- [Fried Anchovies (Hamsi Tava)](https://github.com/hlltarakci/my_small_world_of_curiosity/tree/main/cooking#fried-anchovies-hamsi-tava)
-- [Capia_Pepper_with_Cheddar_Cheese](https://github.com/hlltarakci/my_small_world_of_curiosity/blob/main/cooking/README.md#capia-pepper-with-cheddar-cheese)
+## [Chicken Soup (with Orzo and Lemon&Egg Sauce)](https://tr.wikipedia.org/wiki/%C5%9Eehriyeli_tavuk_suyu_%C3%A7orba)
+<img src="chicken_soup.jpg" width="500"/>
 
-Salads
-- [Carrot Tarator](https://github.com/hlltarakci/my_small_world_of_curiosity/blob/main/cooking/README.md#carrot-tarator)
-- [Purple Cabbage Salad](https://github.com/hlltarakci/my_small_world_of_curiosity/tree/main/cooking#purple-cabbage-salad)
-- [Cig Kofte (Turkish style vegetarian steak tartar balls)](https://github.com/hlltarakci/my_small_world_of_curiosity/tree/main/cooking#cig-kofte)
-- [Kuru Domates Salatasi](https://github.com/hlltarakci/my_small_world_of_curiosity/tree/main/cooking#kuru-domates-salatasi)
+1. Bir tavuk gogsunu 10 su bardagi su ile hasla. Haslandiktan sonra suyu corbada kullanilacak. Tavugu bidikla.
+2. Tencerede 1 yemek kasigi tereyagi erit.
+3. 1 yemek kasigi un ekle, hizli bir sekilde kokusu cikana kadar karistir.
+4. Tavuk suyunu ekle, kaynamaya birak.
+5. 1 su bardagi (ya da biraz eksik) tel veya arpa sehriyeyi ekle. Karistirarak sehriyenin sismesini bekle.
+6. Terbiyeyi hazirla: Yarim-bir limon suyu ile bir yumurtayi guzelce cirp.
+7. Corbaya terbiyeyi eklerken, once corbadan biraz terbiyeye ekle ve karistir. Yavasca corbaya ekle, surekli karistir.
+8. Parcalanmis/bidiklanmis tavuklari ekle. 10 dk. kaynasin.
+9. Dolu dolur 1 tatli kasigi tuz ekle. Bir kac dk. daha kaynattiktran sonra ocagi kapat.
 
-Soups
-- [Kale Soup from Black Sea Region](https://github.com/hlltarakci/my_small_world_of_curiosity/blob/main/cooking/README.md#kale-soup-from-black-sea-region)
-- [Tomato Soup](https://github.com/hlltarakci/my_small_world_of_curiosity/blob/main/cooking/README.md#tomato-soup)
-- [Turkish Noodle Soup](https://github.com/hlltarakci/my_small_world_of_curiosity/blob/main/cooking/README.md#turkish-noodle-soup)
+## Tomato Soup
+[<img src="tomato_soup.jpg" width="500"/>](tomato_soup.jpg)
+1. 2 yemek kasigi tereyag -> tencerede erit.
+2. 3 yemek kasi dolu dolu un -> kokusu cikana kadar kavur.
+3. 1 su bardagi sut + 1 su bardagi domates suyu -> ekle, karistir.
+4. Sicak su veya tavuk/et suyu ekle -> kaynat.
+5. 3 cay kasigi tuz + 1 tutan karabiber ekle.
+6. 5 dk kadar kaynat.
 
-# AIRFRYER RECIPES
+## Yogurt Soup with Orzo
+<img src="yogurt_soup_with_orzo.jpg" width="500"/>
 
-## Crispy Cauliflower
-[<img src="airfryer_crispy_cauliflower.jpg" width="500"/>](airfryer_crispy_cauliflower.jpg)
-1. Karnibahari yika, buyuk parcalar halinde kes
-2. Bir kaseye un + tuz koy, bir kaseye 2-3 yumurta cirp, bir kaseye galeta unu + tuz + baharatlar (kirmizi toz biber, karabiber, kirmizi pul biber, kekik vs) koy
-3. Karnibaharlari sirayla una, yumurtaya ve galeta unu karisimina bula. Uzerlerine siviyag spreyle.
-4. AirFryer da 200 derecede arada karistirarak 20 dk kadar pisir. Cacik veya sarimsakli yogurtla servis yap.
+1. Tencereye 1 yumurta kir, guzelce cirp.
+2. 1 su bardagi yogurt ekle, cirp.
+3. 2 yemek kasigi un ekle, cirp.
+4. Yavas yavas, karistirarak 7 su bardagi su ekle, cirp.
+5. Ocakta orta ateste karistirarak kaynat.
+6. Yarim su bardagi arpa sehriye ekle, 15 dakika kadar daha karistirarak kaynat.
+7. 1 tatli kasigi tuz ekle (**TIP: Yogurt corbalarina tuz en son eklenir.**)
+8. Tencereyi ocaktan al, 15 dk kadar demlenmeye birak.
+9. Tavada 1 yemek kasigi tereyagi kizdir, 1 tatli kasigi nane ekle. Corbayi servis ederken ya da tencereye ekle.   
 
-## Roast Potatoes
-[<img src="roast_potatoes.jpeg" width="500"/>](roast_potatoes.jpeg)
-1. Patatesleri ortadan kes, tuzla, AirFryer da pisir.
-2. Ustune tereyag, peynir, poy (karisik baharat) ekle.
-
-## Potato Wedges
-[<img src="potato_wedges.jpg" width="500"/>](potato_wedges.jpg)
-1. 4-5 patates, esit sekilde kizartmalik dogra
-2. Zeytinyagi (ya da ceviz yagi), tuz, kirmizi biber ve kekik ile harmanla
-3. AirFryer da pisir
-
-## Crispy Potatoes
-[<img src="crispy_potatoes.jpg" width="500"/>](crispy_potatoes.jpg)
-Protip: Esit olcude kes. Patatesleri kagit havluyla iyice kurula. Pisirirken arada bak, erken oluyor.
-
-## Toasted Bread
-[<img src="airfryer_toasted_bread.jpg" width="500"/>](airfryer_toasted_bread.jpg)
-1. Ekmegin uzerine tereyagi, sarimsak, cherry domates, rendelenmis kasar ve maydanoz koy
-2. AirFryer da pisir
-
-## Cake
-[<img src="airfryer_orange_cake.jpg" width="500"/>](airfryer_orange_cake.jpg)
-1. 2 yumurta, cirp
-2. 1/2 bardak seker, iki seferde ekle, cirp
-3. 5 yemek kasigi yag (ceviz yagi) ekle, cirp
-4. 1 su bardagi un, 1/2 cay kasigi baking powder, 1/4 cay kasigi tuz ekle, iki severde karisima ekle, cirp
-5. Istenen aromayi ekle, orange cut gibi
-6. 1/4 su bardagi sut ekle, cirp
-7. AirFryerda 175 derecede pisir
-
-## Puff Pastry Pie
-[<img src="puff_pastry_pie.jpg" width="500"/>](puff_pastry_pie.jpg)
-1. Milfoy hamuruna sekil vermek icin [link1](https://www.youtube.com/watch?v=mEjUj_KNRTI), [link2](https://www.youtube.com/watch?v=IIJaoXC_u2E)
-2. Icine beyaz peynir/rendelenmis kasar/nutella konabilir
-3. Uzerine yumurta sarisi sur, susam ya da corek otu serp.
-4. Airfryerda 185 derece 12 dk ayarla, 5 dk kala borekleri cevir.
-
-## Chicken Parmesan
-[<img src="chicken_parmesan.jpg" width="500"/>](chicken_parmesan.jpg)
-1. Bir kapta karistir: 1/3 bardak un + 1 cay kasigi tuz + 1 cay kasigi karabiber
-2. Ayri bir kapta: 2 yumurta kir, karistir
-3. Ayri bir kapta: 1 su bardagi panko breadcrumbs + ceyrek su bardagi rendelenmis paremsan + 1 cay kasigi kekik + 1 cay kasigi garlic granular (ya da yarim cay kasigi garlic powder) + yarim cay kasigi chili flakes
-4. 2 tavuk gogsunu kalinligi ayni olacak sekilde inceltmeye calis. Cok kalin ise ortadan serit halinde kes
-5. Tavuklari sirasiyla unlu karisima, yumurtaya, panko lu karisima iyice bula. Daha crispy olsun istiyorsan iki kat bula.
-6. AirFryer da 190 derecede pisir. Tavuklarin kalinligina gore pisirme suresi degisir. 10-15 dk. surebilir, iki tarafi da cevirerek pisir.
-7. Istege gore uzerine marinara sosu (ya da domates sosu) ve rendelenmis mozarella koy, peynir eriyene kadar birkac dk daha pisir.
-8. Istege gore uzerine maydanoz ile servis et.
-- [Orjinal tarif](https://www.youtube.com/watch?v=kl9YEMNGqgQ)
-- NOT 1: Bana agir geldi, cok doyurucu, bir parca yetiyor.
-- NOT 2: Yumurta yerine mayonez kullanan ve daha az baharatli bir tarif var: [link](https://www.youtube.com/watch?v=c105n9qGTlg)
-
-## Homemade Tortilla Chips
-[<img src="homemade_tortilla_chips.jpg" width="500"/>](homemade_tortilla_chips.jpg)
-1. 2-3 tortilla uzerine siviyag iyice yay, tuz, karabiber serp. Cips seklinde kes.
-2. 200 derecede 3-4 dk da pisiyor
-- [Orjinal tarif](https://www.youtube.com/watch?v=-eudAnySdKk)
-
-## Salmon and Asparagus
-[<img src="salmon_and_asparagus.jpg" width="500"/>](salmon_and_asparagus.jpg)
-1. Somonun uzerine zeytin yagi (ya da ceviz yagi), tuz, karabiber ve kirmizi biber dok, masaj yap. Kirmizi biber yuzeyi kaplasin, rengini o veriyor.
-2. Kuskonmazlarin kalin sapini kes, zeytinyagi, tuz ve karabiber karisimi ile seasonla.
-3. AirFryerda => Somon 190 derece 6-8 dk, kuskonmaz 200 derecede 7-8 dk
-- Orjinal tarif: [somon](https://www.youtube.com/watch?app=desktop&v=cyRi_-TgFl8), [kuskonmaz](https://www.youtube.com/watch?v=1uh_LOcJeSQ)
+## Turkish Noodle Soup
+[<img src="turkish_noodle_soup.jpg" width="500"/>](turkish_noodle_soup.jpg)
+1. 5 yemek kasigi zeytinyagi + 5-6 yemek kasigi domates rendesi + (opsiyonel)1 tatli kasigi salca -> Tencereye koy, isit
+2. 5-6 su bardagi sicak su -> tencereye ekle, kaynat
+3. 1 cay bardagindan biraz fazla arpa sehriye -> ekle, karistir
+4. 3 cay kasigi tuz + 1 cay kasigi karabiber -> ekle
+5. (Opsiyonel) 1 tavuk ya da et bulyon ekle
+6. Arpa sehriyeler pisince dinlenmeye birak
 
 # OVEN RECIPES
-
 ## El Acmasi Kol Boregi (Pirasali)
 [<img src="acma_borek.jpg" width="500"/>](acma_borek.jpg)
 1. Ic harci: Pirasayi dogra, tencereye al. Tuz at, kavur. Cok az siviyag, sut kaymagi koy. Pisir.
@@ -204,6 +147,28 @@ Protip: Esit olcude kes. Patatesleri kagit havluyla iyice kurula. Pisirirken ara
 4. Ustunu gececek kadar sicak su koy, eti pisir.
 5. Haslanmis nohutu ekle, 3 cay kasigi tuz, yarim cay kasigi karabiber ekle. Pisirmeye devam et.
 
+## [Tavuklu Pilav (Chicken Pilaf)](https://goturkiye.com/10-iconic-street-foods-in-turkiye)
+<img src="tavuklu_pilav.jpg" width="500"/>
+
+1. Pirinci suda beklet (en az 1 saat).
+2. Tavuk gogus etini hasla (Suyu pilav yaparken kullanilacak).
+3. Tencereye 2 yemek kasigi tereyag ekle. Istege gore sehriye ekle. Kavur, guzelce pembelessin.
+4. Pirinci yikayip, suzdurup ekle. 2 cay kasigi tuz ekle. Kavur. Narince karistir.
+5. Pirinc kavrulduktan sonra uzerini gececek kadar tavuk suyunu ekle. Pirinc sisene, suyu emene kadar pisir.
+6. Ocagi kapat, kagit havlu koyarak 10-15 dk demlenmeye birak.
+7. Karabiber serp, [ayran](https://en.wikipedia.org/wiki/Ayran) ile servis et.
+
+## [Et Sote (Beef Saute)](https://www.dreamstime.com/turkish-et-sote-traditional-turkish-et-sote-meat-saute-bread-vegetables-image218473270)
+<img src="et_sote.jpg" width="500"/>
+
+1. Kusbasi eti kisik ateste suyunu salip cekene kadar pisir.
+2. 4-5 kucuk soga, 2-3 dis sarimsak dogra.
+3. Et suyunu cektikten sonra 2 yemek kasigi siviyag ekle, karistir. Sogan ve sarimsagi ekle, kavur. Karabiber ekle.
+4. 2 yemek kasigi biber salcasi ekle, kavur.
+5. Ustunu gecinceye kadar sicak su ekle, pisir. Elde dagilmasi lazim.
+6. 2 - 2.5 cay kasigi tuz ekle, biraz daha kaynat. Ocaktan al.
+7. Patates kizartmasi, pure ya da pilavla servis edilebilir.
+
 ## Roast Chicken
 [<img src="roast_chicken.jpg" width="500"/>](roast_chicken.jpg)
 1. 2 yemek kasigi biber salcasi + biraz zeytinyagi + 1 cay kasigi tuz + bir tutam kekik, nane, kirmizi toz biber, kirmizi pul biber, karabiber -> karistir
@@ -238,8 +203,104 @@ Protip: Esit olcude kes. Patatesleri kagit havluyla iyice kurula. Pisirirken ara
 1. Tereyagini erit, kirmizi kapya biberleri dogra ve kavur
 2. Rendelenmis kasari ekle, karistirmadan kisik ateste peynir eriyince servis yap.
 
-# SALADS
+## [Kuymak](https://en.wikipedia.org/wiki/Kuymak)
+<img src="kuymak.jpg" width="500"/>
 
+1. Bir kapta karistir: 3 yemek kasigi misir unu, uzayabilen bir peynir cesidi, 2 cay kasigi tuz, ustunu gececek kadar su 
+2. Tavada 3-4 yemek kasigi tereyag erit. Bol tereyagiyla guzel olan bir tarif bu. 
+3. Tereyagi iyice kizdiginda malzemeleri tavaya al. Kasikla ileri geri yapacak sekilde, seklini bozmadan karistir. Cok kati olmamasi gerekiyor, gerekiyorsa su ekle.
+4. Pistigini anlamak icin peyniri gozlemliyoruz, uzamasi gerekiyor.
+
+# AIRFRYER RECIPES
+## Salmon and Asparagus
+[<img src="salmon_and_asparagus.jpg" width="500"/>](salmon_and_asparagus.jpg)
+1. Somonun uzerine zeytin yagi (ya da ceviz yagi), tuz, karabiber ve kirmizi biber dok, masaj yap. Kirmizi biber yuzeyi kaplasin, rengini o veriyor.
+2. Kuskonmazlarin kalin sapini kes, zeytinyagi, tuz ve karabiber karisimi ile seasonla.
+3. AirFryerda => Somon 190 derece 6-8 dk, kuskonmaz 200 derecede 7-8 dk
+- Orjinal tarif: [somon](https://www.youtube.com/watch?app=desktop&v=cyRi_-TgFl8), [kuskonmaz](https://www.youtube.com/watch?v=1uh_LOcJeSQ)
+
+## Crispy Cauliflower
+[<img src="airfryer_crispy_cauliflower.jpg" width="500"/>](airfryer_crispy_cauliflower.jpg)
+1. Karnibahari yika, buyuk parcalar halinde kes
+2. Bir kaseye un + tuz koy, bir kaseye 2-3 yumurta cirp, bir kaseye galeta unu + tuz + baharatlar (kirmizi toz biber, karabiber, kirmizi pul biber, kekik vs) koy
+3. Karnibaharlari sirayla una, yumurtaya ve galeta unu karisimina bula. Uzerlerine siviyag spreyle.
+4. AirFryer da 200 derecede arada karistirarak 20 dk kadar pisir. Cacik veya sarimsakli yogurtla servis yap.
+
+## Roast Potatoes
+[<img src="roast_potatoes.jpeg" width="500"/>](roast_potatoes.jpeg)
+1. Patatesleri ortadan kes, tuzla, AirFryer da pisir.
+2. Ustune tereyag, peynir, poy (karisik baharat) ekle.
+
+## Potato Wedges
+[<img src="potato_wedges.jpg" width="500"/>](potato_wedges.jpg)
+1. 4-5 patates, esit sekilde kizartmalik dogra
+2. Zeytinyagi (ya da ceviz yagi), tuz, kirmizi biber ve kekik ile harmanla
+3. AirFryer da pisir
+
+## Crispy Potatoes
+[<img src="crispy_potatoes.jpg" width="500"/>](crispy_potatoes.jpg)
+Protip: Esit olcude kes. Patatesleri kagit havluyla iyice kurula. Pisirirken arada bak, erken oluyor.
+
+## Toasted Bread
+[<img src="airfryer_toasted_bread.jpg" width="500"/>](airfryer_toasted_bread.jpg)
+1. Ekmegin uzerine tereyagi, sarimsak, cherry domates, rendelenmis kasar ve maydanoz koy
+2. AirFryer da pisir
+
+## Cake
+[<img src="airfryer_orange_cake.jpg" width="500"/>](airfryer_orange_cake.jpg)
+1. 2 yumurta, cirp
+2. 1/2 bardak seker, iki seferde ekle, cirp
+3. 5 yemek kasigi yag (ceviz yagi) ekle, cirp
+4. 1 su bardagi un, 1/2 cay kasigi baking powder, 1/4 cay kasigi tuz ekle, iki severde karisima ekle, cirp
+5. Istenen aromayi ekle, orange cut gibi
+6. 1/4 su bardagi sut ekle, cirp
+7. AirFryerda 175 derecede pisir
+
+## Puff Pastry Pie
+[<img src="puff_pastry_pie.jpg" width="500"/>](puff_pastry_pie.jpg)
+1. Milfoy hamuruna sekil vermek icin [link1](https://www.youtube.com/watch?v=mEjUj_KNRTI), [link2](https://www.youtube.com/watch?v=IIJaoXC_u2E)
+2. Icine beyaz peynir/rendelenmis kasar/nutella konabilir
+3. Uzerine yumurta sarisi sur, susam ya da corek otu serp.
+4. Airfryerda 185 derece 12 dk ayarla, 5 dk kala borekleri cevir.
+
+## Chicken Parmesan
+[<img src="chicken_parmesan.jpg" width="500"/>](chicken_parmesan.jpg)
+1. Bir kapta karistir: 1/3 bardak un + 1 cay kasigi tuz + 1 cay kasigi karabiber
+2. Ayri bir kapta: 2 yumurta kir, karistir
+3. Ayri bir kapta: 1 su bardagi panko breadcrumbs + ceyrek su bardagi rendelenmis paremsan + 1 cay kasigi kekik + 1 cay kasigi garlic granular (ya da yarim cay kasigi garlic powder) + yarim cay kasigi chili flakes
+4. 2 tavuk gogsunu kalinligi ayni olacak sekilde inceltmeye calis. Cok kalin ise ortadan serit halinde kes
+5. Tavuklari sirasiyla unlu karisima, yumurtaya, panko lu karisima iyice bula. Daha crispy olsun istiyorsan iki kat bula.
+6. AirFryer da 190 derecede pisir. Tavuklarin kalinligina gore pisirme suresi degisir. 10-15 dk. surebilir, iki tarafi da cevirerek pisir.
+7. Istege gore uzerine marinara sosu (ya da domates sosu) ve rendelenmis mozarella koy, peynir eriyene kadar birkac dk daha pisir.
+8. Istege gore uzerine maydanoz ile servis et.
+- [Orjinal tarif](https://www.youtube.com/watch?v=kl9YEMNGqgQ)
+- NOT 1: Bana agir geldi, cok doyurucu, bir parca yetiyor.
+- NOT 2: Yumurta yerine mayonez kullanan ve daha az baharatli bir tarif var: [link](https://www.youtube.com/watch?v=c105n9qGTlg)
+
+## Homemade Tortilla Chips
+[<img src="homemade_tortilla_chips.jpg" width="500"/>](homemade_tortilla_chips.jpg)
+1. 2-3 tortilla uzerine siviyag iyice yay, tuz, karabiber serp. Cips seklinde kes.
+2. 200 derecede 3-4 dk da pisiyor
+- [Orjinal tarif](https://www.youtube.com/watch?v=-eudAnySdKk)
+
+## Bread for Breakfast 
+<img src="kahvaltilik_ekmek.jpg" width="500"/>
+
+1. Ekmek uzerine malzemeleri koyup, Airfryer da 160 derecede 8 dk pisir. Tercihen flat bread uzerine biraz yag, rendelenmis mozarella ve cherry domates guzel oluyor. Maydanoz ya da pizza baharati da guzel sonuc veriyor. Eriyen herhangi bir peynir tipi de yakisiyor.
+
+## [Global] [Chocolate Chip Cookies](https://www.youtube.com/watch?v=vWP85FYQjcE)
+<img src="chocolate_chip_cookies.jpg" width="500"/>
+
+1. Homojen bir karisim olana kadar cirp (no lumps): yarim su bardagi seker + 3/4 su bardagi esmer seker + 1 cay kasigi tuz + yarim su bardagi erimis sogumus tereyag
+2. Iyice karistir: 1 yumurta + 1 cay kasigi vanilya ozutu
+3. Iyice karistir: 1 ve ceyrek su bardagi un + yarim cay kasigi baking powder
+4. Arzu edilen kadar cikolata parcalarini ekle. Dark chocolate kullandim. Iyice karistir.
+5. Kapali bir kapta buzdolabinda 30 dk dinlendir.
+6. Airfryera yagli kagit koy.
+7. Icecream scrooper ile 4 parca kopararak pisir (165 derecede, 10-12 dk), biraz yayilacak. (NOT: Yayilmaya meyilli malesef, [bazi tariflerde tek buyuk bir parca yapiyorlar, sonra kesiyorlar](https://portakalagaci.com/2022/01/airfryerda-kurabiye.html).)
+8. 2-3 dk. beklesin almadan once. Soguyunce servis et.
+
+# SALADS
 ## Carrot Tarator
 [<img src="carrot_tarator.jpg" width="500"/>](carrot_tarator.jpg)
 1. 4-5 rendelenmis havucu yagda kavur.
@@ -276,39 +337,6 @@ Protip: Esit olcude kes. Patatesleri kagit havluyla iyice kurula. Pisirirken ara
 2. Kuru domates + 4 dis sarimsak + Yarim su bardagi ceviz + bir tutam maydanoz -> dogra, salataya karistir.
 3. 1 cay bardagi zeytinyagi + 1 tatli kasigi kekik + 1 tatli kasigi toz biber + yarim cay kasigi karabiber + tuz -> salataya ekle, karistir.
 
-# SOUPS
-
-## Kale Soup from Black Sea Region
-[<img src="kale_soup_from_blacksea_region.jpg" width="500"/>](kale_soup_from_blacksea_region.jpg)
-1. 2 demet kadar kara lahanayi yika, dogra.
-2. 2 orta boy sogan -> yemeklik dogra
-3. Soganlari 4-5 yemek kasigi zeytonyagi ile kavur
-4. 2-3 dis sarimsak -> dogra ve tencereye ekle
-5. 2 yemek kasigi biber salcasi -> tencereye ekle
-6. 3 orta boy patates -> kup kup dogra
-7. 3 kucuk havuc -> kucuk kucuk dogra
-8. Sogan-sarimsak kavrulunca, patates, havuc ve 1 cay bardagi barbunya tencereye ekle, kavur
-9. Karalahanayi ekle, biraz kavrulsun
-10. 2-3 yemek kasigi bulgur, 3 cay kasigi tuz + 1 cay kasigi pul biber + yarim cay kasigi karabiber ekle, ustune gececek kadar su ilave et. Yarim saat kadar pisir
-
-## Tomato Soup
-[<img src="tomato_soup.jpg" width="500"/>](tomato_soup.jpg)
-1. 2 yemek kasigi tereyag -> tencerede erit.
-2. 3 yemek kasi dolu dolu un -> kokusu cikana kadar kavur.
-3. 1 su bardagi sut + 1 su bardagi domates suyu -> ekle, karistir.
-4. Sicak su veya tavuk/et suyu ekle -> kaynat.
-5. 3 cay kasigi tuz + 1 tutan karabiber ekle.
-6. 5 dk kadar kaynat.
-
-## Turkish Noodle Soup
-[<img src="turkish_noodle_soup.jpg" width="500"/>](turkish_noodle_soup.jpg)
-1. 5 yemek kasigi zeytinyagi + 5-6 yemek kasigi domates rendesi + (opsiyonel)1 tatli kasigi salca -> Tencereye koy, isit
-2. 5-6 su bardagi sicak su -> tencereye ekle, kaynat
-3. 1 cay bardagindan biraz fazla arpa sehriye -> ekle, karistir
-4. 3 cay kasigi tuz + 1 cay kasigi karabiber -> ekle
-5. (Opsiyonel) 1 tavuk ya da et bulyon ekle
-6. Arpa sehriyeler pisince dinlenmeye birak
-
 # References
 - Breakfast Recipes - [link1](https://damndelicious.net/category/breakfast/) - [link2](https://damndelicious.net/category/breakfast/)
 - Sandwich Recipes - [link1](https://www.brit.co/fancy-sandwich-recipes/) - [link2](https://insanelygoodrecipes.com/sandwich-recipes/)
@@ -319,10 +347,3 @@ Protip: Esit olcude kes. Patatesleri kagit havluyla iyice kurula. Pisirirken ara
 - One Pan Dish - [link1](https://www.bbc.co.uk/food/collections/one-pan_dinners)
 - Easy Recipes - [link1](https://www.bbcgoodfood.com/recipes/collection/easy-recipes)
 - [Jamie Oliver Recipes](https://www.jamieoliver.com)
-
-# WishList
-- [Turkish Melted Cheese and Cornmeal (Mihlama)](https://www.thespruceeats.com/mihlama-traditional-turkish-breakfast-dish-3274164)
-- [Turkish Cokertme Kebabi](https://www.youtube.com/watch?v=6zDgJlnp44o)
-- [Turkish Meat Stew with Aubergine Puree: Sultan's Delight (Hunkarbegendi)](https://www.youtube.com/watch?v=NWyIEW1o6k4)
-- [Ali Nazik Kebab](https://turkishstylecooking.com/ali-nazik-kebab-recipe.html)
-- [Marzipan Chocolate](https://www.youtube.com/watch?v=0QzbFr9wC7w)
