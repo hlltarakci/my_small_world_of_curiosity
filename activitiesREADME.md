@@ -1,23 +1,49 @@
-# ACTIVITY List
+# EXERCISE & HIKES
 
-## Program: AUGUST
+## WEEKLY PROGRAM
+- if no time [15 Minute Full Body Pilates - thighs, arms, obliques](https://www.youtube.com/watch?v=inL-zRXWpkk) or see [others](https://github.com/hlltarakci/my_small_world_of_curiosity/blob/main/activitiesREADME.md#others) below
+- **alternative/extra**:
+     - **15k+ hiking**
+     - **1h+ cycling**
+     - **free format(any 30+ minute exercise video from below)**
 
-if no time [15 Minute Full Body Pilates - thighs, arms, obliques](https://www.youtube.com/watch?v=inL-zRXWpkk) or see [others](https://github.com/hlltarakci/my_small_world_of_curiosity/blob/main/activitiesREADME.md#others) below
+### Weekly - Version 1 (Focus: Total body)
+- Sunday:
+    - [60 min - Nicole](https://www.youtube.com/watch?v=3guGRzS1oLA)  
+- Monday:
+    - [30 min - Cassey](https://www.youtube.com/watch?v=CKe6EYSzmtU)
+- Tuesday:
+    - [40 min - Nicole](https://www.youtube.com/watch?v=koTzaUu7Vws) 
+- Wednesday:
+    - [26 min - Kelly](https://www.youtube.com/watch?v=jaqciTxwDoE)
+- Thursday:
+    - [50 min - Nicole](https://www.youtube.com/watch?v=IwSdbcvEIbA)
+- Friday: FREE DAY
+- Saturday: 
+    - [60 min - Cassey](https://www.youtube.com/watch?v=s0CkBw5Wock)  
 
-**alternative/extra**: 10k+ hiking or cycling, or **free format** (any around 30 minute exercise video from below)
-
-### Weekly - Version 1
+      
+### Weekly - Version 2 ([Cassey's Sculpt Program](https://www.blogilates.com/blog/28daysummersculpt/) Adapted)
+- Sunday:
+    - [35 Min - CARDIO & ABS](https://www.youtube.com/watch?v=B5HGDbiH5S4)
+- Monday:
+    - [34 Min - TOTAL BODY](https://www.youtube.com/watch?v=YdnqNGcmhqA)
+- Tuesday:
+    - [34 Min - LEGS & BUTT](https://www.youtube.com/watch?v=XjiRVCEokWE)
+- Wednesday:
+    - [34 Min - ARMS & BACK](https://www.youtube.com/watch?v=2YdJgcrrHKI)
+- Thursday:
+    - [38 Min - ABS & BUTT](https://www.youtube.com/watch?v=T4adtRJ_b3g) 
+- Friday:
+    - [27 Min - STRETCH](https://www.youtube.com/watch?v=J8KQ5zLBOEI)
 - Saturday:
-    - *Optional* [12 Minutes to Burn Fat - Low Impact Cardio Workout](https://www.youtube.com/watch?v=xEoCXW09-pk&list=PLSCcAGyv98ick76ygMkdu7PuRFfpn8ixM&index=2)
-    - [12 Minutes to Toned Abs Workout](https://www.youtube.com/watch?v=BTa6crp6L9g&list=PLSCcAGyv98ick76ygMkdu7PuRFfpn8ixM&index=3)  
-    - [12 Minutes to Toned Booty Workout](https://www.youtube.com/watch?v=c3ji2LZ9-GQ&list=PLSCcAGyv98ick76ygMkdu7PuRFfpn8ixM&index=6)
-    - [12 Minutes to Toned Thighs Workout](https://www.youtube.com/watch?v=3Vti3KctPe4&list=PLSCcAGyv98ick76ygMkdu7PuRFfpn8ixM&index=3)
-    - [12 Minutes to Toned Arms Workout](https://www.youtube.com/watch?v=nejA_F4D2ps&list=PLSCcAGyv98ick76ygMkdu7PuRFfpn8ixM&index=4) 
-    - [12 minutes - Stretches You Need After a Stressful Day](https://www.youtube.com/watch?v=NRWz91kQuJk)
+    - [37 Min - OBLIQUES & THIGHS](https://www.youtube.com/watch?v=sDzubGfNhew)
+
+ ### Weekly - Version 3 ([Cassey's Toned Series](https://www.youtube.com/playlist?list=PLSCcAGyv98ick76ygMkdu7PuRFfpn8ixM) Adapted)
 - Sunday:
     - *Optional* [15 min - butt lifting](https://www.youtube.com/watch?v=WUxjY2r88a8)
     - *Optional* [10 min - side butt](https://www.youtube.com/watch?v=pLAWcMLRgj4) 
-    - [40 min - TOTAL BODY](https://www.youtube.com/watch?v=sQVFoWGjD4k) **OR** [26 min, dense version](https://youtu.be/jaqciTxwDoE)
+    - [40 min - TOTAL BODY](https://www.youtube.com/watch?v=sQVFoWGjD4k) **OR** [26 min, dense version]([https://youtu.be/jaqciTxwDoE](https://youtu.be/jaqciTxwDoE))
 - Monday:
     - [12 Minutes to Toned Booty Workout](https://www.youtube.com/watch?v=c3ji2LZ9-GQ&list=PLSCcAGyv98ick76ygMkdu7PuRFfpn8ixM&index=6)
     - [12 Minutes to Toned Thighs Workout](https://www.youtube.com/watch?v=3Vti3KctPe4&list=PLSCcAGyv98ick76ygMkdu7PuRFfpn8ixM&index=3)
@@ -32,22 +58,13 @@ if no time [15 Minute Full Body Pilates - thighs, arms, obliques](https://www.yo
     - [40 min - TOTAL BODY](https://www.youtube.com/watch?v=sQVFoWGjD4k) **OR** [26 min, dense version](https://youtu.be/jaqciTxwDoE)
 - Friday: FREE DAY
     - *Optional* [27 Min - STRETCH](https://www.youtube.com/watch?v=J8KQ5zLBOEI) OR [12 minutes - Stretches You Need After a Stressful Day](https://www.youtube.com/watch?v=NRWz91kQuJk)
-
-### Weekly - Version 2
 - Saturday:
-    - [37 Min - OBLIQUES & THIGHS](https://www.youtube.com/watch?v=sDzubGfNhew)
-- Sunday:
-    - [35 Min - CARDIO & ABS](https://www.youtube.com/watch?v=B5HGDbiH5S4)
-- Monday:
-    - [34 Min - TOTAL BODY](https://www.youtube.com/watch?v=YdnqNGcmhqA)
-- Tuesday:
-    - [34 Min - LEGS & BUTT](https://www.youtube.com/watch?v=XjiRVCEokWE)
-- Wednesday:
-    - [34 Min - ARMS & BACK](https://www.youtube.com/watch?v=2YdJgcrrHKI)
-- Thursday:
-    - [38 Min - ABS & BUTT](https://www.youtube.com/watch?v=T4adtRJ_b3g) 
-- Friday:
-    - [27 Min - STRETCH](https://www.youtube.com/watch?v=J8KQ5zLBOEI) 
+    - [12 Minutes to Toned Abs Workout](https://www.youtube.com/watch?v=BTa6crp6L9g&list=PLSCcAGyv98ick76ygMkdu7PuRFfpn8ixM&index=3)  
+    - [12 Minutes to Toned Booty Workout](https://www.youtube.com/watch?v=c3ji2LZ9-GQ&list=PLSCcAGyv98ick76ygMkdu7PuRFfpn8ixM&index=6)
+    - [12 Minutes to Toned Thighs Workout](https://www.youtube.com/watch?v=3Vti3KctPe4&list=PLSCcAGyv98ick76ygMkdu7PuRFfpn8ixM&index=3)
+    - [12 Minutes to Toned Arms Workout](https://www.youtube.com/watch?v=nejA_F4D2ps&list=PLSCcAGyv98ick76ygMkdu7PuRFfpn8ixM&index=4) 
+    - [12 minutes - Stretches You Need After a Stressful Day](https://www.youtube.com/watch?v=NRWz91kQuJk)
+  
 
 ### Others
 - [30 Min - BUTT](https://www.youtube.com/watch?v=agIYYK8KjDg)
