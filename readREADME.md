@@ -1,4 +1,4 @@
-# READ List <a name="read_list"></a>
+# BOOKS <a name="read_list"></a>
 
 ## Fictional <a name="fictional"></a>
 - [x] [Margareth Mitchel, Gone with the Wind](https://www.goodreads.com/tr/book/show/18405.Gone_with_the_Wind)
@@ -65,6 +65,8 @@
 - [x] [**Kenneth Blanchard, The New One Minute Manager**](https://www.amazon.co.uk/New-One-Minute-Manager/dp/0008128049)
 - [ ] [Oliver Burkeman, Four Thousand Weeks: Time Management for Mortals](https://www.goodreads.com/book/show/54785515-four-thousand-weeks)
 - [ ] [Joshua Becker, Things That Matter: Overcoming Distraction to Pursue a More Meaningful Life](https://www.amazon.com/Things-That-Matter-Overcoming-Distraction/dp/0593193970?_encoding=UTF8&qid=&sr=&linkCode=sl1&tag=becomingminim-20&linkId=2ddb3b3ad042bba90a7cc7721d8dd6e6&language=en_US&ref_=as_li_ss_tl)
+- [ ] [Daniel Kahneman, Thinking, Fast and Slow](https://www.amazon.co.uk/Thinking-Fast-Slow-Daniel-Kahneman/dp/0141033576/)
+- [ ] [Jared Diamond, Guns, Germs and Steel: A short history of everybody for the last 13,000 years](https://www.amazon.co.uk/Guns-Germs-Steel-history-everybody/dp/0099302780/)
 - [ ] [Bertrand Russell, A History of Western Philosophy](https://www.amazon.com/History-Western-Philosophy-Bertrand-Russell/dp/0671201581/ref=sr_1_1?ie=UTF8&qid=1490204564&sr=8-1&keywords=bertrand%20russell)
 - [ ] [Gary Allman, Small Talk: An Introvert's Guide to Small Talk](https://www.amazon.co.uk/Small-Talk-Introverts-Instantly-relationship-ebook/dp/B01IKPQ7AI)
 - [ ] [Chris Voss, Never Split the Difference; Negotiating as if your life depended on it](https://www.amazon.co.uk/Never-Split-Difference-Negotiating-Depended/dp/0062407805)
