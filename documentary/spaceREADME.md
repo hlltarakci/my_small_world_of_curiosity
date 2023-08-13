@@ -23,7 +23,10 @@
    - [ ] [Why Does The Universe Look Like This?](https://www.youtube.com/watch?v=iDqQ9qgTWmg)
    - [ ] [Why Is The Universe The Same Everywhere?](https://www.youtube.com/watch?v=5JM9RJFMHgc)
    - [ ] [Is Time Travel Possible In Our Universe?](https://www.youtube.com/watch?v=JXZpac6TREw)
-   - [ ] [Why Did Time Start Going Forward?](https://www.youtube.com/watch?v=x9m0sz2sUfU)
+   - [x] [Why Did Time Start Going Forward?](https://www.youtube.com/watch?v=x9m0sz2sUfU) - [arrow of time](https://en.wikipedia.org/wiki/Arrow_of_time) - [Laplace's demon](https://en.wikipedia.org/wiki/Laplace%27s_demon) - [
+
+Ludwig Boltzmann, after whom Boltzmann brains are named
+The Boltzmann brain thought experiment suggests that it might be more likely for a single brain to spontaneously form in a void, complete with a memory of having existed in our universe, rather than for the entire universe to come about in the manner cosmologists think it actually did.](https://en.wikipedia.org/wiki/Boltzmann_brain)
    - [ ] [What Actually Are Space And Time?](https://www.youtube.com/watch?v=yPVQtvbiS4Y)
    - [ ] [Why Is Gravity So Weak?](https://www.youtube.com/watch?v=4IxuXuLbMoQ)
    - [ ] [What Is Beyond The Edge?](https://www.youtube.com/watch?v=_IkaetPoBZM)
