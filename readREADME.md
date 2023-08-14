@@ -82,3 +82,13 @@
 - [ ] [Stuart Hall, The West and the Rest](https://www.goodreads.com/book/show/49335774-the-west-and-the-rest)
 - [ ] [Samuel P. Huntington, The Clash Of Civilizations: And The Remaking Of World Order](https://www.amazon.co.uk/Clash-Civilizations-Remaking-World-Order/dp/074323149X/ref=asc_df_074323149X/?tag=googshopuk-21&linkCode=df0&hvadid=310785600414&hvpos=&hvnetw=g&hvrand=10883824420922730780&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9045997&hvtargid=pla-525415252688&psc=1)
 - [ ] [Niccolò Machiavelli, The Prince](https://www.amazon.co.uk/Prince-Penguin-Classics-Niccolo-Machiavelli/dp/0140449159/ref=asc_df_0140449159/?tag=googshopuk-21&linkCode=df0&hvadid=310805555931&hvpos=&hvnetw=g&hvrand=9119212229547482045&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9045903&hvtargid=pla-488133096639&psc=1&th=1&psc=1)
+    
+
+
+
+
+
+
+TEMP
+- [ ] [Book source](https://eksiseyler.com/nazi-almanyasi-sovyetler-ii-dunya-savasi-ve-orta-cag-hakkindaki-muthis-tarih-kitaplari)
+
