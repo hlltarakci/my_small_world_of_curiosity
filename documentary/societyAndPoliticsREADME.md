@@ -64,7 +64,16 @@
 - [ ] [The Armstrong Lie, 2013](https://www.imdb.com/title/tt1638364/)
 - [ ] [Stop at Nothing: The Lance Armstrong Story, 2014](https://www.imdb.com/title/tt3511812/)
 - [ ] [Lance, 2020](https://www.imdb.com/title/tt11427436/)
-
+- [ ] [Up Series](https://en.wikipedia.org/wiki/Up_(film_series))
+    - [ ] [Seven Up, 1964](https://www.imdb.com/title/tt0058578/)
+    - [ ] [7 Plus Seven, 1970](https://www.imdb.com/title/tt0066356/)
+    - [ ] [21 Up, 1977](https://www.imdb.com/title/tt0075610/)
+    - [ ] [28 Up, 1984](https://www.imdb.com/title/tt0088650/)
+    - [ ] [35 Up, 1991](https://www.imdb.com/title/tt0101254/)
+    - [ ] [42 Up, 1998](https://www.imdb.com/title/tt0164312/)
+    - [ ] [49 Up, 2005](https://www.imdb.com/title/tt0473434/)
+    - [ ] [56 Up, 2012](https://www.imdb.com/title/tt2147134/)
+    - [ ] [63 Up, 2019](https://www.imdb.com/title/tt8929142/)
 **Series:**
 - [x] [**Deep Time History, Curiosity Stream**](https://www.imdb.com/title/tt6052190/) - quite similar in context to Harari's Sapiens. Linking ideas, providing a general structure why things happened the way they did fascinates me. And this is a transferable thought experiment skill.
 - [x] [Turning Point 9/11, 2021](https://www.netflix.com/gb/title/81315804)
