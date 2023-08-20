@@ -81,7 +81,7 @@
 - [x] [**Chernobyl, Pripyat: 50 Hours Inside the Most Radioactive Place on Earth**](https://www.youtube.com/watch?v=ersITE-HiLI) / [Chernobyl Disaster](https://en.wikipedia.org/wiki/Chernobyl_disaster)
 - [ ] [Wildlife Takeover: How Animals Reclaimed Chernobyl](https://www.youtube.com/watch?v=XaUNhqnpiOE)
 - [ ] [The Soviet Union's Deadly Abandoned Nuclear Generators](https://www.youtube.com/watch?v=NT8-b5YEyjo)
-- [ ] [Transnistria](https://www.youtube.com/watch?v=HXzhcfYlKFQ)
+- [x] [**50 Hours In A Country That Doesn't Exist On A Map (Transnistria)**](https://www.youtube.com/watch?v=HXzhcfYlKFQ) - so hearth-warming!!
 - [x] [Anadolu'nun Gözleri: Kapadokya, TRT Belgesel](https://www.youtube.com/watch?v=o6wSitX7XFE)
 - [x] [The Origins of Machu Picchu](https://www.youtube.com/watch?v=JMAKRKkdOlw)
 - [x] [The Architecture of Machu Picchu](https://www.youtube.com/watch?v=31SFLloQ-hU&t=0s)
