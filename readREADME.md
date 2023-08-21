@@ -51,7 +51,9 @@
 - [ ] [Blake Crouch, Recursion](https://www.goodreads.com/book/show/42046112-recursion)
 - [ ] [Marcel Proust, In Search of Lost Time](https://www.amazon.co.uk/Search-Lost-Time-Proust-Complete/dp/0812969642)
 - Orhan Pamuk
-    - [ ] [Orhan Pamuk, Kara Kitap](https://www.amazon.co.uk/Kara-Kitap-Orhan-Pamuk/dp/9750826132) - *re-read* 
+    - [ ] [Orhan Pamuk, Kara Kitap](https://www.amazon.co.uk/Kara-Kitap-Orhan-Pamuk/dp/9750826132) - *re-read*
+- Oguz Atay
+    - [ ] [Oguz Atay, Tutunamayanlar](https://www.amazon.com.tr/Tutunamayanlar-B%C3%BCt%C3%BCn-Eserleri-O%C4%9Fuz-Atay/dp/9754700117) - *re-read*  
 - Science Fiction Magazines
     - https://clarkesworldmagazine.com/
     - https://dailysciencefiction.com/
