@@ -1,4 +1,4 @@
-# SOCIETY and POLITICS
+# SOCIETY and POLITICS and LIFE
 - [x] [**The Russians – An intimate journey through Russia - Part 1**](https://www.youtube.com/watch?v=qfuDZEQjro8) / [Part 2](https://www.youtube.com/watch?v=z35dX3EEGko)
 - [x] **Living in Russia** / [**music by Shortparis is amazing!**](https://www.youtube.com/watch?v=3cO58tL1CUw&t=1224s)
      - [Part 1: Birth](https://youtu.be/3cO58tL1CUw) 
@@ -74,6 +74,10 @@
     - [ ] [49 Up, 2005](https://www.imdb.com/title/tt0473434/)
     - [ ] [56 Up, 2012](https://www.imdb.com/title/tt2147134/)
     - [ ] [63 Up, 2019](https://www.imdb.com/title/tt8929142/)
+- Music
+    - [Cem Karaca Documentary](https://www.youtube.com/watch?v=Aj3KnPmvYqM)
+    - [Baris Manco Documentary](https://www.youtube.com/watch?v=oROKKrba-98)
+    - [Erkin Koray Documentary](https://www.youtube.com/watch?v=zjqVWc0vKb0)   
 
 **Series:**
 - [x] [**Deep Time History, Curiosity Stream**](https://www.imdb.com/title/tt6052190/) - quite similar in context to Harari's Sapiens. Linking ideas, providing a general structure why things happened the way they did fascinates me. And this is a transferable thought experiment skill.
