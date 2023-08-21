@@ -50,6 +50,8 @@
 - [ ] [Matt Haig, The Midnight Library](https://www.amazon.co.uk/Midnight-Library-Matt-Haig/dp/1786892731)
 - [ ] [Blake Crouch, Recursion](https://www.goodreads.com/book/show/42046112-recursion)
 - [ ] [Marcel Proust, In Search of Lost Time](https://www.amazon.co.uk/Search-Lost-Time-Proust-Complete/dp/0812969642)
+- Orhan Pamuk
+    - [ ] [Orhan Pamuk, Kara Kitap](https://www.amazon.co.uk/Kara-Kitap-Orhan-Pamuk/dp/9750826132) - *re-read* 
 - Science Fiction Magazines
     - https://clarkesworldmagazine.com/
     - https://dailysciencefiction.com/
