@@ -52,8 +52,9 @@
 - [ ] [Marcel Proust, In Search of Lost Time](https://www.amazon.co.uk/Search-Lost-Time-Proust-Complete/dp/0812969642)
 - Orhan Pamuk
     - [ ] [Orhan Pamuk, Kara Kitap](https://www.amazon.co.uk/Kara-Kitap-Orhan-Pamuk/dp/9750826132) - *re-read*
-- Oguz Atay
-    - [ ] [Oguz Atay, Tutunamayanlar](https://www.amazon.com.tr/Tutunamayanlar-B%C3%BCt%C3%BCn-Eserleri-O%C4%9Fuz-Atay/dp/9754700117) - *re-read*  
+- Oguz Atay - [quotes](https://eksiseyler.com/tutunamayanlar-dan-oguz-atay-in-kitaplarinda-gecen-efsane-cumleler)
+    - [ ] [Oguz Atay, Tutunamayanlar](https://www.amazon.com.tr/Tutunamayanlar-B%C3%BCt%C3%BCn-Eserleri-O%C4%9Fuz-Atay/dp/9754700117) - *re-read*
+    - [ ] [Oguz Atay, Korkuyu Beklerken](https://www.amazon.co.uk/Korkuyu-Beklerken-B%C3%BCt%C3%BCn-Eserleri-4/dp/975470158X)
 - Science Fiction Magazines
     - https://clarkesworldmagazine.com/
     - https://dailysciencefiction.com/
