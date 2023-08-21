@@ -101,4 +101,5 @@
 - [Carmelita, Warren Zevon, 1976](https://open.spotify.com/track/7hIdRDgUBPbqiQ7duhCyux)
 - [Live Forever, Oasis, 1994](https://open.spotify.com/track/1KgfeuVn5OlsBEtoEmBa1t)
 - [Maksim Mrvica, Exodus, 2015](https://open.spotify.com/track/3Mope2y92sx4V5M9ji6C0V)
+- [Cem Karaca, Sevda Kusun Kanadinda, 1994](https://open.spotify.com/track/3GTS2PcteolVkafeprfefw)
 
