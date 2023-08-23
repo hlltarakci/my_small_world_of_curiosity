@@ -102,4 +102,5 @@
 - [Live Forever, Oasis, 1994](https://open.spotify.com/track/1KgfeuVn5OlsBEtoEmBa1t)
 - [Maksim Mrvica, Exodus, 2015](https://open.spotify.com/track/3Mope2y92sx4V5M9ji6C0V)
 - [Cem Karaca, Sevda Kusun Kanadinda, 1994](https://open.spotify.com/track/3GTS2PcteolVkafeprfefw)
+- [Mihriban](https://open.spotify.com/track/0ogVMcRZCS8xHnm6JqZZkv)  - [modern version, Manga](https://open.spotify.com/track/5kt8CATdDX9gnQWZuJHIEo?si=c45213214b614fbf)
 
