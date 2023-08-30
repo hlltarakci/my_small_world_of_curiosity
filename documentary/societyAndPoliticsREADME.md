@@ -60,6 +60,7 @@
 - [ ] [The Man Who Saved the World, 2014](https://www.imdb.com/title/tt2277106/)
 - [ ] [Citizen K, 2019](https://www.imdb.com/title/tt10703826/)
 - [ ] [Soviet Bus Stops, 2023](https://www.imdb.com/title/tt22697846/)
+- [x] [Depp V Heard, 2023](https://www.imdb.com/title/tt27541298/)
 - [ ] [Icarus, 2017](https://www.imdb.com/title/tt6333060/)
 - [ ] [The Armstrong Lie, 2013](https://www.imdb.com/title/tt1638364/)
 - [ ] [Stop at Nothing: The Lance Armstrong Story, 2014](https://www.imdb.com/title/tt3511812/)
