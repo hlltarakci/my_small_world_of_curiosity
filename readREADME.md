@@ -7,6 +7,7 @@
 - [ ] [Fyodor Dostoyevsky, **Crime and Punisment**](https://www.amazon.co.uk/Punishment-Penguin-Classics-Fyodor-Dostoyevsky/dp/0140449132) - *reread with a new perspective*
 - [ ] [Fyodor Dostoyevsky, **The Idiot**](https://www.amazon.co.uk/Idiot-Penguin-Classics-Fyodor-Dostoyevsky/dp/014044792X) - first read when i was 13 :) 
 - [ ] [Mikhail Yuryevich Lermontov, A Hero of Our Time](https://www.amazon.co.uk/Hero-Our-Time-Mikhail-Lermontov/dp/1934169056)
+- [ ] [Mikhail Bulgakov, The Master and Margarita, 1967](https://en.wikipedia.org/wiki/The_Master_and_Margarita)
 - [ ] Isaac Asimov - [suggested reading order](https://www.howtoread.me/foundation-series-books-in-order/)
     - [ ] *not in suggested list* [Isaac Asimov, The End of Eternity](https://www.amazon.co.uk/End-Eternity-Panther-Science-Fiction/dp/0586024409) / [independent](https://www.kayiprihtim.org/portal/okuma-rehberleri/vakif-serisi-okuma-rehberi/)
     - [x] [Isaas Asimov, I, Robot](https://www.amazon.com/dp/055338256X?tag=howtoread06-20&linkCode=ogi&th=1&psc=1)
@@ -68,6 +69,30 @@
 - [ ] [Yuval Noah Harari, 21 Lessons for the 21st Century](https://www.amazon.co.uk/Lessons-21st-Century-Yuval-Harari/dp/1784708283/ref=pd_bxgy_img_sccl_2/259-9606393-1929032?pd_rd_w=9VLPx&content-id=amzn1.sym.79b812bf-5c8b-4c0c-851c-784423adaff5&pf_rd_p=79b812bf-5c8b-4c0c-851c-784423adaff5&pf_rd_r=80EAMZP0RAYXB16RVQ81&pd_rd_wg=jMR7R&pd_rd_r=230cbc0f-021e-40e0-b17b-381abfa99a4a&pd_rd_i=1784708283&psc=1)
 - [x] [**Leil Lowndes, How to Talk to Anyone: 92 Little Tricks for Big Success in Relationships**](https://www.amazon.co.uk/How-Talk-Anyone-Success-Relationships-ebook/dp/B00BAJ2MYM/ref=sr_1_1?keywords=How+to+talk+to+anyone&qid=1659384293&s=digital-text&sr=1-1) - unexpectedly useful advice! i should read this twice a year to calibrate myself.
 - [x] [**Kenneth Blanchard, The New One Minute Manager**](https://www.amazon.co.uk/New-One-Minute-Manager/dp/0008128049)
+- [ ] [Martin Meadows, 365 Days With Self-Discipline: 365 Life-Altering Thoughts on Self-Control, Mental Resilience, and Success](https://www.amazon.com/365-Days-Self-Discipline-Life-Altering-Self-Control/dp/1982074647)
+- [ ] [Dale Carnegie, How to Stop Worrying and Start Living](https://www.amazon.com/How-Stop-Worrying-Start-Living/dp/0671733354https://www.amazon.com/How-Stop-Worrying-Start-Living/dp/0671733354)
+- [ ] [Simon Sinek, Start with Why: How Great Leaders Inspire Everyone to Take Action](https://www.amazon.com/Start-Why-Leaders-Inspire-Everyone/dp/1591846447)
+- [ ] [Phil M Jones, Exactly What to Say The Magic Words for Influence and Impact](https://www.amazon.com/Exactly-What-Say-Influence-Impact-ebook/dp/B073SF65ZZ)
+- [ ] [Eric Berne, Games People Play The Psychology of Human Relationships](https://www.amazon.com.tr/Games-People-Play-Psychology-Relationships/dp/0241257476)
+- [ ] [David Allen, Getting Things Done The Art of Stress-Free Productivity](https://www.amazon.com/Getting-Things-Done-Stress-Free-Productivity/dp/0143126563)
+- [ ] [Ali Tansel, How to Learn Almost Anything in 48 Hours: The Skills You Need to Work Smarter, Study Faster, and Remember More!](https://www.amazon.com/How-Learn-Almost-Anything-Hours/dp/1440597766)
+- [ ] [Nir Eyal, Hooked How to Build Habit-Forming Products](https://www.amazon.com/Hooked-How-Build-Habit-Forming-Products/dp/1591847788)
+- [ ] [Nir Eyal, Indistractable: How to Control Your Attention and Choose Your Life](https://www.amazon.com/Indistractable-Control-Your-Attention-Choose/dp/194883653X)
+- [ ] [Marcus Buckingham, StandOut 2.0: Assess Your Strengths, Find Your Edge, Win at Work](https://www.amazon.com/StandOut-2-0-Assess-Your-Strengths/dp/1633690741)
+- [ ] [Carol Dweck, Mindset - Updated Edition: Changing The Way You think To Fulfil Your Potential](https://www.amazon.com.tr/Mindset-Updated-Changing-Fulfil-Potential/dp/147213995X)
+- [ ] [Malcolm Gladwell, Talking to Strangers](https://www.goodreads.com/book/show/43848929-talking-to-strangers)
+- [ ] [Robert Greene, The Laws of Human Nature](https://www.amazon.com/Laws-Human-Nature-Robert-Greene/dp/0525428143)
+- [ ] [Timothy Ferriss, The 4-Hour Workweek: Escape 9-5, Live Anywhere, and Join the New Rich](https://www.amazon.com/4-Hour-Workweek-Escape-Live-Anywhere/dp/0307465357)
+- [ ] [Robin Sharma, The 5 AM Club Own Your Morning. Elevate Your Life.](https://www.amazon.com/AM-Club-Morning-Elevate-Life/dp/1443456624)
+- [ ] [Stephen R Covey, The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change](https://www.amazon.com/Habits-Highly-Effective-People-Powerful/dp/0743269519)
+- [ ] [Charles Duhigg, The Power of Habit Why We Do What We Do in Life and Business](https://www.amazon.com/Power-Habit-What-Life-Business/dp/081298160X)
+- [ ] [Chris MacLeod, The Social Skills Guidebook](https://www.amazon.com/Social-Skills-Guidebook-Shyness-Conversations-ebook/dp/B01AU8C766)
+- [ ] [Carmine Gallo, The Storyteller's Secret: From TED Speakers to Business Legends, Why Some Ideas Catch On and Others Don't](https://www.amazon.com/Storytellers-Secret-Speakers-Business-Legends-ebook/dp/B012NCOC38)
+- [ ] [Walter Sinnott-Armstrong, Think Again How to Reason and Argue](https://www.amazon.com/Think-Again-How-Reason-Argue/dp/0190627123)
+- [ ] [Daniel Kahneman, Thinking, Fast and Slow](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555)
+- [ ] [Shelle Rose Charvet, Words That Change Minds: The 14 Patterns for Mastering the Language of Influence](https://www.amazon.com/Words-That-Change-Minds-Mastering-ebook/dp/B07PVSR2J4)
+- [ ] [Frank Luntz, Words That Work: It's Not What You Say, It's What People Hear](https://www.amazon.com/Words-That-Work-What-People/dp/1401309291)
+- [ ] [Stefan Zweig, The Collected Stories of Stefan Zweig](https://www.amazon.com/Collected-Stories-Stefan-Zweig/dp/1782270035)
 - [ ] [Oliver Burkeman, Four Thousand Weeks: Time Management for Mortals](https://www.goodreads.com/book/show/54785515-four-thousand-weeks)
 - [ ] [Joshua Becker, Things That Matter: Overcoming Distraction to Pursue a More Meaningful Life](https://www.amazon.com/Things-That-Matter-Overcoming-Distraction/dp/0593193970?_encoding=UTF8&qid=&sr=&linkCode=sl1&tag=becomingminim-20&linkId=2ddb3b3ad042bba90a7cc7721d8dd6e6&language=en_US&ref_=as_li_ss_tl)
 - [ ] [Daniel Kahneman, Thinking, Fast and Slow](https://www.amazon.co.uk/Thinking-Fast-Slow-Daniel-Kahneman/dp/0141033576/)
@@ -87,7 +112,6 @@
 - [ ] [Stuart Hall, The West and the Rest](https://www.goodreads.com/book/show/49335774-the-west-and-the-rest)
 - [ ] [Samuel P. Huntington, The Clash Of Civilizations: And The Remaking Of World Order](https://www.amazon.co.uk/Clash-Civilizations-Remaking-World-Order/dp/074323149X/ref=asc_df_074323149X/?tag=googshopuk-21&linkCode=df0&hvadid=310785600414&hvpos=&hvnetw=g&hvrand=10883824420922730780&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9045997&hvtargid=pla-525415252688&psc=1)
 - [ ] [Niccolò Machiavelli, The Prince](https://www.amazon.co.uk/Prince-Penguin-Classics-Niccolo-Machiavelli/dp/0140449159/ref=asc_df_0140449159/?tag=googshopuk-21&linkCode=df0&hvadid=310805555931&hvpos=&hvnetw=g&hvrand=9119212229547482045&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9045903&hvtargid=pla-488133096639&psc=1&th=1&psc=1)
-    
 
 
 
