@@ -161,7 +161,7 @@
 - [x] [Greatest Events of WW2 in Color](https://www.netflix.com/nl-en/title/80989924) 
 - [ ] [WW2 in color - Road to Victory, 2021](https://www.netflix.com/gb/title/81488464)
 - [ ] [The Abyss: Rise and Fall of the Nazis, 2021](https://www.imdb.com/title/tt14365118/) / [where to watch](https://www.youtube.com/playlist?list=PLf1QSB7YWJJQoi512Urg84f0tY_cQA0wI)
-
+- [ ] [The Devil Next Door, 2019](https://www.imdb.com/title/tt11165002/)
 
 **Series:**
 - [ ] [Butterfly Effect, Curiosity Stream, 2016](https://www.imdb.com/title/tt3790428/) - [1](https://curiositystream.com/video/1699) - [2](https://curiositystream.com/video/1996) - [3](https://curiositystream.com/video/2471) - [4](https://curiositystream.com/video/4550)
