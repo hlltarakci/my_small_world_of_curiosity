@@ -142,6 +142,7 @@ Hike Groups: https://theflamingohiker.com/hiking-groups-in-london/
 - https://www.meetup.com/AAA-London-Group/
 
 Day Hikes & Sightseeing:
+- [x] [Oct 2023 - Denbies Winery](https://www.meetup.com/londonwellnessgroup/events/296293668/)
 - [x] [May 2023 - **Boxhill and Stepping Stones**](https://www.nationaltrust.org.uk/visit/surrey/box-hill/the-box-hill-hike)
 - [x] [May 2023 - Chess Valley Walk](https://www.chilternsaonb.org/map_marker/chess-valley-walk/)
 - [x] [May 2023 - **Otford Mount & Shoreham bluebell woods**](https://www.meetup.com/free-outdoor-trips-from-london/events/292942455/)
