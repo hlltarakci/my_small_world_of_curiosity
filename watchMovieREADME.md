@@ -19,6 +19,7 @@
 - [ ] [The Apartment, 1960](https://www.imdb.com/title/tt0053604/)
 - [ ] [Singin' in the Rain, 1952](https://www.imdb.com/title/tt0045152/)
 - [ ] [Rashomon, 1950](https://www.imdb.com/title/tt0042876/)
+- [ ] [Ikiru, 1952](https://www.imdb.com/title/tt0044741/) - [a post about the movie](https://eksiseyler.com/kurosawanin-gozden-kacan-altin-degerindeki-filmlerinden-biri-ikiru)
 - [ ] [Another Round, 2020](https://www.imdb.com/title/tt10288566/)
 - [ ] [Band of Outsiders, 1964](https://www.imdb.com/title/tt0057869/)
 - [ ] [To Kill a Mockingbird, 1962](https://www.imdb.com/title/tt0056592/)
