@@ -7,6 +7,15 @@
      - **1h+ cycling**
      - **free format(any 30+ minute exercise video from below)**
 
+### Current 
+- [Cassey's Summer Sculpt](https://www.blogilates.com/blog/28daysummersculpt/)
+- Sunday, Tuesday, Thursday - [20 min butt addition](https://www.youtube.com/watch?v=36aBAcVc7Es)
+
+### Ready Programs
+
+- [Cassey's Summer Sculpt](https://www.blogilates.com/blog/28daysummersculpt/)
+- [Cassey's Beginner Calendar](https://www.blogilates.com/blog/new-beginners-calendar-2-0-for-2015/)
+
 ### Weekly - Version 1 (Focus: Total body)
 - Sunday:
     - [60 min - Nicole](https://www.youtube.com/watch?v=3guGRzS1oLA)  
