@@ -9,7 +9,7 @@
 
 ### Current 
 - [Cassey's Summer Sculpt](https://www.blogilates.com/blog/28daysummersculpt/)
-- Sunday, Tuesday, Thursday - [20 min butt addition](https://www.youtube.com/watch?v=36aBAcVc7Es)
+- Tuesday, Thursday, Sunday - [20 min butt addition](https://www.youtube.com/watch?v=36aBAcVc7Es)
 
 ### Ready Programs
 
