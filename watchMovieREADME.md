@@ -94,7 +94,8 @@
      - [ ] [Beregis avtomobilya, 1966](https://www.imdb.com/title/tt0060161/) - [where to watch](https://www.youtube.com/watch?v=jZ33mMmfvaM)
      - [ ] [True Friends (Vernye druz'ya), 1954](https://www.imdb.com/title/tt0047650/) - [where to watch](https://www.youtube.com/watch?v=qGXoycbxSnA), cannot find subtitles :(
      - [ ] [The Diamond Arm, 1969](https://www.imdb.com/title/tt0062759/)
-     - [ ] [Heart of a Dog, 1988](https://www.imdb.com/title/tt0096126/) - [where to watch](https://www.youtube.com/watch?v=hIkimahLpCs)
+     - [x] [Heart of a Dog, 1988](https://www.imdb.com/title/tt0096126/) - [where to watch](https://www.youtube.com/watch?v=hIkimahLpCs)
+     - [ ] [Series][The Master and Margarita,2005](https://www.imdb.com/title/tt0403783/)
      - [x] [Chernobyl 1986, 2021](https://www.imdb.com/title/tt10648714/)
      - [ ] [Series][The Meeting Place Cannot Be Changed, 1979](https://www.imdb.com/title/tt0078655/) - [1](https://www.youtube.com/watch?v=X7Kr8g8wps0) - [2](https://www.youtube.com/watch?v=KHDCmzmPInU) - [3](https://www.youtube.com/watch?v=CYjmTwS3DqI) - [4](https://www.youtube.com/watch?v=bRSBW5kL560) - [5](https://www.youtube.com/watch?v=Q2Of-vstUR0)
      - [ ] [Sergio & Sergei, 2017](https://www.imdb.com/title/tt6131208/) - [Mir Space Station](https://en.wikipedia.org/wiki/Mir)
