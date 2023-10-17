@@ -8,8 +8,9 @@
      - **free format(any 30+ minute exercise video from below)**
 
 ### Current 
-- [Cassey's Summer Sculpt](https://www.blogilates.com/blog/28daysummersculpt/)
 - Tuesday, Thursday, Sunday - [20 min butt addition](https://www.youtube.com/watch?v=36aBAcVc7Es)
+- Tuesday, Thursday, Sunday - [26 min - Kelly](https://www.youtube.com/watch?v=jaqciTxwDoE)
+- Wednesday, Friday, Saturday -  [30 min - Cassey](https://www.youtube.com/watch?v=CKe6EYSzmtU)
 
 ### Ready Programs
 
