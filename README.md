@@ -1,5 +1,7 @@
 # My Small World of Curiosity
 
+<img src="avatar.png"/>
+
 - [Documentary & Research & Feed my curiosity](https://github.com/hlltarakci/my_small_world_of_curiosity/blob/main/documentary/README.md)
     - [History](https://github.com/hlltarakci/my_small_world_of_curiosity/blob/main/documentary/historyREADME.md)
     - [Society and Politics](https://github.com/hlltarakci/my_small_world_of_curiosity/blob/main/documentary/societyAndPoliticsREADME.md)
@@ -14,7 +16,6 @@
 - [Cook](https://github.com/hlltarakci/my_small_world_of_curiosity/tree/main/cooking)
 - [Self-growth](https://github.com/hlltarakci/my_small_world_of_curiosity/blob/main/selfAdviceREADME.md)
 
-<img src="avatar.png"/>
 
 
 
