@@ -12,6 +12,8 @@
 - Tuesday, Thursday, Sunday - [26 min - Kelly](https://www.youtube.com/watch?v=jaqciTxwDoE)
 - Wednesday, Friday, Saturday -  [30 min - Cassey](https://www.youtube.com/watch?v=CKe6EYSzmtU)
 
+- Spice it up replacements: [15 min playlist - Nicole](https://www.youtube.com/playlist?list=PLipSZg1JNsC_uKB9PQoIlTao6ZCWlnZPE) - [25 min playlist - Nicole](https://www.youtube.com/playlist?list=PLipSZg1JNsC9Olv_XGOcEEldnBP_41WzT)
+
 ### Ready Programs
 
 - [Cassey's Summer Sculpt](https://www.blogilates.com/blog/28daysummersculpt/)
