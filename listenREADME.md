@@ -1,6 +1,5 @@
 # LISTEN List <a name="listen_list"></a>
 ## Podcast
-- [TED Talks Daily](https://open.spotify.com/show/1VXcH8QHkjRcTCEd88U3ti)
 - [Think Fast, Talk Smart](https://open.spotify.com/show/6ll0MwobDt1JW9gYaOONEo): 
     - [X] Asking better questions lead to better results (Ask "What was important to you about this?" instead of "How it went?").
     - [X] [High-Stakes Communication: How to manage anxiety when speaking in front of others?](https://open.spotify.com/episode/0X6mdscnepO358a7VeElO8?si=f431e1a009ed4b60)
@@ -49,6 +48,8 @@
     - [x] [Neha Kumar: ON Building resilience to negativity and how to make your passions practical](https://open.spotify.com/episode/6XSNyUF7iUpeEGoqRXTwR7)
 - [The TED Interview](https://open.spotify.com/show/4sa3vB3wUxMwAEKuf3dSwo)
     - [x] [Angela Duckworth: How to turn grit into a lifelong habit](https://open.spotify.com/episode/4wWODibLGYBI3b9ug58AVI)
+- [TED Talks Daily](https://open.spotify.com/show/1VXcH8QHkjRcTCEd88U3ti)
+    - [x] [The Israel-Hamas war - and what it means for the world - Ian Bremmer](https://open.spotify.com/episode/2CsIC7gfVeulf97TgWbZ5g)
 - [How to be a better human](https://open.spotify.com/show/5KuVFavG72i7fNOZ9tEX3a)
 - [Kendine Iyi Davran](https://open.spotify.com/show/1OsUxSME9IyoE1ZyDpRLxc) 
     - [X] [Bakis acini degistiren hayat dersi nedir?](https://open.spotify.com/episode/23A9JaECgHrwujgWR3qiPQ)
