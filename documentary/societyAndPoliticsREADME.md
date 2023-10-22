@@ -85,7 +85,7 @@
     - [x] [Kurt Cobain Documentary: Something In The Way](https://www.youtube.com/watch?v=2miQ-cfakpY)
 - Israil - Gaza Conflict:
      - [x] [Israel Gaza war: History of the conflict explained](https://www.bbc.co.uk/news/newsbeat-44124396)
-     - [ ] [Israel-Palestine war: A simple history of how it all began | Explained | Gravitas Plus](https://www.youtube.com/watch?v=0anQIEeLonA) - [Gaza–Israel conflict](https://www.youtube.com/watch?v=0anQIEeLonA)
+     - [x] [**Israel-Palestine war: A simple history of how it all began | Explained | Gravitas Plus**](https://www.youtube.com/watch?v=0anQIEeLonA) - [Gaza–Israel conflict](https://www.youtube.com/watch?v=0anQIEeLonA) - [Balfour Declaration](https://en.wikipedia.org/wiki/Balfour_Declaration)
      - [ ] [Israel Vs Palestine | Israel Palestine History Of Conflict Explained | Israel Palestine War | N18V](https://www.youtube.com/watch?v=WiNlxqlNZys)
      - [ ] [The Israeli-Palestinian conflict, explained | Stories of Our Times](https://www.youtube.com/watch?v=8V-9LRLSzLg)
 **Series:**
