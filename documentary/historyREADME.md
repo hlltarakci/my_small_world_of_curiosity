@@ -135,6 +135,7 @@
    - [ ] [How The Middle East Became So Chaotic | History Documentary](https://www.youtube.com/watch?v=ty3QbOBj7zI)    
    - [ ] [Six days that changed the Middle East: The '67 Arab-Israeli War](https://www.youtube.com/watch?v=cn3RUZsaPmg)
    - [ ] [Why the Middle East’s Borders Guarantee Forever Wars](https://www.youtube.com/watch?v=JN4mnVLP0rU)
+   - [ ] [Israel - Birth of a state | DW Documentary](https://www.youtube.com/watch?v=4upvoxP9-kg)
    - Israil - Gaza Conflict:
      - [x] [Israel Gaza war: History of the conflict explained](https://www.bbc.co.uk/news/newsbeat-44124396)
      - [x] [**Israel-Palestine war: A simple history of how it all began | Explained | Gravitas Plus**](https://www.youtube.com/watch?v=0anQIEeLonA) - [Gaza–Israel conflict](https://www.youtube.com/watch?v=0anQIEeLonA) - [Balfour Declaration](https://en.wikipedia.org/wiki/Balfour_Declaration)
