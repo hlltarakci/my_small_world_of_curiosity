@@ -7,7 +7,7 @@
 - [ ] [Fyodor Dostoyevsky, **Crime and Punisment**](https://www.amazon.co.uk/Punishment-Penguin-Classics-Fyodor-Dostoyevsky/dp/0140449132) - *reread with a new perspective*
 - [ ] [Fyodor Dostoyevsky, **The Idiot**](https://www.amazon.co.uk/Idiot-Penguin-Classics-Fyodor-Dostoyevsky/dp/014044792X) - first read when i was 13 :) 
 - [ ] [Mikhail Yuryevich Lermontov, A Hero of Our Time](https://www.amazon.co.uk/Hero-Our-Time-Mikhail-Lermontov/dp/1934169056)
-- [ ] [Mikhail Bulgakov, The Master and Margarita, 1967](https://en.wikipedia.org/wiki/The_Master_and_Margarita)
+- [x] [Mikhail Bulgakov, The Master and Margarita, 1967](https://en.wikipedia.org/wiki/The_Master_and_Margarita)
 - [ ] Isaac Asimov - [suggested reading order](https://www.howtoread.me/foundation-series-books-in-order/)
     - [ ] *not in suggested list* [Isaac Asimov, The End of Eternity](https://www.amazon.co.uk/End-Eternity-Panther-Science-Fiction/dp/0586024409) / [independent](https://www.kayiprihtim.org/portal/okuma-rehberleri/vakif-serisi-okuma-rehberi/)
     - [x] [Isaas Asimov, I, Robot](https://www.amazon.com/dp/055338256X?tag=howtoread06-20&linkCode=ogi&th=1&psc=1)
