@@ -83,11 +83,7 @@
     - [ ] [Erkin Koray Documentary](https://www.youtube.com/watch?v=zjqVWc0vKb0)
     - [ ] [Oguz Atay Documentary - Hayat Bir Oyundur](https://www.youtube.com/watch?v=ZdmXbXkJBcI)  
     - [x] [Kurt Cobain Documentary: Something In The Way](https://www.youtube.com/watch?v=2miQ-cfakpY)
-- Israil - Gaza Conflict:
-     - [x] [Israel Gaza war: History of the conflict explained](https://www.bbc.co.uk/news/newsbeat-44124396)
-     - [x] [**Israel-Palestine war: A simple history of how it all began | Explained | Gravitas Plus**](https://www.youtube.com/watch?v=0anQIEeLonA) - [Gaza–Israel conflict](https://www.youtube.com/watch?v=0anQIEeLonA) - [Balfour Declaration](https://en.wikipedia.org/wiki/Balfour_Declaration)
-     - [ ] [Israel Vs Palestine | Israel Palestine History Of Conflict Explained | Israel Palestine War | N18V](https://www.youtube.com/watch?v=WiNlxqlNZys)
-     - [ ] [The Israeli-Palestinian conflict, explained | Stories of Our Times](https://www.youtube.com/watch?v=8V-9LRLSzLg)
+
 **Series:**
 - [x] [**Deep Time History, Curiosity Stream**](https://www.imdb.com/title/tt6052190/) - quite similar in context to Harari's Sapiens. Linking ideas, providing a general structure why things happened the way they did fascinates me. And this is a transferable thought experiment skill.
 - [x] [Turning Point 9/11, 2021](https://www.netflix.com/gb/title/81315804)
