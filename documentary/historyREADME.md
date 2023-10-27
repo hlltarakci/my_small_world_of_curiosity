@@ -4,7 +4,7 @@
 **Series:**
 - [ ] [**Apocalypse: WW1, 2014**](https://www.imdb.com/title/tt3638584/) - [where to watch, 5 episodes](https://curiositystream.com/video/3047) - [For many, this excitement for war was similar to a celebration or a festival. One of the first main reasons for the excitement of the war was that many in Europe had a romantic feeling towards war.  In the years before war was declared in 1914, Europe had enjoyed a prolonged period of piece in its otherwise violent past.](https://www.historycrunch.com/excitement-for-world-war-i.html#/) - [Sarikamis](https://military-history.fandom.com/wiki/Battle_of_Sarikamish) - [Dardanelles Campaign](https://www.iwm.org.uk/history/a-short-history-of-the-dardanelles-campaign) - [Russian Revolution 1917](https://www.history.com/topics/european-history/russian-revolution) - [Rasputin](https://en.wikipedia.org/wiki/Grigori_Rasputin) - [The mysterious life and death of Rasputin](https://www.youtube.com/watch?v=4dEf1ep3O9I) - [Russian Revolution of 1905](https://en.wikipedia.org/wiki/Russian_Revolution_of_1905) - [Timeline of the Russian Revolution](https://www.bl.uk/russian-revolution/articles/timeline-of-the-russian-revolution)
 
-## WW2 (1939-1945), Cold War (1947-1991), USSR (1922-1991), Russia
+## WW2 (1939-1945), Cold War (1947-1991), USSR (1922-1991), Russia, Middle East, US: World History
 - [x] [The Last Days of the USSR, Curiosity Stream](https://curiositystream.com/video/4723?utm_campaign=D-PerformanceMax-ROW&utm_medium=display&utm_source=google&utm_placement=&utm_content=&gclid=EAIaIQobChMI9YqEwMbV9gIVxJrVCh1rfAACEAAYASAAEgIww_D_BwE)
 - [x] [The Breakup of the Soviet Union Explained](https://youtu.be/t2GmtBCVHzY)
 - [x] [The Entire History of the Cold War Explained | Best Cold War Documentary](https://www.youtube.com/watch?v=XDrykOhrb5s) - provides complete overview of events, helping to see their relation and chronology, difficult to digest
@@ -131,7 +131,16 @@
        - [ ] [The development of the Cold War: 1947-1955-Truman Doctrine to Warsaw Pact](https://www.youtube.com/watch?v=lagwu7EycKM)
        - [ ] [Warsaw Pact: Creation, Structure and Effectiveness](https://www.youtube.com/watch?v=55xQypn7UJc)
        - [ ] [World War III, 1989: NATO vs Warsaw Pact](https://www.youtube.com/watch?v=kONMKmWQyE8)
-
+- Middle East
+   - [ ] [How The Middle East Became So Chaotic | History Documentary](https://www.youtube.com/watch?v=ty3QbOBj7zI)    
+   - [ ] [Six days that changed the Middle East: The '67 Arab-Israeli War](https://www.youtube.com/watch?v=cn3RUZsaPmg)
+   - [ ] [Why the Middle East’s Borders Guarantee Forever Wars](https://www.youtube.com/watch?v=JN4mnVLP0rU)
+   - Israil - Gaza Conflict:
+     - [x] [Israel Gaza war: History of the conflict explained](https://www.bbc.co.uk/news/newsbeat-44124396)
+     - [x] [**Israel-Palestine war: A simple history of how it all began | Explained | Gravitas Plus**](https://www.youtube.com/watch?v=0anQIEeLonA) - [Gaza–Israel conflict](https://www.youtube.com/watch?v=0anQIEeLonA) - [Balfour Declaration](https://en.wikipedia.org/wiki/Balfour_Declaration)
+     - [ ] [Israel Vs Palestine | Israel Palestine History Of Conflict Explained | Israel Palestine War | N18V](https://www.youtube.com/watch?v=WiNlxqlNZys)
+     - [ ] [The Israeli-Palestinian conflict, explained | Stories of Our Times](https://www.youtube.com/watch?v=8V-9LRLSzLg)
+     - [ ] [History of Israel-Palestine Conflict](https://www.youtube.com/watch?v=m19F4IHTVGc)
 **Series:**
 - [ ] [**Cold War, 1998 - 24 episodes**](https://www.imdb.com/title/tt0170896/) - [where to watch](https://archive.org/details/Cold_War_1998_CNN_Kenneth_Branagh)  
      [1: Comrades, 1917-1945](https://www.youtube.com/watch?v=22KIQ1QNnhE&list=PL3H6z037pboGWTxs3xGP7HRGrQ5dOQdGc&index=1) / 
