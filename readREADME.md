@@ -51,6 +51,8 @@
 - [ ] [Matt Haig, The Midnight Library](https://www.amazon.co.uk/Midnight-Library-Matt-Haig/dp/1786892731)
 - [ ] [Blake Crouch, Recursion](https://www.goodreads.com/book/show/42046112-recursion)
 - [ ] [Marcel Proust, In Search of Lost Time](https://www.amazon.co.uk/Search-Lost-Time-Proust-Complete/dp/0812969642)
+- Andy Weir
+    - [ ] [Project Hail Mary](https://www.amazon.co.uk/Project-Hail-Mary-bestselling-Martian/dp/1529100615) 
 - Orhan Pamuk
     - [ ] [Orhan Pamuk, Kara Kitap](https://www.amazon.co.uk/Kara-Kitap-Orhan-Pamuk/dp/9750826132) - *re-read*
 - Oguz Atay - [quotes](https://eksiseyler.com/tutunamayanlar-dan-oguz-atay-in-kitaplarinda-gecen-efsane-cumleler)
