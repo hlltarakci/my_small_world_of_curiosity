@@ -11,8 +11,10 @@
 
 - [Cassey's Summer Sculpt](https://www.blogilates.com/blog/28daysummersculpt/)
 - [Cassey's Beginner Calendar](https://www.blogilates.com/blog/new-beginners-calendar-2-0-for-2015/)
+- [**CURRENT**] [Nicole's Move with Me Series (7 days, starting Sunday)](https://www.youtube.com/watch?v=9tVNYGx4FeI&list=PLipSZg1JNsC82kix_s5UX3R7gRq-HlJRP)
 
-### [CURRENT] Weekly - Version 1 (Focus: Total body)
+
+### Weekly - Version 1 (Focus: Total body)
 - Sunday:
     - [60 min - Nicole](https://www.youtube.com/watch?v=3guGRzS1oLA)  
 - Monday:
@@ -154,7 +156,8 @@ Hike Groups: https://theflamingohiker.com/hiking-groups-in-london/
 - https://www.meetup.com/AAA-London-Group/
 
 Day Hikes & Sightseeing:
-- [x] [Oct 2023 - Holliwell Point]()
+- [x] Oct 2023 - **South Downs National Park on the Amberley Circular via Bignor Hill and Glatting Beacon**
+- [x] Oct 2023 - **Holliwell Point**, Southminster to Burnham-on-Crouch
 - [x] [Oct 2023 - Denbies Winery](https://www.meetup.com/londonwellnessgroup/events/296293668/)
 - [x] [May 2023 - **Boxhill and Stepping Stones**](https://www.nationaltrust.org.uk/visit/surrey/box-hill/the-box-hill-hike)
 - [x] [May 2023 - Chess Valley Walk](https://www.chilternsaonb.org/map_marker/chess-valley-walk/)
