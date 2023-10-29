@@ -137,6 +137,7 @@
    - [ ] [Why the Middle East’s Borders Guarantee Forever Wars](https://www.youtube.com/watch?v=JN4mnVLP0rU)
    - [ ] [Israel - Birth of a state | DW Documentary](https://www.youtube.com/watch?v=4upvoxP9-kg)
    - Israil - Gaza Conflict:
+     - [x] [*What Ignited The Ongoing Palestine vs Israel Conflict | Promises & Betrayals | Timeline*](https://www.youtube.com/watch?v=RW105kjNtho) - [Arab Nationalist Movement](https://en.wikipedia.org/wiki/Arab_Nationalist_Movement) - [Sykes–Picot Agreement](https://en.wikipedia.org/wiki/Sykes–Picot_Agreement) - [The Balfour Declaration explained](https://www.aljazeera.com/features/2018/11/2/more-than-a-century-on-the-balfour-declaration-explained)
      - [x] [Israel Gaza war: History of the conflict explained](https://www.bbc.co.uk/news/newsbeat-44124396)
      - [x] [**Israel-Palestine war: A simple history of how it all began | Explained | Gravitas Plus**](https://www.youtube.com/watch?v=0anQIEeLonA) - [Gaza–Israel conflict](https://www.youtube.com/watch?v=0anQIEeLonA) - [Balfour Declaration](https://en.wikipedia.org/wiki/Balfour_Declaration)
      - [ ] [Israel Vs Palestine | Israel Palestine History Of Conflict Explained | Israel Palestine War | N18V](https://www.youtube.com/watch?v=WiNlxqlNZys)
