@@ -7,33 +7,27 @@
      - **1h+ cycling**
      - **free format(any 30+ minute exercise video from below)**
 
-### Current 
-- Tuesday, Thursday, Sunday - [20 min butt addition](https://www.youtube.com/watch?v=36aBAcVc7Es)
-- Tuesday, Thursday, Sunday - [26 min - Kelly](https://www.youtube.com/watch?v=jaqciTxwDoE)
-- Wednesday, Friday, Saturday -  [30 min - Cassey](https://www.youtube.com/watch?v=CKe6EYSzmtU)
-
-- Spice it up replacements: [15 min playlist - Nicole](https://www.youtube.com/playlist?list=PLipSZg1JNsC_uKB9PQoIlTao6ZCWlnZPE) - [25 min playlist - Nicole](https://www.youtube.com/playlist?list=PLipSZg1JNsC9Olv_XGOcEEldnBP_41WzT)
-
 ### Ready Programs
 
 - [Cassey's Summer Sculpt](https://www.blogilates.com/blog/28daysummersculpt/)
 - [Cassey's Beginner Calendar](https://www.blogilates.com/blog/new-beginners-calendar-2-0-for-2015/)
 
-### Weekly - Version 1 (Focus: Total body)
+### [CURRENT] Weekly - Version 1 (Focus: Total body)
 - Sunday:
     - [60 min - Nicole](https://www.youtube.com/watch?v=3guGRzS1oLA)  
 - Monday:
-    - [30 min - Cassey](https://www.youtube.com/watch?v=CKe6EYSzmtU)
+    - FREE DAY
 - Tuesday:
     - [40 min - Nicole](https://www.youtube.com/watch?v=koTzaUu7Vws) 
 - Wednesday:
-    - [26 min - Kelly](https://www.youtube.com/watch?v=jaqciTxwDoE)
+    - [26 min - Kelly](https://www.youtube.com/watch?v=jaqciTxwDoE) or [30 min - Cassey](https://www.youtube.com/watch?v=CKe6EYSzmtU)
 - Thursday:
     - [50 min - Nicole](https://www.youtube.com/watch?v=IwSdbcvEIbA)
 - Friday: FREE DAY
 - Saturday: 
     - [60 min - Cassey](https://www.youtube.com/watch?v=s0CkBw5Wock)  
 
+Spice it up replacements: [15 min playlist - Nicole](https://www.youtube.com/playlist?list=PLipSZg1JNsC_uKB9PQoIlTao6ZCWlnZPE) - [25 min playlist - Nicole](https://www.youtube.com/playlist?list=PLipSZg1JNsC9Olv_XGOcEEldnBP_41WzT)
       
 ### Weekly - Version 2 ([Cassey's Sculpt Program](https://www.blogilates.com/blog/28daysummersculpt/) Adapted)
 - Sunday:
@@ -77,6 +71,12 @@
     - [12 Minutes to Toned Arms Workout](https://www.youtube.com/watch?v=nejA_F4D2ps&list=PLSCcAGyv98ick76ygMkdu7PuRFfpn8ixM&index=4) 
     - [12 minutes - Stretches You Need After a Stressful Day](https://www.youtube.com/watch?v=NRWz91kQuJk)
   
+### Weekly - Version 4
+- Tuesday, Thursday, Sunday - [20 min butt addition](https://www.youtube.com/watch?v=36aBAcVc7Es)
+- Tuesday, Thursday, Sunday - [26 min - Kelly](https://www.youtube.com/watch?v=jaqciTxwDoE)
+- Wednesday, Friday, Saturday -  [30 min - Cassey](https://www.youtube.com/watch?v=CKe6EYSzmtU)
+
+- Spice it up replacements: [15 min playlist - Nicole](https://www.youtube.com/playlist?list=PLipSZg1JNsC_uKB9PQoIlTao6ZCWlnZPE) - [25 min playlist - Nicole](https://www.youtube.com/playlist?list=PLipSZg1JNsC9Olv_XGOcEEldnBP_41WzT)
 
 ### Others
 - [30 Min - BUTT](https://www.youtube.com/watch?v=agIYYK8KjDg)
