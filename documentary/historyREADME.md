@@ -138,6 +138,11 @@
    - [ ] [Israel - Birth of a state | DW Documentary](https://www.youtube.com/watch?v=4upvoxP9-kg)
    - Israil - Gaza Conflict:
      - [x] [*What Ignited The Ongoing Palestine vs Israel Conflict | Promises & Betrayals | Timeline*](https://www.youtube.com/watch?v=RW105kjNtho) - [Arab Nationalist Movement](https://en.wikipedia.org/wiki/Arab_Nationalist_Movement) - [Sykes–Picot Agreement](https://en.wikipedia.org/wiki/Sykes–Picot_Agreement) - [The Balfour Declaration explained](https://www.aljazeera.com/features/2018/11/2/more-than-a-century-on-the-balfour-declaration-explained)
+     - [x] [The Newsmakers: Sykes Picot: 100 Years On](https://www.youtube.com/watch?v=XwRouRroOlA)
+     - [x] [**The Balfour Declaration's impact, 100 years on**](https://www.youtube.com/watch?v=kbdvn8QHyX8) - [the Nakba](https://en.wikipedia.org/wiki/Nakba)
+     - [ ] [Redrawing the Map of the Middle East in 1920](https://www.youtube.com/watch?v=qRsHqP-QHGQ)
+     - [ ] [Middle East geopolitics explained simply || The Middle East explained in a nutshell](https://www.youtube.com/watch?v=BpTDDKsdMcY)
+     - [ ] [Gaza, explained](https://www.youtube.com/watch?v=lv1SpwwJEW8)
      - [x] [Israel Gaza war: History of the conflict explained](https://www.bbc.co.uk/news/newsbeat-44124396)
      - [x] [**Israel-Palestine war: A simple history of how it all began | Explained | Gravitas Plus**](https://www.youtube.com/watch?v=0anQIEeLonA) - [Gaza–Israel conflict](https://www.youtube.com/watch?v=0anQIEeLonA) - [Balfour Declaration](https://en.wikipedia.org/wiki/Balfour_Declaration)
      - [ ] [Israel Vs Palestine | Israel Palestine History Of Conflict Explained | Israel Palestine War | N18V](https://www.youtube.com/watch?v=WiNlxqlNZys)
