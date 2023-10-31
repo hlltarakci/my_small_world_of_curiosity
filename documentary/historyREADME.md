@@ -140,6 +140,7 @@
      - [x] [*What Ignited The Ongoing Palestine vs Israel Conflict | Promises & Betrayals | Timeline*](https://www.youtube.com/watch?v=RW105kjNtho) - [Arab Nationalist Movement](https://en.wikipedia.org/wiki/Arab_Nationalist_Movement) - [Sykes–Picot Agreement](https://en.wikipedia.org/wiki/Sykes–Picot_Agreement) - [The Balfour Declaration explained](https://www.aljazeera.com/features/2018/11/2/more-than-a-century-on-the-balfour-declaration-explained)
      - [x] [The Newsmakers: Sykes Picot: 100 Years On](https://www.youtube.com/watch?v=XwRouRroOlA)
      - [x] [**The Balfour Declaration's impact, 100 years on**](https://www.youtube.com/watch?v=kbdvn8QHyX8) - [the Nakba](https://en.wikipedia.org/wiki/Nakba)
+     - [x] [**Why urban warfare in Gaza will be bloodier than in Iraq**](https://www.economist.com/middle-east-and-africa/2023/10/30/why-urban-warfare-in-gaza-will-be-bloodier-than-in-iraq)
      - [ ] [Redrawing the Map of the Middle East in 1920](https://www.youtube.com/watch?v=qRsHqP-QHGQ)
      - [ ] [Middle East geopolitics explained simply || The Middle East explained in a nutshell](https://www.youtube.com/watch?v=BpTDDKsdMcY)
      - [ ] [Gaza, explained](https://www.youtube.com/watch?v=lv1SpwwJEW8)
