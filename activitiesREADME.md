@@ -11,8 +11,7 @@
 
 - [Cassey's Summer Sculpt](https://www.blogilates.com/blog/28daysummersculpt/)
 - [Cassey's Beginner Calendar](https://www.blogilates.com/blog/new-beginners-calendar-2-0-for-2015/)
-- [**CURRENT**] [Nicole's Move with Me Series (7 days, starting Sunday)](https://www.youtube.com/watch?v=9tVNYGx4FeI&list=PLipSZg1JNsC82kix_s5UX3R7gRq-HlJRP)
-
+- [**CURRENT**] [Nicole's Move with Me Series (7 days, starting Sunday)](https://www.youtube.com/watch?v=9tVNYGx4FeI&list=PLipSZg1JNsC82kix_s5UX3R7gRq-HlJRP) / Replacement to increase challenge: [1h intermediate pilates](https://www.youtube.com/watch?v=3guGRzS1oLA) - [40m intermediate pilates](https://www.youtube.com/watch?v=koTzaUu7Vws) - [40m intermediate/advanced pilates](https://www.youtube.com/watch?v=GTZioQTSy8o) - [30m intense pilates](https://www.youtube.com/watch?v=_HnWLkHL1hU)
 
 ### Weekly - Version 1 (Focus: Total body)
 - Sunday:
