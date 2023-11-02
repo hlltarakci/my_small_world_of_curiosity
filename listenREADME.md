@@ -72,6 +72,7 @@
     - [x] [**Yas 39: Yasamin Hakkini verebilmke icin Hayattan Ogrendigim Dersler**](https://open.spotify.com/episode/7JqMzl8vVUJ4rIrUqb5gBH?si=8c1bda3ab3a34365&nd=1)
     - [x] [**Yuzlestiginde seni guclendirecek 7 aci gercek**](https://open.spotify.com/episode/4yy0At17AENkpik6ifaTNv?si=51ca225d84ab4639&nd=1)
     - [x] [**Kendini gelistirmek icin 17 farkli deneyim onerisi**](https://open.spotify.com/episode/3FmjHstnpNa4mGvP5xg489?si=798c182a75ef430d)
+    - [x] [**Iyi bir insani nasil tanirsin?**](https://open.spotify.com/episode/5DSSsFuHiDQo2F1XBPvCNy?si=U1PTywfGS-qlAsSdUCNg5g) 
 - Misc
     - [x] [The School of Life, The Imposter Syndrom](https://www.youtube.com/watch?v=eqhUHyVpAwE)
     - [x] [Alan Watkins, Being Brilliant Every Single Day](https://www.youtube.com/watch?v=fRItG9G1rb4)
