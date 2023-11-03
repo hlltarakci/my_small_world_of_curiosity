@@ -35,6 +35,7 @@
    - [ ] [How Many Multiverses Are There?](https://www.youtube.com/watch?v=1jmNzlTd09E)
    - [ ] [Where Are All The Hidden Dimensions?](https://www.youtube.com/watch?v=9If-K9R3Ka4)
    - [ ] [How Did Our Universe Emerge From Chaos?](https://www.youtube.com/watch?v=qr0wyKbm7m4)
+   - [ ] [What Did James Webb Really See At The Beginning Of Time?](https://www.youtube.com/watch?v=2pux7v9qJ58)
 
 **Series:**
 - [ ] [Carl Sagan's Cosmos, 1980](https://www.imdb.com/title/tt0081846/?ref_=tt_sims_tt_i_5) 
