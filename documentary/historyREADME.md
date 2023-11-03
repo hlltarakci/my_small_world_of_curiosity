@@ -1,6 +1,7 @@
 # HISTORY
 
 ## WW1 (1914-1918)
+- [ ] [World War One (ALL PARTS)](https://www.youtube.com/watch?v=G1p6rlDCxq0) 
 **Series:**
 - [ ] [**Apocalypse: WW1, 2014**](https://www.imdb.com/title/tt3638584/) - [where to watch, 5 episodes](https://curiositystream.com/video/3047) - [For many, this excitement for war was similar to a celebration or a festival. One of the first main reasons for the excitement of the war was that many in Europe had a romantic feeling towards war.  In the years before war was declared in 1914, Europe had enjoyed a prolonged period of piece in its otherwise violent past.](https://www.historycrunch.com/excitement-for-world-war-i.html#/) - [Sarikamis](https://military-history.fandom.com/wiki/Battle_of_Sarikamish) - [Dardanelles Campaign](https://www.iwm.org.uk/history/a-short-history-of-the-dardanelles-campaign) - [Russian Revolution 1917](https://www.history.com/topics/european-history/russian-revolution) - [Rasputin](https://en.wikipedia.org/wiki/Grigori_Rasputin) - [The mysterious life and death of Rasputin](https://www.youtube.com/watch?v=4dEf1ep3O9I) - [Russian Revolution of 1905](https://en.wikipedia.org/wiki/Russian_Revolution_of_1905) - [Timeline of the Russian Revolution](https://www.bl.uk/russian-revolution/articles/timeline-of-the-russian-revolution)
 
@@ -9,6 +10,8 @@
 - [x] [The Breakup of the Soviet Union Explained](https://youtu.be/t2GmtBCVHzY)
 - [x] [The Entire History of the Cold War Explained | Best Cold War Documentary](https://www.youtube.com/watch?v=XDrykOhrb5s) - provides complete overview of events, helping to see their relation and chronology, difficult to digest
 - [x] [Oversimplified - Cold War, Part 1](https://youtu.be/I79TpDe3t2g) [Part 2](https://youtu.be/OIYy32RuHao) - helps to digest the above resource, humorous cartoon demonstration
+- [ ] [The Cold War Explained In 15 Minutes | Best Cold War Documentary](https://www.youtube.com/watch?v=NF3u8Ju9aAg)
+- [ ] [The Cold War - Summary on a Map (long version)](https://www.youtube.com/watch?v=x3jv4QbIoQ8)
 - [x] [Russian Revolution and Civil War: Crash Course European History](https://youtu.be/U6KR4cLLVzQ)
 - [x] [The October Revolution (1917) – The Bolshevik Coup and the Birth of Soviet Russia](https://youtu.be/QGxR1sanyyU)
 - [x] [The Russian Revolution, Netflix](https://www.netflix.com/gb/title/80158770)
@@ -56,6 +59,7 @@
 - [ ] [Meeting Gorbachev, 2018](https://www.imdb.com/title/tt8811382/)
 - [ ] [How Did the Soviet Union Begin?](https://youtu.be/mY5P2ehFDPQ)
 - [ ] [Man with a Movie Camera, 1929](https://www.imdb.com/title/tt0019760/) / [where to watch](https://www.youtube.com/watch?v=cGYZ5847FiI)
+- [ ] [Russia's First Revolutionaries: The Decembrists ALL PARTS](https://www.youtube.com/watch?v=yXx_jLEG4KU)
 - [ ] [The Unknown War, 1978](https://www.imdb.com/title/tt0483223/)
      - [ ] [The Unknown War, Episode 1: June 22, 1941](https://www.youtube.com/watch?v=wI3rqO42lVc)
      - [ ] [The Unknown War, Episode 2: The Battle for Moscow](https://www.youtube.com/watch?v=m1XmIq6YN1M)
@@ -86,6 +90,9 @@
 - [ ] [Stealing The Atomic Bomb (Cold War Documentary)](https://www.youtube.com/watch?v=JpXWxgcP9Rs)
 - [ ] [Ambassador to Hitler - An unusual inside perspective on the Third Reich](https://www.youtube.com/watch?v=wqLqulHfZFc)
 - [ ] [Music in Nazi Germany - The maestro and the cellist of Auschwitz](https://www.youtube.com/watch?v=gvoT8QANp8I)
+- WWII summary:
+     - [ ] [The Second World War: 1939 - 1945 | WWII Documentary: PART 1](https://www.youtube.com/watch?v=sqMmOJ0riCg)
+     - [ ] [The Second World War: 1939 - 1945 | WWII Documentary: PART 2](https://www.youtube.com/watch?v=tWjU5pidIME) 
 - Space
      - [x] [**Why The Soviet Cosmonauts Never Reached The Moon (But USSR Still Won The Space Race)?**](https://www.youtube.com/watch?v=wXMXGITsKtk) / [Sergei Korolev](https://en.wikipedia.org/wiki/Sergei_Korolev)
      - [ ] [Space Race to the Moon](https://www.youtube.com/watch?v=WoJcvjhbJ70)
@@ -104,7 +111,7 @@
 - [x] [What Really Happened During the Manhattan Project?](https://www.youtube.com/watch?v=cyvwlK8ZT_g)
 - [x] [The Atomic Bomb: Crash Course History of Science](https://www.youtube.com/watch?v=w4q1fG1vh5I) 
 - [ ] [The Man Who Created the Deadliest Weapon in History (J. Robert Oppenheimer and the Atomic Bomb)](https://www.youtube.com/watch?v=4b4B6qrDPdI)
-- [ ] [Apollo Program](https://www.youtube.com/watch?v=55Jas5HrzcQ)
+- [ ] [Apollo Program (ALL PARTS)](https://www.youtube.com/watch?v=55Jas5HrzcQ)
 - Balkans
   - [x] [The Balkans in Flames, 2021](https://www.imdb.com/title/tt24625588/)
        - [x] [**The Balkans in Flames - The Ethnic Conflicts**](https://www.youtube.com/watch?v=075VpqfiTPI&t=0s) / [Ustashe](https://en.wikipedia.org/wiki/Ustaše) / [Jasenovac concentration camp](https://en.wikipedia.org/wiki/Jasenovac_concentration_camp) / [The Assassination Of King Alexander](https://warfarehistorynetwork.com/article/the-assassination-of-king-alexander/) / [Chetniks](https://en.wikipedia.org/wiki/Chetniks) / [Yugoslav Partisans](https://en.wikipedia.org/wiki/Yugoslav_Partisans) / [Goli Otok](https://en.wikipedia.org/wiki/Goli_Otok) / [Death and state funeral of Josip Broz Tito](https://en.wikipedia.org/wiki/Death_and_state_funeral_of_Josip_Broz_Tito)
