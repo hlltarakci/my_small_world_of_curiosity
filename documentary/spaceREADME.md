@@ -36,7 +36,10 @@
    - [ ] [Where Are All The Hidden Dimensions?](https://www.youtube.com/watch?v=9If-K9R3Ka4)
    - [ ] [How Did Our Universe Emerge From Chaos?](https://www.youtube.com/watch?v=qr0wyKbm7m4)
    - [ ] [What Did James Webb Really See At The Beginning Of Time?](https://www.youtube.com/watch?v=2pux7v9qJ58)
-
+- [What If](https://www.youtube.com/@WhatIfScienceShow/videos) - fun stuff
+   - [x] [What If Jupiter Collided With a Black Hole?](https://www.youtube.com/watch?v=gNzG9V4DMv0)
+   - [ ] [What If the Sun Exploded Tomorrow?](https://www.youtube.com/watch?v=YIXy2Kit4z4)
+  
 **Series:**
 - [ ] [Carl Sagan's Cosmos, 1980](https://www.imdb.com/title/tt0081846/?ref_=tt_sims_tt_i_5) 
 - [ ] [Cosmos: A Spacetime Odyssey, 2014](https://www.imdb.com/title/tt2395695/?ref_=tt_sims_tt_i_7)
