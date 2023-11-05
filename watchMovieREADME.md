@@ -36,7 +36,7 @@
      - [ ] [Courier, 1986](https://www.imdb.com/title/tt0091364/) - [where to watch](https://www.youtube.com/watch?v=HZslzk4GEPI)
      - [ ] [Crime and Punishment, 1970](https://www.imdb.com/title/tt0064839/) - [where to watch](https://www.youtube.com/watch?v=4RbMsU2WElM)
      - [ ] [The Brothers Karamazov, 1969](https://www.imdb.com/title/tt0051435/)
-     - [ ] [The Idiot, 1958](https://www.imdb.com/title/tt0051762/) - [where to watch](https://www.youtube.com/watch?v=qn8G-RYyfrM)
+     - [x] [**The Idiot, 1958**](https://www.imdb.com/title/tt0051762/) - [where to watch](https://www.youtube.com/watch?v=qn8G-RYyfrM) - part 2 missing :( - [Yury Yakovlev](https://en.wikipedia.org/wiki/Yury_Yakovlev) - [Russian Alphabet with Examples and Slow Pronunciation](https://www.youtube.com/watch?v=tYDMSM5dosE) - [**Prince Myshkin**](https://en.wikipedia.org/wiki/Prince_Myshkin)
      - [ ] [Brat, 1997](https://www.imdb.com/title/tt0118767/)
      - [ ] [The Barber of Siberia](https://www.imdb.com/title/tt0120125/)
      - [ ] [12, 2007](https://www.imdb.com/title/tt0488478/)
