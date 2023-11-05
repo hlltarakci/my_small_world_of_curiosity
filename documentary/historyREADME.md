@@ -191,7 +191,7 @@
 - [ ] [The Devil Next Door, 2019](https://www.imdb.com/title/tt11165002/)
 
 **Series:**
-- [ ] [Butterfly Effect, Curiosity Stream, 2016](https://www.imdb.com/title/tt3790428/) - [1](https://curiositystream.com/video/1699) - [2](https://curiositystream.com/video/1996) - [3](https://curiositystream.com/video/2471) - [4](https://curiositystream.com/video/4550)
+- [ ] [CURRENT] [Butterfly Effect, Curiosity Stream, 2016](https://www.imdb.com/title/tt3790428/) - [1](https://curiositystream.com/video/1699) - [2](https://curiositystream.com/video/1996) - [3](https://curiositystream.com/video/2471) - [4](https://curiositystream.com/video/4550)
 - [ ] [CURRENT] [Drain the Oceans, 2018](https://www.imdb.com/title/tt8676618/) - [where to watch](https://www.disneyplus.com/en-gb/series/drain-the-oceans/5rOeENEXQcTA)
 - [ ] [The Cuba Libre Story, 2015](https://www.imdb.com/title/tt6335696/)
 - [ ] [Civil War, 1990](https://www.imdb.com/title/tt0098769/)
