@@ -38,7 +38,7 @@
     - [ ] [2010: Odyssey Two](https://www.amazon.co.uk/gp/product/0345413970/ref=as_li_ss_tl?ie=UTF8&tag=bsio-21&linkCode=as2&camp=1634&creative=19450&creativeASIN=0345413970)
     - [ ] [2061: Odyssey Three](https://www.amazon.co.uk/gp/product/0586203192/ref=as_li_ss_tl?ie=UTF8&tag=bsio-21&linkCode=as2&camp=1634&creative=19450&creativeASIN=0586203192)
     - [ ] [3001 The Final Odyssey](https://www.amazon.co.uk/gp/product/0345438205/ref=as_li_ss_tl?ie=UTF8&tag=bsio-21&linkCode=as2&camp=1634&creative=19450&creativeASIN=0345438205)
-- [ ] Adrian Tchaikovsky
+- Adrian Tchaikovsky
     - [ ] [Adrian Tchaikovsky, Children of Time](https://www.amazon.co.uk/Children-Time-Winner-Arthur-Clarke/dp/1447273281)
     - [ ] [Adrian Tchaikovsky, Children of Ruin](https://www.amazon.co.uk/Children-Ruin-Time-Novels/dp/1509865853/ref=pd_lpo_sccl_1/262-8830999-6878048?pd_rd_w=83Qja&content-id=amzn1.sym.efc89c20-c5a9-4620-b6cd-2f4e51bac956&pf_rd_p=efc89c20-c5a9-4620-b6cd-2f4e51bac956&pf_rd_r=NTY8Y1251R9M3SMRYWZK&pd_rd_wg=WDgFs&pd_rd_r=d190a0fd-bfab-42a8-ba24-5b0d9dc86c77&pd_rd_i=1509865853&psc=1)
     - [ ] [Adrian Tchaikovsky, Children of Memory](https://www.amazon.co.uk/Children-Memory-action-packed-adventure-winner/dp/1529087198/ref=pd_lpo_sccl_2/262-8830999-6878048?pd_rd_w=83Qja&content-id=amzn1.sym.efc89c20-c5a9-4620-b6cd-2f4e51bac956&pf_rd_p=efc89c20-c5a9-4620-b6cd-2f4e51bac956&pf_rd_r=NTY8Y1251R9M3SMRYWZK&pd_rd_wg=WDgFs&pd_rd_r=d190a0fd-bfab-42a8-ba24-5b0d9dc86c77&pd_rd_i=1529087198&psc=1)
@@ -52,7 +52,24 @@
 - [ ] [Blake Crouch, Recursion](https://www.goodreads.com/book/show/42046112-recursion)
 - [ ] [Marcel Proust, In Search of Lost Time](https://www.amazon.co.uk/Search-Lost-Time-Proust-Complete/dp/0812969642)
 - Andy Weir
-    - [ ] [Project Hail Mary](https://www.amazon.co.uk/Project-Hail-Mary-bestselling-Martian/dp/1529100615) 
+    - [ ] [Project Hail Mary](https://www.amazon.co.uk/Project-Hail-Mary-bestselling-Martian/dp/1529100615)
+- [ ] [Craig Alanson, Expeditionary Force Series](https://www.amazon.co.uk/Expeditionary-Force/dp/B07F7T8NPK)
+    - [ ] [1. Columbus Day](https://www.amazon.co.uk/gp/product/B01AIGC31E)
+    - [ ] [2. SpecOps](https://www.amazon.co.uk/gp/product/B01GJ6XSW0)
+    - [ ] [3. Paradise](https://www.amazon.co.uk/gp/product/B01M27RSKA)
+    - [ ] [4. Black Ops](https://www.amazon.co.uk/gp/product/B07121G4ZC)
+    - [ ] [5. Zero Hour](https://www.amazon.co.uk/gp/product/B0776H6QZR)
+    - [ ] [6. Mavericks](https://www.amazon.co.uk/gp/product/B07DG2TVWQ)
+    - [ ] [7. Renegades](https://www.amazon.co.uk/gp/product/B07KMCKYRM)
+    - [ ] [8. Armageddon](https://www.amazon.co.uk/gp/product/B07VNYQMWQ)
+    - [ ] [9. Valkyrie](https://www.amazon.co.uk/gp/product/B08253WST7)
+    - [ ] [10. Critical Mass](https://www.amazon.co.uk/gp/product/B08BR53HPT)
+    - [ ] [11. Brushfire](https://www.amazon.co.uk/gp/product/B08KSGPBTF)
+    - [ ] [12. Breakaway](https://www.amazon.co.uk/gp/product/B0917L7BQF)
+    - [ ] [13. Fallout](https://www.amazon.co.uk/gp/product/B09L79GGYV)
+    - [ ] [14. Match Game](https://www.amazon.co.uk/gp/product/B09YDP9K1K)
+    - [ ] [15. Failure Mode](https://www.amazon.co.uk/gp/product/B0BMNZ9T2B)
+    - [ ] [16. Aftermath](https://www.amazon.co.uk/gp/product/B0CGF6MXZ9)
 - Orhan Pamuk
     - [ ] [Orhan Pamuk, Kara Kitap](https://www.amazon.co.uk/Kara-Kitap-Orhan-Pamuk/dp/9750826132) - *re-read*
 - Oguz Atay - [quotes](https://eksiseyler.com/tutunamayanlar-dan-oguz-atay-in-kitaplarinda-gecen-efsane-cumleler)
