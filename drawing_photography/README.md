@@ -1,4 +1,4 @@
-# Drawing
+# Drawing & Photography
 
 ## Online 
 - [ ] [UDEMY: The Ultimate Drawing Course - Beginner to Advanced](https://www.udemy.com/course/the-ultimate-drawing-course-beginner-to-advanced/)
