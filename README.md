@@ -10,7 +10,7 @@
     - [Tech and Future](https://github.com/hlltarakci/my_small_world_of_curiosity/blob/main/documentary/techAndFutureREADME.md) 
 - [Movies](https://github.com/hlltarakci/my_small_world_of_curiosity/blob/main/watchMovieREADME.md)
 - [Books](https://github.com/hlltarakci/my_small_world_of_curiosity/blob/main/readREADME.md)
-- [Podcasts & Music](https://github.com/hlltarakci/my_small_world_of_curiosity/blob/main/listenREADME.md)
+- [Podcasts](https://github.com/hlltarakci/my_small_world_of_curiosity/blob/main/listenREADME.md)
 - [Exercise & Hikes](https://github.com/hlltarakci/my_small_world_of_curiosity/blob/main/activitiesREADME.md)
 - [Draw](https://github.com/hlltarakci/my_small_world_of_curiosity/blob/main/drawing/README.md)
 - [Cook](https://github.com/hlltarakci/my_small_world_of_curiosity/tree/main/cooking)
