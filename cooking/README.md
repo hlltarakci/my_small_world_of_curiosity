@@ -184,6 +184,12 @@
 4. 1 kilo soguk sut ekle, karistir. Kaynamaya baslayinca 10 dk kaynat.
 5. Biraz soguyunca 1 paket vanilya ilave et. En az 5 dk. mikserle cirp, sut ilave edip kivami ayarla.
 
+## Helva ([Helva (Turkish Halva With Flour)](https://m.youtube.com/watch?v=ySKZsEFJ8AE))
+[<img src="un_helvasi.jpeg" width="500"/>](un_helvasi.jpeg)
+1. Serbet: 1 su bardagi su + 1 su bardagi seker. Seker eriyene dek isinsin yeterli, cok kaynatilmayacak.
+2. 75 gr tereyag+ 1/2 cay bardagi siviyag. Erisin. 1 su bardagi un ekle, renginkoyulasana kadar kavur.
+3. Ocagi kapat. Kapagi siper ederek serbeti ekle. Birkac sn kapagi kapat. Karistir. Sekil ver.
+
 ## Quince Filled Cookies
 [<img src="quince_filled_cookies.jpg" width="500"/>](quince_filled_cookies.jpg)
 1. Ici: 1  ayva rendele, 1 cay bardagi toz seker ekle. Suyunu salip cekinceye kadar pisir. Yarim cay bardagi cekilmis ceviz, 1 cay kasigi tarcin ekle, karistir. Sogumaya birak.
