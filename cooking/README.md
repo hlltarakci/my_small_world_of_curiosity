@@ -198,6 +198,14 @@
 4. Sekil ver, icini koy.
 5. 175 derecede 20-25 dk pisir.
 
+## Cheese Omelette
+[<img src="cheese_omelette.jpg" width="500"/>](cheese_omelette.jpg)
+1. 1 yemek kasigi tereyegi tavada erit.
+2. 2 yumurta + 1/2 cay kasigi tuz: cirp
+3. Yumurtalari tavaya al, kenarini cektirerek pisir.
+4. Yarisina rendelenmis peynir, yesillik ekle. Erimesini bekle.
+5. Kapatipnservis tabagina al.
+
 ## Fried Anchovies (Hamsi Tava)
 [<img src="fried_anchovies.jpg" width="500"/>](fried_anchovies.jpg)
 1. Hamsileri temizle, yika, suzdur. 10 dk beklesin.
