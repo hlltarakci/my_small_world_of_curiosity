@@ -80,6 +80,8 @@
 - [ ] [Josef Stalin: The Rise Of Russia's Steel Tyrant](https://www.youtube.com/watch?v=tDBV5_AfqbE) / [1924-1953](https://en.wikipedia.org/wiki/Joseph_Stalin)
 - [ ] [Joseph Stalin - Communism's Man of Steel Documentary](https://www.youtube.com/watch?v=QHfB3aP-pn4)
 - [ ] [Leon Trotsky - Stalin's Arch Enemy](https://www.youtube.com/watch?v=6CKZEnD4nKU)
+- [ ] [KGB - The Sword and the Shield, 2018](https://www.imdb.com/title/tt10153514/)
+     - [ ] Episode 1: Dserschinski & Co. - [KGB](https://en.wikipedia.org/wiki/KGB) - [Cheka](https://en.wikipedia.org/wiki/Cheka) - [Felix Dzerzhinsky](https://en.wikipedia.org/wiki/Felix_Dzerzhinsky) - [Lubyanka Building](https://en.wikipedia.org/wiki/Lubyanka_Building) - [Nikolai Kuznetsov (spy), Russian James Bond](https://en.wikipedia.org/wiki/Nikolai_Kuznetsov_(spy)) - [Red Terror](https://en.wikipedia.org/wiki/Red_Terror) - [Soviet anti-religious legislation](https://en.wikipedia.org/wiki/Soviet_anti-religious_legislation) - [Gulag](https://www.britannica.com/place/Gulag)
 - [ ] [How Stalin's NKVD Spies Took Down Trotsky | Secrets Of War | Timeline](https://www.youtube.com/watch?v=jxtyFW4MBz0)
 - [ ] [How Tensions Grew Between Mao's China & Khrushchev's Soviet Union | Mao's Cold War | Timeline](https://www.youtube.com/watch?v=azBOK69FirU)
 - [ ] [1962 Missile Crisis: How A Nuclear WW3 Was Narrowly Averted](https://www.youtube.com/watch?v=0lP_ICJo_Jg)
