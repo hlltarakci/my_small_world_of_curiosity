@@ -34,6 +34,7 @@
      - [ ] [Twelve Chairs, 1971](https://www.imdb.com/title/tt0065670/) - [where to watch](https://www.youtube.com/watch?v=d5GSQY4Lt-E)
      - [ ] [Ya shagayu po Moskve, 1964](https://www.imdb.com/title/tt0057694/) - [where to watch](https://www.youtube.com/watch?v=PyVfdz-aF1k)
      - [ ] [Courier, 1986](https://www.imdb.com/title/tt0091364/) - [where to watch](https://www.youtube.com/watch?v=HZslzk4GEPI)
+     - [ ] [October 1917 (Ten Days that Shook the World), 1927](https://www.imdb.com/title/tt0018217/) - [where to watch](https://www.youtube.com/watch?v=YVuf3T3k-W0) - [critique](https://mubi.com/en/gb/films/october-ten-days-that-shook-the-world)
      - [ ] [Crime and Punishment, 1970](https://www.imdb.com/title/tt0064839/) - [where to watch](https://www.youtube.com/watch?v=4RbMsU2WElM)
      - [ ] [The Brothers Karamazov, 1969](https://www.imdb.com/title/tt0051435/)
      - [x] [**The Idiot, 1958**](https://www.imdb.com/title/tt0051762/) - [where to watch](https://www.youtube.com/watch?v=qn8G-RYyfrM) - part 2 missing :( - [Yury Yakovlev](https://en.wikipedia.org/wiki/Yury_Yakovlev) - [Russian Alphabet with Examples and Slow Pronunciation](https://www.youtube.com/watch?v=tYDMSM5dosE) - [**Prince Myshkin**](https://en.wikipedia.org/wiki/Prince_Myshkin)
