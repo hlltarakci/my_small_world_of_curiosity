@@ -51,6 +51,7 @@
 - [ ] [Matt Haig, The Midnight Library](https://www.amazon.co.uk/Midnight-Library-Matt-Haig/dp/1786892731)
 - [ ] [Blake Crouch, Recursion](https://www.goodreads.com/book/show/42046112-recursion)
 - [ ] [Marcel Proust, In Search of Lost Time](https://www.amazon.co.uk/Search-Lost-Time-Proust-Complete/dp/0812969642)
+- [ ] [Boris Strugatsky & Arkady Strugatsky, Roadside Picnic](https://www.amazon.co.uk/Roadside-Picnic-Boris-Strugatsky/dp/0575093137)
 - Andy Weir
     - [ ] [Project Hail Mary](https://www.amazon.co.uk/Project-Hail-Mary-bestselling-Martian/dp/1529100615)
 - [ ] [Craig Alanson, Expeditionary Force Series](https://www.amazon.co.uk/Expeditionary-Force/dp/B07F7T8NPK)
@@ -138,7 +139,7 @@
 - [ ] [Benjamín Labatut, When We Cease to Understand the World](https://www.amazon.co.uk/When-Cease-Understand-World-INTERNATIONAL/dp/1782276149)
 - [ ] [Ananyo Bhattacharya, The Man from the Future: The Visionary Life of John von Neumann](https://www.amazon.co.uk/Man-Future-Visionary-Life-Neumann/dp/024139886X)
 - [ ] [Niccolò Machiavelli, The Prince](https://www.amazon.co.uk/Prince-Penguin-Classics-Niccolo-Machiavelli/dp/0140449159/ref=asc_df_0140449159/?tag=googshopuk-21&linkCode=df0&hvadid=310805555931&hvpos=&hvnetw=g&hvrand=9119212229547482045&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9045903&hvtargid=pla-488133096639&psc=1&th=1&psc=1)
-
+- [ ] [Ahmet Aslan, Ilkcag Felsefe Tarihi Serisi](https://www.amazon.com.tr/İlkçağ-Felsefe-Tarihi-Serisi-Kitap/dp/6254497433/ref=sr_1_1?keywords=ilkçağ+felsefe+tarihi+ahmet+arslan+set&qid=1700947495&sr=8-1)
 
 
 
