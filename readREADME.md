@@ -53,7 +53,8 @@
 - [ ] [Marcel Proust, In Search of Lost Time](https://www.amazon.co.uk/Search-Lost-Time-Proust-Complete/dp/0812969642)
 - [ ] [Boris Strugatsky & Arkady Strugatsky, Roadside Picnic](https://www.amazon.co.uk/Roadside-Picnic-Boris-Strugatsky/dp/0575093137)
 - Andy Weir
-    - [ ] [Project Hail Mary](https://www.amazon.co.uk/Project-Hail-Mary-bestselling-Martian/dp/1529100615)
+    - [x] [Project Hail Mary](https://www.amazon.co.uk/Project-Hail-Mary-bestselling-Martian/dp/1529100615)
+    - [ ] [Artemis](https://www.amazon.co.uk/Artemis-gripping-high-concept-thriller-bestselling/dp/1785030256/)
 - [ ] [Craig Alanson, Expeditionary Force Series](https://www.amazon.co.uk/Expeditionary-Force/dp/B07F7T8NPK)
     - [ ] [1. Columbus Day](https://www.amazon.co.uk/gp/product/B01AIGC31E)
     - [ ] [2. SpecOps](https://www.amazon.co.uk/gp/product/B01GJ6XSW0)
