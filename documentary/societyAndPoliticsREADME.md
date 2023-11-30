@@ -83,6 +83,13 @@
     - [ ] [Erkin Koray Documentary](https://www.youtube.com/watch?v=zjqVWc0vKb0)
     - [ ] [Oguz Atay Documentary - Hayat Bir Oyundur](https://www.youtube.com/watch?v=ZdmXbXkJBcI)  
     - [x] [Kurt Cobain Documentary: Something In The Way](https://www.youtube.com/watch?v=2miQ-cfakpY)
+- [ ] [The Trials of Henry Kissinger, 2002](https://www.imdb.com/title/tt0326306/)
+- [ ] [Kissinger, 2011](https://www.imdb.com/title/tt1950222/)
+- [ ] [Why We Fight, 2005](https://www.imdb.com/title/tt0436971/)
+- [ ] [The Fog of War: Eleven Lessons from the Life of Robert S. McNamara, 2003](https://www.imdb.com/title/tt0317910/)
+- [ ] [The War You Don't See, 2010](https://www.imdb.com/title/tt1809387/)
+- [ ] [The War on Democracy, 2007](https://www.imdb.com/title/tt1029172/)
+- [ ] [No End in Sight, 2007](https://www.imdb.com/title/tt0912593/)
 
 **Series:**
 - [x] [**Deep Time History, Curiosity Stream**](https://www.imdb.com/title/tt6052190/) - quite similar in context to Harari's Sapiens. Linking ideas, providing a general structure why things happened the way they did fascinates me. And this is a transferable thought experiment skill.
