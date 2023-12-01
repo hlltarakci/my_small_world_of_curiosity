@@ -36,6 +36,7 @@
    - [ ] [Where Are All The Hidden Dimensions?](https://www.youtube.com/watch?v=9If-K9R3Ka4)
    - [ ] [How Did Our Universe Emerge From Chaos?](https://www.youtube.com/watch?v=qr0wyKbm7m4)
    - [ ] [What Did James Webb Really See At The Beginning Of Time?](https://www.youtube.com/watch?v=2pux7v9qJ58)
+- [x] [**Sounds of Planets**](https://www.youtube.com/watch?v=Wm8KKZxiUsg)
 - [What If](https://www.youtube.com/@WhatIfScienceShow/videos) - fun stuff
   
 **Series:**
