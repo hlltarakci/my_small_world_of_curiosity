@@ -6,8 +6,8 @@
 - [ ] [UDEMY: Character Art School: Complete Character Drawing Course](https://www.udemy.com/course/character-art-school-complete-character-drawing/)
 
 #### Photography
-- [x] [**Street Photography Masterclass**](https://www.udemy.com/course/street-photography-masterclass/) - by [Adam Tan](https://www.adamtanphotography.com)
-- [ ] [Capture Stanning Street Photography](https://www.udemy.com/course/photography-with-anthony-carbajal/) - by [Anthony Carbajal](https://www.anthonycarbajal.com)
+- [x] [**UDEMY: Street Photography Masterclass**](https://www.udemy.com/course/street-photography-masterclass/) - by [Adam Tan](https://www.adamtanphotography.com)
+- [ ] [UDEMY: Capture Stanning Street Photography](https://www.udemy.com/course/photography-with-anthony-carbajal/) - by [Anthony Carbajal](https://www.anthonycarbajal.com)
 
 ## In-Person
 #### Drawing
