@@ -83,6 +83,8 @@
     - [ ] [Erkin Koray Documentary](https://www.youtube.com/watch?v=zjqVWc0vKb0)
     - [ ] [Oguz Atay Documentary - Hayat Bir Oyundur](https://www.youtube.com/watch?v=ZdmXbXkJBcI)  
     - [x] [Kurt Cobain Documentary: Something In The Way](https://www.youtube.com/watch?v=2miQ-cfakpY)
+- [ ] [Putin's advances in the Arctic | DW Documentary](https://www.youtube.com/watch?v=W9wyajjYBUc)
+- [ ] [Henry Kissinger - Secrets of a superpower | DW Documentary](https://www.youtube.com/watch?v=bWVMTKeAwlA)
 - [ ] [The Trials of Henry Kissinger, 2002](https://www.imdb.com/title/tt0326306/)
 - [ ] [Kissinger, 2011](https://www.imdb.com/title/tt1950222/)
 - [ ] [Why We Fight, 2005](https://www.imdb.com/title/tt0436971/)
