@@ -94,7 +94,8 @@
 2. 2 su bardagi un + yarim su bardagi pudra sekeri -> Bir kasede karistir. Sonra ekle ve mikserle biraz cirp
 3. 1 su bardagi kesilmis ceviz -> Ekle ve biraz cirp.p
 4. Sekil ver. Dondurma kasiginda presleyerek sekil verilebiliyor.
-5. 175 derecede 15 dk pisir. Izgara uzerine al, 10-15 dk soguduktan sonra pudra sekerinde yuvarla
+5. 175 derecede 15 dk pisir. Izgara uzerine al, 10-15 dk soguduktan sonra pudra sekerinde yuvarla.
+6. Orjinal tarif (bal ile): [pryaniki](https://www.olgasflavorfactory.com/recipes/russianrecipes/pryaniki-russian-honey-spice-cookies/)
 
 ## Blueberry Cake
 [<img src="blueberrycake.jpg" width="500"/>](blueberrycake.jpg)
