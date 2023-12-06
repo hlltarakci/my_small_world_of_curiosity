@@ -109,6 +109,12 @@
 - [x] [**The Week That Shook The World: The Soviet Coup — ABC News (1991)**](https://www.youtube.com/watch?v=LUzc2Ilw_O8) - [1991 Soviet coup d'état attempt](https://en.wikipedia.org/wiki/1991_Soviet_coup_d%27état_attempt) - [Dissolution of the Soviet Union](https://en.wikipedia.org/wiki/Dissolution_of_the_Soviet_Union) - [Why perestroika failed?](https://www.niskanencenter.org/why-perestroika-failed/) - [Did Perestroika Play a Role in the Fall of the Soviet Union?](https://www.history.com/news/did-perestroika-cause-the-fall-of-the-soviet-union) - [Why Did the Soviet Union Collapse?](https://www.britannica.com/story/why-did-the-soviet-union-collapse) - [Gennady Yanayev](https://en.wikipedia.org/wiki/Gennady_Yanayev) - [Gang of Eight](https://www.britannica.com/topic/Gang-of-Eight)
 - [ ] [To Save the Soviets: Russia's Last Communist Coup Attempt](https://www.youtube.com/watch?v=Q9D8Gi6XRAY)
 - [ ] [CNN Coverage of Crisis in Moscow (1993)](https://www.youtube.com/watch?v=veuAEUwqNg8) - [1993 Russian constitutional crisis](https://en.wikipedia.org/wiki/1993_Russian_constitutional_crisis)
+- [ ] [Mikhail Gorbachev's Resignation and Dissolution of the Soviet Union - Dec. 25, 1991 - ABC Nightline](https://www.youtube.com/watch?v=zlieWAng4w8)
+- [ ] [The Struggle for Russia (1994) - Russia in early 1990s](https://www.youtube.com/watch?v=N5KcPgl_BZ0)
+- [ ] [The Collapse of The Soviet Union - A Documentary Film (2006)](https://www.youtube.com/watch?v=OYD6ouVHXbo)
+- [ ] USSR Memories
+     - [ ] [Part 1: Daily life of a Russian family in the Soviet Union](https://www.youtube.com/watch?v=GAVqM4geAAk)
+     - [ ] [Part 2: Daily life of Russians in the Soviet Union](https://www.youtube.com/watch?v=YkWEDJXtsA0&t=0s)
 - [ ] [The Edge of Armageddon (Cuban Missile Crisis, Kennedy, Khrushchev)](https://jimmyakin.com/2022/07/the-edge-of-armageddon-cuban-missile-crisis-kennedy-khrushchev-jimmy-akins-mysterious-world.html)
 - [ ] [Documentaries about the Berlin Wall](https://www.documentarytube.com/best-of/the-10-best-documentaries-about-berlin-wall/)
 - [ ] [How Stalin's NKVD Spies Took Down Trotsky | Secrets Of War | Timeline](https://www.youtube.com/watch?v=jxtyFW4MBz0)
