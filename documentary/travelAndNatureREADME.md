@@ -35,6 +35,7 @@
 - [x] [Life on Kuril Islands](https://www.youtube.com/watch?v=lN_RSSmegNs&t=15s)
 - [x] [**From Kurils With Love**](https://www.youtube.com/watch?v=kHGarqZFY1k)
 - [x] [**Russia's Hidden Paradises**](https://www.youtube.com/watch?v=eDTI5FqqoVU) / [11 timezones](https://www.worldatlas.com/articles/how-many-time-zones-are-in-russia.html)
+- [ ] [Russia's Icy Northern Sea Coast](https://www.youtube.com/watch?v=pH_KyXXDpJQ)
 - [ ] [Wild Edens: Russia](https://www.youtube.com/watch?v=y-_HvLKrCxo)
 - [x] [**The Volcanos of Kamchatka Peninsula**](https://www.youtube.com/watch?v=TM1u7pe-AxE)
 - [x] [**Russia's Icy Northern Sea Coast**](https://www.youtube.com/watch?v=pH_KyXXDpJQ)
