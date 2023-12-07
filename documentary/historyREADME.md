@@ -221,7 +221,7 @@
      [12: MAD (Mutual Assured Destruction, 1960-1972](https://www.youtube.com/watch?v=MV8MdlxtqaU&list=PL3H6z037pboGWTxs3xGP7HRGrQ5dOQdGc&index=12) 
 - [ ] [**Soviet Storm, WW2 in the East, 2010**](https://www.imdb.com/title/tt3610248/), [where to watch](https://www.youtube.com/playlist?list=PLwGzY25TNHPC_SsXFcIH-ba0nWuNbHOM6)
 - [ ] [Cold War, Hot Jets, 2013](https://www.imdb.com/title/tt3440758/)
-- [ ] [Adam Curtis, Russia 1985-1999: TraumaZone, 2022](https://www.imdb.com/title/tt22059224/)
+- [ ] [Adam Curtis, Russia 1985-1999: TraumaZone, 2022](https://www.imdb.com/title/tt22059224/) - [7 episodes, where to watch](https://www.youtube.com/playlist?list=PLGDByvdY5CHX_BTvG2X4vPrQfgqlSwSy5)
 - [ ] [Putin, Russia and the West, 2011](https://www.imdb.com/title/tt2131951/?ref_=tt_sims_tt_t_1)
 - [ ] [The Lost World of Communism, 2009](https://www.imdb.com/title/tt2976152/)
 - [ ] [The Putin Interviews, 2017](https://www.imdb.com/title/tt6840134/)
