@@ -3,7 +3,7 @@
 - [Greatest Films of All Times](https://www.bfi.org.uk/sight-and-sound/greatest-films-all-time)
 
 ## Soviet Cinema
-- [Mosfilm](https://www.youtube.com/c/Mosfilm_eng) - [Mosfilm watch list](https://letterboxd.com/daniil333/list/mosfilm-best-to-worst/) - [Cinema of the Soviet Union](https://en.wikipedia.org/wiki/Cinema_of_the_Soviet_Union) - [Thirty Greatest Soviet Films](https://soviet-art.ru/thirty-greatest-soviet-films/)
+- [Mosfilm](https://www.youtube.com/c/Mosfilm_eng) - [Mosfilm watch list](https://letterboxd.com/daniil333/list/mosfilm-best-to-worst/) - [Cinema of the Soviet Union](https://en.wikipedia.org/wiki/Cinema_of_the_Soviet_Union) - [Thirty Greatest Soviet Films](https://soviet-art.ru/thirty-greatest-soviet-films/) - [movie suggestions](https://www.rbth.com/arts/329707-top-100-russian-soviet-movies)
      - [x] [**Railway station for Two, 1983**](https://www.imdb.com/title/tt0084873/) - [where to watch](https://www.youtube.com/watch?v=bUya5DBvw_g) - [**soundtrack**](https://www.youtube.com/watch?v=LTbGVTofwyA)
      - [x] [**The Cranes Are Flying, 1957**](https://www.imdb.com/title/tt0050634/) - [where to watch](https://www.youtube.com/watch?v=2rINnJat-5k) - [*"What makes The Cranes Are Flying such a powerful and honest film is that the story never condemns Veronica for her involuntary infidelity when her lover is out risking his life at the front lines. The film never condemns Boris as well, for deciding to enlist in the war and abandoning young Veronica. Boris and Veronica are both young and naive lovers who fortunately don't know and yet understand the cruel realities of life...At the heartbreaking and at the same time life affirming conclusion of the film, Veronica accepts that her lover Boris is dead and comes to the realization that she is not the only one who is mourning. She decides to pass out flowers that she originally brought for Boris to the thousands of other families who are in mourning, as Fyodor joins her which in a way is showing her that the family loves and forgives her."*](https://www.classicartfilms.com/the-cranes-are-flying-1957)
      - [x] [**Irony of Fate or Enjoy Your Bath, 1975**](https://www.imdb.com/title/tt0073179/) 
@@ -61,6 +61,9 @@
      - [ ] [The Diamond Arm, 1969](https://www.imdb.com/title/tt0062759/)
      - [x] [Heart of a Dog, 1988](https://www.imdb.com/title/tt0096126/) - [where to watch](https://www.youtube.com/watch?v=hIkimahLpCs)
      - [x] [Series] [**The Master and Margarita,2005**](https://www.imdb.com/title/tt0403783/) - [where to watch](https://vimeo.com/showcase/4064422) - [wiki](https://en.wikipedia.org/wiki/The_Master_and_Margarita_(miniseries)) - [**wonderful music**](https://www.youtube.com/watch?v=Zi8_-YixGGQ) - [extended version](https://www.youtube.com/watch?v=Xqzxm_vDI3A) - [entire soundtrack](https://m.youtube.com/watch?v=6cqt-UrbTOU&list=OLAK5uy_l0BslD592imXpRV884EnhiOWUZq4oz_9I)
+     - [ ] [Assa, 1987](https://www.imdb.com/title/tt0094683/)
+     - [ ] [Series] [The Adventures of Sherlock Holmes and Dr. Watson, 1980](https://www.imdb.com/title/tt8127644/)
+     - [ ] [Belorussky Station, 1971](https://www.imdb.com/title/tt0128960/)
      - [x] [Chernobyl 1986, 2021](https://www.imdb.com/title/tt10648714/)
      - [ ] [Series] [The Meeting Place Cannot Be Changed, 1979](https://www.imdb.com/title/tt0078655/) - [1](https://www.youtube.com/watch?v=X7Kr8g8wps0) - [2](https://www.youtube.com/watch?v=KHDCmzmPInU) - [3](https://www.youtube.com/watch?v=CYjmTwS3DqI) - [4](https://www.youtube.com/watch?v=bRSBW5kL560) - [5](https://www.youtube.com/watch?v=Q2Of-vstUR0)
      - [ ] [Sergio & Sergei, 2017](https://www.imdb.com/title/tt6131208/) - [Mir Space Station](https://en.wikipedia.org/wiki/Mir)
@@ -74,6 +77,8 @@
 - [x] [**Silent Love, 2014**](https://www.imdb.com/title/tt5289760/) - [**where to watch**](https://www.youtube.com/watch?v=KuuEs0oVVS8)
 - [x] [Who Are You?, 2019](https://www.imdb.com/title/tt12762898/) - [where to watch](https://www.youtube.com/watch?v=GWGbOjlJDkU)
 - [x] [**Two Strangers Who Meet Five Times, 2017**](https://www.imdb.com/title/tt7524428/) - [where to watch](https://www.youtube.com/watch?v=BzKtI9OfEpk) - [movie critic](https://blog.shortfundly.com/short-film-review-by-movie-critic/two-strangers-who-meet-five-times-english-drama-short-film/)
+- [x] [Hedgehog in the Fog, 1975](https://www.imdb.com/title/tt0073099/) - [where to watch](https://filmschoolrejects.com/hedgehog-in-the-fog/)
+- [ ] [The Old Man and the Sea, 1999](https://www.imdb.com/title/tt0207639/) - [where to watch](https://www.youtube.com/watch?v=rDIsXKOsdOQ)
 
 ## By Directors
 - Steven Spielberg
