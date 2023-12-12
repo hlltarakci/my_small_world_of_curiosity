@@ -103,8 +103,6 @@
 - [x] [**The Volcano: Rescue from Whakaari, 2022**](https://www.imdb.com/title/tt21439528/)
 - [x] [Istanbul earthquake - Risk and early warning, 2023](https://www.youtube.com/watch?v=Uix59ojUmOw)
 - [ ] [Biggest Volcanic Eruptions & Disastrous Earthquakes](https://www.youtube.com/watch?v=PPkBABO7y2M)
-
-**Series:**
 - [x] [SERIES][**Magical Andes**, 2019](https://www.imdb.com/title/tt11229002/) - Episode 1.1:  *"Choosing where you want to live is about making the decision of where you want to be happy. Otherwise, we are just staying alive, not living."*  Episode 2.4: *"It is a priviledge to know our planet. Travel through its roads, discover ancient customs,and to learn about different cultures makes us better human beings. It helps us to understand our roles on Earth, and how small we are compared to the power of nature. There will always be something else to know, a new valley behind the mountain and a new adventure."*
 - [x] [SERIES][Ancient Apocalypse, 2022](https://www.imdb.com/title/tt22807484/)
 - [ ] [SERIES][**Wild Russia, 2008**](https://www.imdb.com/title/tt1442188/) - [where to watch S1](https://www.youtube.com/playlist?list=PL7OI0OXIFrYlSwUac08lUjwQiHbNxch8z) - [Siberia](https://www.youtube.com/watch?v=jahcZadyy18&feature=youtu.be) / [Kamchatka](https://www.youtube.com/watch?v=V_EiAkX-qtc) / [Ural Mountains](https://youtu.be/SeI69Z54RAE) / [Caucasus](https://youtu.be/UK-5XH2IsDs) / [The Arctic](https://www.youtube.com/watch?v=EkFMSm2qy0M&list=PL7OI0OXIFrYlSwUac08lUjwQiHbNxch8z&index=4)
