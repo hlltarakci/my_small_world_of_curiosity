@@ -25,5 +25,3 @@
    - [ ] [Dostoevsky's Genius Life Philosophy](https://www.youtube.com/watch?v=vEFlbz9SSEU)
    - [ ] [This is Why Chekhov was a Genius](https://www.youtube.com/watch?v=xqVRNAxgQwQ)
    - [ ] [Becoming Who You Really Are - The Philosophy of Friedrich Nietzsche](https://www.youtube.com/watch?v=lUjoFzT0VNI)
-
-**Series:**
