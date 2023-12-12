@@ -1,12 +1,8 @@
 # HISTORY
 
-## WW1 (1914-1918)
+## WW1 (1914-1918), WW2 (1939-1945), Cold War (1947-1991), USSR (1922-1991), World History
 - [ ] [World War One (ALL PARTS)](https://www.youtube.com/watch?v=G1p6rlDCxq0)
-
-**Series:**
-- [ ] [**Apocalypse: WW1, 2014**](https://www.imdb.com/title/tt3638584/) - [where to watch, 5 episodes](https://curiositystream.com/video/3047) - [For many, this excitement for war was similar to a celebration or a festival. One of the first main reasons for the excitement of the war was that many in Europe had a romantic feeling towards war.  In the years before war was declared in 1914, Europe had enjoyed a prolonged period of piece in its otherwise violent past.](https://www.historycrunch.com/excitement-for-world-war-i.html#/) - [Sarikamis](https://military-history.fandom.com/wiki/Battle_of_Sarikamish) - [Dardanelles Campaign](https://www.iwm.org.uk/history/a-short-history-of-the-dardanelles-campaign) - [Russian Revolution 1917](https://www.history.com/topics/european-history/russian-revolution) - [Rasputin](https://en.wikipedia.org/wiki/Grigori_Rasputin) - [The mysterious life and death of Rasputin](https://www.youtube.com/watch?v=4dEf1ep3O9I) - [Russian Revolution of 1905](https://en.wikipedia.org/wiki/Russian_Revolution_of_1905) - [Timeline of the Russian Revolution](https://www.bl.uk/russian-revolution/articles/timeline-of-the-russian-revolution)
-
-## WW2 (1939-1945), Cold War (1947-1991), USSR (1922-1991), Russia, Middle East, US: World History
+- [ ] [SERIES][**Apocalypse: WW1, 2014**](https://www.imdb.com/title/tt3638584/) - [where to watch, 5 episodes](https://curiositystream.com/video/3047) - [For many, this excitement for war was similar to a celebration or a festival. One of the first main reasons for the excitement of the war was that many in Europe had a romantic feeling towards war.  In the years before war was declared in 1914, Europe had enjoyed a prolonged period of piece in its otherwise violent past.](https://www.historycrunch.com/excitement-for-world-war-i.html#/) - [Sarikamis](https://military-history.fandom.com/wiki/Battle_of_Sarikamish) - [Dardanelles Campaign](https://www.iwm.org.uk/history/a-short-history-of-the-dardanelles-campaign) - [Russian Revolution 1917](https://www.history.com/topics/european-history/russian-revolution) - [Rasputin](https://en.wikipedia.org/wiki/Grigori_Rasputin) - [The mysterious life and death of Rasputin](https://www.youtube.com/watch?v=4dEf1ep3O9I) - [Russian Revolution of 1905](https://en.wikipedia.org/wiki/Russian_Revolution_of_1905) - [Timeline of the Russian Revolution](https://www.bl.uk/russian-revolution/articles/timeline-of-the-russian-revolution)
 - [x] [The Last Days of the USSR, Curiosity Stream](https://curiositystream.com/video/4723?utm_campaign=D-PerformanceMax-ROW&utm_medium=display&utm_source=google&utm_placement=&utm_content=&gclid=EAIaIQobChMI9YqEwMbV9gIVxJrVCh1rfAACEAAYASAAEgIww_D_BwE)
 - [x] [The Breakup of the Soviet Union Explained](https://youtu.be/t2GmtBCVHzY)
 - [x] [The Entire History of the Cold War Explained | Best Cold War Documentary](https://www.youtube.com/watch?v=XDrykOhrb5s) - provides complete overview of events, helping to see their relation and chronology, difficult to digest
@@ -204,9 +200,7 @@
      - [ ] [Israel Vs Palestine | Israel Palestine History Of Conflict Explained | Israel Palestine War | N18V](https://www.youtube.com/watch?v=WiNlxqlNZys)
      - [ ] [The Israeli-Palestinian conflict, explained | Stories of Our Times](https://www.youtube.com/watch?v=8V-9LRLSzLg)
      - [x] [History of Israel-Palestine Conflict](https://www.youtube.com/watch?v=m19F4IHTVGc)
-
-**Series:**
-- [ ] [**Cold War, 1998 - 24 episodes**](https://www.imdb.com/title/tt0170896/) - [where to watch](https://archive.org/details/Cold_War_1998_CNN_Kenneth_Branagh)  
+- [ ] [SERIES][**Cold War, 1998 - 24 episodes**](https://www.imdb.com/title/tt0170896/) - [where to watch](https://archive.org/details/Cold_War_1998_CNN_Kenneth_Branagh)  
      [1: Comrades, 1917-1945](https://www.youtube.com/watch?v=22KIQ1QNnhE&list=PL3H6z037pboGWTxs3xGP7HRGrQ5dOQdGc&index=1) / 
      [2: Iron Curtain, 1945-1947](https://www.youtube.com/watch?v=yzcZBFlmLoA&list=PL3H6z037pboGWTxs3xGP7HRGrQ5dOQdGc&index=2) / 
      [3: Marshall Plan, 1947-1952](https://www.youtube.com/watch?v=g0I6UVPkGWM&list=PL3H6z037pboGWTxs3xGP7HRGrQ5dOQdGc&index=3) / 
@@ -219,30 +213,26 @@
      [10: Cuba, 1959-1962](https://www.youtube.com/watch?v=yOxeZt217uw&list=PL3H6z037pboGWTxs3xGP7HRGrQ5dOQdGc&index=10) / 
      [11: Vietnam, 1954-1968](https://www.youtube.com/watch?v=6s0Z2mwTrXY&list=PL3H6z037pboGWTxs3xGP7HRGrQ5dOQdGc&index=11) / 
      [12: MAD (Mutual Assured Destruction, 1960-1972](https://www.youtube.com/watch?v=MV8MdlxtqaU&list=PL3H6z037pboGWTxs3xGP7HRGrQ5dOQdGc&index=12) 
-- [ ] [**Soviet Storm, WW2 in the East, 2010**](https://www.imdb.com/title/tt3610248/), [where to watch](https://www.youtube.com/playlist?list=PLwGzY25TNHPC_SsXFcIH-ba0nWuNbHOM6)
-- [ ] [Cold War, Hot Jets, 2013](https://www.imdb.com/title/tt3440758/)
-- [ ] [Adam Curtis, Russia 1985-1999: TraumaZone, 2022](https://www.imdb.com/title/tt22059224/) - [7 episodes, where to watch](https://www.youtube.com/playlist?list=PLGDByvdY5CHX_BTvG2X4vPrQfgqlSwSy5)
-- [ ] [Putin, Russia and the West, 2011](https://www.imdb.com/title/tt2131951/?ref_=tt_sims_tt_t_1)
-- [ ] [The Lost World of Communism, 2009](https://www.imdb.com/title/tt2976152/)
-- [ ] [The Putin Interviews, 2017](https://www.imdb.com/title/tt6840134/)
-- [ ] [Apocalypse: War of Worlds 1945-1991](https://www.imdb.com/title/tt8589702/)
-- [ ] [The Romanovs, 2013](https://www.imdb.com/title/tt3560728/) / [where to watch](https://www.youtube.com/watch?v=46DEVQ8UacA)
-- [ ] [The Last Czars, 2019](https://www.imdb.com/title/tt7949606/?ref_=tt_sims_tt_i_1)
-- [ ] [Last of the Czars, 1996](https://www.imdb.com/title/tt3546970/?ref_=tt_sims_tt_i_5)
-- [ ] [Apocalypse: WW2, 2009](https://www.imdb.com/title/tt1508238/)
-- [x] [Hitler's Circle of Evil, 2017](https://www.netflix.com/nl-en/title/80138915)
-- [x] [Greatest Events of WW2 in Color](https://www.netflix.com/nl-en/title/80989924) 
-- [ ] [WW2 in color - Road to Victory, 2021](https://www.netflix.com/gb/title/81488464)
-- [ ] [The Abyss: Rise and Fall of the Nazis, 2021](https://www.imdb.com/title/tt14365118/) / [where to watch](https://www.youtube.com/playlist?list=PLf1QSB7YWJJQoi512Urg84f0tY_cQA0wI)
-- [ ] [The Devil Next Door, 2019](https://www.imdb.com/title/tt11165002/)
-
-**Series:**
-- [ ] [CURRENT] [Butterfly Effect, Curiosity Stream, 2016](https://www.imdb.com/title/tt3790428/) - [1](https://curiositystream.com/video/1699) - [2](https://curiositystream.com/video/1996) - [3](https://curiositystream.com/video/2471) - [4](https://curiositystream.com/video/4550)
-- [ ] [CURRENT] [Drain the Oceans, 2018](https://www.imdb.com/title/tt8676618/) - [where to watch](https://www.disneyplus.com/en-gb/series/drain-the-oceans/5rOeENEXQcTA)
-- [ ] [The Cuba Libre Story, 2015](https://www.imdb.com/title/tt6335696/)
-- [ ] [Civil War, 1990](https://www.imdb.com/title/tt0098769/)
-
-## Turkey
+- [ ] [SERIES][**Soviet Storm, WW2 in the East, 2010**](https://www.imdb.com/title/tt3610248/), [where to watch](https://www.youtube.com/playlist?list=PLwGzY25TNHPC_SsXFcIH-ba0nWuNbHOM6)
+- [ ] [SERIES][Cold War, Hot Jets, 2013](https://www.imdb.com/title/tt3440758/)
+- [ ] [SERIES][Adam Curtis, Russia 1985-1999: TraumaZone, 2022](https://www.imdb.com/title/tt22059224/) - [7 episodes, where to watch](https://www.youtube.com/playlist?list=PLGDByvdY5CHX_BTvG2X4vPrQfgqlSwSy5)
+- [ ] [SERIES][Putin, Russia and the West, 2011](https://www.imdb.com/title/tt2131951/?ref_=tt_sims_tt_t_1)
+- [ ] [SERIES][The Lost World of Communism, 2009](https://www.imdb.com/title/tt2976152/)
+- [ ] [SERIES][The Putin Interviews, 2017](https://www.imdb.com/title/tt6840134/)
+- [ ] [SERIES][Apocalypse: War of Worlds 1945-1991](https://www.imdb.com/title/tt8589702/)
+- [ ] [SERIES][The Romanovs, 2013](https://www.imdb.com/title/tt3560728/) / [where to watch](https://www.youtube.com/watch?v=46DEVQ8UacA)
+- [ ] [SERIES][The Last Czars, 2019](https://www.imdb.com/title/tt7949606/?ref_=tt_sims_tt_i_1)
+- [ ] [SERIES][Last of the Czars, 1996](https://www.imdb.com/title/tt3546970/?ref_=tt_sims_tt_i_5)
+- [ ] [SERIES][Apocalypse: WW2, 2009](https://www.imdb.com/title/tt1508238/)
+- [x] [SERIES][Hitler's Circle of Evil, 2017](https://www.netflix.com/nl-en/title/80138915)
+- [x] [SERIES][Greatest Events of WW2 in Color](https://www.netflix.com/nl-en/title/80989924) 
+- [ ] [SERIES][WW2 in color - Road to Victory, 2021](https://www.netflix.com/gb/title/81488464)
+- [ ] [SERIES][The Abyss: Rise and Fall of the Nazis, 2021](https://www.imdb.com/title/tt14365118/) / [where to watch](https://www.youtube.com/playlist?list=PLf1QSB7YWJJQoi512Urg84f0tY_cQA0wI)
+- [ ] [SERIES][The Devil Next Door, 2019](https://www.imdb.com/title/tt11165002/)
+- [ ] [SERIES][Butterfly Effect, Curiosity Stream, 2016](https://www.imdb.com/title/tt3790428/) - [1](https://curiositystream.com/video/1699) - [2](https://curiositystream.com/video/1996) - [3](https://curiositystream.com/video/2471) - [4](https://curiositystream.com/video/4550)
+- [ ] [SERIES][Drain the Oceans, 2018](https://www.imdb.com/title/tt8676618/) - [where to watch](https://www.disneyplus.com/en-gb/series/drain-the-oceans/5rOeENEXQcTA)
+- [ ] [SERIES][The Cuba Libre Story, 2015](https://www.imdb.com/title/tt6335696/)
+- [ ] [SERIES][Civil War, 1990](https://www.imdb.com/title/tt0098769/)
 - [x] [Gallipoli 1915, Curiosity Stream](https://curiositystream.com/video/4085?collectionId=140)
 - [x] [Why Turkey is turning Istanbul into an island?](https://youtu.be/F6I7eHVXh2A) - rationale for Kanal Istanbul project - pros and cons
 - [x] [Why was Turkey neutral in WW2?](https://youtu.be/apwmP2g_D7k)
@@ -257,10 +247,8 @@
 - [x] [**Understanding the Turkish mindset**](https://www.youtube.com/watch?v=Lg-TJO5yv2Q) - "In this context, Erdogan is the most consequential leader in Turkey second only to Ataturk by exploiting the polarized political arena, he has profoundly altered the prospects of the nation. This is not necessarily a trend that is exclusive to Turkey since far-right politicians often polarized their own societies for political gains. But taken together, Turkey is a geopolitical paradox while the Marmara heartland is wealthy, innovative and extrovert; Anatolia by comparison remains underprivileged, conservative and introvert; both regions compete and cooperate with one another and this internal contradiction sits at the heart of the geopolitical mindset of Turkey."
 - [ ] [Post World War Turkey](https://www.youtube.com/watch?v=QRv--JOIPL4)
 - [ ] [Cyprus Crisis 1974](https://www.youtube.com/watch?v=DPxyCuzFGOQ)
-
-**Series:**
-- [ ] [**32. Gun Arsivi**](https://www.youtube.com/watch?app=desktop&v=sBPfjeWbp9Q)
-   - [x] [**Demirkirat: Bir Demokrasinin Dogusu (10 Bolum), 1991**](https://www.imdb.com/title/tt4077876/) / [where to watch](https://www.youtube.com/watch?v=_kVCHHBRuSE) / 
+- [**32. Gun Arsivi**](https://www.youtube.com/watch?app=desktop&v=sBPfjeWbp9Q)
+   - [x] [SERIES][**Demirkirat: Bir Demokrasinin Dogusu (10 Bolum), 1991**](https://www.imdb.com/title/tt4077876/) / [where to watch](https://www.youtube.com/watch?v=_kVCHHBRuSE) / 
         [1: 1930-1945, Adnan Menderes'in siyasete girisi, Inonu donemi, 2. Dunya Savasi'nda Turkiye](https://www.youtube.com/watch?app=desktop&v=sBPfjeWbp9Q) /
         [2: 1946, Demokrat Parti'nin ilk secimi](https://www.youtube.com/watch?v=uFGz_hN-A94) /
         [3: 1950, 1950 Secimleri, Adnan Menderes'in basbakan olmasi](https://www.youtube.com/watch?v=wm8dOfQQ3Ns) /
@@ -270,11 +258,11 @@
         [7: 1959-May 1960, Isyan](https://www.youtube.com/watch?v=IVPS6KSE1GU) /
         [8: 27 Mayis 1960 Darbe](https://www.youtube.com/watch?v=DzNr4rwXsq4) /
         [9: Ada](https://www.youtube.com/watch?v=lpVS7AcwX9s) / 
-        [10: Idamlar (Menderes, Zorlu, Polatkan](https://www.youtube.com/watch?v=XQZJmACpU7w)
-   - [ ] [12 Mart: Ihtilalin Pencesinde Demokrasi (10 Bolum), 1994](https://www.imdb.com/title/tt10313338/) / [where to watch](https://www.youtube.com/playlist?list=PL19EshdPt3R_nBWDkdv7BjSGbJ87mc4o2) /
+        [10: Idamlar (Menderes, Zorlu, Polatkan)](https://www.youtube.com/watch?v=XQZJmACpU7w)
+   - [ ] [SERIES][12 Mart: Ihtilalin Pencesinde Demokrasi (10 Bolum), 1994](https://www.imdb.com/title/tt10313338/) / [where to watch](https://www.youtube.com/playlist?list=PL19EshdPt3R_nBWDkdv7BjSGbJ87mc4o2) /
         [12 Mart 1971 Muhtırası Nasıl Verildi?](https://www.youtube.com/watch?v=vTG9BSqGOEE) / 
         [Suleyman Demirel Interview, 1993](https://www.youtube.com/watch?v=slUdmA2bfFk&list=PL19EshdPt3R_nBWDkdv7BjSGbJ87mc4o2&index=3) / 
         [1: Sanci](https://www.youtube.com/watch?v=S-Hwh7mrZU0&list=PL19EshdPt3R_nBWDkdv7BjSGbJ87mc4o2&index=16)
-   - [ ] [12 Eylul](https://www.youtube.com/watch?v=arGodO-a1sE)
-   - [ ] [Ozalli Yillar](https://www.youtube.com/watch?v=arGodO-a1sE)
-   - [ ] [28 Subat](https://www.youtube.com/watch?v=arGodO-a1sE)
+   - [ ] [SERIES][12 Eylul](https://www.youtube.com/watch?v=arGodO-a1sE)
+   - [ ] [SERIES][Ozalli Yillar](https://www.youtube.com/watch?v=arGodO-a1sE)
+   - [ ] [SERIES][28 Subat](https://www.youtube.com/watch?v=arGodO-a1sE)
