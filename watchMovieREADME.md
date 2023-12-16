@@ -38,7 +38,7 @@
          - [ ] [Peculiarities of the National Hunt in the Winter, 2000](https://www.imdb.com/title/tt0266821/)
      - [Ivan Pyrev](https://en.wikipedia.org/wiki/Ivan_Pyryev)
          - [x] [**The Idiot, 1958**](https://www.imdb.com/title/tt0051762/) - [where to watch](https://www.youtube.com/watch?v=qn8G-RYyfrM) - part 2 missing :( - [Yury Yakovlev](https://en.wikipedia.org/wiki/Yury_Yakovlev) - [Russian Alphabet with Examples and Slow Pronunciation](https://www.youtube.com/watch?v=tYDMSM5dosE) - [**Prince Myshkin**](https://en.wikipedia.org/wiki/Prince_Myshkin) 
-         - [ ] [The Brothers Karamazov, 1969](https://www.imdb.com/title/tt0062757/) - [part 1](https://www.youtube.com/watch?v=Vx2IU53lmbk) - [part 2](https://www.youtube.com/watch?v=Hk9EqtkaE4M) - [part 3](https://www.youtube.com/watch?v=8L89ZiQuBiM)
+         - [x] [**The Brothers Karamazov, 1969**](https://www.imdb.com/title/tt0062757/) - [part 1](https://www.youtube.com/watch?v=Vx2IU53lmbk) - [part 2](https://www.youtube.com/watch?v=Hk9EqtkaE4M) - [part 3](https://www.youtube.com/watch?v=8L89ZiQuBiM)
      - [Vladimir Bortko](https://en.wikipedia.org/wiki/Vladimir_Bortko)
          - [x] [Heart of a Dog, 1988](https://www.imdb.com/title/tt0096126/) - [where to watch](https://www.youtube.com/watch?v=hIkimahLpCs) 
      - [Lev Kulidzhanov](https://en.wikipedia.org/wiki/Lev_Kulidzhanov)
