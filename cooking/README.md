@@ -177,6 +177,16 @@
 3. Patates, sivri biber kizartmalik dogra, biraz zeytinyagi, 2 cay kasigi tuz ile karistir
 4. Herseyi firin posetina koy, 185 derecede pisir.
 
+## Desert with Etimek
+[<img src="etimekli_tatli.jpg" width="500"/>](etimekli_tatli.jpg)
+1. 1 su bardagi un + 6 su bardagi sut + 1 su bardagi seker => Ocakta surekli karistirarak pisir.
+2. Pisince altini kapat, 2 yemek kasigi tereyag + 1 paket vanilya ekle.
+3. 1 paket krem santi + 1 su bardagi sut => Cirp, buzdolabinda biraz beklet
+4. Borcama 1 paket etimek kir.
+5. Krem santi yi de tencereye ekle, en az 10 dk cirp.
+6. Borcama dok, buzdolabina al.
+7. Cilek ve yaban mersini ile servis yap.
+
 ## False Chicken Breast Pudding
 [<img src="false_chicken_breast_pudding.jpg" width="500"/>](false_chicken_breast_pudding.jpg)
 1. 125 gram kadar tereyagi tencerede erit.
