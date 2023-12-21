@@ -56,7 +56,7 @@
 - [ ] [Gorbachev's USSR: The Events That Led To The Collapse Of The Soviet Union](https://www.youtube.com/watch?v=2ZrtuZ39TRo)
 - [ ] [Meeting Gorbachev, 2018](https://www.imdb.com/title/tt8811382/)
 - [ ] [Gorbachev's Revolution, 2004](https://www.youtube.com/watch?v=RnzyuEv6Ndo)
-- [ ] [How Did the Soviet Union Begin?](https://youtu.be/mY5P2ehFDPQ)
+- [x] [How Did the Soviet Union Begin?](https://youtu.be/mY5P2ehFDPQ)
 - [ ] [Man with a Movie Camera, 1929](https://www.imdb.com/title/tt0019760/) / [where to watch](https://www.youtube.com/watch?v=cGYZ5847FiI)
 - [ ] [Russia's First Revolutionaries: The Decembrists ALL PARTS](https://www.youtube.com/watch?v=yXx_jLEG4KU)
 - [ ] [The Unknown War, 1978](https://www.imdb.com/title/tt0483223/)
