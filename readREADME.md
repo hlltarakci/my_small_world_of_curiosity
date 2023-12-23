@@ -20,7 +20,7 @@
     - [ ] [Isaac Asimov, The Currents of Space](https://www.amazon.com/dp/0765319179?tag=howtoread06-20&linkCode=ogi&th=1&psc=1)
     - [ ] [Isaac Asimov, Pebble in the Sky](https://www.amazon.com/dp/0765319136?tag=howtoread06-20&linkCode=ogi&th=1&psc=1)
     - [x] [Isaac Asimov, Prelude to Foundation](https://www.amazon.com/dp/0553278398?tag=howtoread06-20&linkCode=ogi&th=1&psc=1)
-    - [ ] [Isaac Asimov, Forward to Foundation](https://www.amazon.com/dp/0553565079?tag=howtoread06-20&linkCode=ogi&th=1&psc=1)
+    - [x] [Isaac Asimov, Forward to Foundation](https://www.amazon.com/dp/0553565079?tag=howtoread06-20&linkCode=ogi&th=1&psc=1)
     - [ ] [Isaac Asimov, Foundation](https://www.amazon.com/dp/0553293354?tag=howtoread06-20&linkCode=ogi&th=1&psc=1)
     - [ ] [Isaac Asimov, Foundation and Empire](https://www.amazon.com/dp/0553293370?tag=howtoread06-20&linkCode=ogi&th=1&psc=1)
     - [ ] [Isaac Asimov, Second Foundation](https://www.amazon.com/dp/0553293362?tag=howtoread06-20&linkCode=ogi&th=1&psc=1)
