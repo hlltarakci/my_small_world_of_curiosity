@@ -14,7 +14,10 @@
      - [Mikhail Kalatozov](https://en.wikipedia.org/wiki/Mikhail_Kalatozov)
          - [x] [**The Cranes Are Flying, 1957**](https://www.imdb.com/title/tt0050634/) - [where to watch](https://www.youtube.com/watch?v=2rINnJat-5k) - [*"What makes The Cranes Are Flying such a powerful and honest film is that the story never condemns Veronica for her involuntary infidelity when her lover is out risking his life at the front lines. The film never condemns Boris as well, for deciding to enlist in the war and abandoning young Veronica. Boris and Veronica are both young and naive lovers who fortunately don't know and yet understand the cruel realities of life...At the heartbreaking and at the same time life affirming conclusion of the film, Veronica accepts that her lover Boris is dead and comes to the realization that she is not the only one who is mourning. She decides to pass out flowers that she originally brought for Boris to the thousands of other families who are in mourning, as Fyodor joins her which in a way is showing her that the family loves and forgives her."*](https://www.classicartfilms.com/the-cranes-are-flying-1957)
          - [x] [**Letter Never Sent, 1960**](https://www.imdb.com/title/tt0053106/) - [where to watch](https://www.youtube.com/watch?v=CVU_Xu_AXNQ) - [wiki](https://en.wikipedia.org/wiki/Letter_Never_Sent_(film)) - [**critique**](https://www.criterion.com/current/posts/2207-letter-never-sent-refining-fire): *remarkable depiction of perseverance in the face of extreme challenge, a tale of humankind’s resolute dedication to the task of conquering the wild and overpowering the hostile forces of nature...[Urusevsky’s](https://en.wikipedia.org/wiki/Sergey_Urusevsky) black-and-white photography...The Cranes Are Flying, the first Soviet film to honestly tackle the emotional experience of World War II...[Kalatozov](https://en.wikipedia.org/wiki/Mikhail_Kalatozov) had a special attraction to depictions of standoffs between man and nature* 
+         - [ ] [True Friends (Vernye druz'ya), 1954](https://www.imdb.com/title/tt0047650/) - [where to watch](https://www.youtube.com/watch?v=JGS3lcp9oes)
          - [ ] [I Am Cuba, 1964](https://www.imdb.com/title/tt0058604/) - [where to watch](https://www.youtube.com/watch?v=Y3HpI898dwg)
+     - [Mikhail Roshchin](https://en.wikipedia.org/wiki/Mikhail_Roshchin)
+         - [ ] [Staryy novyy god (The old new year), 1981](https://www.imdb.com/title/tt0081557/) - [part 1](https://www.youtube.com/watch?v=vSAVYvnSJ3U) - [part 2](https://www.youtube.com/watch?v=M7JCEQDunGo)
      - [Vladimir Menshov](https://en.wikipedia.org/wiki/Vladimir_Menshov)
          - [x] [**Moscow does not Believe in Tiers, 1980**](https://www.imdb.com/title/tt0079579/) -  [movie](https://www.youtube.com/watch?v=NTWA_7-ld_U)  -  [music: Aleksandra](https://www.youtube.com/watch?v=wY_wTjgecf8)
          - [x] [**Love and Doves, 1985**](https://www.imdb.com/title/tt0087650/) - [where to watch](https://www.youtube.com/watch?v=CLjLLHDUiiA) - funny scene starts at 15:58 :) 
@@ -81,10 +84,8 @@
      - [ ] [12, 2007](https://www.imdb.com/title/tt0488478/)
      - [ ] [War and Peace, 1965](https://www.imdb.com/title/tt0063794/)
      - [ ] [A Cruel Romance, 1984](https://www.imdb.com/title/tt0090368/)
-     - [ ] [Staryy novyy god (The old new year), 1981](https://www.imdb.com/title/tt0081557/) - [where to watch part 1](https://www.youtube.com/watch?v=vSAVYvnSJ3U) - [where to watch part 2](https://www.youtube.com/watch?v=M7JCEQDunGo)
      - [ ] [A Few Days from the Life of I.I. Oblomov, 1980](https://www.imdb.com/title/tt0079619/?ref_=nv_sr_srsg_0) - [where to watch](https://youtu.be/LxEFja8NYac)
      - [ ] [The Garage, 1980](https://www.imdb.com/title/tt0079193/) - [where to watch](https://www.youtube.com/watch?v=VahEhy4HJu4)
-     - [ ] [True Friends (Vernye druz'ya), 1954](https://www.imdb.com/title/tt0047650/) - [where to watch](https://www.youtube.com/watch?v=qGXoycbxSnA), cannot find subtitles :(
      - [ ] [The Diamond Arm, 1969](https://www.imdb.com/title/tt0062759/)
      - [ ] [Assa, 1987](https://www.imdb.com/title/tt0094683/)
      - [ ] [Belorussky Station, 1971](https://www.imdb.com/title/tt0128960/)
