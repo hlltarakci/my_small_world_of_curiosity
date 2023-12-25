@@ -130,6 +130,18 @@
 4. 2 su bardagi un + 1 paket hamur kabartma tozu -> cirp. Kaliba dok.
 5. 170 derecede pisir. Catal ile delerek ayrilmis islak karisimi dok.
 
+## Moist Chocolate Cake
+[<img src="moist_chocolate_cake.jpg" width="500"/>](moist_chocolate_cake.jpg)
+
+1. 3 yumurta + 1,5 su bardagi seker -> beyaz kopuk olana kadar guzelce cirp
+2. 1,5 su bardagi sut + 1 su bardagi siviyag + 25 gram kakao -> cirp
+3. Karisimdan 1 su bardagi ayir (sosu icin)
+4. 1 paket kabartma tozu + 1 paket vanilya + 2 su bardagi un -> cirp
+5. Yaglanmis borcama bosalt. 170 derecede onceden isitilmis firinda 30-35 dk kadar pisir.
+6. Sos -> Ayrilan karisima 1,5 su bardagi sut ekle, 5 dakika ocakta pisir.
+7. Kek ilininca dilimle, karisimdan her yerine dok
+8. 2-3 saat bekletip, uzerine dovulmus ceviz ile servis et.
+
 ## Starbucks Carrot Cake
 [<img src="carrot_cake.jpg" width="500"/>](carrot_cake.jpg)
 1. 5 yumurta + 1,5 su bardagi seker -> mikserin en yuksek ayari ile cirp
