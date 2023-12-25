@@ -88,6 +88,17 @@
 6. Ustune yumurta sarisi sur, susam, corekotu serp.
 7. 180 derecede pisir.
 
+## [Meaty Nokul](https://en.wikipedia.org/wiki/Nokul)
+[<img src="meaty_nokul.jpg" width="500"/>](meaty_nokul.jpg)
+
+1. 120 ml ilik su + 20 gram yas maya + 1 tatli kasigi seker -> karistir
+2. 100 ml yogurt + 100 ml siviyag + 1 yumurta beyazi + 2 cay kasigi tepeleme tuz + 4 su bardagi un -> Unu azar azar ekleyerek yogur. Hamur tutulunca 25 dk dinlendir
+3. Ic harci icin -> 1 cay bardagi siviyag + 4 orta boy rendelenmis sogan + 400 gram kiyma + 1 cay kasigi tepeleme tuz + 1 cay kasigi tepeleme pul biber + 1 cay kasigi tepeleme karabiber -> 20-25 dakika tavada iyice kavur
+4. Dinlenmis hamuru 4 parcaya ayir. Bezeleri iyice ac, ikiye kes, azicik yag sur, ic harci ekle, sekil ver. Tepsiye al
+5. Uzerine yumurta sarisi sur. Susam, corek otu ya da hashas ile susle
+6. Onceden isitilmis firinda 180 derecede pisir.
+
+
 ## Russian Tea Cakes
 [<img src="russian_tea_cakes.jpg" width="500"/>](russian_tea_cakes.jpg)
 1. 200 gr oda sicakliginda tereyag + 1 paket vanilya -> 2-3 dk mikserle cirp
