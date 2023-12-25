@@ -221,6 +221,16 @@
 4. Sekil ver, icini koy.
 5. 175 derecede 20-25 dk pisir.
 
+## Jam Cookies
+[<img src="jam_cookies.jpg" width="500"/>](jam_cookies.jpg)
+
+1. 5 kasik pudra sekeri + 250 gram tereyag -> yogur
+2. 1 yumurta sarisi -> yogur
+3. 15 kasik dolu dolu un + 1 paket kabartma tozu -> azar azar ekle, yogur. Yumusak bir hamur olacak.
+4. Sekil ver, yumurta akina bula, dovulmus cevize batir, tepsiye diz
+5. 175 derecede pisir
+6. Ilininca ortasina recel ekle, soguyunca servis yap.
+
 ## Cheese Omelette
 [<img src="cheese_omelette.jpg" width="500"/>](cheese_omelette.jpg)
 1. 1 yemek kasigi tereyegi tavada erit.
