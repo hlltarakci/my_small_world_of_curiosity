@@ -371,6 +371,13 @@ Protip: Esit olcude kes. Patatesleri kagit havluyla iyice kurula. Pisirirken ara
 2. 3 cay kasigi tuz + 2 tatli kasigi seker -> Mor lahanayi iyice ovala
 3. 2,5 cay bardagi sirke ekle, iyice karistirip kavanoza koy.
 
+## [Russian Salad](https://en.wikipedia.org/wiki/Olivier_salad)
+[<img src="russian_salad.jpg" width="500"/>](russian_salad.jpg)
+
+1. Bir olcu icin 1 kavanoz garnitur kullan
+2. 4 yemek kasigi mayonez + 6 yemek kasigi suzme yogurt + 1,5 cay kasigi tuz ekle
+3. Guzelce karistir
+
 ## Celery Salad
 [<img src="celery_salad.jpg" width="500"/>](celery_salad.jpg)
 
