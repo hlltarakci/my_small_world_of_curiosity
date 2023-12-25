@@ -96,7 +96,7 @@
 3. Ic harci icin -> 1 cay bardagi siviyag + 4 orta boy rendelenmis sogan + 400 gram kiyma + 1 cay kasigi tepeleme tuz + 1 cay kasigi tepeleme pul biber + 1 cay kasigi tepeleme karabiber -> 20-25 dakika tavada iyice kavur
 4. Dinlenmis hamuru 4 parcaya ayir. Bezeleri iyice ac, ikiye kes, azicik yag sur, ic harci ekle, sekil ver. Tepsiye al
 5. Uzerine yumurta sarisi sur. Susam, corek otu ya da hashas ile susle
-6. Onceden isitilmis firinda 180 derecede pisir.
+6. Onceden isitilmis firinda 180 derecede pisir. [Orjinal tarif](https://www.youtube.com/watch?v=x0Rqsy4JTjU)
 
 
 ## Russian Tea Cakes
@@ -358,7 +358,7 @@ Protip: Esit olcude kes. Patatesleri kagit havluyla iyice kurula. Pisirirken ara
 
 1. Ekmek uzerine malzemeleri koyup, Airfryer da 160 derecede 8 dk pisir. Tercihen flat bread uzerine biraz yag, rendelenmis mozarella ve cherry domates guzel oluyor. Maydanoz ya da pizza baharati da guzel sonuc veriyor. Eriyen herhangi bir peynir tipi de yakisiyor.
 
-## [Global] [Chocolate Chip Cookies](https://www.youtube.com/watch?v=vWP85FYQjcE)
+## [Chocolate Chip Cookies](https://www.youtube.com/watch?v=vWP85FYQjcE)
 <img src="chocolate_chip_cookies.jpg" width="500"/>
 
 1. Homojen bir karisim olana kadar cirp (no lumps): yarim su bardagi seker + 3/4 su bardagi esmer seker + 1 cay kasigi tuz + yarim su bardagi erimis sogumus tereyag
