@@ -371,6 +371,20 @@ Protip: Esit olcude kes. Patatesleri kagit havluyla iyice kurula. Pisirirken ara
 2. 3 cay kasigi tuz + 2 tatli kasigi seker -> Mor lahanayi iyice ovala
 3. 2,5 cay bardagi sirke ekle, iyice karistirip kavanoza koy.
 
+## Celery Salad
+[<img src="celery_salad.jpg" width="500"/>](celery_salad.jpg)
+
+1. 1-2 kereviz rendele
+2. 1 elma rendele
+3. 1 limon kabugu rendele
+4. 1-1,5 limon suyu ekle
+5. 2-3 dis sarimsak ekle
+6. Biraz ceviz kir
+7. 1-2 cay kasigi tuz ekle
+8. Biraz dereotu ekle
+9. Suzme yogurt ekle
+10. Guzelce karistir
+
 ## Cig Kofte
 [<img src="cigkofte.jpg" width="500"/>](cigkofte.jpg)
 1. 5 su bardagi sicak su + 5 su bardagi cig koftelik esmer bulgur -> KitchenAid in kabinda, ustunu kapatip 20 dk dinlendir.
