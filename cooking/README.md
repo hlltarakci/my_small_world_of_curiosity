@@ -148,6 +148,18 @@
 4. Ustunu gececek kadar sicak su koy, eti pisir.
 5. Haslanmis nohutu ekle, 3 cay kasigi tuz, yarim cay kasigi karabiber ekle. Pisirmeye devam et.
 
+## [Pirozhki with Potatoes(Russian Fried Buns with Potato Filling)](https://en.wikipedia.org/wiki/Pirozhki)
+<img src="pirozhki.jpg" width="500"/>
+
+1. 2 su bardagi ilik sut + 20 gr pakmaya + 1 yemek kasigi seker + 3 yemek kasigi dolu dolu un -> Karistir, 5 dk dinlendir.
+2. 1 su bardagi ilik su + 1/2 su bardagi siviyag -> ekle, karistir. 1 cay kasi tuz + aldigi kadar un (6-7 su bardagi kullandim) -> azar azar ekle, ele yapismayan yumusak bir hamur tut. 1 saat dinlendir.
+3. Ic harci icin -> 4 patates dogra, tencereye al. Uzerini gececek kadar soguk su ekle, yumusayana kadar hasla.
+4. 1 sogan ince ince dogra, tereyag ile guzelce kavur.
+5. Patatesler pistikten sonra -> Pure kivamina gelinceye kadar ez. 1/2 cay kasigi karabiber + 1/2 cay kasigi zerdecal + 1 cay kasigi tuz ekle, karistir. 50 gram tereyag ekle, karistir. Kavrulmus soganlari ekle, karistir.
+6. Dinlenmis hamuru 4 parcaya, her parcayi 8'e bol. Yuvarlak yap, ic harc ekle, kapat.
+7. Kizgin siviyagda 4 sefer halinde kizart. [Orjinal tarif](https://www.youtube.com/watch?v=sVVFPrfDzn8&t=4s)
+
+
 ## [Tavuklu Pilav (Chicken Pilaf)](https://goturkiye.com/10-iconic-street-foods-in-turkiye)
 <img src="tavuklu_pilav.jpg" width="500"/>
 
