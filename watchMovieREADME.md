@@ -3,7 +3,7 @@
 - [Greatest Films of All Times](https://www.bfi.org.uk/sight-and-sound/greatest-films-all-time)
 
 ## Soviet Cinema
-- [Mosfilm](https://www.youtube.com/c/Mosfilm_eng) - [Mosfilm watch list](https://letterboxd.com/daniil333/list/mosfilm-best-to-worst/) - [Cinema of the Soviet Union](https://en.wikipedia.org/wiki/Cinema_of_the_Soviet_Union) - [Thirty Greatest Soviet Films](https://soviet-art.ru/thirty-greatest-soviet-films/) - [movie suggestions](https://www.rbth.com/arts/329707-top-100-russian-soviet-movies) - [10 Soviet & Russian movies for your New Year spirit](https://www.rbth.com/arts/333188-soviet-russian-new-year-movies)
+- [Mosfilm](https://www.youtube.com/c/Mosfilm_eng) - [Mosfilm watch list](https://letterboxd.com/daniil333/list/mosfilm-best-to-worst/) - [Cinema of the Soviet Union](https://en.wikipedia.org/wiki/Cinema_of_the_Soviet_Union) - [Thirty Greatest Soviet Films](https://soviet-art.ru/thirty-greatest-soviet-films/) - [movie suggestions](https://www.rbth.com/arts/329707-top-100-russian-soviet-movies) - [10 Soviet & Russian movies for your New Year spirit](https://www.rbth.com/arts/333188-soviet-russian-new-year-movies) - [Beyond Tarkovsky: 10 Great Soviet Films](https://stuart-jw.medium.com/beyond-tarkovsky-10-great-soviet-films-7c031f77392f)
      - [Eldar Ryazanov](https://en.wikipedia.org/wiki/Eldar_Ryazanov)
          - [x] [**Railway station for Two, 1983**](https://www.imdb.com/title/tt0084873/) - [where to watch](https://www.youtube.com/watch?v=bUya5DBvw_g) - [**soundtrack**](https://www.youtube.com/watch?v=LTbGVTofwyA)
          - [x] [**Irony of Fate or Enjoy Your Bath, 1975**](https://www.imdb.com/title/tt0073179/) 
@@ -12,7 +12,7 @@
          - [x] [Office Romance, 1977](https://www.imdb.com/title/tt0076727/) - [music](https://www.youtube.com/watch?v=zczb2E4zwj0)
          - [x] [**Beregis avtomobilya, 1966**](https://www.imdb.com/title/tt0060161/) - [where to watch](https://www.youtube.com/watch?v=jZ33mMmfvaM) - [Eldar Ryazanov](https://en.wikipedia.org/wiki/Eldar_Ryazanov) - [Beware of the Car, wiki](https://en.wikipedia.org/wiki/Beware_of_the_Car) - [Russia’s Post-Stalinist Master of Film Comedy: Eldar Ryazanov](https://hollywoodprogressive.com/film/eldar-ryazanov) - [*Yet, what makes these films so bewilderingly brilliant is how they find new ways to critique and challenge – and even when working from the opposing perspective, whereby it looks at the more rebellious nature of society from the perspective of the state, which prioritizes decorum and order, the films always appear to be truly compelling and unbelievably original in many ways. Beware of the Car (Russian: Береги́сь автомоби́ля) is one of the more interesting entries into the canon of great Soviet films – its a boisterous, hilarious and often outrageously revolutionary comedy-of-manners that combines genres in wonderfully inventive ways, and coerces us into one of the most intrepid journeys into the roots of Soviet culture made during this film. Daring and extraordinarily complex in its intentions, but incredibly simple in how it realizes them, Beware of the Car overcomes its more vague political underpinnings by being an exceptionally charming comedy that is nothing short of an exuberant exercise in building a memorable story from the fragments of a difficult moment in history...It’s never entirely clear whether Beware of the Car is in support of the political beliefs of the Soviet Union, or if it is an immensely complex critique that conceals itself so well, it actually portrays the state in a positive life. However, whether mildly propagandistic or brilliantly subversive, the film is taking inspiration from the pure ideological roots of the system as a way of constructing a wonderfully potent dark comedy that is made with the intensity of many of Hollywood’s great film noirs, adding in the acerbic Eastern European wit that goes underappreciated far too often...One of the rare Soviet comedies that is more upbeat than it is sardonically satirical, Beware of the Car is a wonderful triumph, an effortlessly entertaining caper that is as thrilling as it is heartfelt, taking a simple story and turning it into a perfectly-calibrated comedy that touches on social issues, which remaining as endearing and delightful from the first scintillating moment of unhinged comedy, to the poignant ending scene, where the themes of the film dovetail in an unexpectedly moving way, proving Beware of the Car to be nothing less than a positively powerful work of mild-mannered, mid-century mayhem with a great sense of humour and a lot of authentic soulfulness.*](https://postmodernpelican.com/2020/04/30/beware-of-the-car-1966/) 
          - [x] [**The Garage, 1980**](https://www.imdb.com/title/tt0079193/) - [where to watch](https://www.youtube.com/watch?v=VahEhy4HJu4)
-         - [ ] [A Cruel Romance, 1984](https://www.imdb.com/title/tt0090368/)
+         - [ ] [A Cruel Romance, 1984](https://www.imdb.com/title/tt0090368/) - [part 1](https://www.youtube.com/watch?v=4naOrjRiTnc&list=PLBJC5C1uWOTq_MXoWMjs6SfIuDILLEaFQ&index=2) - [part 2](https://www.youtube.com/watch?v=-6DNbCOaAH8)
      - [Mikhail Kalatozov](https://en.wikipedia.org/wiki/Mikhail_Kalatozov)
          - [x] [**The Cranes Are Flying, 1957**](https://www.imdb.com/title/tt0050634/) - [where to watch](https://www.youtube.com/watch?v=2rINnJat-5k) - [*"What makes The Cranes Are Flying such a powerful and honest film is that the story never condemns Veronica for her involuntary infidelity when her lover is out risking his life at the front lines. The film never condemns Boris as well, for deciding to enlist in the war and abandoning young Veronica. Boris and Veronica are both young and naive lovers who fortunately don't know and yet understand the cruel realities of life...At the heartbreaking and at the same time life affirming conclusion of the film, Veronica accepts that her lover Boris is dead and comes to the realization that she is not the only one who is mourning. She decides to pass out flowers that she originally brought for Boris to the thousands of other families who are in mourning, as Fyodor joins her which in a way is showing her that the family loves and forgives her."*](https://www.classicartfilms.com/the-cranes-are-flying-1957)
          - [x] [**Letter Never Sent, 1960**](https://www.imdb.com/title/tt0053106/) - [where to watch](https://www.youtube.com/watch?v=CVU_Xu_AXNQ) - [wiki](https://en.wikipedia.org/wiki/Letter_Never_Sent_(film)) - [**critique**](https://www.criterion.com/current/posts/2207-letter-never-sent-refining-fire): *remarkable depiction of perseverance in the face of extreme challenge, a tale of humankind’s resolute dedication to the task of conquering the wild and overpowering the hostile forces of nature...[Urusevsky’s](https://en.wikipedia.org/wiki/Sergey_Urusevsky) black-and-white photography...The Cranes Are Flying, the first Soviet film to honestly tackle the emotional experience of World War II...[Kalatozov](https://en.wikipedia.org/wiki/Mikhail_Kalatozov) had a special attraction to depictions of standoffs between man and nature* 
@@ -29,6 +29,15 @@
          - [ ] [The Barber of Siberia, 1998](https://www.imdb.com/title/tt0120125/)
          - [ ] [12, 2007](https://www.imdb.com/title/tt0488478/)
          - [ ] [A Few Days from the Life of I.I. Oblomov, 1980](https://www.imdb.com/title/tt0079619/?ref_=nv_sr_srsg_0) - [where to watch](https://youtu.be/LxEFja8NYac)
+     Shadows)
+     - [Andrei Tarkovsky](http://thecinemaarchives.com/2019/04/23/the-8th-best-director-of-all-time-andrei-tarkovsky/) - [watching order](https://www.bfi.org.uk/features/where-begin-with-andrei-tarkovsky)
+         - [ ] [Solaris, 1972](https://www.imdb.com/title/tt0069293/) - [where to watch](https://www.youtube.com/watch?v=Z8ZhQPaw4rE)
+         - [ ] [The Mirror, 1975](https://www.imdb.com/title/tt0072443/) - [where to watch](https://www.youtube.com/watch?v=NrMINC5xjMs)
+         - [ ] [The Sacrifice (Offret), 1986](https://www.imdb.com/title/tt0091670/)
+         - [ ] [Andrei Rublev, 1966](https://www.imdb.com/title/tt0060107/)
+         - [ ] [Nostalghia, 1983](https://www.imdb.com/title/tt0086022/)
+         - [x] [**Stalker, 1979**](https://www.imdb.com/title/tt0079944/) - [where to watch](https://www.youtube.com/watch?v=Q3hBLv-HLEc) - [wiki](https://en.wikipedia.org/wiki/Stalker_(1979_film)) - [critique](https://www.automachination.com/awakening-escaping-happiness-andrei-tarkovsky-stalker-1979/)
+         - [ ] [Ivan's Childhood, 1960](https://www.imdb.com/title/tt0056111/)
      - [Leonid Gaidai](https://en.wikipedia.org/wiki/Leonid_Gaidai)
          - [x] [Ivan Vasilyevich Changes His Profession, 1973](https://www.imdb.com/title/tt0070233/)
          - [ ] [Kidnapping, Caucasian Style, 1967](https://www.imdb.com/title/tt0060584/) - [where to watch](https://www.youtube.com/watch?v=8KYUSLtXJyo)
@@ -64,6 +73,12 @@
          - [ ] [War and Peace, 1965](https://www.imdb.com/title/tt0063794/)
      - [Stanislav Rostotskiy](https://en.wikipedia.org/wiki/Stanislav_Rostotsky)
          - [ ] [The Dawns Here Are Quiet, 1972](https://www.imdb.com/title/tt0068161/)
+     - [Marlen Khutsiev](https://en.wikipedia.org/wiki/Marlen_Khutsiev)
+         - [ ] [July Rain, 1967](https://www.imdb.com/title/tt0171408/) - [where to watch](https://www.youtube.com/watch?v=ohakjwIYkrE&list=PLBJC5C1uWOTq_MXoWMjs6SfIuDILLEaFQ&index=26)
+     - [Kira Muratova](https://en.wikipedia.org/wiki/Kira_Muratova)
+         - [ ] [Brief Encounters, 1967](https://www.imdb.com/title/tt0061883/) - [where to watch](https://www.youtube.com/watch?v=28skxPwAvaM)
+     - [Mikhail Romm](https://en.wikipedia.org/wiki/Mikhail_Romm)
+         - [ ] [Nine Days of One Year, 1962](https://www.imdb.com/title/tt0054803/) - [where to watch](https://www.youtube.com/watch?v=HGf-cZZDH3s)
      - [Yuriy Ozerov](https://en.wikipedia.org/wiki/Yuri_Ozerov_(director))
          - [ ] [Stalingrad, 1990](https://www.imdb.com/title/tt0174240/) - [part 1](https://www.youtube.com/watch?v=0ydz0d3Ba0o) - [part 2](https://www.youtube.com/watch?v=VB8NDI0oVBQ)
          - [ ] [Liberation, Film 1: The Fire Bulge/ Osvobozhdenie: Ognennaya duga, 1970](https://www.imdb.com/title/tt5300238/) - [Liberation film series](https://en.wikipedia.org/wiki/Liberation_(film_series)) - [where to watch](https://www.youtube.com/watch?v=9ZraM-TvRXA)
@@ -79,6 +94,15 @@
          - [ ] [The Ascent, 1977](https://www.imdb.com/title/tt0075404/) - [where to watch](https://www.youtube.com/watch?v=caUnJDiWh40)
      - [Elem Klimov](https://en.wikipedia.org/wiki/Elem_Klimov)
          - [ ] [Come and See, 1985](https://www.imdb.com/title/tt0091251/) - [where to watch](https://www.youtube.com/watch?v=zjIiApN6cfg)
+         - [ ] [Rasputin (Agoniya), 1981](https://www.imdb.com/title/tt0081991/) - [part 1](https://www.youtube.com/watch?v=Ll1Wdob2P1E&list=PLBJC5C1uWOTq_MXoWMjs6SfIuDILLEaFQ&index=6) - [part 2](https://www.youtube.com/watch?v=meag8p7S66c&t=0s)
+     - [Andrey Konchalovskiy](https://en.wikipedia.org/wiki/Andrei_Konchalovsky)
+         - [ ] [Istoriya Asi Klyachinoy, kotoraya lyubila, da ne vyshla zamuzh, 1966](https://www.imdb.com/title/tt0060549/) - [where to watch](https://www.youtube.com/watch?v=LT6olpsDDXg)
+     - [Aleksei German](https://en.wikipedia.org/wiki/Aleksei_Yuryevich_German)
+         - [ ] [Trial on the Road, 1986](https://www.imdb.com/title/tt0067625/) - [where to watch](https://www.youtube.com/watch?v=jnMnWSt99gg)
+     - [Vladimir Chebotaryov](https://en.wikipedia.org/wiki/Vladimir_Chebotaryov) & [Gennadi Kazansky](https://en.wikipedia.org/wiki/Gennadi_Kazansky)
+         - [ ] [Amphibian Man, 1961](https://www.imdb.com/title/tt0055844/) - [where to watch](https://www.youtube.com/watch?v=646Rcnb9ujs)
+     - [Dinara Asanova](https://en.wikipedia.org/wiki/Dinara_Asanova)
+         - [ ] [Ne bolit golova u dyatla, 1975 (Woodpeckers Don't Get Headaches)](https://www.imdb.com/title/tt0156836/)
      - [Leonid Bykov](https://en.wikipedia.org/wiki/Leonid_Bykov)
          - [ ] [Only Old Men Are Going to Battle, 1974](https://www.imdb.com/title/tt0070861/) - [where to watch](https://www.youtube.com/watch?v=i8bNInTulB4)
      - [Ilya Frez](https://en.wikipedia.org/wiki/Ilya_Frez)
@@ -119,7 +143,7 @@
 - [x] [Hedgehog in the Fog, 1975](https://www.imdb.com/title/tt0073099/) - [where to watch](https://filmschoolrejects.com/hedgehog-in-the-fog/)
 - [ ] [The Old Man and the Sea, 1999](https://www.imdb.com/title/tt0207639/) - [where to watch](https://www.youtube.com/watch?v=rDIsXKOsdOQ)
 
-## By Directors
+## By Directors, World
 - Steven Spielberg
      - [x] [**Ready Player One, 2018**](https://www.imdb.com/title/tt1677720/) - [Metaverse related movies](https://medium.com/building-the-metaverse/movies-about-the-metaverse-a0797323e7f6) - [References in Ready Player One](https://readyplayerone.fandom.com/wiki/References)
 - Emir Kusturica
@@ -133,15 +157,7 @@
      - [ ] [Balkan Spy, 1984](https://www.imdb.com/title/tt0086935/?ref_=nm_knf_t_2)
      - [ ] [Strangler vs. Strangler, 1984](https://www.imdb.com/title/tt0087123/?ref_=nm_knf_t_3)
 - Dragan Bjelogrlic
-     - [ ] [Series] [Black Sun, 2017](https://www.imdb.com/title/tt6108262/) - [Balkan Shadows](https://en.wikipedia.org/wiki/Balkan_Shadows)
-- [Andrei Tarkovsky](http://thecinemaarchives.com/2019/04/23/the-8th-best-director-of-all-time-andrei-tarkovsky/) - [watching order](https://www.bfi.org.uk/features/where-begin-with-andrei-tarkovsky)
-     - [ ] [Solaris, 1972](https://www.imdb.com/title/tt0069293/) - [where to watch](https://www.youtube.com/watch?v=Z8ZhQPaw4rE)
-     - [ ] [The Mirror, 1975](https://www.imdb.com/title/tt0072443/) - [where to watch](https://www.youtube.com/watch?v=NrMINC5xjMs)
-     - [ ] [The Sacrifice (Offret), 1986](https://www.imdb.com/title/tt0091670/)
-     - [ ] [Andrei Rublev, 1966](https://www.imdb.com/title/tt0060107/)
-     - [ ] [Nostalghia, 1983](https://www.imdb.com/title/tt0086022/)
-     - [x] [**Stalker, 1979**](https://www.imdb.com/title/tt0079944/) - [where to watch](https://www.youtube.com/watch?v=Q3hBLv-HLEc) - [wiki](https://en.wikipedia.org/wiki/Stalker_(1979_film)) - [critique](https://www.automachination.com/awakening-escaping-happiness-andrei-tarkovsky-stalker-1979/)
-     - [ ] [Ivan's Childhood, 1960](https://www.imdb.com/title/tt0056111/)
+     - [ ] [Series] [Black Sun, 2017](https://www.imdb.com/title/tt6108262/) - [Balkan Shadows](https://en.wikipedia.org/wiki/Balkan_
 - [Ingmar Bergman](https://mubi.com/cast/ingmar-bergman)
      - [x] [**Wild Strawberries, 1957**](https://www.imdb.com/title/tt0050986/)
 - Nuri Bilge Ceylan
