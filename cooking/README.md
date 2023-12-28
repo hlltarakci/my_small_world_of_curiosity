@@ -98,15 +98,22 @@
 5. Uzerine yumurta sarisi sur. Susam, corek otu ya da hashas ile susle
 6. Onceden isitilmis firinda 180 derecede pisir. [Orjinal tarif](https://www.youtube.com/watch?v=x0Rqsy4JTjU)
 
-
 ## Russian Tea Cakes
 [<img src="russian_tea_cakes.jpg" width="500"/>](russian_tea_cakes.jpg)
 1. 200 gr oda sicakliginda tereyag + 1 paket vanilya -> 2-3 dk mikserle cirp
 2. 2 su bardagi un + yarim su bardagi pudra sekeri -> Bir kasede karistir. Sonra ekle ve mikserle biraz cirp
-3. 1 su bardagi kesilmis ceviz -> Ekle ve biraz cirp.p
+3. 1 su bardagi kesilmis ceviz -> Ekle ve biraz cirp.
 4. Sekil ver. Dondurma kasiginda presleyerek sekil verilebiliyor.
 5. 175 derecede 15 dk pisir. Izgara uzerine al, 10-15 dk soguduktan sonra pudra sekerinde yuvarla.
 6. Orjinal tarif (bal ile): [pryaniki](https://www.olgasflavorfactory.com/recipes/russianrecipes/pryaniki-russian-honey-spice-cookies/)
+
+## Stuffed Peppers
+[<img src="stuffed_peppers.jpg" width="500"/>](stuffed_peppers.jpg)
+1. Ic harci -> 250 gram kiyma + 2 orta boy sogan (ince dilimlenmis) + 1 domates (rendelenmis) + 2 yemek kasigi domates salcasi + 1 su bardagi pirinc (lezzetli olmasi icin biraz bulgur da karistir) + 3 cay kasigi tuz + 2 yemek kasigi siviyag + 1/2 cay kasigi karabiber + 1/2 cay kasigi nane. Iyice karistir.
+2. Tencereye dik oturacak sekilde dolmabiberleri doldur.
+3. Tavada 2 yemek kasigi zeytinyagi ile 2 yemek kasigi biber salcasini karistir, isininca dolmalarin uzerinde gezdirerek bosalt
+4. Tencereyi yariya kadar sicak su doldur
+5. Agzi kapali bir sekilde harli ateste 5 dk kaynat, altini kisip pisir.
 
 ## Blueberry Cake
 [<img src="blueberrycake.jpg" width="500"/>](blueberrycake.jpg)
