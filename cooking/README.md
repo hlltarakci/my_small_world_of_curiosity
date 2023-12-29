@@ -275,6 +275,12 @@
 2. Tuz ve misir unu ile hamsileri karistir.
 3. Cok az kizartmalik yag ile tavada kizart.
 
+## Green Peppers with Creamy Sauce (for Breakfast)
+[<img src="green_peppers_with_creamy_sauce.jpg" width="500"/>](green_peppers_with_creamy_sauce.jpg)
+1. Tavaya biberleri kucuk kucuk dogra, 2-3 yemek kasigi siviyag ile hafif pisir.
+2. 1/2 kasik un ekle, kavur.
+3. 1/2-1 cay bardagi sut + 1/2-1 cay kasigi tuz ekle, kavur.
+
 ## Capia Pepper with Cheddar Cheese
 [<img src="capia_pepper_with_cheddar_cheese.jpg" width="500"/>](capia_pepper_with_cheddar_cheese.jpg)
 1. Tereyagini erit, kirmizi kapya biberleri dogra ve kavur
