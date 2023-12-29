@@ -189,6 +189,12 @@
 6. Dinlenmis hamuru 4 parcaya, her parcayi 8'e bol. Yuvarlak yap, ic harc ekle, kapat.
 7. Kizgin siviyagda 4 sefer halinde kizart. [Orjinal tarif](https://www.youtube.com/watch?v=sVVFPrfDzn8&t=4s)
 
+## [Kavurma](https://en.wikipedia.org/wiki/Kavurma)
+<img src="kavurma.jpg" width="500"/>
+
+1. Kusbasi eti suyunu salip kaynayana kadar orta ateste pisir
+2. Cok az sicak su ekle, duduklu tencereyi kapat, duman ciktiktan sonra altini kis, 40 dk pisir
+3. Tencerenin altini kapat, biraz soguyunca kapagi ac. (3 kasik dolu dolu) tuz at. Kalan suyunu cekene kadar pisir.
 
 ## [Tavuklu Pilav (Chicken Pilaf)](https://goturkiye.com/10-iconic-street-foods-in-turkiye)
 <img src="tavuklu_pilav.jpg" width="500"/>
