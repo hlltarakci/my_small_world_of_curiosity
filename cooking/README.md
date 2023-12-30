@@ -98,6 +98,16 @@
 5. Uzerine yumurta sarisi sur. Susam, corek otu ya da hashas ile susle
 6. Onceden isitilmis firinda 180 derecede pisir. [Orjinal tarif](https://www.youtube.com/watch?v=x0Rqsy4JTjU)
 
+## Eggplant Kebab
+[<img src="eggplant_kebab.jpg" width="500"/>](eggplant_kebab.jpg)
+
+1. 4-5 patlicani 3 parmak kalinliginda kes, yagli kagit serilmis tepsiye al.
+2. 300 gram kiyma + 1,5 cay kasigi tuz + karabiber 2 yemek kasigi zeytinyagi -> Ufak kofteler yapip, patlicanlarin arasina yerlestir.
+3. 3-4 dis sarimsak kesip tepsiye ekle
+4. Domates, biber dilimleyip tepsiye ekle.
+5. Uzerinde zeytinyagi gezdir, tereyagi ekle.
+6. 180 derecede pisir.
+
 ## Russian Tea Cakes
 [<img src="russian_tea_cakes.jpg" width="500"/>](russian_tea_cakes.jpg)
 1. 200 gr oda sicakliginda tereyag + 1 paket vanilya -> 2-3 dk mikserle cirp
