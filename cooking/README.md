@@ -244,7 +244,7 @@
 5. Biraz soguyunca 1 paket vanilya ilave et. En az 5 dk. mikserle cirp, sut ilave edip kivami ayarla.
 
 ## [Helva (Turkish Halva With Flour)](https://en.wikipedia.org/wiki/Halva)
-[<img src="un_helvasi_v2.jpeg" width="500"/>](un_helvasi_v2.jpeg)
+[<img src="un_helvasi_v2.jpg" width="500"/>](un_helvasi_v2.jpg)
 1. Serbet: 2 su bardagi su + 2 su bardagi seker. Seker eriyene dek isinsin yeterli, cok kaynatilmayacak.
 2. 150 gr tereyag+ 1 cay bardagi siviyag. Erisin. 2 su bardagi un ekle, rengi koyulasana kadar kavur.
 4. Ocagi kapat. Kapagi siper ederek serbeti ekle. Birkac sn kapagi kapat. Karistir. Sekil ver. [Orjinal tarif](https://www.youtube.com/watch?v=ySKZsEFJ8AE)
