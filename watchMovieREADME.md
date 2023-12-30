@@ -111,7 +111,7 @@
          - [ ] [Could one imagine / Love and Lies / Vam i ne snilos..., 1981](https://www.imdb.com/title/tt0153489/) - [where to watch - part 1](https://youtu.be/NpxTbm3LUb4) - [part 2](https://youtu.be/aDzgEcE2gUk) - [number 5 on this list](https://www.rbth.com/arts/333411-sad-russian-movies)
      - [Georgiy Daneliya](https://en.wikipedia.org/wiki/Georgiy_Daneliya)
          - [ ] [Autumn Marathon, 1979](https://www.imdb.com/title/tt0079679/) / [where to watch](https://www.youtube.com/watch?v=X4e4-tYlHwo)
-         - [ ] [Ya shagayu po Moskve, 1964](https://www.imdb.com/title/tt0057694/) - [where to watch](https://www.youtube.com/watch?v=PyVfdz-aF1k)
+         - [x] [**Ya shagayu po Moskve, 1964 (I'm Walking Around Moscow)**](https://www.imdb.com/title/tt0057694/) - [where to watch](https://www.youtube.com/watch?v=PyVfdz-aF1k) - [wiki](https://en.wikipedia.org/wiki/Walking_the_Streets_of_Moscow) - [**amazing song**](https://www.youtube.com/watch?v=TmX-aBWur70)
      - [Karen Shakhnazarov](https://en.wikipedia.org/wiki/Karen_Shakhnazarov)
          - [ ] [Courier, 1986](https://www.imdb.com/title/tt0091364/) - [where to watch](https://www.youtube.com/watch?v=HZslzk4GEPI)
      - [Grigoriy Aleksandrov](https://en.wikipedia.org/wiki/Grigori_Aleksandrov) & [Sergei Eisenstein](https://en.wikipedia.org/wiki/Sergei_Eisenstein)
