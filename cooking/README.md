@@ -207,6 +207,16 @@
 6. Ocagi kapat, kagit havlu koyarak 10-15 dk demlenmeye birak.
 7. Karabiber serp, [ayran](https://en.wikipedia.org/wiki/Ayran) ile servis et.
 
+## Bulgur Pilavi
+<img src="bulgur_pilavi.jpg" width="500"/>
+
+1. Tencereye 2 yemek kasigi tereyag + 2 yemek kasigi zeytinyagi koy. Erit.
+2. 2 sogan (ince dilimlenmis) + 2-3 biber (kiyilmis) + 1 patlican (kup kup dogranmis) ekle, biraz kavur.
+3. 1 yemek kasigi domates salcasi ekle.
+4. 2 su bardagi bulgur yika, tencereye ekle. 1,5 cay kasigi tuz, biraz pul biber ekle.
+5. Bulgurun ustunu gececek kadar sicak su koy. Et suyu kullanmak ya da bulyon eklemek lezzetini arttirir.
+6. Tencerenin altini kis, kapagini kapat. Suyunu cekene kadar pisir.
+
 ## [Et Sote (Beef Saute)](https://www.dreamstime.com/turkish-et-sote-traditional-turkish-et-sote-meat-saute-bread-vegetables-image218473270)
 <img src="et_sote.jpg" width="500"/>
 
