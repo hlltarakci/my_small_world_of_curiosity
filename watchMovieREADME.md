@@ -129,7 +129,9 @@
      - [Andrey Smirnov](https://en.wikipedia.org/wiki/Andrei_Smirnov_(actor))
          - [ ] [Belorussky Station, 1971](https://www.imdb.com/title/tt0128960/)
      - [x] [SERIES][**The Master and Margarita,2005**](https://www.imdb.com/title/tt0403783/) - [where to watch](https://vimeo.com/showcase/4064422) - [wiki](https://en.wikipedia.org/wiki/The_Master_and_Margarita_(miniseries)) - [**wonderful music**](https://www.youtube.com/watch?v=Zi8_-YixGGQ) - [extended version](https://www.youtube.com/watch?v=Xqzxm_vDI3A) - [entire soundtrack](https://m.youtube.com/watch?v=6cqt-UrbTOU&list=OLAK5uy_l0BslD592imXpRV884EnhiOWUZq4oz_9I)
-     - [ ] [SERIES] [The Idiot, 2003](https://www.imdb.com/title/tt0366028/) - [where to watch](https://www.dizigom1.com/dizi-izle/the-idiot/) 
+     - [ ] [SERIES][The Idiot, 2003](https://www.imdb.com/title/tt0366028/) - [where to watch](https://www.dizigom1.com/dizi-izle/the-idiot/) 
+     - [ ] [SERIES][Dostoevskiy, 2011](https://www.imdb.com/title/tt3375008/) - [where to watch](https://www.izle7.com/ulketv/kategori/dostoyevski)
+     - [ ] [SERIES](Bratya Karamazovy, 2009](https://www.imdb.com/title/tt0456762/) - [where to watch](https://www.dizigom1.com/dizi-izle/the-brothers-karamazov/)
      - [ ] [SERIES][The Meeting Place Cannot Be Changed, 1979](https://www.imdb.com/title/tt0078655/) - [1](https://www.youtube.com/watch?v=X7Kr8g8wps0) - [2](https://www.youtube.com/watch?v=KHDCmzmPInU) - [3](https://www.youtube.com/watch?v=CYjmTwS3DqI) - [4](https://www.youtube.com/watch?v=bRSBW5kL560) - [5](https://www.youtube.com/watch?v=Q2Of-vstUR0)
      - [ ] [SERIES][The Adventures of Sherlock Holmes and Dr. Watson, 1980](https://www.imdb.com/title/tt8127644/) 
 
