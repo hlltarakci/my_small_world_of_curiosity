@@ -61,7 +61,7 @@
          - [x] [Afonya, 1975](https://www.imdb.com/title/tt0072613/) - [where to watch](https://www.youtube.com/watch?v=IszoiMr-nBs)
          - [x] [**Ya shagayu po Moskve, 1964 (I'm Walking Around Moscow)**](https://www.imdb.com/title/tt0057694/) - [where to watch](https://www.youtube.com/watch?v=PyVfdz-aF1k) - [wiki](https://en.wikipedia.org/wiki/Walking_the_Streets_of_Moscow) - [**amazing song**](https://www.youtube.com/watch?v=TmX-aBWur70)
          - [ ] [Kin-dza-dza!, 1986](https://www.imdb.com/title/tt0091341/) - [where to watch](https://www.youtube.com/watch?v=AUtZOl_QxvY) - [blog](https://www.otekisinema.com/kin-dza-dza-1986/)
-         - [ ] [Mimino, 1977](https://www.imdb.com/title/tt0076391/) - [where to watch](https://www.youtube.com/watch?v=GgFLr2bjUNM)
+         - [x] [**Mimino, 1977**](https://www.imdb.com/title/tt0076391/) - [where to watch](https://www.youtube.com/watch?v=GgFLr2bjUNM) - [Analyzing History and Themes of Ethnic Groups in Soviet Films](https://wlc.howard.edu/sites/worldlanguagesandculture.coas.howard.edu/files/2021-03/Analyzing%20History%20and%20Themes%20of%20Ethnic%20Groups%20in%20Soviet%20Films%20_1.pdf)
          - [ ] [Gentlemen of Fortune, 1971](https://www.imdb.com/title/tt0068519/) - [where to watch](https://www.youtube.com/watch?v=mi4gQMDgB_g)
          - [ ] [Autumn Marathon, 1979](https://www.imdb.com/title/tt0079679/) - [where to watch](https://www.youtube.com/watch?v=deEuVTAAzbg)
          - [ ] [Pasport, 1990](https://www.imdb.com/title/tt0100337)
