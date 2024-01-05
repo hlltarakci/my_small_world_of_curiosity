@@ -179,6 +179,13 @@
      - [ ] [SERIES][The Meeting Place Cannot Be Changed, 1979](https://www.imdb.com/title/tt0078655/) - [1](https://www.youtube.com/watch?v=X7Kr8g8wps0) - [2](https://www.youtube.com/watch?v=KHDCmzmPInU) - [3](https://www.youtube.com/watch?v=CYjmTwS3DqI) - [4](https://www.youtube.com/watch?v=bRSBW5kL560) - [5](https://www.youtube.com/watch?v=Q2Of-vstUR0)
      - [ ] [SERIES][The Adventures of Sherlock Holmes and Dr. Watson, 1980](https://www.imdb.com/title/tt8127644/) 
      - [ ] [SERIES][Seventeen Moments of Spring, 1973 (semnadtsat mgnoveniy vesny)](https://www.imdb.com/title/tt0069628/) - [wiki](https://en.wikipedia.org/wiki/Seventeen_Moments_of_Spring) - [comments](https://eksisozluk111.com/semnadtsat-mgnoveniy-vesny--6741701) - [blog](https://newlinesmag.com/review/seventeen-moments-of-spring-the-ussrs-brilliant-but-troubling-tv-epic/) - [part 1](https://www.youtube.com/watch?v=jtazv8uPvvA) - [part 2](https://www.youtube.com/watch?v=xhYe-3roLf8) - [part 3](https://www.youtube.com/watch?v=0WR9xqeCXTk) - [part 4](https://www.youtube.com/watch?v=bFon8e2yWHs) - [part 5](https://www.youtube.com/watch?v=VfO3tDOOMZU) - [part 6](https://www.youtube.com/watch?v=G7WtXrI4r5M) - [part 7](https://www.youtube.com/watch?v=Tr1-bE3WVi0) - [part 8](https://www.youtube.com/watch?v=Quk3RxnWB7E) - [part 9](https://www.youtube.com/watch?v=4ItqhfxDAiA) - [part 10](https://www.youtube.com/watch?v=kMlPix9jbv0) - [part 11](https://www.youtube.com/watch?v=s85zvDLxydY) - [part12](https://www.youtube.com/watch?v=AV6LcmTlZhA)
+     - [ ] [SERIES][Slovo patsana. Krov na asfalte, 2023](https://www.imdb.com/title/tt28429213/)
+     - [ ] [SERIES][Ekaterina, 2014](https://www.imdb.com/title/tt4231140/)
+     - [ ] [SERIES][Dead Mountain, 2020](https://www.imdb.com/title/tt11455654/)
+     - [ ] [SERIES][Law of the Lawless, 2002 (Brigada)](https://www.imdb.com/title/tt0337898/)
+     - [ ] [SERIES][The Kitchen, 2012 (Kukhnya)](https://www.imdb.com/title/tt2930610/)
+     - [ ] [SERIES][Silver Spoon, 2014 (Mazhor)](https://www.imdb.com/title/tt4426042/)
+
 ## Short Movies
 - [Short of the weeek](https://www.shortoftheweek.com/)
 - [Film Shortage](https://filmshortage.com/)
