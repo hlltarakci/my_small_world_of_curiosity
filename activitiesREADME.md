@@ -9,7 +9,7 @@
 
 ### Ready Programs
 
-- [**CURRENT**] 30+ pilates a day, choose from below or [26 min - Kelly](https://www.youtube.com/watch?v=jaqciTxwDoE)
+- [**CURRENT**] 30+ pilates a day, choose from below or [26 min - Kelly](https://www.youtube.com/watch?v=jaqciTxwDoE) + 3+ days a week [15 min wall pilates](https://www.youtube.com/watch?v=N9h7Fo4aAuM)
     - [Nicole](https://www.youtube.com/@MoveWithNicole/videos)
     - [Lily](https://www.youtube.com/@LillySabri/videos)
 - [Cassey's Summer Sculpt](https://www.blogilates.com/blog/28daysummersculpt/)
