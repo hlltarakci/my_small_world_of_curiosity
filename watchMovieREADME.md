@@ -185,6 +185,8 @@
      - [ ] [SERIES][Law of the Lawless, 2002 (Brigada)](https://www.imdb.com/title/tt0337898/) - [where to watch, requires membership](https://sovietmoviesonline.com/drama/brigada-mini-serial)
      - [ ] [SERIES][The Kitchen, 2012 (Kukhnya)](https://www.imdb.com/title/tt2930610/)
      - [ ] [SERIES][Silver Spoon, 2014 (Mazhor)](https://www.imdb.com/title/tt4426042/)
+     - [x] [SERIES][**Better Than Us, 2018**](https://www.imdb.com/title/tt8285216/) - [where to watch](https://www.netflix.com/gb/title/81026915) - [Better Than Us is the best Asimov inspired show I've seen](https://www.reddit.com/r/sciencefiction/comments/cstsao/better_than_us_is_the_best_asimov_inspired_show/)
+     - [ ] [SERIES][To the Lake, 2019](https://www.imdb.com/title/tt9151230/) - [where to watch](https://www.netflix.com/gb/title/81302258)
 
 ## Short Movies
 - [Short of the weeek](https://www.shortoftheweek.com/)
