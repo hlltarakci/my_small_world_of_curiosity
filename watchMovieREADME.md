@@ -205,6 +205,8 @@
      - [ ] [SERIES][To the Lake, 2019](https://www.imdb.com/title/tt9151230/) - [where to watch](https://www.netflix.com/gb/title/81302258)
      - [ ] [SERIES][TASS upolnomochen zayavit..., 1984](https://www.imdb.com/title/tt0086813/)
      - [ ] [SERIES][Bitva za Moskvu, 1985](https://www.imdb.com/title/tt0173675/)
+     - [ ] [SERIES][Trotsky, 2017](https://www.imdb.com/title/tt7599132/)
+     - [ ] [SERIES][The Method, 2015](https://www.imdb.com/title/tt5135336/)
 
 ## Short Movies
 - [Short of the weeek](https://www.shortoftheweek.com/)
