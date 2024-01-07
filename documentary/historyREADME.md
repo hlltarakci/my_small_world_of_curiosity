@@ -308,3 +308,7 @@ What Did it Do in Poland and Russia?](http://econweb.umd.edu/~murrell/articles/W
    - [ ] [SERIES][12 Eylul](https://www.youtube.com/watch?v=arGodO-a1sE)
    - [ ] [SERIES][Ozalli Yillar](https://www.youtube.com/watch?v=arGodO-a1sE)
    - [ ] [SERIES][28 Subat](https://www.youtube.com/watch?v=arGodO-a1sE)
+   - [ ] [Mihail Sergeyeviç Gorbaçov | Sovyetler Birliği'nin Son Lideri - Özel Röportaj](https://www.youtube.com/watch?v=fAGRxh0zFZw)
+   - [ ] [Rusya'da Darbe Nasıl Yapıldı? 1993](https://www.youtube.com/watch?v=3bIEcsYH0N0)
+   - [ ] [Vladimir Putin Kimdir? Putin'in Siyasi Hayatı | 32. Gün Arşivi](https://www.youtube.com/watch?v=rvlh5eUVNL4)
+       
