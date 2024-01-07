@@ -3,7 +3,7 @@
 - [Greatest Films of All Times](https://www.bfi.org.uk/sight-and-sound/greatest-films-all-time)
 
 ## Soviet Cinema
-- [Mosfilm](https://www.youtube.com/c/Mosfilm_eng) - [Mosfilm watch list](https://letterboxd.com/daniil333/list/mosfilm-best-to-worst/) - [Cinema of the Soviet Union](https://en.wikipedia.org/wiki/Cinema_of_the_Soviet_Union) - [Thirty Greatest Soviet Films](https://soviet-art.ru/thirty-greatest-soviet-films/) - [movie suggestions](https://www.rbth.com/arts/329707-top-100-russian-soviet-movies) - [10 Soviet & Russian movies for your New Year spirit](https://www.rbth.com/arts/333188-soviet-russian-new-year-movies) - [Beyond Tarkovsky: 10 Great Soviet Films](https://stuart-jw.medium.com/beyond-tarkovsky-10-great-soviet-films-7c031f77392f) - [George Lucas talks about the Soviet film industry](https://www.youtube.com/watch?v=SWqvaMEFIdI) - [Some movie links](https://www.openculture.com/2017/03/watch-70-movies-in-hd-from-famed-russian-studio-mosfilm-classic-films-beloved-comedies-tarkovsky-kurosawa-more.html)
+- [Mosfilm](https://www.youtube.com/c/Mosfilm_eng) - [Mosfilm watch list](https://letterboxd.com/daniil333/list/mosfilm-best-to-worst/) - [Cinema of the Soviet Union](https://en.wikipedia.org/wiki/Cinema_of_the_Soviet_Union) - [Thirty Greatest Soviet Films](https://soviet-art.ru/thirty-greatest-soviet-films/) - [movie suggestions](https://www.rbth.com/arts/329707-top-100-russian-soviet-movies) - [10 Soviet & Russian movies for your New Year spirit](https://www.rbth.com/arts/333188-soviet-russian-new-year-movies) - [Beyond Tarkovsky: 10 Great Soviet Films](https://stuart-jw.medium.com/beyond-tarkovsky-10-great-soviet-films-7c031f77392f) - [George Lucas talks about the Soviet film industry](https://www.youtube.com/watch?v=SWqvaMEFIdI) - [Some movie links](https://www.openculture.com/2017/03/watch-70-movies-in-hd-from-famed-russian-studio-mosfilm-classic-films-beloved-comedies-tarkovsky-kurosawa-more.html) - [The 10 Best Russian Movies of All Time](https://movieweb.com/best-russian-movies-of-all-time/)
      - [Eldar Ryazanov](https://en.wikipedia.org/wiki/Eldar_Ryazanov)
          - [x] [**Railway station for Two, 1983**](https://www.imdb.com/title/tt0084873/) - [where to watch](https://www.youtube.com/watch?v=bUya5DBvw_g) - [**soundtrack**](https://www.youtube.com/watch?v=LTbGVTofwyA)
          - [x] [**Irony of Fate or Enjoy Your Bath, 1975**](https://www.imdb.com/title/tt0073179/) 
@@ -125,6 +125,7 @@
          - [ ] [Trial on the Road, 1986](https://www.imdb.com/title/tt0067625/) - [where to watch](https://www.youtube.com/watch?v=jnMnWSt99gg)
          - [ ] [Moy drug Ivan Lapshin, 1985](https://www.imdb.com/title/tt0084345/)
          - [ ] [Twenty Days Without War, 1977](https://www.imdb.com/title/tt0074447/)
+         - [ ] [Hard to Be a God, 2013 (Trudno byt bogom)](https://www.imdb.com/title/tt2328813/)
      - [Vasiliy Shukshin](https://en.wikipedia.org/wiki/Vasily_Shukshin)
          - [ ] [Kalina krasnaya, 1974](https://www.imdb.com/title/tt0070262/)
          - [ ] [Zhivyot takoy paren, 1964](https://www.imdb.com/title/tt0058771/)
@@ -155,6 +156,7 @@
          - [ ] [Happy Days, 1991](https://www.imdb.com/title/tt0102851/) - [where to watch](https://www.youtube.com/watch?v=MgSW7GroN7I&list=PLUqXLVIhFhqRcqhBT5bFUxw7nDyYQz9-G)
      - [Pavel Lungin](https://en.wikipedia.org/wiki/Pavel_Lungin)
          - [ ] [Taxi Blues, 1990](https://www.imdb.com/title/tt0100757/) - [where to watch](https://www.youtube.com/watch?v=DyipGgT6CzE)
+         - [ ] [The Island, 2006 (Ostrov)](https://www.imdb.com/title/tt0851577/)
      - [Sergei Solovyov](https://en.wikipedia.org/wiki/Sergei_Solovyov_(film_director))
          - [ ] [Assa, 1987](https://www.imdb.com/title/tt0094683/)
          - [ ] [Yegor Bulychyov i drugiye, 1972](https://www.imdb.com/title/tt0068001/)
