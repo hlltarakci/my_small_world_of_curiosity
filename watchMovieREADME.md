@@ -102,6 +102,7 @@
          - [ ] [Brief Encounters, 1967](https://www.imdb.com/title/tt0061883/) - [where to watch](https://www.youtube.com/watch?v=28skxPwAvaM)
      - [Mikhail Romm](https://en.wikipedia.org/wiki/Mikhail_Romm)
          - [ ] [Nine Days of One Year, 1962](https://www.imdb.com/title/tt0054803/) - [where to watch](https://www.youtube.com/watch?v=HGf-cZZDH3s)
+         - [ ] [Lenin v oktyabre, 1937](https://www.imdb.com/title/tt0029132/)
      - [Yuriy Ozerov](https://en.wikipedia.org/wiki/Yuri_Ozerov_(director))
          - [ ] [Stalingrad, 1990](https://www.imdb.com/title/tt0174240/) - [part 1](https://www.youtube.com/watch?v=0ydz0d3Ba0o) - [part 2](https://www.youtube.com/watch?v=VB8NDI0oVBQ)
          - [ ] [Liberation, Film 1: The Fire Bulge/ Osvobozhdenie: Ognennaya duga, 1970](https://www.imdb.com/title/tt5300238/) - [Liberation film series](https://en.wikipedia.org/wiki/Liberation_(film_series)) - [where to watch](https://www.youtube.com/watch?v=9ZraM-TvRXA)
