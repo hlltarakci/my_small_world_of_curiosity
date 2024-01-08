@@ -308,7 +308,7 @@ What Did it Do in Poland and Russia?](http://econweb.umd.edu/~murrell/articles/W
    - [ ] [SERIES][12 Eylul](https://www.youtube.com/watch?v=arGodO-a1sE)
    - [ ] [SERIES][Ozalli Yillar](https://www.youtube.com/watch?v=arGodO-a1sE)
    - [ ] [SERIES][28 Subat](https://www.youtube.com/watch?v=arGodO-a1sE)
-   - [ ] [Mihail Sergeyeviç Gorbaçov | Sovyetler Birliği'nin Son Lideri - Özel Röportaj](https://www.youtube.com/watch?v=fAGRxh0zFZw)
+   - [x] [Mihail Sergeyeviç Gorbaçov | Sovyetler Birliği'nin Son Lideri - Özel Röportaj](https://www.youtube.com/watch?v=fAGRxh0zFZw) - [What do Russians today think about Gorbachev?](https://www.reddit.com/r/AskARussian/comments/16yhm8h/what_do_russians_today_think_about_gorbachev/?rdt=54421) - [Legacy of a Leader Who Changed the World](https://www.wilsoncenter.org/blog-post/mikhail-gorbachev-legacy-leader-who-changed-world) - [Mikhail Sergeevich Gorbachev: A very Russian contradiction](https://www.opendemocracy.net/en/odr/mikhail-sergeevich-gorbachev-russia-contradiction/) - [Gorbachev: Russia’s Tragic Hero](https://www.fpri.org/article/2022/09/gorbachev-russias-tragic-hero/)
    - [ ] [Rusya'da Darbe Nasıl Yapıldı? 1993](https://www.youtube.com/watch?v=3bIEcsYH0N0)
    - [ ] [Vladimir Putin Kimdir? Putin'in Siyasi Hayatı | 32. Gün Arşivi](https://www.youtube.com/watch?v=rvlh5eUVNL4)
    - [ ] [Lenin - Sosyalizmin Kızıl Şafağı](https://www.youtube.com/watch?v=8yZnoxVChA0) - [October Revolution, comments](https://eksisozluk111.com/ekim-devrimi--75368?p=1) - [February Revolution, comments]
