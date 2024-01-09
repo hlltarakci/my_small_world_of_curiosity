@@ -262,6 +262,17 @@ What Did it Do in Poland and Russia?](http://econweb.umd.edu/~murrell/articles/W
 - [Yale Course: Power and Politics in Today’s World](https://www.youtube.com/playlist?list=PLh9mgdi4rNeyViG2ar68jkgEi4y6doNZy)
      - [ ] [Lecture 2: From Soviet Communism to Russian Capitalism](https://www.youtube.com/watch?v=f5nbT4xQqwI&list=PLh9mgdi4rNeyViG2ar68jkgEi4y6doNZy&index=4)
      - [ ] [Lecture 3: Advent of a Unipolar World: NATO and EU Expansion](https://www.youtube.com/watch?v=s48b9B5gd88&list=PLh9mgdi4rNeyViG2ar68jkgEi4y6doNZy&index=5)
+- [ ] [SERIES][Putin vs the West, 2023](https://www.imdb.com/title/tt26548545/) - [where to watch](https://www.bbcselect.com/watch/putin-vs-the-west/)]
+- [ ] [SERIES][Putin: A Russian Spy Story, 2020](https://www.imdb.com/title/tt10846202/)
+- [Alexei Navalny](https://en.wikipedia.org/wiki/Alexei_Navalny)
+     - [x] [Navalny, 2022](https://www.imdb.com/title/tt17041964/)
+     - [ ] [The Man Putin Couldn't Kill, 2021](https://www.imdb.com/title/tt15434968/)
+     - [ ] [A Palace for Putin. The Story of the Biggest Bribe, 2021 (Dvorets dlya Putina. Istoriya samoy bolshoy vzyatki)](https://www.imdb.com/title/tt13875460/)
+     - [ ] [I Called My Killer. He Confessed, 2020 (Ya pozvonil svoyemu ubiytse. On priznalsya)](https://www.imdb.com/title/tt13876312/)
+     - [ ] [The Case Is Solved. I Know Everyone Who Tried to Kill Me, 2020 (Delo raskryto. Ya znayu vseh, kto pytalsya menya ubit)](https://www.imdb.com/title/tt13876280/)
+     - [ ] [Krymskiy most. Ukradeno s lyubovyu!, 2020](https://www.imdb.com/title/tt13955216/)
+     - [ ] [Parazity, 2020](https://www.imdb.com/title/tt13899128/)
+     - [ ] [Chayka, 2015](https://www.imdb.com/title/tt8137040/)
 - [ ] [SERIES][Putin, Russia and the West, 2011](https://www.imdb.com/title/tt2131951/?ref_=tt_sims_tt_t_1)
 - [ ] [SERIES][The Lost World of Communism, 2009](https://www.imdb.com/title/tt2976152/)
 - [ ] [SERIES][The Putin Interviews, 2017](https://www.imdb.com/title/tt6840134/)
@@ -315,5 +326,5 @@ What Did it Do in Poland and Russia?](http://econweb.umd.edu/~murrell/articles/W
    - [x] [Mihail Sergeyeviç Gorbaçov | Sovyetler Birliği'nin Son Lideri - Özel Röportaj](https://www.youtube.com/watch?v=fAGRxh0zFZw) - [What do Russians today think about Gorbachev?](https://www.reddit.com/r/AskARussian/comments/16yhm8h/what_do_russians_today_think_about_gorbachev/?rdt=54421) - [Legacy of a Leader Who Changed the World](https://www.wilsoncenter.org/blog-post/mikhail-gorbachev-legacy-leader-who-changed-world) - [Mikhail Sergeevich Gorbachev: A very Russian contradiction](https://www.opendemocracy.net/en/odr/mikhail-sergeevich-gorbachev-russia-contradiction/) - [Gorbachev: Russia’s Tragic Hero](https://www.fpri.org/article/2022/09/gorbachev-russias-tragic-hero/)
    - [ ] [Rusya'da Darbe Nasıl Yapıldı? 1993](https://www.youtube.com/watch?v=3bIEcsYH0N0)
    - [ ] [Vladimir Putin Kimdir? Putin'in Siyasi Hayatı | 32. Gün Arşivi](https://www.youtube.com/watch?v=rvlh5eUVNL4)
-   - [ ] [Lenin - Sosyalizmin Kızıl Şafağı](https://www.youtube.com/watch?v=8yZnoxVChA0) - [October Revolution, comments](https://eksisozluk111.com/ekim-devrimi--75368?p=1) - [February Revolution, comments]
+   - [ ] [Lenin - Sosyalizmin Kızıl Şafağı](https://www.youtube.com/watch?v=8yZnoxVChA0) - [October Revolution, comments](https://eksisozluk111.com/ekim-devrimi--75368?p=1) - [February Revolution, comments](https://eksisozluk111.com/subat-devrimi--1089906)
        
