@@ -13,8 +13,9 @@
     - [Nicole](https://www.youtube.com/@MoveWithNicole/videos)
     - [Lily](https://www.youtube.com/@LillySabri/videos)
     - [Cassey](https://www.youtube.com/@blogilates/videos)
-    - [26 min - Kelly](https://www.youtube.com/watch?v=jaqciTxwDoE)
-    - [15 min wall pilates](https://www.youtube.com/watch?v=N9h7Fo4aAuM)
+    - [26 min - Kelly](https://www.youtube.com/watch?v=jaqciTxwDoE) and/or [20 min booty](https://www.youtube.com/watch?v=36aBAcVc7Es)
+    - [20 min full body](https://www.youtube.com/watch?v=s1OvyDqm-ig) and [5 min booty](https://www.youtube.com/watch?v=j0rgbfeRFVA)
+    - [15 min wall pilates](https://www.youtube.com/watch?v=N9h7Fo4aAuM) - twice
 - [Cassey's Summer Sculpt](https://www.blogilates.com/blog/28daysummersculpt/)
 - [Cassey's Beginner Calendar](https://www.blogilates.com/blog/new-beginners-calendar-2-0-for-2015/)
 - [**Random Pick on Nicole's**](https://www.youtube.com/@MoveWithNicole/videos) - [1h intermediate pilates](https://www.youtube.com/watch?v=3guGRzS1oLA) - [40m intermediate pilates](https://www.youtube.com/watch?v=koTzaUu7Vws) - [40m intermediate/advanced pilates](https://www.youtube.com/watch?v=GTZioQTSy8o) - [30m intense pilates](https://www.youtube.com/watch?v=_HnWLkHL1hU) - [30 min full body(some different movements)](https://www.youtube.com/watch?v=K56Z12XNQ5c)- [30m abs&booty intermediate mat pilates](https://www.youtube.com/watch?v=efxKEO9H1A8) - [30m abs&booty intermediate mat pilates](https://www.youtube.com/watch?v=MvSK7dBbt8Q) - [35m abs&booty mat pilates](https://www.youtube.com/watch?v=KQ6b-_dC1Mo) - ( [**20m thigh&booty pilates**](https://www.youtube.com/watch?v=bn8f3EAS0UQ) + [**10m booty burn**](https://www.youtube.com/watch?v=PTt2Rwe5RMs))
