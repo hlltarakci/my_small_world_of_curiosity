@@ -1,6 +1,9 @@
 # HISTORY
 
 ## WW1 (1914-1918), WW2 (1939-1945), Cold War (1947-1991), USSR (1922-1991), World History
+- Good visual archives
+     - [**17 Moments in Soviet History**](https://soviethistory.msu.edu/)
+     - [**US-Russia Relations Timeline**](https://usrussiarelations.org/2/timeline)
 - [ ] [World War One (ALL PARTS)](https://www.youtube.com/watch?v=G1p6rlDCxq0)
 - [ ] [SERIES][**Apocalypse: WW1, 2014**](https://www.imdb.com/title/tt3638584/) - [where to watch, 5 episodes](https://curiositystream.com/video/3047) - [For many, this excitement for war was similar to a celebration or a festival. One of the first main reasons for the excitement of the war was that many in Europe had a romantic feeling towards war.  In the years before war was declared in 1914, Europe had enjoyed a prolonged period of piece in its otherwise violent past.](https://www.historycrunch.com/excitement-for-world-war-i.html#/) - [Sarikamis](https://military-history.fandom.com/wiki/Battle_of_Sarikamish) - [Dardanelles Campaign](https://www.iwm.org.uk/history/a-short-history-of-the-dardanelles-campaign) - [Russian Revolution 1917](https://www.history.com/topics/european-history/russian-revolution) - [Rasputin](https://en.wikipedia.org/wiki/Grigori_Rasputin) - [The mysterious life and death of Rasputin](https://www.youtube.com/watch?v=4dEf1ep3O9I) - [Russian Revolution of 1905](https://en.wikipedia.org/wiki/Russian_Revolution_of_1905) - [Timeline of the Russian Revolution](https://www.bl.uk/russian-revolution/articles/timeline-of-the-russian-revolution)
 - [x] [The Last Days of the USSR, Curiosity Stream](https://curiositystream.com/video/4723?utm_campaign=D-PerformanceMax-ROW&utm_medium=display&utm_source=google&utm_placement=&utm_content=&gclid=EAIaIQobChMI9YqEwMbV9gIVxJrVCh1rfAACEAAYASAAEgIww_D_BwE)
