@@ -45,6 +45,8 @@
 - [x] [**Realm of the Volga - A River Becomes A Sea**](https://www.youtube.com/watch?v=YrL3tDj5WSY) / [Caspian Sea](https://www.worldatlas.com/lakes/caspian-sea.html)
 - [x] [**Manpupuner Rock Formations**](https://www.youtube.com/watch?v=cdQgUdgEHrc)
 - [ ] [Russian Nature - 10 Most Beautiful Places In Russia](https://www.youtube.com/watch?v=QkHYx9ElwzA)
+- [ ] [Russia with Simon Reeve, 2017](https://www.imdb.com/title/tt7425366/)
+- [ ] [Russia: A Journey with Jonathan Dimbleby, 2008](https://www.imdb.com/title/tt1336584/)
 - [ ] [The Greater Caucasus - Between Europe and Asia](https://www.youtube.com/watch?v=GK0YEiEZELA)
 - [ ] [The Lesser Caucasus - Between Ararat and the Caspian Sea](https://www.youtube.com/watch?v=jTnDOuNADw8)
 - [ ] [Karelia: Russia's Primeval Forests](https://www.youtube.com/watch?v=7raq4I0r4XY)
