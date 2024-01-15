@@ -46,7 +46,7 @@
 - [x] [**Manpupuner Rock Formations**](https://www.youtube.com/watch?v=cdQgUdgEHrc)
 - [ ] [Russian Nature - 10 Most Beautiful Places In Russia](https://www.youtube.com/watch?v=QkHYx9ElwzA)
 - [ ] [Russia with Simon Reeve, 2017](https://www.imdb.com/title/tt7425366/)
-     - [ ] [Part 1](https://www.bbc.co.uk/iplayer/episode/b096sc3z/russia-with-simon-reeve-series-1-episode-1)
+     - [x] [**Part 1: Kamchatka, Trans-Siberian railroad, Vladivostok, Siberia, Yakutsk**](https://www.bbc.co.uk/iplayer/episode/b096sc3z/russia-with-simon-reeve-series-1-episode-1) - [permafrost](https://education.nationalgeographic.org/resource/permafrost/#) - [ice roads: The world’s most amazing highways, along frozen Siberian rivers](https://siberiantimes.com/other/others/features/the-worlds-most-amazing-highways-along-frozen-siberian-rivers/) - [The mystery of Siberia’s exploding craters](https://www.bbc.com/future/article/20201130-climate-change-the-mystery-of-siberias-explosive-craters)
      - [ ] [Part 2](https://www.bbc.co.uk/iplayer/episode/b097l4s7/russia-with-simon-reeve-series-1-episode-2)
      - [ ] [Part 3](https://www.bbc.co.uk/iplayer/episode/b099127q/russia-with-simon-reeve-series-1-episode-3)
 - [ ] [Russia: A Journey with Jonathan Dimbleby, 2008](https://www.imdb.com/title/tt1336584/)
