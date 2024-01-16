@@ -16,6 +16,7 @@
     - [26 min - Kelly](https://www.youtube.com/watch?v=jaqciTxwDoE) and/or [20 min booty](https://www.youtube.com/watch?v=36aBAcVc7Es)
     - [20 min full body](https://www.youtube.com/watch?v=s1OvyDqm-ig) and [5 min booty](https://www.youtube.com/watch?v=j0rgbfeRFVA)
     - [60 min full body, Cassey](https://www.youtube.com/watch?v=s0CkBw5Wock)
+    - [60 min full body](https://www.youtube.com/watch?v=9uvzAY4PupQ)
     - [15 min wall pilates](https://www.youtube.com/watch?v=N9h7Fo4aAuM) - twice
 - [Cassey's Summer Sculpt](https://www.blogilates.com/blog/28daysummersculpt/)
 - [Cassey's Beginner Calendar](https://www.blogilates.com/blog/new-beginners-calendar-2-0-for-2015/)
