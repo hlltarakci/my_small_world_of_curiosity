@@ -47,7 +47,7 @@
 - [ ] [Russian Nature - 10 Most Beautiful Places In Russia](https://www.youtube.com/watch?v=QkHYx9ElwzA)
 - [ ] [Russia with Simon Reeve, 2017](https://www.imdb.com/title/tt7425366/)
      - [x] [**Part 1: Kamchatka, Trans-Siberian railroad, Vladivostok, Siberia, Yakutsk**](https://www.bbc.co.uk/iplayer/episode/b096sc3z/russia-with-simon-reeve-series-1-episode-1) - [permafrost](https://education.nationalgeographic.org/resource/permafrost/#) - [ice roads: The world’s most amazing highways, along frozen Siberian rivers](https://siberiantimes.com/other/others/features/the-worlds-most-amazing-highways-along-frozen-siberian-rivers/) - [The mystery of Siberia’s exploding craters](https://www.bbc.com/future/article/20201130-climate-change-the-mystery-of-siberias-explosive-craters)
-     - [ ] [Part 2](https://www.bbc.co.uk/iplayer/episode/b097l4s7/russia-with-simon-reeve-series-1-episode-2)
+     - [x] [**Part 2: Lake Baikal, Irkuts, Krasnoyarsk, Tuva Republic, Stavropol, Caucasus Mountains, Dagestan**](https://www.bbc.co.uk/iplayer/episode/b097l4s7/russia-with-simon-reeve-series-1-episode-2) - [Victory Day, 9 May in the past in the USSR and Russia](https://euvsdisinfo.eu/victory-day-9-may-in-the-past-in-the-ussr-and-russia/) - [Victory Day Of The Soviet People In The Great Patriotic War Of 1941-1945](https://www.prlib.ru/en/history/619229) - [Russian Victory Day, May 9](https://nationaltoday.com/russian-victory-day/)
      - [ ] [Part 3](https://www.bbc.co.uk/iplayer/episode/b099127q/russia-with-simon-reeve-series-1-episode-3)
 - [ ] [Russia: A Journey with Jonathan Dimbleby, 2008](https://www.imdb.com/title/tt1336584/)
 - [ ] [The Greater Caucasus - Between Europe and Asia](https://www.youtube.com/watch?v=GK0YEiEZELA)
