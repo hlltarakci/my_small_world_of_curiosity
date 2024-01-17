@@ -67,7 +67,7 @@
          - [ ] [Andrei Rublev, 1966](https://www.imdb.com/title/tt0060107/) - [where to watch](https://www.youtube.com/watch?v=je75FDjcUP4)
          - [ ] [Nostalghia, 1983](https://www.imdb.com/title/tt0086022/) - [where to watch](https://archive.org/details/nostalghia.-1983.1080p)
          - [x] [**Stalker, 1979**](https://www.imdb.com/title/tt0079944/) - [where to watch](https://www.youtube.com/watch?v=Q3hBLv-HLEc) - [wiki](https://en.wikipedia.org/wiki/Stalker_(1979_film)) - [critique](https://www.automachination.com/awakening-escaping-happiness-andrei-tarkovsky-stalker-1979/)
-         - [ ] [Ivan's Childhood, 1960](https://www.imdb.com/title/tt0056111/)
+         - [ ] [Ivan's Childhood, 1960](https://www.imdb.com/title/tt0056111/) - [where to watch](https://www.youtube.com/watch?v=6Lnb1bI0VIk)
      - [Leonid Gaidai](https://en.wikipedia.org/wiki/Leonid_Gaidai)
          - [x] [Ivan Vasilyevich Changes His Profession, 1973](https://www.imdb.com/title/tt0070233/)
          - [ ] [Kidnapping, Caucasian Style, 1967](https://www.imdb.com/title/tt0060584/) - [where to watch](https://www.youtube.com/watch?v=8KYUSLtXJyo)
