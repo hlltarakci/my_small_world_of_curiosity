@@ -284,6 +284,13 @@ What Did it Do in Poland and Russia?](http://econweb.umd.edu/~murrell/articles/W
      - [ ] [Lecture 3: Advent of a Unipolar World: NATO and EU Expansion](https://www.youtube.com/watch?v=s48b9B5gd88&list=PLh9mgdi4rNeyViG2ar68jkgEi4y6doNZy&index=5)
 - [ ] [SERIES][Putin vs the West, 2023](https://www.imdb.com/title/tt26548545/) - [where to watch](https://www.bbcselect.com/watch/putin-vs-the-west/)]
 - [ ] [SERIES][Putin: A Russian Spy Story, 2020](https://www.imdb.com/title/tt10846202/)
+- [ ] [SERIES][Russia, 1986](https://www.imdb.com/title/tt0220264/) - [where to watch](https://www.youtube.com/playlist?list=PLsomZg2IGTwSEG7x_q2dlcyTuvO5_PQpc)
+     - [ ] [Part 1: A Giant's Childhood](https://www.youtube.com/watch?v=6qHPFIk9KQo&list=PLsomZg2IGTwSEG7x_q2dlcyTuvO5_PQpc&index=1)
+     - [ ] [Part 2: Peter the Great and Catherine the Great](https://www.youtube.com/watch?v=rnJ4B-OFvlw&list=PLsomZg2IGTwSEG7x_q2dlcyTuvO5_PQpc&index=2)
+     - [ ] [Part 3: The Struggle with Napoleon](https://www.youtube.com/watch?v=55dpo1zf18w&list=PLsomZg2IGTwSEG7x_q2dlcyTuvO5_PQpc&index=3)
+     - [ ] [Part 4: Seeds of Dissent](https://www.youtube.com/watch?v=UnZIKqWmLEw&list=PLsomZg2IGTwSEG7x_q2dlcyTuvO5_PQpc&index=4)
+     - [ ] [Part 5: War and Revolution](https://www.youtube.com/watch?v=fVFeJ-7t-y8&list=PLsomZg2IGTwSEG7x_q2dlcyTuvO5_PQpc&index=5)
+     - [ ] [Part 6: My Russia](https://www.youtube.com/watch?v=nJm5qvp5VNw)
 - [Alexei Navalny](https://en.wikipedia.org/wiki/Alexei_Navalny)
      - [x] [Navalny, 2022](https://www.imdb.com/title/tt17041964/)
      - [ ] [The Man Putin Couldn't Kill, 2021](https://www.imdb.com/title/tt15434968/)
