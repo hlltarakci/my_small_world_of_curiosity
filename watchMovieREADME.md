@@ -3,7 +3,7 @@
 - [Greatest Films of All Times](https://www.bfi.org.uk/sight-and-sound/greatest-films-all-time)
 
 ## Soviet Cinema
-- [Mosfilm](https://www.youtube.com/c/Mosfilm_eng) 
+- [Mosfilm](https://www.youtube.com/c/Mosfilm_eng) / [Mosfilm 2](https://www.youtube.com/@MosfilmRuOfficial)
      - Discovery
          - [Mosfilm watch list](https://letterboxd.com/daniil333/list/mosfilm-best-to-worst/) 
          - [**Soviet Movies**](https://sovietmoviesonline.com/all-movies?sort=imdb_raiting)
@@ -52,7 +52,7 @@
          - [x] [**Burnt By The Sun, 1994**](https://www.imdb.com/title/tt0111579/) - [where to watch](https://www.youtube.com/watch?v=uKYkmpvi0fk) - [wiki](https://en.wikipedia.org/wiki/Burnt_by_the_Sun) - [Nikita Mikhalkov](https://en.wikipedia.org/wiki/Nikita_Mikhalkov) - [*Nikita Mikhalkov: ...Before the Russian Revolution, God represented the law, the only law which Russians accepted, and they only seemed to follow those laws written by men of faith. After the revolution, the Bolsheviks understood how to use this religious vigilance of the Russian people. They realized they could replace the monarchy and the church with power embodied in the cult of one man, Stalin. Hence people held the socialist system in the same light as the church. How could people have constructed factories and miles of highways in two weeks? People would die on the building sites in order to construct Communism...In the film, Serguei Petrovitch Kotov, the Red Army colonel and hero of the revolution, does not exude the image of one who could be accused of treason. When Stalin's political police force, the NKVD, comes to arrest him, Serguei remains very calm, expecting to resolve everything with a simple phone call to the Kremlin. But when the arresting officers turn violent, Serguei understands.
 ...It is very important that none of the three characters lie. Each one in this situation tries to tell the truth, accepting the possible risks...In Russia it is often said "don't fear your enemy, the worst he can do is kill you. Don't fear your friend, the worst he can do is betray you. But fear indifference. Because by its silence, its tacit accord, it can kill you and betray you."....It is not possible for me as a Russian to say that "this is good and that is not." As Pushkin said, "That would be like trying to explain harmony by algebraic calculations." In Russia, a thief can give his shirt to a stranger. This stranger can then rob a house, but if the house catches on fire, he will do everything he can to save the sleeping baby. Good and bad are intertwined. That is the harmonious reality and paradox of Russia."*](https://www.sonyclassics.com/burntbysun/misc/interview.html)
          - [ ] [The Barber of Siberia, 1998](https://www.imdb.com/title/tt0120125/)
-         - [ ] [12, 2007](https://www.imdb.com/title/tt0488478/) - [where to watch](https://sflix.to/watch-movie/free-12-hd-9804.2397364)
+         - [ ] [12, 2007](https://www.imdb.com/title/tt0488478/) - [where to watch](https://www.youtube.com/watch?v=scVKWmRDhio)
          - [ ] [A Few Days from the Life of I.I. Oblomov, 1980](https://www.imdb.com/title/tt0079619/?ref_=nv_sr_srsg_0) - [where to watch](https://youtu.be/LxEFja8NYac)
          - [ ] [Unfinished Piece for the Player Piano, 1977 (Neokonchennaya pyesa dlya mekhanicheskogo pianino)](https://www.imdb.com/title/tt0076446/) - [where to watch](https://www.youtube.com/watch?v=XNrAhFUWimI)
          - [ ] [Family Relations, 1982 (Rodnya)](https://www.imdb.com/title/tt0083004/) - [where to watch](https://www.youtube.com/watch?v=yG31sn32qe0)
@@ -147,7 +147,7 @@
          - [ ] [An Ordinary Miracle, 1979 (Obyknovennoe chudo)](https://www.imdb.com/title/tt0186408/) - [part 1](https://www.youtube.com/watch?v=gZiKrWSzNBo&t=9s) - [part 2](https://www.youtube.com/watch?v=mzpJq23cuKc&t=0s)
          - [ ] [The Very Same Munchhausen, 1980 (Tot samyy Myunkhgauzen)](https://www.imdb.com/title/tt0080037/)
      - [Aleksandr Proshkin](https://en.wikipedia.org/wiki/Aleksandr_Proshkin)
-         - [ ] [The Cold Summer of 1953, 1988 (Kholodnoe leto pyatdesyat tretego)](https://www.imdb.com/title/tt0095441/)
+         - [ ] [The Cold Summer of 1953, 1988 (Kholodnoe leto pyatdesyat tretego)](https://www.imdb.com/title/tt0095441/) - [where to watch](https://www.youtube.com/watch?v=pgCGGSKPia0)
      - [Aleksandr Ptushko](https://en.wikipedia.org/wiki/Aleksandr_Ptushko)
          - [ ] [Alye parusa, 1961](https://www.imdb.com/title/tt0054618/) - [where to watch](https://www.youtube.com/watch?v=Mhz-bn1ys4Y)
      - [Larisa Shepitko](https://en.wikipedia.org/wiki/Larisa_Shepitko)
@@ -170,7 +170,7 @@
      - [Aleksandr Sokurov](https://en.wikipedia.org/wiki/Alexander_Sokurov)
          - [ ] [Russian Ark, 2002 (Russkiy kovcheg)](https://www.imdb.com/title/tt0318034/) - [where to watch](https://www.youtube.com/watch?v=PECz8C7m_Yo)
      - [Vasiliy Shukshin](https://en.wikipedia.org/wiki/Vasily_Shukshin)
-         - [ ] [Kalina krasnaya, 1974](https://www.imdb.com/title/tt0070262/)
+         - [ ] [Kalina krasnaya, 1974 (The Red Snowball Tree)](https://www.imdb.com/title/tt0070262/) - [where to watch](https://www.youtube.com/watch?v=MYmi--Kot-k)
          - [ ] [Zhivyot takoy paren, 1964](https://www.imdb.com/title/tt0058771/)
          - [ ] [Vash syn i brat, 1966](https://www.imdb.com/title/tt0059861/)
          - [ ] [Pechki-lavochki, 1972](https://www.imdb.com/title/tt0069068/)
