@@ -30,7 +30,7 @@
 - [ ] [North Nomads life in winter. Ural mountains and tundra life](https://www.youtube.com/watch?v=8COjtY1egvc)
 - [x] [**Alone, 180 days on lake Baikal**](https://www.youtube.com/watch?v=8zskcSA0bfM) / the book written there: [Consolations of the Forest: Alone in a Cabin in the Middle Taiga](https://www.amazon.co.uk/Consolations-Forest-Alone-Cabin-Middle/dp/0141975474)
 - [x] [**Kamchatka Peninsula: Exploring Siberia's Cold War 'Forbidden Zone**](https://www.youtube.com/watch?v=hD84SfkPmFU) / [powder snow](http://snow.guide/snow-types/)
-- [ ] [Kamchatka, Yury Dud](https://www.youtube.com/watch?v=Zv4hIaVvFVI)
+- [x] [**Kamchatka, Yury Dud**](https://www.youtube.com/watch?v=Zv4hIaVvFVI) - [Mutnovsky volcano in Kamchatka](https://kamchatkaland.com/note/vulcano-mutnovsky) - [Kuril Lake in Kamchatka](https://kamchatkaland.com/note/kuril-lake) - [Valley of Geysers in Kamchatka](https://kamchatkaland.com/note/valley-of-geysers) - [Dmitry Medvedev](https://en.wikipedia.org/wiki/Dmitry_Medvedev)
 - [ ] [Atlantis Of Russian North](https://www.youtube.com/watch?v=R-FHlYojjMc)
 - [x] [**Kamchatka Krai - Russia's Land of Ice and Fire**](https://www.youtube.com/watch?v=L-Jf73jQ7eU)
 - [x] [Life on Kuril Islands](https://www.youtube.com/watch?v=lN_RSSmegNs&t=15s)
