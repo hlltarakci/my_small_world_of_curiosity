@@ -336,6 +336,8 @@ What Did it Do in Poland and Russia?](http://econweb.umd.edu/~murrell/articles/W
      - [ ] [Part 4: Seeds of Dissent](https://www.youtube.com/watch?v=UnZIKqWmLEw&list=PLsomZg2IGTwSEG7x_q2dlcyTuvO5_PQpc&index=4)
      - [ ] [Part 5: War and Revolution](https://www.youtube.com/watch?v=fVFeJ-7t-y8&list=PLsomZg2IGTwSEG7x_q2dlcyTuvO5_PQpc&index=5)
      - [ ] [Part 6: My Russia](https://www.youtube.com/watch?v=nJm5qvp5VNw)
+- [ ] [Yuri Dud, Beslan school attack](https://www.youtube.com/watch?v=vF1UGmi5m8s)
+- [ ] [Yuri Dud, Alexei Navalny interview](https://www.youtube.com/watch?v=vps43rXgaZc)
 - [Alexei Navalny](https://en.wikipedia.org/wiki/Alexei_Navalny)
      - [x] [Navalny, 2022](https://www.imdb.com/title/tt17041964/)
      - [ ] [The Man Putin Couldn't Kill, 2021](https://www.imdb.com/title/tt15434968/)
