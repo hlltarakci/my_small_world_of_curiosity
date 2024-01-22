@@ -23,7 +23,7 @@
     - [x] [Isaac Asimov, Forward to Foundation, 1993](https://www.amazon.com/dp/0553565079?tag=howtoread06-20&linkCode=ogi&th=1&psc=1)
     - [x] [Isaac Asimov, Foundation, 1951](https://www.amazon.com/dp/0553293354?tag=howtoread06-20&linkCode=ogi&th=1&psc=1) - [On Asimov’s Foundation: a Stalinist Hypothesis](https://josebagabilondo.weebly.com/blogs/on-asimovs-foundation-a-stalinist-hypothesis) - [The foundation series/Gaia has to be an allegory for communism, right?](https://www.reddit.com/r/asimov/comments/jhfio4/the_foundation_seriesgaia_has_to_be_an_allegory/) - [wiki](https://en.wikipedia.org/wiki/Foundation_series)
     - [x] [Isaac Asimov, Foundation and Empire, 1952](https://www.amazon.com/dp/0553293370?tag=howtoread06-20&linkCode=ogi&th=1&psc=1)
-    - [ ] [Isaac Asimov, Second Foundation, 1953](https://www.amazon.com/dp/0553293362?tag=howtoread06-20&linkCode=ogi&th=1&psc=1)
+    - [x] [Isaac Asimov, Second Foundation, 1953](https://www.amazon.com/dp/0553293362?tag=howtoread06-20&linkCode=ogi&th=1&psc=1)
     - [ ] [Isaac Asimov, Foundation's Edge, 1982](https://www.amazon.com/dp/0553293389?tag=howtoread06-20&linkCode=ogi&th=1&psc=1)
     - [ ] [Isaac Asimov, Foundation and Earth, 1986](https://www.amazon.com/dp/0553587579?tag=howtoread06-20&linkCode=ogi&th=1&psc=1)
 - [ ] [Artur C. Clarke, Rama Series](https://www.goodreads.com/series/49121-rama) - [suggested reading list](https://www.mostrecommendedbooks.com/series/rama-books-in-order)
