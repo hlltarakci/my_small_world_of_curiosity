@@ -327,6 +327,8 @@ What Did it Do in Poland and Russia?](http://econweb.umd.edu/~murrell/articles/W
      - [ ] [Namedni (The Other Day) – documentary about life in the USSR in 2001](https://www.youtube.com/watch?v=7fR7IyQDBD4)
      - [ ] [Namedni (The Other Day) – documentary about life in the USSR in 2002](https://www.youtube.com/watch?v=ELgDApV_hgk)
      - [ ] [Namedni (The Other Day) – documentary about life in the USSR in 2003](https://www.youtube.com/watch?v=vzuaJt2Z0VI)
+- [ ] [Mikhail Gorbachev. On Prishel Dat' Nam Volyu, 2011 (Leonid Parfyonov)](https://www.imdb.com/title/tt4070114/)
+- [ ] [Russia in Bloom, 2013 (Tsvet Natsii)(Leonid Parfyonov)](https://www.imdb.com/title/tt3945744/) - [Nostalgia:  The Russian Empire of Czar Nicholas II Captured in Color Photographs, Sergei Mikhailovich Prokudin-Gorskii](https://www.lensculture.com/articles/sergei-mikhailovich-prokudin-gorskii-nostalgia-the-russian-empire-of-czar-nicholas-ii-captured-in-color-photographs)
 - [ ] [SERIES][Putin vs the West, 2023](https://www.imdb.com/title/tt26548545/) - [where to watch](https://www.bbcselect.com/watch/putin-vs-the-west/)]
 - [ ] [SERIES][Putin: A Russian Spy Story, 2020](https://www.imdb.com/title/tt10846202/)
 - [ ] [SERIES][Russia, 1986](https://www.imdb.com/title/tt0220264/) - [where to watch](https://www.youtube.com/playlist?list=PLsomZg2IGTwSEG7x_q2dlcyTuvO5_PQpc)
