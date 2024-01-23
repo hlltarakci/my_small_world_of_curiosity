@@ -146,6 +146,7 @@
      - [Mark Zakharov](https://en.wikipedia.org/wiki/Mark_Zakharov)
          - [ ] [An Ordinary Miracle, 1979 (Obyknovennoe chudo)](https://www.imdb.com/title/tt0186408/) - [part 1](https://www.youtube.com/watch?v=gZiKrWSzNBo&t=9s) - [part 2](https://www.youtube.com/watch?v=mzpJq23cuKc&t=0s)
          - [ ] [The Very Same Munchhausen, 1980 (Tot samyy Myunkhgauzen)](https://www.imdb.com/title/tt0080037/)
+         - [ ] [Ubit drakona, 1988](https://www.imdb.com/title/tt0096329/)
      - [Aleksandr Proshkin](https://en.wikipedia.org/wiki/Aleksandr_Proshkin)
          - [ ] [The Cold Summer of 1953, 1988 (Kholodnoe leto pyatdesyat tretego)](https://www.imdb.com/title/tt0095441/) - [where to watch](https://www.youtube.com/watch?v=pgCGGSKPia0)
      - [Aleksandr Ptushko](https://en.wikipedia.org/wiki/Aleksandr_Ptushko)
@@ -164,6 +165,7 @@
          - [ ] [Belye nochi pochtalyona Alekseya Tryapitsyna, 2014](https://www.imdb.com/title/tt3591984/)
      - [Aleksandr Mitta](https://en.wikipedia.org/wiki/Alexander_Mitta)
          - [ ] [Ekipazh, 1980](https://www.imdb.com/title/tt0134633/)
+         - [ ] [Skazka stranstviy, 1983](https://www.imdb.com/title/tt0141830/)
      - [Aleksei German](https://en.wikipedia.org/wiki/Aleksei_Yuryevich_German)
          - [ ] [Trial on the Road, 1986](https://www.imdb.com/title/tt0067625/) - [where to watch](https://www.youtube.com/watch?v=jnMnWSt99gg)
          - [ ] [Moy drug Ivan Lapshin, 1985](https://www.imdb.com/title/tt0084345/)
@@ -220,6 +222,10 @@
          - [ ] [Statskiy sovetnik, 2005](https://www.imdb.com/title/tt0450158/) - [where to watch](https://www.youtube.com/watch?v=SmgmPbX2Cec)
      - [Vladimir Motyl](https://en.wikipedia.org/wiki/Vladimir_Motyl)
          - [ ] [White Sun of the Desert, 1970](https://www.imdb.com/title/tt0066565/) - [where to watch](https://www.youtube.com/watch?v=Auj_u7wEyw8)
+         - [ ] [Rasstanemsya - poka khoroshie, 1991](https://www.imdb.com/title/tt0102758/)
+         - [ ] [Neveroyatnoye pari, ili istinnoye proisshestviye, blagopoluchno zavershivsheyesya sto let nazad, 1984](https://www.imdb.com/title/tt0087785/)
+         - [ ] [Zvezda plenitelnogo schastya, 1975](https://www.imdb.com/title/tt0073933/)
+         - [ ] [Zhenya, Zhenechka i 'Katyusha', 1967](https://www.imdb.com/title/tt0062523/)
      - [Gavriil Egiazarov](https://www.imdb.com/name/nm0947248/)
          - [ ] [Goryachiy sneg, 1972](https://www.imdb.com/title/tt0212194/)
      - [Andrey Zvyagintsev](https://en.wikipedia.org/wiki/Andrey_Zvyagintsev) - [comments](https://eksisozluk111.com/andrey-zvyagintsev--1178095)
@@ -273,7 +279,10 @@
          - [ ] [Dolgaya schastlivaya zhizn, 1966](https://www.imdb.com/title/tt0271467/)
      - [Roman Balayan](https://en.wikipedia.org/wiki/Roman_Balayan)
          - [ ] [Polyoty vo sne i nayavu, 1983](https://www.imdb.com/title/tt0084518/)
-         - [ ] [Khrani menya, moy talisman, 1986](https://www.imdb.com/title/tt0091335/)  
+         - [ ] [Khrani menya, moy talisman, 1986](https://www.imdb.com/title/tt0091335/)
+     - [Sergey Urusevsky](https://en.wikipedia.org/wiki/Sergey_Urusevsky) -  [Sergei Urusevsky – Cinematographer’s Unique Vision](https://imago.org/committees/education/sergei-urusevsky-cinematographer-s-unique-vision/) - *movies he did cinematography are listed under director's names*
+         - [ ] [Beg inokhodtsa, 1969](https://www.imdb.com/title/tt0228751/)
+         - [ ] [Kak possorilis Ivan Ivanovich s Ivanom Nikiforovichem, 1941](https://www.imdb.com/title/tt0252583/) 
      - [Rezo Chkheidze](https://en.wikipedia.org/wiki/Revaz_Chkheidze)
          - [ ] [Father of a Soldier, 1964](https://www.imdb.com/title/tt0169828/) - [where to watch](https://www.youtube.com/watch?v=Vd4jPxBYAlU)
          - [ ] [Nergebi, 1972](https://www.imdb.com/title/tt0170301/)
@@ -333,7 +342,7 @@
      - [ ] [Balkan Spy, 1984](https://www.imdb.com/title/tt0086935/?ref_=nm_knf_t_2)
      - [ ] [Strangler vs. Strangler, 1984](https://www.imdb.com/title/tt0087123/?ref_=nm_knf_t_3)
 - Dragan Bjelogrlic
-     - [ ] [Series] [Black Sun, 2017](https://www.imdb.com/title/tt6108262/) - [Balkan Shadows](https://en.wikipedia.org/wiki/Balkan_
+     - [ ] [SERIES] [Black Sun, 2017](https://www.imdb.com/title/tt6108262/) - [Balkan Shadows](https://en.wikipedia.org/wiki/Balkan_
 - [Ingmar Bergman](https://mubi.com/cast/ingmar-bergman)
      - [x] [**Wild Strawberries, 1957**](https://www.imdb.com/title/tt0050986/)
 - Nuri Bilge Ceylan
