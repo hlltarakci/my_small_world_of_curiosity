@@ -10,6 +10,8 @@
 - [x] [**Katya, Vitya, Dima, 2012**](https://www.imdb.com/video/vi2836900121/) / [poster](https://nataliaantonova.com/2012/04/18/poster-for-katya-vitya-dima/)
 - [ ] [The Life and Fate of Vladimir Vysotsky, the Soviet Poet most opposed to the Soviet system/Redaktsiya](https://www.youtube.com/watch?v=HxV1jGv5ooc)
 - [ ] [THE LAST KISS. Vladimir Vysotsky&Marina Vladi](https://www.youtube.com/watch?v=MCnEp2wy7Lo)
+- [ ] [Vladimir Vysotsky. The Greatest Soviet Actor, Poet and Singer Ignored by the Government](https://www.youtube.com/watch?v=Skb2Of0ih7s)
+- [ ] [“Bir yıla kalmaz unutulur dediler, Vladimir Vysotsky 40 yıldır unutulmadı”](https://www.youtube.com/watch?v=F6qKDdd-Ofw)
 - [ ] [Inside Rural Russia](https://www.youtube.com/watch?v=AyOAb7wxl3c)
 - [x] [**Big Underground System: Moscow Metro**](https://www.youtube.com/watch?v=wnkNvA5SWoc)
 - [ ] [World's Busiest Cities: Moscow](https://www.imdb.com/title/tt9772764/) / [where to watch](https://www.dailymotion.com/video/x6syfeo)
