@@ -1,6 +1,6 @@
 # SOCIETY and POLITICS and LIFE
 - [x] [**The Russians – An intimate journey through Russia - Part 1**](https://www.youtube.com/watch?v=qfuDZEQjro8) / [Part 2](https://www.youtube.com/watch?v=z35dX3EEGko)
-- [x] **Living in Russia** / [**music by Shortparis is amazing!**](https://www.youtube.com/watch?v=3cO58tL1CUw&t=1224s)
+- [x] **Living in Russia** / [**music by Shortparis is amazing!**](https://www.youtube.com/watch?v=3cO58tL1CUw&t=1224s) - *finally found the song! [**Золото II, Shortparis**](https://www.youtube.com/watch?v=7BlvIB0jafA)
      - [Part 1: Birth](https://youtu.be/3cO58tL1CUw) 
      - [Part 2: Childhood](https://youtu.be/4IG4eVdhbxI)
      - [Part 3: Youth](https://youtu.be/sRIiTk1nR78)
