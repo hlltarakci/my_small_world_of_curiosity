@@ -2,7 +2,7 @@
 - [100 Best Movies List by Variety](https://variety.com/lists/best-movies-of-all-time/)
 - [Greatest Films of All Times](https://www.bfi.org.uk/sight-and-sound/greatest-films-all-time)
 
-## Soviet Cinema
+## Soviet & Russian Cinema
 - [Mosfilm](https://www.youtube.com/c/Mosfilm_eng) / [Mosfilm 2](https://www.youtube.com/@MosfilmRuOfficial) / [Odesa Film](https://www.youtube.com/@OdesaFilmStudio/featured)
      - Discovery
          - [Mosfilm watch list](https://letterboxd.com/daniil333/list/mosfilm-best-to-worst/) 
@@ -350,7 +350,11 @@
      - [ ] [SERIES][Mikhaylo Lomonosov, 1986](https://www.imdb.com/title/tt0266767/)
      - [ ] [SERIES][Doktor Zhivago, 2006](https://www.imdb.com/title/tt0417319/)
      - [ ] [SERIES][Guest from the Future, 1984 (Gostya iz budushchego)](https://www.imdb.com/title/tt0086723/)
-
+     - [Russian Animation](https://en.wikipedia.org/wiki/History_of_Russian_animation) - [10 most decorated Soviet & Russian animated movies](https://www.rbth.com/arts/336838-most-decorated-soviet-russian-animation)
+         - [x] [Hedgehog in the Fog, 1975 (Yozhik v tumane)](https://www.imdb.com/title/tt0073099/) - [where to watch](https://filmschoolrejects.com/hedgehog-in-the-fog/) - *The book [What Every Russian Knows (and You Don't)](https://www.amazon.co.uk/What-Every-Russian-Knows-Dont/dp/1901990125) has a dedicated section :)*
+         - [ ] [Three from Prostokvashino, 1978 (Troe iz Prostokvashino)](https://www.imdb.com/title/tt0189160/) - [where to watch](https://www.youtube.com/watch?v=BFbhZ-te8JY) - *The book [What Every Russian Knows (and You Don't)](https://www.amazon.co.uk/What-Every-Russian-Knows-Dont/dp/1901990125) has a dedicated section :)*
+         - [ ] [The Old Man and the Sea, 1999](https://www.imdb.com/title/tt0207639/) - [where to watch](https://www.youtube.com/watch?v=W5ih1IRIRxI)
+       
 ## Short Movies
 - [Short of the weeek](https://www.shortoftheweek.com/)
 - [Film Shortage](https://filmshortage.com/)
@@ -360,8 +364,6 @@
 - [x] [**Silent Love, 2014**](https://www.imdb.com/title/tt5289760/) - [**where to watch**](https://www.youtube.com/watch?v=KuuEs0oVVS8)
 - [x] [Who Are You?, 2019](https://www.imdb.com/title/tt12762898/) - [where to watch](https://www.youtube.com/watch?v=GWGbOjlJDkU)
 - [x] [**Two Strangers Who Meet Five Times, 2017**](https://www.imdb.com/title/tt7524428/) - [where to watch](https://www.youtube.com/watch?v=BzKtI9OfEpk) - [movie critic](https://blog.shortfundly.com/short-film-review-by-movie-critic/two-strangers-who-meet-five-times-english-drama-short-film/)
-- [x] [Hedgehog in the Fog, 1975](https://www.imdb.com/title/tt0073099/) - [where to watch](https://filmschoolrejects.com/hedgehog-in-the-fog/)
-- [ ] [The Old Man and the Sea, 1999](https://www.imdb.com/title/tt0207639/) - [where to watch](https://www.youtube.com/watch?v=rDIsXKOsdOQ)
 
 ## By Directors, World
 - Steven Spielberg
