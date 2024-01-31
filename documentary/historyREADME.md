@@ -46,6 +46,8 @@
 - [ ] [Soviet Style: Life in the USSR - The People, Culture and Politics](https://www.youtube.com/watch?v=bx6n-R7ThRI)
 - [ ] [Soviet Style Economics Was Insane and Here’s Why](https://www.youtube.com/watch?v=KOZlobXa9iM)
 - [ ] [Soviet Humor Playlist](https://www.youtube.com/playlist?list=PLNq3y0OU1_Bb9BRmETQhUKL1aqCuUi3xJ)
+- [ ] [Born in the USSR. My Story of Growing Up in the Soviet Union](https://www.youtube.com/watch?v=5y4K3Z5kmug)
+- [ ] [Soviet Leaders from Lenin to Gorbachev Review](https://www.youtube.com/watch?v=F448UJv52fc)
 - [ ] [USSR Memories - Daily life of a Russian family in the Soviet Union - Part 1](https://www.youtube.com/watch?v=GAVqM4geAAk) / [Part 2](https://www.youtube.com/watch?v=YkWEDJXtsA0)
 - [ ] [101 Facts About The Soviet Union](https://www.youtube.com/watch?v=2kwS-aKRqzY)
 - [ ] [Never Before Seen Life In The USSR | Red Empire | Our History](https://youtu.be/INyIPTf4NyQ)
