@@ -18,7 +18,7 @@
      - [x] [**Climbing the highest peak of Russia & Europe | Mt Elbrus by the North route**](https://www.youtube.com/watch?v=tjkx8YWRVpM)
      - [x] [**Mars in the Urals, Yekaterinburg and Russian farm in Sverdlovsk region**](https://www.youtube.com/watch?v=7k74tRWqJ5M)
      - [x] [**Pyatigorsk, Russia | Soviet districts, mineral waters and Caucasus resorts**](https://www.youtube.com/watch?v=mTGWjF62yN8) / [the poet of the Caucasus: Lermontov](https://en.wikipedia.org/wiki/Mikhail_Lermontov) / [Pyatigorsk](https://en.wikipedia.org/wiki/Pyatigorsk)
-     - [ ] [Southernmost republic of Russia | Makhachkala, abandoned villages & Khabib's restaurant](https://www.youtube.com/watch?v=h4pEQ5Iqkcw)
+     - [x] [Southernmost republic of Russia | Makhachkala, abandoned villages & Khabib's restaurant - Dagestan](https://www.youtube.com/watch?v=h4pEQ5Iqkcw) - [Chudu: Juicy nourishing pies from Dagestan](https://www.rbth.com/russian-kitchen/334351-chudu-juicy-pies-dagestan-recipe) - [Sarykum - the Largest Sand Dune in Europe, Dagestan](https://www.youtube.com/watch?v=iQe-enVpKYI) - [Gamsutl: An ancient ghost village in the mountains of Dagestan](https://www.rbth.com/travel/336033-gamsutl-ancient-ghost-village)
      - [x] [Russian habits in life and communication | Understand the Russian culture better](https://www.youtube.com/watch?v=eRjV946xsRU) / [peach cultures vs coconut cultures](https://www.shortform.com/blog/peach-and-coconut-culture/)
      - [x] [**Traditions That Surprise Foreigners in a Russian Culture**](https://www.youtube.com/watch?v=YitP7gdbIwQ)
      - [x] [Things you didn't understand about Russia](https://www.youtube.com/watch?v=PYmIabGGGPQ)
