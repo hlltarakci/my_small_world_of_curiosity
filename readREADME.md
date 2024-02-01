@@ -92,7 +92,7 @@
 - [ ] [Jonathan Dimbleby, Russia: A Journey to the Heart of a Land and its People](https://www.amazon.co.uk/Russia-Journey-Heart-Land-People/dp/1846076730)
 - [x] [**Olga Fedina, What Every Russian Knows (and You Don't)**](https://www.amazon.co.uk/What-Every-Russian-Knows-Dont/dp/1901990125) - [Facebook Group: What Every Russian Knows](https://www.facebook.com/WhatEveryRussianKnows) - [Cracking the code of Russian allusions](https://www.rbth.com/literature/2013/08/29/cracking_the_code_of_russian_allusions_29331.html) - [7 Literary Masterpieces That Every Russian Knows](https://theculturetrip.com/europe/russia/articles/7-literary-masterpieces-that-every-russian-knows)
 - [ ] [Richard Stites, Russian Popular Culture: Entertainment and Society since 1900](https://www.amazon.co.uk/Russian-Popular-Culture-Entertainment-Paperbacks/dp/052136986X)
-- [ ] [Grace Cuddihy, Russia - Culture Smart!: The Essential Guide to Customs & Culture](https://www.amazon.co.uk/dp/1787028682)
+- [ ] [Anna King & Grace Cuddihy, Russia - Culture Smart!: The Essential Guide to Customs & Culture](https://www.amazon.co.uk/dp/1787028682) - *Chapter 1, sections "A Brief History" and "The Tragic Twentieth Century" are excellent as history-digest.*
 - [ ] [Mark Galeotti, A Short History of Russia: How to Understand the World's Most Complex Nation](https://www.amazon.co.uk/dp/152919928X)
 - [ ] [Orlando Figes, The Story of Russia](https://www.amazon.co.uk/Story-Russia-excellent-short-study/dp/152663175X/)
 - [ ] [Matthew Longo, The Picnic: An Escape to Freedom and the Collapse of the Iron Curtain](https://www.amazon.co.uk/Picnic-Escape-Freedom-Collapse-Curtain/dp/1847927793)
