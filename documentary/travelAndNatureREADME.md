@@ -25,6 +25,7 @@
      - [x] [Russian habits](https://www.youtube.com/watch?v=2pVu9PDhm2Y) / [semaver :)](https://en.wikipedia.org/wiki/Samovar) / [**old new year**](https://russiapedia.rt.com/of-russian-origin/old-new-year/index.html)
      - [x] [**Visiting Perm in Winter**](https://www.youtube.com/watch?v=UbRI-l8Hluk) / [**Recipe: Posikunchiki**](https://en.edunclub.ru/recipe/74031-cakes-posikunchiki/)
      - [x] [**Life in a provincial Russian town in the Urals: Perm**](https://www.youtube.com/watch?v=Zsi3Naelsyw)
+     - [x] [**Cooking in a wood stove at my dad's Russian village | Chebureki recipe**](https://www.youtube.com/watch?v=MuSiZF-C-aE) - [Chebureki/cig borek :)](https://en.wikipedia.org/wiki/Chebureki) - [The 7 most popular Russian street foods](https://www.rbth.com/russian_kitchen/2016/08/26/the-eight-most-popular-russian-street-foods_624239)
      - [x] [My first impression of Türkiye as a Russian](https://www.youtube.com/watch?v=1CTobY2TCWw)
 - [ ] [Russia: A small town (Yelnya) clings to its Soviet past](https://www.youtube.com/watch?v=48DaLYiO-yk)
 - [ ] [North Nomads life in winter. Ural mountains and tundra life](https://www.youtube.com/watch?v=8COjtY1egvc)
