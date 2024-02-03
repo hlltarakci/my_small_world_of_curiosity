@@ -65,6 +65,7 @@
 - [x] [**The Road Of Bones - Hitchhiking Russia's Most Dangerous Road "Kolyma" (Magadan - Yakutsk)**](https://www.youtube.com/watch?v=WPvqfS8Zb8U) - [The Eeriest Abandoned Towns in Russia](https://theculturetrip.com/europe/russia/articles/the-eeriest-abandoned-towns-in-russia) - [**An incredibly spooky town next to the infamous ‘Road of Bones’**](https://www.rbth.com/lifestyle/333134-village-kolyma-sinegorye)
 - [ ] [Journey to Kaliningrad (Königsberg) Exclave - Russia's Outpost in Europe](https://www.youtube.com/watch?v=wtr5XXHufuk)
 - [ ] [Exploring Chukotka - the most remote Russian region](https://www.youtube.com/watch?v=wR8H4qCzsTo)
+- [x] [**Exploring Vorkuta - Russian Ghost Town in Arctic**](https://www.youtube.com/watch?v=2i3aS6T6Nng) - [Above The Arctic Circle, A Soviet-Era Metropolis Battles A 'Drawn-Out Death'](https://www.rferl.org/a/russia-vorkuta-soviet-mining-abandoned-gulag-arctic-exodus/31196830.html) - [Vorkuta: How the legendary Russian Arctic Circle city lives today](https://www.rbth.com/travel/336998-vorkuta-russian-arctic-coal-city) - [Abandoned settlements around Vorkuta: why did people leave?](https://www.rbth.com/travel/337016-vorkuta-ring-abandoned-settlements)
 - [ ] [Full Circle with Michael Palin: Alaska/Russia](https://www.imdb.com/title/tt1480995/) - [where to watch](https://www.youtube.com/watch?v=3Lp1Cer6iDY)
 - [ ] [SERIES][The Art of Russia, 2009](https://www.imdb.com/title/tt3112906/)
 - [ ] [Discovery Atlas: Russia Revealed, 2008](https://www.imdb.com/title/tt1333712/)
