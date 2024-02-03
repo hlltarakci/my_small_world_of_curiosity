@@ -199,6 +199,14 @@
 6. Dinlenmis hamuru 4 parcaya, her parcayi 8'e bol. Yuvarlak yap, ic harc ekle, kapat.
 7. Kizgin siviyagda 4 sefer halinde kizart. [Orjinal tarif](https://www.youtube.com/watch?v=sVVFPrfDzn8&t=4s)
 
+## [Chebureki/Cigborek](https://en.wikipedia.org/wiki/Chebureki)
+<img src="cheburek_cigborek.jpg" width="500"/>
+1. 1 su bardagi (kupa) un + 1 cay kasigi tuz + 1/2 cay bardagi ilik su -> borek hamuru tut. Kati olacak. Azar azar un eklemek gerekebilir.
+2. 1,5-2 saat beklet. Kolay acilmasi icin yumusamasi gerek. Ancak cok beklerse de hamur yayilabilir.
+3. 6 bezeye ayir, yuvarlak ac. Ic harcini ekle. Kapat, kenarlarina catalla sekil ver. ([video](https://www.youtube.com/watch?v=MuSiZF-C-aE))
+4. Kizgin yagda, onlu arkali pisir. Kagit havlu ile fazla yagini al. 
+
+
 ## [Kavurma](https://en.wikipedia.org/wiki/Kavurma)
 <img src="kavurma.jpg" width="500"/>
 
