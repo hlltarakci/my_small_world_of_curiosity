@@ -201,6 +201,7 @@
 
 ## [Chebureki/Cigborek](https://en.wikipedia.org/wiki/Chebureki)
 <img src="cheburek_cigborek.jpg" width="500"/>
+
 1. 1 su bardagi (kupa) un + 1 cay kasigi tuz + 1/2 cay bardagi ilik su -> borek hamuru tut. Kati olacak. Azar azar un eklemek gerekebilir.
 2. 1,5-2 saat beklet. Kolay acilmasi icin yumusamasi gerek. Ancak cok beklerse de hamur yayilabilir.
 3. 6 bezeye ayir, yuvarlak ac. Ic harcini ekle. Kapat, kenarlarina catalla sekil ver. ([video](https://www.youtube.com/watch?v=MuSiZF-C-aE))
