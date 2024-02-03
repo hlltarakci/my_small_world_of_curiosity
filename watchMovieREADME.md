@@ -367,7 +367,7 @@
      - [ ] [SERIES][Guest from the Future, 1984 (Gostya iz budushchego)](https://www.imdb.com/title/tt0086723/)
      - [Russian Animation](https://en.wikipedia.org/wiki/History_of_Russian_animation) - [10 most decorated Soviet & Russian animated movies](https://www.rbth.com/arts/336838-most-decorated-soviet-russian-animation)
          - [x] [Hedgehog in the Fog, 1975 (Yozhik v tumane)](https://www.imdb.com/title/tt0073099/) - [where to watch](https://filmschoolrejects.com/hedgehog-in-the-fog/) - *The book [What Every Russian Knows (and You Don't)](https://www.amazon.co.uk/What-Every-Russian-Knows-Dont/dp/1901990125) has a dedicated section :)*
-         - [ ] [Three from Prostokvashino, 1978 (Troe iz Prostokvashino)](https://www.imdb.com/title/tt0189160/) - [where to watch](https://www.youtube.com/watch?v=BFbhZ-te8JY) - *The book [What Every Russian Knows (and You Don't)](https://www.amazon.co.uk/What-Every-Russian-Knows-Dont/dp/1901990125) has a dedicated section :)*
+         - [x] [**Three from Prostokvashino, 1978 (Troe iz Prostokvashino)**](https://www.imdb.com/title/tt0189160/) - [where to watch](https://www.youtube.com/watch?v=BFbhZ-te8JY) - *The book [What Every Russian Knows (and You Don't)](https://www.amazon.co.uk/What-Every-Russian-Knows-Dont/dp/1901990125) has a dedicated section :)* - [Uncle Fedya, His Dog, and His Cat](https://en.wikipedia.org/wiki/Uncle_Fedya,_His_Dog,_and_His_Cat)
          - [ ] [The Old Man and the Sea, 1999](https://www.imdb.com/title/tt0207639/) - [where to watch](https://www.youtube.com/watch?v=W5ih1IRIRxI)
        
 ## Short Movies
