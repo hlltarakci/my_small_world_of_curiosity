@@ -17,6 +17,7 @@
     - Best of:
        - [60m full body - Nathalie](https://www.youtube.com/watch?v=9uvzAY4PupQ)
        - [60m full body - Nathalie](https://www.youtube.com/watch?v=sHnfuEBOJXE)
+       - [60m full body - Nathalie](https://www.youtube.com/watch?v=PLibnuKAAUM)
        - [60m full body - Nicole](https://www.youtube.com/watch?v=3guGRzS1oLA)
        - [60m full body - Cassey](https://www.youtube.com/watch?v=s0CkBw5Wock)
        - [26m full body - Kelly](https://www.youtube.com/watch?v=jaqciTxwDoE) / [20m booty - Cassey](https://www.youtube.com/watch?v=36aBAcVc7Es)
