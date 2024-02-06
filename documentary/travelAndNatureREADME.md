@@ -30,6 +30,8 @@
 - [ ] [Travel Deeper Russia](https://www.youtube.com/playlist?list=PLrW9CmPSCD6oTdgo1AfA3br-KFBjjxmVE)
      - [x] [**MY FIRST DAY in RUSSIA | St Petersburg Travel Guide**](https://youtu.be/LopAn_cq1B4?si=zwTxJ6NQyi7wrUV5)
      - [x] [**EPIC RUSSIAN FOOD FEAST | Moscow, Russia**](https://youtu.be/dQ60Zj6c6DM?si=6BWasK1dYzpxRra0)
+     - [x] [**My FAVORITE CITY in Russia? | Kazan, Tatarstan**](https://youtu.be/hiKFVz33Rl4?si=2cG2JaxLqud51xKu)
+     - [x] [**OUR CRAZIEST 48 HOURS in RUSSIA | Ural Mountains**](https://youtu.be/rUN9bbSHL64?si=VgD6bhIbgauV2oHs)
 - [ ] [Russia: A small town (Yelnya) clings to its Soviet past](https://www.youtube.com/watch?v=48DaLYiO-yk)
 - [ ] [North Nomads life in winter. Ural mountains and tundra life](https://www.youtube.com/watch?v=8COjtY1egvc)
 - [x] [**Alone, 180 days on lake Baikal**](https://www.youtube.com/watch?v=8zskcSA0bfM) / the book written there: [Consolations of the Forest: Alone in a Cabin in the Middle Taiga](https://www.amazon.co.uk/Consolations-Forest-Alone-Cabin-Middle/dp/0141975474)
