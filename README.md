@@ -12,7 +12,7 @@
 - [Books](https://github.com/hlltarakci/my_small_world_of_curiosity/blob/main/readREADME.md)
 - [Podcasts](https://github.com/hlltarakci/my_small_world_of_curiosity/blob/main/listenREADME.md)
 - [Exercise & Hikes](https://github.com/hlltarakci/my_small_world_of_curiosity/blob/main/activitiesREADME.md)
-- [Drawing & Photography](https://github.com/hlltarakci/my_small_world_of_curiosity/blob/main/drawingAndphotographyREADME.md)
+- [Courses](https://github.com/hlltarakci/my_small_world_of_curiosity/blob/main/coursesREADME.md)
 - [Cook](https://github.com/hlltarakci/my_small_world_of_curiosity/tree/main/cooking)
 - [Self-growth](https://github.com/hlltarakci/my_small_world_of_curiosity/blob/main/selfAdviceREADME.md)
 
