@@ -15,6 +15,7 @@
 - [ ] [ONLINE][UDEMY: Learn Social Psychology (5 hours)](https://www.udemy.com/course/social-psychology/)
 - [ ] [ONLINE][UDEMY: Master Persuasion Psychology (3 hours)](https://www.udemy.com/course/persuasion-psychology-influence/)
 - [ ] [ONLINE][UDEMY: Secrets Of Psychology - Why People Do The Things They Do](https://www.udemy.com/course/secrets-of-psychology/)
+- [ ] [ONLINE][UDEMY: International Politics: Levels of Analysis](https://www.udemy.com/course/international-politics-online-course/)
 
 
 
