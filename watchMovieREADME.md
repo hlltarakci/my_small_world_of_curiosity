@@ -21,6 +21,7 @@
          - [Top 11 Must-Watch Modern Russian Films](https://theculturetrip.com/europe/russia/articles/top-10-must-watch-modern-russian-films)
          - [30 Best Russian Movies Of All Time](https://flickside.com/best-russian-movies/)
          - [15 Best Russian Films of All Times](https://mydailyrussian.com/15-best-russian-films-of-all-times/)
+         - [Russian Cinema Research Group](https://www.ucl.ac.uk/ssees/research/seminar-series-research-centres/russian-cinema-research-group) - [film collection](https://www.ucl.ac.uk/library/using-library/libraries-and-study-spaces/ucl-ssees-library/bain-graffy-film-collection) - [sample search](https://ucl.primo.exlibrisgroup.com/discovery/search?query=any,contains,kalatazov,AND&tab=UCLLibraryCatalogue&search_scope=UCLLibraryCatalogue&vid=44UCL_INST:UCL_VU2&mode=advanced&offset=0)
      - [Eldar Ryazanov](https://en.wikipedia.org/wiki/Eldar_Ryazanov)
          - [x] [**Railway station for Two, 1983**](https://www.imdb.com/title/tt0084873/) - [where to watch](https://www.youtube.com/watch?v=bUya5DBvw_g) - [**soundtrack**](https://www.youtube.com/watch?v=LTbGVTofwyA)
          - [x] [**Irony of Fate or Enjoy Your Bath, 1975**](https://www.imdb.com/title/tt0073179/) 
