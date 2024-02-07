@@ -14,6 +14,7 @@
     - [Lily](https://www.youtube.com/@LillySabri/videos)
     - [Cassey](https://www.youtube.com/@blogilates/videos)
     - [Nathalie](https://www.youtube.com/@NathalieShanti/videos)
+    - [Mira](https://www.youtube.com/@FlowWithMira/videos)
     - Best of:
        - [60m full body - Nathalie](https://www.youtube.com/watch?v=9uvzAY4PupQ)
        - [60m full body - Nathalie](https://www.youtube.com/watch?v=sHnfuEBOJXE)
@@ -25,6 +26,9 @@
        - [30m abs&booty - Nicole](https://www.youtube.com/watch?v=efxKEO9H1A8)
        - [35m abs&booty - Nicole](https://www.youtube.com/watch?v=KQ6b-_dC1Mo)
        - [30m abs&booty - Nicole](https://www.youtube.com/watch?v=MvSK7dBbt8Q)
+       - [30m full body - Nicole (Advanced)](https://www.youtube.com/watch?v=zdw1V-IBekc)
+       - [40m full body - Nicole (Advanced)](https://www.youtube.com/watch?v=GTZioQTSy8o)
+       - [45m full body - Mira (Advanced)](https://www.youtube.com/watch?v=KRswQpVKhA4)
        - [20m full body - Nicole](https://www.youtube.com/watch?v=s1OvyDqm-ig) / [7m booty - Cassey](https://www.youtube.com/watch?v=j0rgbfeRFVA)
        - [30m booty - Cassey](https://www.youtube.com/watch?v=agIYYK8KjDg)
        - [20m thighs&booty - Nicole](https://www.youtube.com/watch?v=bn8f3EAS0UQ)
