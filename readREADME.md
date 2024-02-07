@@ -95,6 +95,7 @@
 - [x] [**Anna King & Grace Cuddihy, Russia - Culture Smart!: The Essential Guide to Customs & Culture**](https://www.amazon.co.uk/dp/1787028682) - *Chapter 1, sections "A Brief History" and "The Tragic Twentieth Century" are excellent as history-digest.* - [Tatyana Zaslavskaya](https://en.wikipedia.org/wiki/Tatyana_Zaslavskaya) - [The "Mystery" of the Soviet Collapse](https://www.aei.org/articles/the-mystery-of-the-soviet-collapse/) 
 - [ ] [Mark Galeotti, A Short History of Russia: How to Understand the World's Most Complex Nation](https://www.amazon.co.uk/dp/152919928X)
 - [ ] [Orlando Figes, The Story of Russia](https://www.amazon.co.uk/Story-Russia-excellent-short-study/dp/152663175X/)
+- [ ] [Orlando Figes, Natasha's Dance: A Cultural History of Russia](https://www.amazon.co.uk/Natashas-Dance-Cultural-History-Russia/dp/0140297960)
 - [ ] [Paul Miliukov, Outlines Of Russian Culture](https://www.amazon.co.uk/Outlines-Russian-Culture-Paul-Miliukov/dp/1406719811)
 - [ ] [Paul Miliukov, Russia, To-day and To-morrow](https://www.amazon.com/Russia-Morrow-Pavel-Nikolaevich-Miliukov/dp/1371493553/)
 - [ ] [Matthew Longo, The Picnic: An Escape to Freedom and the Collapse of the Iron Curtain](https://www.amazon.co.uk/Picnic-Escape-Freedom-Collapse-Curtain/dp/1847927793)
