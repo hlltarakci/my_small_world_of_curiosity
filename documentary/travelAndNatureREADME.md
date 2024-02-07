@@ -32,6 +32,8 @@
      - [x] [**EPIC RUSSIAN FOOD FEAST | Moscow, Russia**](https://youtu.be/dQ60Zj6c6DM?si=6BWasK1dYzpxRra0)
      - [x] [**My FAVORITE CITY in Russia? | Kazan, Tatarstan**](https://youtu.be/hiKFVz33Rl4?si=2cG2JaxLqud51xKu)
      - [x] [**OUR CRAZIEST 48 HOURS in RUSSIA | Ural Mountains**](https://youtu.be/rUN9bbSHL64?si=VgD6bhIbgauV2oHs)
+     - [x] [**EATING PINE CONES in SIBERIA | Krasnoyarsk, Russia**](https://youtu.be/hSavszpqMQ4?si=uxVNWFVxlDuXq5mx)
+     - [x] [**THE RUSSIA YOU NEVER SEE | Ulan-Ude, Russia**](https://youtu.be/zDekvcgWfH8?si=q-9naiTB5UkuAbLf)
 - [ ] [Russia: A small town (Yelnya) clings to its Soviet past](https://www.youtube.com/watch?v=48DaLYiO-yk)
 - [ ] [North Nomads life in winter. Ural mountains and tundra life](https://www.youtube.com/watch?v=8COjtY1egvc)
 - [x] [**Alone, 180 days on lake Baikal**](https://www.youtube.com/watch?v=8zskcSA0bfM) / the book written there: [Consolations of the Forest: Alone in a Cabin in the Middle Taiga](https://www.amazon.co.uk/Consolations-Forest-Alone-Cabin-Middle/dp/0141975474)
