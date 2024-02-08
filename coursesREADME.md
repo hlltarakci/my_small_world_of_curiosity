@@ -16,6 +16,7 @@
 - [ ] [ONLINE][UDEMY: Master Persuasion Psychology (3 hours)](https://www.udemy.com/course/persuasion-psychology-influence/)
 - [ ] [ONLINE][UDEMY: Secrets Of Psychology - Why People Do The Things They Do](https://www.udemy.com/course/secrets-of-psychology/)
 - [ ] [ONLINE][UDEMY: International Politics: Levels of Analysis](https://www.udemy.com/course/international-politics-online-course/)
+- [RESOURCE-ONLY][Soviet and Russian Cinema (Slavonic Studies)](https://www.mmll.cam.ac.uk/sl7) - [**handbook with a lot of useful info and watch-list**](https://www.mmll.cam.ac.uk/sites/www.mmll.cam.ac.uk/files/sl7_handbook_2023-2024.pdf)
 
 
 
