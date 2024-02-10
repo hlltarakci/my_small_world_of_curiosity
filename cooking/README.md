@@ -215,6 +215,15 @@
 2. Cok az sicak su ekle, duduklu tencereyi kapat, duman ciktiktan sonra altini kis, 40 dk pisir
 3. Tencerenin altini kapat, biraz soguyunca kapagi ac. (3 kasik dolu dolu) tuz at. Kalan suyunu cekene kadar pisir.
 
+## Meatballs
+<img src="meatballs.jpg" width="500"/>
+
+1. 2 ekmek icini biraz islat, ufala.
+2. 300-400 gram dana kiyma + tuz + karabiber ekle.
+3. Cok guzel yogur.
+4. Tavada yagsiz pisir.
+
+
 ## [Tavuklu Pilav (Chicken Pilaf)](https://goturkiye.com/10-iconic-street-foods-in-turkiye)
 <img src="tavuklu_pilav.jpg" width="500"/>
 
