@@ -41,6 +41,7 @@
        - [30m thighs&booty - Lily](https://www.youtube.com/watch?v=zamg97lkoAI)
        - [20m thighs&booty - Nicole](https://www.youtube.com/watch?v=bn8f3EAS0UQ)
        - [15m booty - Lily](https://www.youtube.com/watch?v=WUxjY2r88a8) / [8m booty - Lily](https://www.youtube.com/watch?v=mVKfwmDBLl8)
+       - [20m booty - Nicole](https://www.youtube.com/watch?v=XDt6xS3dI60)
        - [10m waist - Cassey](https://www.youtube.com/watch?v=_8vGQR0zxDM) / [10m waist - Cassey](https://www.youtube.com/watch?v=zmXzD8UOxG0) / [20m waist - Cassey](https://www.youtube.com/watch?v=LzYAgCw-_B0)
        - [25m back - Nicole](https://www.youtube.com/watch?v=imWc_27U9w8) / [5m back - cassey](https://www.youtube.com/watch?v=KhXKkG9EykU) / [10m back - Cassey](https://www.youtube.com/watch?v=l0Lfg4szAjM)
 - [Cassey's Summer Sculpt](https://www.blogilates.com/blog/28daysummersculpt/)
