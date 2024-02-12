@@ -80,7 +80,7 @@
 - [ ] [Lance, 2020](https://www.imdb.com/title/tt11427436/)
 - [x] [Optimistic Nihilism](https://www.youtube.com/watch?v=MBRqu0YOH14)
 - [ ] [Born in the USSR: Up Series, 1991](https://www.imdb.com/title/tt4505410/) - [where to watch](https://www.youtube.com/playlist?list=PL28moiaBC-RnotjZknsNMjKj2kaCRUwlo)
-    - [ ] [Born in the USSR: 7 Up, 1991](https://www.imdb.com/title/tt0374477/) - [where to watch](https://youtu.be/5jgOtDTDWIs?feature=shared)
+    - [x] [**Born in the USSR: 7 Up, 1991**](https://www.imdb.com/title/tt0374477/) - [where to watch](https://youtu.be/5jgOtDTDWIs?feature=shared)
     - [ ] [Born in the USSR: 14 Up, 1998](https://www.imdb.com/title/tt0375515/) - [where to watch](https://youtu.be/u_YY7xxyp_M?feature=shared)
     - [ ] [Born in the USSR: 21 Up, 2005](https://www.imdb.com/title/tt0814034/) - [part 1](https://youtu.be/391ljmNeLMQ?feature=shared) - [part 2](https://youtu.be/q2Hr1rO8ncA?feature=shared)
     - [ ] [Born in the USSR: 28 Up, 2012](https://www.imdb.com/title/tt2224083/)  - [part 1](https://youtu.be/2Gs51Xqvahk?feature=shared) - [part 2](https://youtu.be/mqvk0Zd9Q9k?feature=shared)
