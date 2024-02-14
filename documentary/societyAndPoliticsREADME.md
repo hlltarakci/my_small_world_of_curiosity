@@ -82,7 +82,7 @@
 - [ ] [Born in the USSR: Up Series, 1991](https://www.imdb.com/title/tt4505410/) - [where to watch](https://www.youtube.com/playlist?list=PL28moiaBC-RnotjZknsNMjKj2kaCRUwlo)
     - [x] [**Born in the USSR: 7 Up, 1991**](https://www.imdb.com/title/tt0374477/) - [where to watch](https://youtu.be/5jgOtDTDWIs?feature=shared)
     - [x] [**Born in the USSR: 14 Up, 1998**](https://www.imdb.com/title/tt0375515/) - [where to watch](https://youtu.be/u_YY7xxyp_M?feature=shared)
-    - [ ] [Born in the USSR: 21 Up, 2005 (Part 1)](https://www.imdb.com/title/tt0814034/) - [where to watch](https://youtu.be/391ljmNeLMQ?feature=shared)
+    - [x] [**Born in the USSR: 21 Up, 2005 (Part 1)**](https://www.imdb.com/title/tt0814034/) - [where to watch](https://youtu.be/391ljmNeLMQ?feature=shared)
     - [ ] [Born in the USSR: 21 Up, 2005 (Part 2)](https://www.imdb.com/title/tt0814034/) - [where to watch](https://youtu.be/q2Hr1rO8ncA?feature=shared)
     - [ ] [Born in the USSR: 28 Up, 2012 (Part 1)](https://www.imdb.com/title/tt2224083/) - [where to watch](https://youtu.be/2Gs51Xqvahk?feature=shared) 
     - [ ] [Born in the USSR: 28 Up, 2012 (Part 2)](https://www.imdb.com/title/tt2224083/) - [where to watch](https://youtu.be/mqvk0Zd9Q9k?feature=shared)
