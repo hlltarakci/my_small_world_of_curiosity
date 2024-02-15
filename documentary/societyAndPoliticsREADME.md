@@ -8,6 +8,7 @@
      - [**Part 5: Old age**](https://youtu.be/SAnWF6yTaWQ)
      - [Part 6: Death](https://youtu.be/bQN420LIwrc)
 - [x] [**Katya, Vitya, Dima, 2012**](https://www.imdb.com/video/vi2836900121/) / [poster](https://nataliaantonova.com/2012/04/18/poster-for-katya-vitya-dima/)
+- [x] [**How Russians celebrate Easter (celebrating Orthodox Easter with a Russian family)**](https://www.youtube.com/watch?v=hhFyCJGXNto)
 - [ ] [How People of Kamtchatka Survive at -30°C in Winter | SLICE](https://www.youtube.com/watch?v=lj1cZkZmjSk)
 - [ ] [Komi, a Journey Across the Arctic | SLICE](https://www.youtube.com/watch?v=cCfb9vhFcxo)
 - [ ] [From boy to man: coming of age in Siberia | SLICE](https://www.youtube.com/watch?v=j4LlzABOEb4)
