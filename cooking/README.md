@@ -206,6 +206,8 @@
 2. 1,5-2 saat beklet. Kolay acilmasi icin yumusamasi gerek. Ancak cok beklerse de hamur yayilabilir.
 3. 6 bezeye ayir, yuvarlak ac. Ic harcini ekle. Kapat, kenarlarina catalla sekil ver. ([video](https://www.youtube.com/watch?v=MuSiZF-C-aE))
 4. Kizgin yagda, onlu arkali pisir. Kagit havlu ile fazla yagini al. 
+5. Kiymali ic harc: 250 gr kiyma + 1 ince kiyilmis sogan + 1 tatli kasigintuz + biraz karabiber  ==> Iyice yogur. Ilik suyla islat, kivami hamura surulecek gibi olmali.
+6. Protip: Aslinda olcusu yok. Unun suya verdigi tepki ununa gore degisiyor. Istenilen buyuklukte hamur olana kadar azar azar ilik su ve un ekleyip, dengeleyerek hamuru tut.
 
 
 ## [Kavurma](https://en.wikipedia.org/wiki/Kavurma)
