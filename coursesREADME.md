@@ -6,6 +6,7 @@
 - [ ] [ONLINE][UDEMY: The Ultimate Drawing Course - Beginner to Advanced (11 hours)](https://www.udemy.com/course/the-ultimate-drawing-course-beginner-to-advanced/)
 - [ ] [ONLINE][UDEMY: Character Art School: Complete Character Drawing Course (28 hours)](https://www.udemy.com/course/character-art-school-complete-character-drawing/)
 - [x] [ONLINE][**UDEMY: Three Hour Cyrillic (2 hours)**](https://www.udemy.com/course/russian-alphabet-mastery/)
+- [x] [ONLINE][**UDEMY: Russian Alphabet Course (1,5 hours)**](https://www.udemy.com/course/russian-alphabet-course/) - [Russian alphabet (РУССКИЙ АЛЬФАВИТ)](https://en.wikipedia.org/wiki/Russian_alphabet)
 - [ ] [ONLINE][UDEMY: The Complete Russian Language Course (27 hours)](https://www.udemy.com/course/the-complete-russian-language-course/)
 - [ ] [ONLINE][UDEMY: Understanding Post Soviet Space (5.5 hours)](https://www.udemy.com/course/understanding-post-soviet-space/)
 - [ ] [ONLINE][Caucasian Cooking Classes - Learn Ancient Secrets of Cooking (1 hour)](https://www.udemy.com/course/learn-caucasian-culinary-secrets-of-ancient-cooking/)
