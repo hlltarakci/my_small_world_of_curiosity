@@ -200,7 +200,7 @@
 7. Kizgin siviyagda 4 sefer halinde kizart. [Orjinal tarif](https://www.youtube.com/watch?v=sVVFPrfDzn8&t=4s)
 
 ## [Chebureki/Cigborek](https://en.wikipedia.org/wiki/Chebureki)
-<img src="cheburek_cigborek.jpg" width="500"/>
+<img src="cheburek_cigborek_v2.jpg" width="500"/>
 
 1. 1 su bardagi (kupa) un + 1 cay kasigi tuz + 1/2 cay bardagi ilik su -> borek hamuru tut. Kati olacak. Azar azar un eklemek gerekebilir.
 2. 1,5-2 saat beklet. Kolay acilmasi icin yumusamasi gerek. Ancak cok beklerse de hamur yayilabilir.
