@@ -20,7 +20,7 @@
        - [60m full body - Nathalie](https://www.youtube.com/watch?v=9uvzAY4PupQ)
        - [60m full body - Nathalie](https://www.youtube.com/watch?v=sHnfuEBOJXE)
        - [60m full body - Nathalie](https://www.youtube.com/watch?v=PLibnuKAAUM)
-       - [60m full body - Nicole](https://www.youtube.com/watch?v=3guGRzS1oLA)
+       - [60m full body - Nicole (Intermediate)](https://www.youtube.com/watch?v=3guGRzS1oLA)
        - [60m full body - Cassey](https://www.youtube.com/watch?v=s0CkBw5Wock)
        - [60m full body - Eleni](https://www.youtube.com/watch?v=nIHtsrP15ik)
        - [50m full body - Nicole](https://www.youtube.com/watch?v=IwSdbcvEIbA)
