@@ -33,6 +33,7 @@
 - [ ] [Chrystia Freeland, Sale Of The Century: The Inside Story of the Second Russian Revolution](https://www.amazon.co.uk/Sale-Century-Inside-Russian-Revolution/dp/0349112606) - *"This is the first account of Russia's second revolution - the country's dramatic, wrenching transition from communist central planning to a market economy."*
 - [ ] [Charles Halperin, Russia and the Golden Horde: The Mongol Impact on Medieval Russian History](https://www.amazon.co.uk/Russia-Golden-Horde-Medieval-Russian/dp/0253204453)
 - [ ] [Orlando Figes, The Story of Russia](https://www.amazon.co.uk/Story-Russia-excellent-short-study/dp/152663175X/)
+    - [**Where did Russia come from? (TED-ex)**](https://www.youtube.com/watch?v=lfe1wEQzSzM) - [Russians](https://en.wikipedia.org/wiki/Russians) - [Rus' people](https://en.wikipedia.org/wiki/Rus%27_people) - [The Origins of the Russian People](https://owlcation.com/humanities/Origins-of-the-Russian-People) - [Article by Vladimir Putin ”On the Historical Unity of Russians and Ukrainians“](http://en.kremlin.ru/events/president/news/66181)
 - [ ] [Orlando Figes, Natasha's Dance: A Cultural History of Russia](https://www.amazon.co.uk/Natashas-Dance-Cultural-History-Russia/dp/0140297960)
 - [ ] [Paul Miliukov, Outlines Of Russian Culture](https://www.amazon.co.uk/Outlines-Russian-Culture-Paul-Miliukov/dp/1406719811)
 - [ ] [Paul Miliukov, Russia, To-day and To-morrow](https://www.amazon.com/Russia-Morrow-Pavel-Nikolaevich-Miliukov/dp/1371493553/)
