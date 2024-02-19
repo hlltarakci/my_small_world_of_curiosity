@@ -47,6 +47,8 @@
 - [x] [**Alone, 180 days on lake Baikal**](https://www.youtube.com/watch?v=8zskcSA0bfM) / the book written there: [Consolations of the Forest: Alone in a Cabin in the Middle Taiga](https://www.amazon.co.uk/Consolations-Forest-Alone-Cabin-Middle/dp/0141975474)
 - [x] [**Kamchatka Peninsula: Exploring Siberia's Cold War 'Forbidden Zone**](https://www.youtube.com/watch?v=hD84SfkPmFU) / [powder snow](http://snow.guide/snow-types/)
 - [x] [**Kamchatka, Yury Dud**](https://www.youtube.com/watch?v=Zv4hIaVvFVI) - [Mutnovsky volcano in Kamchatka](https://kamchatkaland.com/note/vulcano-mutnovsky) - [Kuril Lake in Kamchatka](https://kamchatkaland.com/note/kuril-lake) - [Valley of Geysers in Kamchatka](https://kamchatkaland.com/note/valley-of-geysers) - [Dmitry Medvedev](https://en.wikipedia.org/wiki/Dmitry_Medvedev)
+- [ ] [Kamchatka: The Frozen Forbidden Zone | Journeys To The Ends Of The Earth | Real History](https://www.youtube.com/watch?v=NwsmV7ZG5Js)
+- [ ] [The Living Edens: Kamchatka](https://vimeo.com/11034123)
 - [x] [**Atlantis Of Russian North, 2015**](https://www.imdb.com/title/tt7253110/) - [where to watch](https://www.youtube.com/watch?v=R-FHlYojjMc) - [The Russian North From a Bird’s Eye View](https://orthochristian.com/115160.html) - [Relaxing song: "День радости" - Аквариум](https://www.youtube.com/watch?v=IpFcOvd-LF4)
 - [ ] [How native Russians live in Russian villages. Life in the villages of the Russian North](https://www.youtube.com/watch?v=N58C7qgUhWg)
 - [x] [**Kamchatka Krai - Russia's Land of Ice and Fire**](https://www.youtube.com/watch?v=L-Jf73jQ7eU)
