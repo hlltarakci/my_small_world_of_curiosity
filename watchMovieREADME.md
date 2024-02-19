@@ -376,7 +376,7 @@
      - [ ] [SERIES][The Kitchen, 2012 (Kukhnya)](https://www.imdb.com/title/tt2930610/) - [comments](https://eksisozluk111.com/kukhnya--5131473) - [where to watch, season 1](https://www.youtube.com/playlist?list=PLt1HghNvGLPCkxXXFxHCVAx6CIy5tEN75) - [where to watch, auto-generated subtitles](https://www.youtube.com/playlist?list=PL1tGazPf1vqU6SWSbUrJNU0mvfRReOwkX)
      - [ ] [SERIES][Silver Spoon, 2014 (Mazhor)](https://www.imdb.com/title/tt4426042/)
      - [x] [SERIES][**Better Than Us, 2018**](https://www.imdb.com/title/tt8285216/) - [where to watch](https://www.netflix.com/gb/title/81026915) - [Better Than Us is the best Asimov inspired show I've seen](https://www.reddit.com/r/sciencefiction/comments/cstsao/better_than_us_is_the_best_asimov_inspired_show/)
-     - [ ] [SERIES][To the Lake, 2019](https://www.imdb.com/title/tt9151230/) - [where to watch](https://www.netflix.com/gb/title/81302258)
+     - [ ] [SERIES][To the Lake, 2019](https://www.imdb.com/title/tt9151230/) - [where to watch](https://www.netflix.com/gb/title/81302258) - [Amazing music! Филипп Киркоров - Жестокая Любовь / Лучшая Музыка 90х, Русские Хиты 90х](https://www.youtube.com/watch?v=dMPEP_Cp2HM)
      - [ ] [SERIES][TASS upolnomochen zayavit..., 1984](https://www.imdb.com/title/tt0086813/)
      - [ ] [SERIES][Bitva za Moskvu, 1985](https://www.imdb.com/title/tt0173675/)
      - [ ] [SERIES][Trotsky, 2017](https://www.imdb.com/title/tt7599132/)
