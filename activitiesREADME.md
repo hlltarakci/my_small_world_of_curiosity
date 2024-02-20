@@ -26,7 +26,7 @@
        - [50m full body - Nicole](https://www.youtube.com/watch?v=IwSdbcvEIbA)
        - [26m full body - Kelly](https://www.youtube.com/watch?v=jaqciTxwDoE) / [20m booty - Cassey](https://www.youtube.com/watch?v=36aBAcVc7Es)
        - [30m full body - Cassey](https://www.youtube.com/watch?v=CKe6EYSzmtU)
-       - [30m abs&booty - Nicole](https://www.youtube.com/watch?v=efxKEO9H1A8)
+       - [30m abs&booty - Nicole (Intermediate)](https://www.youtube.com/watch?v=efxKEO9H1A8)
        - [35m abs&booty - Nicole](https://www.youtube.com/watch?v=KQ6b-_dC1Mo)
        - [30m abs&booty - Nicole](https://www.youtube.com/watch?v=MvSK7dBbt8Q)
        - [30m full body - Nicole (Advanced)](https://www.youtube.com/watch?v=zdw1V-IBekc)
