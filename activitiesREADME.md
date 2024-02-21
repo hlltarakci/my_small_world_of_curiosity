@@ -17,6 +17,7 @@
     - [Mira](https://www.youtube.com/@FlowWithMira/videos)
     - [Eleni](https://www.youtube.com/@EleniFit/videos)
     - [Lottie](https://www.youtube.com/@LottieMurphy/videos)
+    - [Caroline](https://www.youtube.com/@CarolineGirvan/videos)
     - Best of:
        - [60m full body - Nathalie](https://www.youtube.com/watch?v=9uvzAY4PupQ)
        - [60m full body - Nathalie](https://www.youtube.com/watch?v=sHnfuEBOJXE)
@@ -43,6 +44,8 @@
        - [30m booty - Cassey](https://www.youtube.com/watch?v=agIYYK8KjDg)
        - [30m thighs&booty - Lily](https://www.youtube.com/watch?v=zamg97lkoAI)
        - [20m thighs&booty - Nicole](https://www.youtube.com/watch?v=bn8f3EAS0UQ)
+       - [20m glutes - Caroline (with resistance band)](https://www.youtube.com/watch?v=gm4zVOaj37E)
+       - [45m glutes&core - Caroline (with resistance band + dumbbell)](https://youtu.be/BTAxkaYHaRU?si=TguXx0nnnu6hNHAd)
        - [15m booty - Lily](https://www.youtube.com/watch?v=WUxjY2r88a8) / [8m booty - Lily](https://www.youtube.com/watch?v=mVKfwmDBLl8)
        - [20m booty - Nicole](https://www.youtube.com/watch?v=XDt6xS3dI60)
        - [10m waist - Cassey](https://www.youtube.com/watch?v=_8vGQR0zxDM) / [10m waist - Cassey](https://www.youtube.com/watch?v=zmXzD8UOxG0) / [20m waist - Cassey](https://www.youtube.com/watch?v=LzYAgCw-_B0)
