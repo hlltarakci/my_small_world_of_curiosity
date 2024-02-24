@@ -59,6 +59,14 @@
 5. (Opsiyonel) 1 tavuk ya da et bulyon ekle
 6. Arpa sehriyeler pisince dinlenmeye birak
 
+## Fake Dumplings
+[<img src="fake_dumplings.jpg" width="500"/>](fake_dumplings.jpg)
+1. 200 gr kadar kiyma + rendelenmis 1 orta boy sogan + 1 tatli kasigi karabiber + 1 tatli kasigi tuz -> Guzelce yogur. 30 dk buzdolabinda beklet.
+2. Tencerede makarna suyunu kaynatirken, manti makarnalarin icine kiymali harctan koy.
+3. Makarna gibi pisir.
+4. Servis yaparken uzerine cirpilmis yogurt ekle. Sarimsakli yogurt cok guzel oluyor.
+5. Tavada siviyagda nane, kirmizi biber yak. Uzerine dok.
+
 # OVEN RECIPES
 ## El Acmasi Kol Boregi (Pirasali)
 [<img src="acma_borek.jpg" width="500"/>](acma_borek.jpg)
