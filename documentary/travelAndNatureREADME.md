@@ -45,6 +45,7 @@
      - [x] [**REMOTE BEACH CAMPING on NORTH KOREA BORDER | Vladivostok, Russia**](https://youtu.be/UrnAsDg79Ao?si=aOqlozpoUoSNn3NW)
      - [x] [**TRANS-SIBERIAN RAILWAY Survival Guide | Russia Travel**](https://youtu.be/Kl1cLEa9YvM?si=yvJkQsy7T4pJBkp3)
      - [x] [**RUSSIA TRAVEL GUIDE | Trans-Siberian Railway**](https://youtu.be/0zImwmtyDPQ?si=5sCJZ9mpupUAy6oi)
+- [ ] [Road Trip Russia 2021](https://www.youtube.com/playlist?list=PLMGeksqj9Bhr4P9nZXkQ4iZPlgtfon4sk)
 - [ ] [Russia: A small town (Yelnya) clings to its Soviet past](https://www.youtube.com/watch?v=48DaLYiO-yk)
 - [ ] [North Nomads life in winter. Ural mountains and tundra life](https://www.youtube.com/watch?v=8COjtY1egvc)
 - [x] [**Alone, 180 days on lake Baikal**](https://www.youtube.com/watch?v=8zskcSA0bfM) / the book written there: [Consolations of the Forest: Alone in a Cabin in the Middle Taiga](https://www.amazon.co.uk/Consolations-Forest-Alone-Cabin-Middle/dp/0141975474)
