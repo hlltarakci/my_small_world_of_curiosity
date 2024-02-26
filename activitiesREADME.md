@@ -56,7 +56,7 @@
        - [35m full body - Nicole (with resistance band)(Intermediate)](https://www.youtube.com/watch?v=pXgHkduwvFA)
        - [35m full body - Nicole (with resistance band)(Intermediate)](https://www.youtube.com/watch?v=_xpqApNa-QE)
        - [30m full body - Nicole (with resistance band)](https://www.youtube.com/watch?v=9kelSX3a3AQ)
-       - *Technique Tips:* [Dumbbell Hip Thrust](https://www.youtube.com/watch?v=SGZK0YZmEpU)
+       - *Technique Tips:* [Hip Thrusts With Resistance Band](https://www.youtube.com/watch?v=HZ0vjMAmpfI) - [Dumbbell Hip Thrust](https://www.youtube.com/watch?v=SGZK0YZmEpU)
 - [Cassey's Summer Sculpt](https://www.blogilates.com/blog/28daysummersculpt/)
 - [Cassey's Beginner Calendar](https://www.blogilates.com/blog/new-beginners-calendar-2-0-for-2015/)
 - [**Random Pick on Nicole's**](https://www.youtube.com/@MoveWithNicole/videos) - [1h intermediate pilates](https://www.youtube.com/watch?v=3guGRzS1oLA) - [40m intermediate pilates](https://www.youtube.com/watch?v=koTzaUu7Vws) - [40m intermediate/advanced pilates](https://www.youtube.com/watch?v=GTZioQTSy8o) - [30m intense pilates](https://www.youtube.com/watch?v=_HnWLkHL1hU) - [30 min full body(some different movements)](https://www.youtube.com/watch?v=K56Z12XNQ5c)- [30m abs&booty intermediate mat pilates](https://www.youtube.com/watch?v=efxKEO9H1A8) - [30m abs&booty intermediate mat pilates](https://www.youtube.com/watch?v=MvSK7dBbt8Q) - [35m abs&booty mat pilates](https://www.youtube.com/watch?v=KQ6b-_dC1Mo) - ( [**20m thigh&booty pilates**](https://www.youtube.com/watch?v=bn8f3EAS0UQ) + [**10m booty burn**](https://www.youtube.com/watch?v=PTt2Rwe5RMs))
