@@ -2,10 +2,11 @@
 
 ## Non-fictional <a name="nonfictional"></a>
 - [**The History of the Soviet Union: Reading List**](https://rl.talis.com/3/ucl/lists/E8B69829-5151-8CC7-8154-E5855BADC588.html?lang=en)
-    - [ ] [Mark Edele, The Soviet Union: A Short History](https://www.amazon.co.uk/Soviet-Union-Short-History-Histories/dp/1119131162)
-    - [ ] [Peter Kenez, A History of the Soviet Union from the Beginning to the End](https://www.amazon.co.uk/History-Soviet-Union-Beginning-End/dp/0521682967)
-    - [ ] [Christina Kiaer, Everyday Life in Early Soviet Russia: Taking the Revolution Inside](https://www.amazon.co.uk/Everyday-Life-Early-Soviet-Russia/dp/0253346398)
-    - [ ] [Victoria Smolkin, A Sacred Space Is Never Empty – A History of Soviet Atheism](https://www.amazon.co.uk/Sacred-Space-Never-Empty-History/dp/069117427X)
+- [**Suggested Reading List for Russia**](https://www.akdmc.com/media/8807/recommended-reading-list-russia.pdf)
+- [ ] [Mark Edele, The Soviet Union: A Short History](https://www.amazon.co.uk/Soviet-Union-Short-History-Histories/dp/1119131162)
+- [ ] [Peter Kenez, A History of the Soviet Union from the Beginning to the End](https://www.amazon.co.uk/History-Soviet-Union-Beginning-End/dp/0521682967)
+- [ ] [Christina Kiaer, Everyday Life in Early Soviet Russia: Taking the Revolution Inside](https://www.amazon.co.uk/Everyday-Life-Early-Soviet-Russia/dp/0253346398)
+- [ ] [Victoria Smolkin, A Sacred Space Is Never Empty – A History of Soviet Atheism](https://www.amazon.co.uk/Sacred-Space-Never-Empty-History/dp/069117427X)
 - [ ] [Jonathan Dimbleby, Russia: A Journey to the Heart of a Land and its People](https://www.amazon.co.uk/Russia-Journey-Heart-Land-People/dp/1846076730)
 - [x] [**Olga Fedina, What Every Russian Knows (and You Don't)**](https://www.amazon.co.uk/What-Every-Russian-Knows-Dont/dp/1901990125) - [Facebook Group: What Every Russian Knows](https://www.facebook.com/WhatEveryRussianKnows) - [Cracking the code of Russian allusions](https://www.rbth.com/literature/2013/08/29/cracking_the_code_of_russian_allusions_29331.html) - [7 Literary Masterpieces That Every Russian Knows](https://theculturetrip.com/europe/russia/articles/7-literary-masterpieces-that-every-russian-knows)
 - [ ] [Richard Stites, Russian Popular Culture: Entertainment and Society since 1900](https://www.amazon.co.uk/Russian-Popular-Culture-Entertainment-Paperbacks/dp/052136986X)
