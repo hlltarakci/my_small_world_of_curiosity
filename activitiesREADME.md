@@ -56,6 +56,8 @@
        - [35m full body - Nicole (with resistance band)(Intermediate)](https://www.youtube.com/watch?v=pXgHkduwvFA)
        - [35m full body - Nicole (with resistance band)(Intermediate)](https://www.youtube.com/watch?v=_xpqApNa-QE)
        - [30m full body - Nicole (with resistance band)](https://www.youtube.com/watch?v=9kelSX3a3AQ)
+       - [15m hamstrings RDL (Romanian Dead Lift) - Caroline (with dumbbells)](https://www.youtube.com/watch?v=N9_11gKQGqM)
+       - [20m glutes&hamstrings - Caroline (with dumbbells)](https://www.youtube.com/watch?v=1T3v_leyDIE)
        - *Technique Tips:* [Hip Thrusts With Resistance Band](https://www.youtube.com/watch?v=HZ0vjMAmpfI) - [Dumbbell Hip Thrust](https://www.youtube.com/watch?v=SGZK0YZmEpU)
 - [Cassey's Summer Sculpt](https://www.blogilates.com/blog/28daysummersculpt/)
 - [Cassey's Beginner Calendar](https://www.blogilates.com/blog/new-beginners-calendar-2-0-for-2015/)
