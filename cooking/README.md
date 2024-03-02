@@ -106,6 +106,16 @@
 5. Uzerine yumurta sarisi sur. Susam, corek otu ya da hashas ile susle
 6. Onceden isitilmis firinda 180 derecede pisir. [Orjinal tarif](https://www.youtube.com/watch?v=x0Rqsy4JTjU)
 
+## [Perepechi](https://www.rbth.com/russian-kitchen/331639-perepechi-udmurt-street-food-recipe)
+[<img src="perepechi.jpg" width="500"/>](perepechi.jpg)
+
+1. Hamuru tut: Oda sicakliginda 50 gr tereyag + 1 yumurta + 1 cay kasigi seker + yarim cay kasigi tuz + 1 su bardagi un (Hamur olana kadar aldigi kadar un ekle) + yarim cay bardagi su -> Ele yapismayan, yumusak bir hamur tut. 20 dk dinlensin.
+2. Tavada ince kiyilmis bir orta boy sogani, 2 yemek kasigi siviyag ile oldur. 400 gr kiyma + tuz + karabiber -> Ic harci pisir.
+3. 2 yumurta + yarim cay bardagindan biraz az sut + bir cimdik tuz -> cirp.
+4. Hamuru 8 bezeye bol. Hepsini yuvarlak ac. Kenarlarina sekil ver.
+5. Hamurlarin ortasina kiymadan koy, yumurtali karisimi ekle.
+6. 180 derecede 20 dk pisir (AirFryerda 2 seferde de pisirilebiliyor).
+
 ## Eggplant Kebab
 [<img src="eggplant_kebab.jpg" width="500"/>](eggplant_kebab.jpg)
 
