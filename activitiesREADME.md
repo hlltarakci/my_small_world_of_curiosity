@@ -13,7 +13,7 @@
     - [**Nicole**](https://www.youtube.com/@MoveWithNicole/videos) - *best suits me. just add resistance band loop where applicable*
     - [**Cassey (blogilates)**](https://www.youtube.com/@blogilates/videos) - *follow monthly program, enhance with Nicole where applicable*
        - [**Monthly program**](https://www.blogilates.com/blog/the-blogilates-january-2024-workout-calendar/)
-            - [ ] 1. [21 Min Cardio Burn N’ Tone Workout](https://www.youtube.com/watch?v=CMMaEFiY-nE) + [10 Min AntiBloating Cardio](https://www.youtube.com/watch?v=lQDrPsPodA0) + [WHOA WHOA!!! Whole Body Workout](https://www.youtube.com/watch?v=PUgcHQJuQys)
+            - [x] 1. [21 Min Cardio Burn N’ Tone Workout](https://www.youtube.com/watch?v=CMMaEFiY-nE) + [10 Min AntiBloating Cardio](https://www.youtube.com/watch?v=lQDrPsPodA0) + [WHOA WHOA!!! Whole Body Workout](https://www.youtube.com/watch?v=PUgcHQJuQys)
             - [ ] 2. [Abdominal Etcher & Butt Enhancer](https://www.youtube.com/watch?v=T4adtRJ_b3g) + [3 Min Obliques Workout](https://www.youtube.com/watch?v=HRIOrIxsr6g)
             - [ ] 3. [20 Min Natural Glute Enhancing Workout](https://www.youtube.com/watch?v=xGxbB72qBig) + [Butt Lifting & Thigh Sculpting Workout](https://www.youtube.com/watch?v=h_rAyZgbSPM) + [5 Min Beautiful Booty](https://www.youtube.com/watch?v=3kfu9CPM4B8)
             - [ ] 4. [21 Min All in One Tone Workout](https://www.youtube.com/watch?v=gsgRJd_-rLI) + [The ULTIMATE Hot Body Workout](https://www.youtube.com/watch?v=-SN-TQDqWXU)
