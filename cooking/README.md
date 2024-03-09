@@ -59,6 +59,17 @@
 5. (Opsiyonel) 1 tavuk ya da et bulyon ekle
 6. Arpa sehriyeler pisince dinlenmeye birak
 
+## Kiyma Paca (Soup with Minced Beef)
+[<img src="kiyma_paca.jpg" width="500"/>](kiyma_paca.jpg)
+
+1. 100 gram kadar kiymayi rengi degisene kadar tencerede kavur. Kavururken azar azar sicak su ekleyerek kavur.
+2. Bir cay kasigi karabiber ekle. Azar azar sicak su ekleyerek biraz daha kavur.
+3. Iki yemek kasigi zeytinyagi (ya da ceviz yagi) ekle. Biraz daha kavur. 4 su bardagi sicak su ekle, kaynasin.
+4. Terbiyesi icin: 2 yemek kasigi dolu dolu un + 4 yemek kasigi yogurt + 1 yumurta + yarim su bardaginsicak su + 1 yemek kasigi limon suyu ekle. Guzelce cirp.
+5. Kesilmemesi icin tencereden bir kepce corba terbiyeye ekle ve karistir. Corbayi karistirarak terbiyeyi ekle. Kivami cok yogun ise, sicak su ekle. (Toplamda 6 su bardagi ekledim)
+6. Kaynamaya baslayinca 1 tatli kasigi tuz ve yarim cay kasigi karabiber ekle. (Sarimsak da eklenebilir). 10 dk kaynamaya birak.
+7. Uzeri icin 1 tatli kasigi kirmizi biberi bir yemek kasigi tereyagda yak. 
+
 ## Fake Dumplings
 [<img src="fake_dumplings.jpg" width="500"/>](fake_dumplings.jpg)
 1. 200 gr kadar kiyma + rendelenmis 1 orta boy sogan + 1 tatli kasigi karabiber + 1 tatli kasigi tuz -> Guzelce yogur. 30 dk buzdolabinda beklet.
