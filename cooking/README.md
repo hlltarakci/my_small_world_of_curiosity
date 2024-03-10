@@ -253,6 +253,7 @@
 2. 300-400 gram dana kiyma + tuz + karabiber ekle.
 3. Cok guzel yogur.
 4. Tavada yagsiz pisir.
+5. Farkli bir alternatif: 500 gr dana kiyma + 1 rendelenmis sogan + 2-3 dilim ekmek ici + 1 yumurta + tuz + karabiber. Kofteyi yogurduktan sonra bir gece beklet, ertesi gun sekil ver.
 
 
 ## [Tavuklu Pilav (Chicken Pilaf)](https://goturkiye.com/10-iconic-street-foods-in-turkiye)
@@ -349,6 +350,13 @@
 1. Hamsileri temizle, yika, suzdur. 10 dk beklesin.
 2. Tuz ve misir unu ile hamsileri karistir.
 3. Cok az kizartmalik yag ile tavada kizart.
+
+## Yumurtali Ekmek (Eggy Fried Bread for Breakfast)
+[<img src="yumurtali_ekmek.jpg" width="500"/>](yumurtali_ekmek.jpg)
+1. 2 yumurta + 1 cay kasigi tuz. Guzelce cirp.
+2. Yarim su bardagi sut ekle. Cirp. (Yarim cay kasigi kirmizi biber guzel bir renk veriyor)
+3. Bir yemek kasigi un ekle, cirp (az olsun, dolu dolu olmayacak)
+4. Dilimlenmis ekmekleri onlu arkali bula, tavada az yagda kizart. Bayat ekmek daha guzel cektigi icin daha lezzetli oluyor.
 
 ## Green Peppers with Creamy Sauce (for Breakfast)
 [<img src="green_peppers_with_creamy_sauce.jpg" width="500"/>](green_peppers_with_creamy_sauce.jpg)
