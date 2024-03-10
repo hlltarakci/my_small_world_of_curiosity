@@ -18,7 +18,7 @@
             - [x] 3. [20 Min Natural Glute Enhancing Workout](https://www.youtube.com/watch?v=xGxbB72qBig) *add resistance band loop* + [Butt Lifting & Thigh Sculpting Workout](https://www.youtube.com/watch?v=h_rAyZgbSPM) + [5 Min Beautiful Booty](https://www.youtube.com/watch?v=3kfu9CPM4B8)
             - [x] 4. [21 Min All in One Tone Workout](https://www.youtube.com/watch?v=gsgRJd_-rLI) + [The ULTIMATE Hot Body Workout](https://www.youtube.com/watch?v=-SN-TQDqWXU)
             - [x] 5. [Toned Tank Top Arms & Back](https://www.youtube.com/watch?v=2YdJgcrrHKI) + [15 Min Arm Burnout](https://www.youtube.com/watch?v=Y346900i9qE)
-            - [ ] 6. [20 Min Inner Thigh Isolate Workout](https://www.youtube.com/watch?v=wELrn0f53XI) + [Perfect Legs Workout](https://www.youtube.com/watch?v=j6gf8r6e3Kc) + [6 Min to Sexy Thighs](https://www.youtube.com/watch?v=hLLLmcHJqIw)
+            - [x] 6. [20 Min Inner Thigh Isolate Workout](https://www.youtube.com/watch?v=wELrn0f53XI) + [Perfect Legs Workout](https://www.youtube.com/watch?v=j6gf8r6e3Kc) + [6 Min to Sexy Thighs](https://www.youtube.com/watch?v=hLLLmcHJqIw)
             - [ ] 7. [RECOVERY] [Stretch + De-stress](https://www.youtube.com/watch?v=PKna2M9j0fs)
             - [ ] 8. [Fat Burn Machine](https://www.youtube.com/watch?v=ILmSnFunyJo) + [Fat Burning Ladder for Toned Thighs and Sculpted Abs](https://www.youtube.com/watch?v=kUOySFM5HWc)
             - [ ] 9. [Extreme Ab Flattener](https://www.youtube.com/watch?v=-1wOKgtrT-w) + [ABS FOCUS](https://www.youtube.com/watch?v=5ln07sKGppA)
