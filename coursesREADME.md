@@ -9,7 +9,10 @@
 - [x] [ONLINE][**UDEMY: Russian Alphabet Course (1,5 hours)**](https://www.udemy.com/course/russian-alphabet-course/) - [Russian alphabet (РУССКИЙ АЛЬФАВИТ)](https://en.wikipedia.org/wiki/Russian_alphabet)
 - [ ] [ONLINE][UDEMY: The Complete Russian Language Course (27 hours)](https://www.udemy.com/course/the-complete-russian-language-course/)
 - [ ] [ONLINE][Understanding Russia: A Cultural History, by Lynne Ann Hartnett (24 lectures)](https://www.thegreatcourses.com/courses/understanding-russia-a-cultural-history) - [Available on Amazon](https://www.amazon.co.uk/Understanding-Russia-A-Cultural-History/dp/B087VQK95R) - [available for free :)](https://www.youtube.com/playlist?list=PLez3PPtnpncRCc9iDxz2fHbLGhh5xgVt3)
-    - [ ] [01 A Russian Past, the Putin Future](https://www.youtube.com/watch?v=Zr6cBtokEQw&list=PLez3PPtnpncRCc9iDxz2fHbLGhh5xgVt3&index=1)
+    - [x] [**01 A Russian Past, the Putin Future**](https://www.youtube.com/watch?v=Zr6cBtokEQw&list=PLez3PPtnpncRCc9iDxz2fHbLGhh5xgVt3&index=1)
+         - [*Winston Churchill defined Russia as "a riddle, wrapped in a mystery, inside an enigma". Perhaps, he said, "there is a key" to the riddle of Russia, concluding, "That key is Russian national interest."*](https://www.nytimes.com/2008/08/01/world/europe/01iht-letter.1.14939466.html)
+         - [Orlando Figes: ***"In a way that was extraordinary, if not unique to Russia, the country’s artistic energy was almost wholly given to the quest to grasp the idea of its nationality."***](https://www.goodreads.com/quotes/11483271-the-overarching-subject-of-all-these-works-was-russia)
+         - Dmitri Likhavhev: *"Russian religion was determined by aesthetic qualities...and so beauty determined the nature of Orthodoxy in Russia."*
     - [ ] [02 Ivan the Terrible’s 500 Year Reign](https://www.youtube.com/watch?v=qgFE_1gGRFo&list=PLez3PPtnpncRCc9iDxz2fHbLGhh5xgVt3&index=2)
     - [ ] [03 The Russian Orthodox Church](https://www.youtube.com/watch?v=BAwNth3dp1Y&list=PLez3PPtnpncRCc9iDxz2fHbLGhh5xgVt3&index=3)
     - [ ] [04 Peter the Great and a European Empire](https://www.youtube.com/watch?v=XnVNCIZBnM4&list=PLez3PPtnpncRCc9iDxz2fHbLGhh5xgVt3&index=4)
