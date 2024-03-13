@@ -13,7 +13,9 @@
          - [*Winston Churchill defined Russia as "a riddle, wrapped in a mystery, inside an enigma". Perhaps, he said, "there is a key" to the riddle of Russia, concluding, "That key is Russian national interest."*](https://www.nytimes.com/2008/08/01/world/europe/01iht-letter.1.14939466.html)
          - [Orlando Figes: ***"In a way that was extraordinary, if not unique to Russia, the country’s artistic energy was almost wholly given to the quest to grasp the idea of its nationality."***](https://www.goodreads.com/quotes/11483271-the-overarching-subject-of-all-these-works-was-russia)
          - Dmitri Likhavhev: *"Russian religion was determined by aesthetic qualities...and so beauty determined the nature of Orthodoxy in Russia."*
-    - [ ] [02 Ivan the Terrible’s 500 Year Reign](https://www.youtube.com/watch?v=qgFE_1gGRFo&list=PLez3PPtnpncRCc9iDxz2fHbLGhh5xgVt3&index=2)
+    - [x] [**02 Ivan the Terrible’s 500 Year Reign**](https://www.youtube.com/watch?v=qgFE_1gGRFo&list=PLez3PPtnpncRCc9iDxz2fHbLGhh5xgVt3&index=2)
+         - [Painting: Ivan the Terrible and His Son Ivan](https://en.wikipedia.org/wiki/Ivan_the_Terrible_and_His_Son_Ivan)
+         - [Nikolai Karamzin : *"Anastasia's death was the end of happy days for Ivan and for Russia, for he lost not only his wife but his better nature."*](https://brill.com/view/journals/ruhi/47/1-2/article-p1_1.xml)
     - [ ] [03 The Russian Orthodox Church](https://www.youtube.com/watch?v=BAwNth3dp1Y&list=PLez3PPtnpncRCc9iDxz2fHbLGhh5xgVt3&index=3)
     - [ ] [04 Peter the Great and a European Empire](https://www.youtube.com/watch?v=XnVNCIZBnM4&list=PLez3PPtnpncRCc9iDxz2fHbLGhh5xgVt3&index=4)
     - [ ] [05 Russia’s Northern Window on Europe](https://www.youtube.com/watch?v=SIPOzjGtBTM&list=PLez3PPtnpncRCc9iDxz2fHbLGhh5xgVt3&index=5)
