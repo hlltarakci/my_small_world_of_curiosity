@@ -1,6 +1,5 @@
 # BOOKS <a name="read_list"></a>
 
-## Non-fictional <a name="nonfictional"></a>
 - [**The History of the Soviet Union: Reading List**](https://rl.talis.com/3/ucl/lists/E8B69829-5151-8CC7-8154-E5855BADC588.html?lang=en)
 - [**Suggested Reading List for Russia**](https://www.akdmc.com/media/8807/recommended-reading-list-russia.pdf)
 - [ ] [Mark Edele, The Soviet Union: A Short History](https://www.amazon.co.uk/Soviet-Union-Short-History-Histories/dp/1119131162)
@@ -174,11 +173,19 @@
     - Chapter 11 - *"**There were chapters in its history when Russia might have taken a more democratic path.** It had strong traditions of self-rule in its medieval city republics, in the peasant commune and the Cossack hetmanates and not least in the zemstvos, which might have laid the basis for a more inclusive form of national government. There were moments when its rulers edged towards a constitutional reform, only for their liberal initiatives to be overturned by the current of events pushing Russia closer to the tragedy of 1917. **And in the chaos of the revolution there were moments when the people were able to reshape the state in line with their old utopian dreams of social justice and freedom**."*
     - Putin's article: [On the Historical Unity of Russians and Ukrainians](https://en.wikipedia.org/wiki/On_the_Historical_Unity_of_Russians_and_Ukrainians) - [Article by Vladimir Putin ”On the Historical Unity of Russians and Ukrainians“](http://en.kremlin.ru/events/president/news/66181)
     - [Stepan Bandera](https://en.wikipedia.org/wiki/Stepan_Bandera) - [Timeline of the Russian invasion of Ukraine](https://en.wikipedia.org/wiki/Timeline_of_the_Russian_invasion_of_Ukraine) - [Conflict in Ukraine: A timeline (2014 – eve of 2022 invasion)](https://commonslibrary.parliament.uk/research-briefings/cbp-9476/)
+- [ ] [Orlando Figes, Natasha's Dance: A Cultural History of Russia](https://www.amazon.co.uk/Natashas-Dance-Cultural-History-Russia/dp/0140297960)
+- [ ] [Orlando Figes, A People's Tragedy: The Russian Revolution, 1891-1924](https://www.amazon.co.uk/Peoples-Tragedy-Russian-Revolution-1891-1924/dp/071267327X)
 - [ ] [Dmitry Likhachev, Reflections on the Russian Soul: A Memoir](https://www.amazon.co.uk/Reflections-Russian-Memoir-Dmitry-Likhachev/dp/9639116467)
 - [ ] [Fyodor Dostoevsky, The Russian Soul: Selections from a Writer's Diary](https://www.amazon.co.uk/Russian-Soul-Selections-Writers-Diary/dp/191074963X) *"In Russia the truth almost always has an entirely fantastical character."*
-- [ ] [Orlando Figes, Natasha's Dance: A Cultural History of Russia](https://www.amazon.co.uk/Natashas-Dance-Cultural-History-Russia/dp/0140297960)
 - [ ] [Paul Miliukov, Outlines Of Russian Culture](https://www.amazon.co.uk/Outlines-Russian-Culture-Paul-Miliukov/dp/1406719811)
 - [ ] [Paul Miliukov, Russia, To-day and To-morrow](https://www.amazon.com/Russia-Morrow-Pavel-Nikolaevich-Miliukov/dp/1371493553/)
+- [ ] [Peter Kenez, A History of the Soviet Union from the Beginning to its Legacy](https://www.amazon.co.uk/History-Soviet-Union-Beginning-Legacy/dp/1316506231/)
+- [ ] [Peter Kenez, A History of the Soviet Union from the Beginning to the End](https://www.amazon.co.uk/History-Soviet-Union-Beginning-End/dp/0521324262/)
+- [ ] [Peter Kenez, Cinema and Soviet Society: From the Revolution to the Death of Stalin (KINO: The Russian Cinema Series)](https://www.amazon.co.uk/Cinema-Soviet-Society-Revolution-Russian/dp/1860646328/)
+- [ ] [Aleksandr Solzhenitsyn, The Gulag Archipelago](https://www.amazon.co.uk/Gulag-Archipelago-Abridged-Vintage-Classics/dp/1784871516) - [wiki](https://en.wikipedia.org/wiki/The_Gulag_Archipelago)
+- [ ] [Aleksandr Solzhenitsyn, One Day in the Life of Ivan Denisovich](https://www.amazon.co.uk/One-Day-Life-Ivan-Denisovich/dp/0451531043)
+- [ ] [Aleksandr Solzhenitsyn, Lenin in Zurich](https://www.amazon.co.uk/dp/0370106075/)
+- [ ] [Leon Trotsky, The History of the Russian Revolution](https://www.amazon.co.uk/dp/0873488296/) 
 - [ ] [Alex Pravda, Leading Russia: Putin in Perspective](https://www.amazon.co.uk/Leading-Russia-Perspective-Essays-Honour/dp/0199276145)
 - [ ] [Semyon Ivanovic Aralov, Bir Sovyet Diplomatinin Turkiye Anilari](https://www.amazon.com/Bir-Sovyet-Diplomatinin-Turkiye-Anilari/dp/9944884650/) - [*"Nevertheless, Mustafa Kemal Atatürk never forgot about the help that Soviet Russia provided in his hour of need. As such, next to the “Father of the Turks” on the Republic Monument, installed in Istanbul in 1928, stand the figures of Kliment Voroshilov and Semyon Aralov."*](https://www.rbth.com/history/333503-how-bolsheviks-helped-shape-turkey)
 - [ ] [Dimitir Vandov, Ataturk Donemi Turk-Sovyet Iliskileri](https://www.amazon.com/Ataturk-Donemi-Turk-Sovyet-Iliskileri-Dimit%C3%BDr/dp/975343894X) - *"Atatürk'ün Sovyetler Birliği politikası nasıldı? Sovyetler Birliği'nin Türkiye politikasının amacı neydi? Türk-Sovyet ilişkilerinin altyapısı, gelişimi ve güncel politikadaki yeri. Türk-Sovyet antlaşmaları ve protokollerinin ruhu."*
@@ -241,8 +248,6 @@
 - [ ] [Ananyo Bhattacharya, The Man from the Future: The Visionary Life of John von Neumann](https://www.amazon.co.uk/Man-Future-Visionary-Life-Neumann/dp/024139886X)
 - [ ] [Niccolò Machiavelli, The Prince](https://www.amazon.co.uk/Prince-Penguin-Classics-Niccolo-Machiavelli/dp/0140449159/ref=asc_df_0140449159/?tag=googshopuk-21&linkCode=df0&hvadid=310805555931&hvpos=&hvnetw=g&hvrand=9119212229547482045&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9045903&hvtargid=pla-488133096639&psc=1&th=1&psc=1)
 - [ ] [Ahmet Aslan, Ilkcag Felsefe Tarihi Serisi](https://www.amazon.com.tr/İlkçağ-Felsefe-Tarihi-Serisi-Kitap/dp/6254497433/ref=sr_1_1?keywords=ilkçağ+felsefe+tarihi+ahmet+arslan+set&qid=1700947495&sr=8-1)
-
-## Fictional <a name="fictional"></a>
 - [x] [Margareth Mitchel, Gone with the Wind](https://www.goodreads.com/tr/book/show/18405.Gone_with_the_Wind)
 - [x] [Alexander Pushkin, Yuzbasinin Kizi](https://www.amazon.com/Y%C3%BCzbasinin-Y%C3%BDld%C3%BDz-Aleksandr-Sergeyevic-Puskin/dp/6059199968)
 - [x] [Dino Buzzati, The Tartar Steppe](https://www.amazon.co.uk/Tartar-Steppe-Canons-Dino-Buzzati/dp/1786891646/ref=sr_1_1?crid=F794T6OUMYHM&keywords=dino+buzzati&qid=1659277026&sprefix=dino+buzzati%2Caps%2C354&sr=8-1) - *"But it's also a place almost without challenges, a life and routine that's easy to settle into but that is also deadening. And Drogo gets caught up in it. The possibility of escape -- after four months, after two years -- always seems to be there, and yet when it comes time to make a decision it's easier just to continue as before."* - This book helped me to change mindset during my first reading. This time, i could not even relate to Drogo :)
