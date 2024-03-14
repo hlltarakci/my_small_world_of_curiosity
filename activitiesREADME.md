@@ -23,7 +23,7 @@
             - [x] 8. [Fat Burn Machine](https://www.youtube.com/watch?v=ILmSnFunyJo) + [Fat Burning Ladder for Toned Thighs and Sculpted Abs](https://www.youtube.com/watch?v=kUOySFM5HWc)
             - [x] 9. [Extreme Ab Flattener](https://www.youtube.com/watch?v=-1wOKgtrT-w) + [ABS FOCUS](https://www.youtube.com/watch?v=5ln07sKGppA)
             - [x] 10. [21 Min Total Booty Tone Workout](https://www.youtube.com/watch?v=kVZX0ManF8U) *includes resistance band loop :)* + [20 Min Round Booty Workout](https://www.youtube.com/watch?v=36aBAcVc7Es)
-            - [ ] 11. [Slim n’ Sculpt](https://www.youtube.com/watch?v=QhxwCPwCrOQ) + [12 Mins to Toned Total Body Workout](https://www.youtube.com/watch?v=ph1NjaXvOvg) + [Beautiful Body Pilates](https://www.youtube.com/watch?v=I6xCb7s5CE4)
+            - [x] 11. [Slim n’ Sculpt](https://www.youtube.com/watch?v=QhxwCPwCrOQ) + [12 Mins to Toned Total Body Workout](https://www.youtube.com/watch?v=ph1NjaXvOvg) + [Beautiful Body Pilates](https://www.youtube.com/watch?v=I6xCb7s5CE4)
             - [ ] 12. [Extreme Weightless Arm Toner](https://www.youtube.com/watch?v=bt-bXFHGJqA) + [12 Mins to Toned Arms Workout](https://www.youtube.com/watch?v=nejA_F4D2ps)
             - [ ] 13. [Peach Booty & Thigh Shaper](https://www.youtube.com/watch?v=XjiRVCEokWE) + [Hips Butt n’ Thighs Super Shaper Workout](https://www.youtube.com/watch?v=HHn-oT3CEF4)
             - [ ] 14. [RECOVERY] [21 Min Flexibility Fix](https://www.youtube.com/watch?v=DaKY3Y-pLVs)
