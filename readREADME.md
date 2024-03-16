@@ -200,6 +200,7 @@
 - [ ] [Aleksandr Solzhenitsyn, The Gulag Archipelago](https://www.amazon.co.uk/Gulag-Archipelago-Abridged-Vintage-Classics/dp/1784871516) - [wiki](https://en.wikipedia.org/wiki/The_Gulag_Archipelago)
 - [ ] [Aleksandr Solzhenitsyn, One Day in the Life of Ivan Denisovich](https://www.amazon.co.uk/One-Day-Life-Ivan-Denisovich/dp/0451531043)
 - [ ] [Aleksandr Solzhenitsyn, Lenin in Zurich](https://www.amazon.co.uk/dp/0370106075/)
+- [ ] [Aleksandr Solzhenitsyn, Rebuilding Russia](https://www.amazon.co.uk/Rebuilding-Russia-Aleksandr-Solzhenitsyn/dp/0002721570) - [Solzhenitsyn and Putin](https://theimaginativeconservative.org/2022/03/solzhenitsyn-putin-joseph-pearce.html)
 - [ ] [Leon Trotsky, The History of the Russian Revolution](https://www.amazon.co.uk/dp/0873488296/) 
 - [ ] [Alex Pravda, Leading Russia: Putin in Perspective](https://www.amazon.co.uk/Leading-Russia-Perspective-Essays-Honour/dp/0199276145)
 - [ ] [Semyon Ivanovic Aralov, Bir Sovyet Diplomatinin Turkiye Anilari](https://www.amazon.com/Bir-Sovyet-Diplomatinin-Turkiye-Anilari/dp/9944884650/) - [*"Nevertheless, Mustafa Kemal Atatürk never forgot about the help that Soviet Russia provided in his hour of need. As such, next to the “Father of the Turks” on the Republic Monument, installed in Istanbul in 1928, stand the figures of Kliment Voroshilov and Semyon Aralov."*](https://www.rbth.com/history/333503-how-bolsheviks-helped-shape-turkey)
