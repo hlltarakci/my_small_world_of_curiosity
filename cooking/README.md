@@ -253,7 +253,12 @@
 2. 300-400 gram dana kiyma + tuz + karabiber ekle.
 3. Cok guzel yogur.
 4. Tavada yagsiz pisir.
-5. Farkli bir alternatif: 500 gr dana kiyma + 1 rendelenmis sogan + 2-3 dilim ekmek ici + 1 yumurta + tuz + karabiber. Kofteyi yogurduktan sonra bir gece beklet, ertesi gun sekil ver.
+
+**Alternatif:**
+
+<img src="meatball_v2.jpg" width="500"/>
+
+1. 500 gr dana kiyma + 1 rendelenmis sogan + 2-3 dilim ekmek ici + 1 yumurta + tuz + karabiber. Kofteyi yogurduktan sonra bir gece beklet, ertesi gun sekil ver.
 
 
 ## [Tavuklu Pilav (Chicken Pilaf)](https://goturkiye.com/10-iconic-street-foods-in-turkiye)
