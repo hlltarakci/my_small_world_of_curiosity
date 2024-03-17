@@ -383,6 +383,12 @@
 4. Pistigini anlamak icin peyniri gozlemliyoruz, uzamasi gerekiyor.
 
 # AIRFRYER RECIPES
+## Kumpir (Jacket potato)
+[<img src="kumpir.jpg" width="500"/>](kumpir.jpg)
+1. Duzgun bicimli patatesleri 200 derecede 45 dakika kadar pisir.
+2. Sicakken ortadan kes. Icine 25 gr kadar tereyagi koy. Tuz ekle. Iyice karistir. Icine rendelenmis mozarella peyniri koy, iyice karistir, peynir patateste erisin.
+3. Uzerine rendelenmis mozarella, misir ve pesto sosu ile servis yap. Istege gore kornison, zeytin, sosis vs. de eklenebilir.
+
 ## Salmon and Asparagus
 [<img src="salmon_and_asparagus.jpg" width="500"/>](salmon_and_asparagus.jpg)
 1. Somonun uzerine zeytin yagi (ya da ceviz yagi), tuz, karabiber ve kirmizi biber dok, masaj yap. Kirmizi biber yuzeyi kaplasin, rengini o veriyor.
