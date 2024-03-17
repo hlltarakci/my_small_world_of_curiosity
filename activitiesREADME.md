@@ -9,10 +9,10 @@
 
 ### Ready Programs
 
-- [**CURRENT**] 30+ pilates a day, choose from below 
+- [**CURRENT**] 40+ pilates a day, choose from below + [counter helper for extra unguided moves](https://youtu.be/-qCfKkME9lE?si=hNkukqV2egTbBYIB)
     - [**Nicole**](https://www.youtube.com/@MoveWithNicole/videos) - *best suits me. just add resistance band loop where applicable*
     - [**Cassey (blogilates)**](https://www.youtube.com/@blogilates/videos) - *follow monthly program, enhance with Nicole where applicable*
-       - [**Monthly program**](https://www.blogilates.com/blog/the-blogilates-january-2024-workout-calendar/)
+       - [**Monthly program**](https://www.blogilates.com/blog/the-blogilates-january-2024-workout-calendar/) 
             - [x] 1. [21 Min Cardio Burn N’ Tone Workout](https://www.youtube.com/watch?v=CMMaEFiY-nE) + [10 Min AntiBloating Cardio](https://www.youtube.com/watch?v=lQDrPsPodA0) + [WHOA WHOA!!! Whole Body Workout](https://www.youtube.com/watch?v=PUgcHQJuQys)
             - [x] 2. [Abdominal Etcher & Butt Enhancer](https://www.youtube.com/watch?v=T4adtRJ_b3g) + [3 Min Obliques Workout](https://www.youtube.com/watch?v=HRIOrIxsr6g)
             - [x] 3. [20 Min Natural Glute Enhancing Workout](https://www.youtube.com/watch?v=xGxbB72qBig) *add resistance band loop* + [Butt Lifting & Thigh Sculpting Workout](https://www.youtube.com/watch?v=h_rAyZgbSPM) + [5 Min Beautiful Booty](https://www.youtube.com/watch?v=3kfu9CPM4B8)
@@ -24,7 +24,7 @@
             - [x] 9. [Extreme Ab Flattener](https://www.youtube.com/watch?v=-1wOKgtrT-w) + [ABS FOCUS](https://www.youtube.com/watch?v=5ln07sKGppA)
             - [x] 10. [21 Min Total Booty Tone Workout](https://www.youtube.com/watch?v=kVZX0ManF8U) *includes resistance band loop :)* + [20 Min Round Booty Workout](https://www.youtube.com/watch?v=36aBAcVc7Es)
             - [x] 11. [Slim n’ Sculpt](https://www.youtube.com/watch?v=QhxwCPwCrOQ) + [12 Mins to Toned Total Body Workout](https://www.youtube.com/watch?v=ph1NjaXvOvg) + [Beautiful Body Pilates](https://www.youtube.com/watch?v=I6xCb7s5CE4)
-            - [ ] 12. [Extreme Weightless Arm Toner](https://www.youtube.com/watch?v=bt-bXFHGJqA) + [12 Mins to Toned Arms Workout](https://www.youtube.com/watch?v=nejA_F4D2ps)
+            - [x] 12. [Extreme Weightless Arm Toner](https://www.youtube.com/watch?v=bt-bXFHGJqA) + [12 Mins to Toned Arms Workout](https://www.youtube.com/watch?v=nejA_F4D2ps)
             - [ ] 13. [Peach Booty & Thigh Shaper](https://www.youtube.com/watch?v=XjiRVCEokWE) + [Hips Butt n’ Thighs Super Shaper Workout](https://www.youtube.com/watch?v=HHn-oT3CEF4)
             - [ ] 14. [RECOVERY] [21 Min Flexibility Fix](https://www.youtube.com/watch?v=DaKY3Y-pLVs)
             - [ ] 15. [30 Min Head to Toe Tone](https://www.youtube.com/watch?v=Yd0ywRGT-zg) + [FAT BURN TOTAL BODY FOCUS](https://www.youtube.com/watch?v=C4SZZupzcLs)
