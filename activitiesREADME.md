@@ -27,7 +27,7 @@
             - [x] 12. [Extreme Weightless Arm Toner](https://www.youtube.com/watch?v=bt-bXFHGJqA) + [12 Mins to Toned Arms Workout](https://www.youtube.com/watch?v=nejA_F4D2ps)
             - [x] 13. [Peach Booty & Thigh Shaper](https://www.youtube.com/watch?v=XjiRVCEokWE) + [Hips Butt n’ Thighs Super Shaper Workout](https://www.youtube.com/watch?v=HHn-oT3CEF4)
             - [x] 14. [RECOVERY] [21 Min Flexibility Fix](https://www.youtube.com/watch?v=DaKY3Y-pLVs) *this requires a tennis ball, instead do this:* [Stretches You Need After a Stressful Day](https://www.youtube.com/watch?v=NRWz91kQuJk)
-            - [ ] 15. [30 Min Head to Toe Tone](https://www.youtube.com/watch?v=Yd0ywRGT-zg) + [FAT BURN TOTAL BODY FOCUS](https://www.youtube.com/watch?v=C4SZZupzcLs)
+            - [x] 15. [30 Min Head to Toe Tone](https://www.youtube.com/watch?v=Yd0ywRGT-zg) *includes dumbbells :)* + [FAT BURN TOTAL BODY FOCUS](https://www.youtube.com/watch?v=C4SZZupzcLs)
             - [ ] 16. [Abdominal Destruction](https://www.youtube.com/watch?v=-011-zi4caM) + [Perfect 10 Abs!](https://www.youtube.com/watch?v=PNMycpSbQEI)
             - [ ] 17. [30 Min Extreme Butt Shaping Workout](https://www.youtube.com/watch?v=agIYYK8KjDg) + [Butt Lift + Ab Chisel](https://www.youtube.com/watch?v=64uh1RSGgd4)
             - [ ] 18. [12 Mins to Burn Fat](https://www.youtube.com/watch?v=xEoCXW09-pk) + [Silent Death Cardio](https://www.youtube.com/watch?v=tfTCykKtE7M) + [Crazy Abs, Butt & Legs Workout](https://www.youtube.com/watch?v=nlcsCAh9WJE)
