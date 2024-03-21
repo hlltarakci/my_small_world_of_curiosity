@@ -70,10 +70,14 @@
 - [ ] [Man with a Movie Camera, 1929](https://www.imdb.com/title/tt0019760/) / [where to watch](https://www.youtube.com/watch?v=cGYZ5847FiI)
 - [ ] [Russia's First Revolutionaries: The Decembrists ALL PARTS](https://www.youtube.com/watch?v=yXx_jLEG4KU)
 - [ ] [Revolt Against the Tsar: The Decembrists](https://www.youtube.com/watch?v=1nC6eA8yy8g)
-- [ ] The Decembrists - **from [Russian history channel](https://www.youtube.com/@russianhistory/playlists) :)** 
-      - [ ] [The Decembrists. Episode 1. Documentary Film. Russian History](https://www.youtube.com/watch?v=eK28uS-J22E)
-      - [ ] [The Decembrists. Episode 2. Documentary Film. Russian History](https://www.youtube.com/watch?v=UTSG3XdX4mg)
+- [ ] [SERIES]The Decembrists - **from [Russian history channel](https://www.youtube.com/@russianhistory/playlists) :)** 
+      - [ ] [The Decembrists. Episode 1](https://www.youtube.com/watch?v=eK28uS-J22E)
+      - [ ] [The Decembrists. Episode 2](https://www.youtube.com/watch?v=UTSG3XdX4mg)
 - [ ] [SERIES][1812. Napoleonic Wars in Russia](https://www.youtube.com/watch?v=kQbnF8aUEkY&list=PLwCxcPJc6BausoX4l3qiQc8KSsG3gEkte)
+      - [ ] [1812. Napoleonic Wars in Russia. Episode 1](https://www.youtube.com/watch?v=kQbnF8aUEkY&list=PLwCxcPJc6BausoX4l3qiQc8KSsG3gEkte&index=1)
+      - [ ] [1812. Napoleonic Wars in Russia. Episode 2](https://www.youtube.com/watch?v=sgb9YvAou_0&list=PLwCxcPJc6BausoX4l3qiQc8KSsG3gEkte&index=2)
+      - [ ] [1812. Napoleonic Wars in Russia. Episode 3](https://www.youtube.com/watch?v=gf-UGdufnxk&list=PLwCxcPJc6BausoX4l3qiQc8KSsG3gEkte&index=3)
+      - [ ] [1812. Napoleonic Wars in Russia. Episode 4](https://www.youtube.com/watch?v=QV1SMQZoxCE&list=PLwCxcPJc6BausoX4l3qiQc8KSsG3gEkte&index=4)
 - [ ] [SERIES][The Romanovs. The History of the Russian Dynasty](https://www.youtube.com/watch?v=Z0Nbnqnhk-E&list=PLwCxcPJc6Baub50OKqquZcIdS-TEKDq46)
 - [ ] [SERIES][The Unknown War, 1978](https://www.imdb.com/title/tt0483223/) - Documentary film history of the Nazi-Soviet conflict in world War II - [wiki](https://en.wikipedia.org/wiki/The_Unknown_War_(TV_series)) - [where to watch](https://www.youtube.com/playlist?list=PL3fsZgrmuTzf-kHPZr_0SUibRRyUqpp0m)
      - [ ] [The Unknown War, Episode 1: June 22, 1941](https://www.youtube.com/watch?v=wI3rqO42lVc)
