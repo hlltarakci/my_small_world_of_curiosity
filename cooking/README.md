@@ -348,8 +348,6 @@
 4. Yarisina rendelenmis peynir, yesillik ekle. Erimesini bekle.
 5. Kapatip, servis tabagina al.
 
-yap.
-
 ## Omelette with Two Cheese
 [<img src="omelette_with_two_cheese.jpg" width="500"/>](omelette_with_two_cheese.jpg)
 1. 1 yemek kasigi tereyegi tavada erit.
