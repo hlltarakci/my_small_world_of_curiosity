@@ -238,7 +238,6 @@
 5. Kiymali ic harc: 250 gr kiyma + 1 ince kiyilmis sogan + 1 tatli kasigintuz + biraz karabiber  ==> Iyice yogur. Ilik suyla islat, kivami hamura surulecek gibi olmali.
 6. Protip: Aslinda olcusu yok. Unun suya verdigi tepki ununa gore degisiyor. Istenilen buyuklukte hamur olana kadar azar azar ilik su ve un ekleyip, dengeleyerek hamuru tut.
 
-
 ## [Kavurma](https://en.wikipedia.org/wiki/Kavurma)
 <img src="kavurma.jpg" width="500"/>
 
@@ -259,7 +258,6 @@
 <img src="meatball_v2.jpg" width="500"/>
 
 1. 500 gr dana kiyma + 1 rendelenmis sogan + 2-3 dilim ekmek ici + 1 yumurta + tuz + karabiber. Kofteyi yogurduktan sonra bir gece beklet, ertesi gun sekil ver.
-
 
 ## [Tavuklu Pilav (Chicken Pilaf)](https://goturkiye.com/10-iconic-street-foods-in-turkiye)
 <img src="tavuklu_pilav.jpg" width="500"/>
@@ -348,7 +346,18 @@
 2. 2 yumurta + 1/2 cay kasigi tuz: cirp
 3. Yumurtalari tavaya al, kenarini cektirerek pisir.
 4. Yarisina rendelenmis peynir, yesillik ekle. Erimesini bekle.
-5. Kapatipnservis tabagina al.
+5. Kapatip, servis tabagina al.
+
+yap.
+
+## Omelette with Two Cheese
+[<img src="omelette_with_two_cheese.jpg" width="500"/>](omelette_with_two_cheese.jpg)
+1. 1 yemek kasigi tereyegi tavada erit.
+2. 2 yumurta + 1/2 cay kasigi tuz: cirp
+3. Bir avuc kadar ufalanmis beyaz peynir + bir tutam kekik (ya da kiyilmis dereotu) + bir tutam karabiber + cok az corekotu ekle. Cirp.
+4. Yumurtali karisimi tavaya al, kenarini cektirerek pisir.
+5. Cevirip obur tarafini da pisir.
+6. Tabaga alinca sicakken rendelenmis mozarella (ya da kasar peyniri) ekle ve rulo yap.
 
 ## Fried Anchovies (Hamsi Tava)
 [<img src="fried_anchovies.jpg" width="500"/>](fried_anchovies.jpg)
@@ -385,7 +394,7 @@
 # AIRFRYER RECIPES
 ## Kumpir (Jacket potato)
 [<img src="kumpir.jpg" width="500"/>](kumpir.jpg)
-1. Duzgun bicimli patatesleri 200 derecede 45 dakika kadar pisir.
+1. Duzgun bicimli patatesleri yika, catalla delikler ac, iyice kurula. 200 derecede 45 dakika kadar pisir.
 2. Sicakken ortadan kes. Icine 25 gr kadar tereyagi koy. Tuz ekle. Iyice karistir. Icine rendelenmis mozarella peyniri koy, iyice karistir, peynir patateste erisin.
 3. Uzerine rendelenmis mozarella, misir ve pesto sosu ile servis yap. Istege gore kornison, zeytin, sosis vs. de eklenebilir.
 
