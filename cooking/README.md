@@ -238,6 +238,13 @@
 5. Kiymali ic harc: 250 gr kiyma + 1 ince kiyilmis sogan + 1 tatli kasigintuz + biraz karabiber  ==> Iyice yogur. Ilik suyla islat, kivami hamura surulecek gibi olmali.
 6. Protip: Aslinda olcusu yok. Unun suya verdigi tepki ununa gore degisiyor. Istenilen buyuklukte hamur olana kadar azar azar ilik su ve un ekleyip, dengeleyerek hamuru tut.
 
+**Alternatif:**
+
+<img src="tavada_hamur.jpg" width="500"/>
+
+1. Hamuru tutup yuvarlak acinca, yagsiz tavada onlu arkali kizart. Cok kurutmadan, pisince al.
+2. Icine arzuya gore, tereyag, peynir, pesto sosu (acika) koy, wrap yap. Sicakken tuket.
+
 ## [Kavurma](https://en.wikipedia.org/wiki/Kavurma)
 <img src="kavurma.jpg" width="500"/>
 
