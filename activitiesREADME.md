@@ -32,7 +32,7 @@
             - [x] 17. [30 Min Extreme Butt Shaping Workout](https://www.youtube.com/watch?v=agIYYK8KjDg) + [Butt Lift + Ab Chisel](https://www.youtube.com/watch?v=64uh1RSGgd4)
             - [x] 18. [12 Mins to Burn Fat](https://www.youtube.com/watch?v=xEoCXW09-pk) + [Silent Death Cardio](https://www.youtube.com/watch?v=tfTCykKtE7M) + [Crazy Abs, Butt & Legs Workout](https://www.youtube.com/watch?v=nlcsCAh9WJE)
             - [ ] 19. [20 Min Lean Arms Cardio Pilates Workout](https://www.youtube.com/watch?v=Ai8KfyJ69Bc) + [The ULTIMATE Weightless Arm Sculpt](https://www.youtube.com/watch?v=EEuFP9kLjNo)
-            - [ ] 20. [30 Min EXTREME Pilates Thigh Workout](https://www.youtube.com/watch?v=yU5uWAMed7k) + [Sculpted Thighs & Tight Abs](https://www.youtube.com/watch?v=FikdzDw4uHo)
+            - [x] 20. [30 Min EXTREME Pilates Thigh Workout](https://www.youtube.com/watch?v=yU5uWAMed7k) + [Sculpted Thighs & Tight Abs](https://www.youtube.com/watch?v=FikdzDw4uHo)
             - [x] 21. [RECOVERY] [Feel-Good Stretches for Splits](https://www.youtube.com/watch?v=J8KQ5zLBOEI)
             - [ ] 22. [Lean & Sculpted Body](https://www.youtube.com/watch?v=QK72EKtdPkQ) + [Butt Lift & Slim Thighs](https://www.youtube.com/watch?v=JYA_tmos1-4)
             - [ ] 23. [Snatched Waist & Shapely Thighs](https://www.youtube.com/watch?v=sDzubGfNhew) + [Beautiful Abs](https://www.youtube.com/watch?v=lr5oEBVUevs)
