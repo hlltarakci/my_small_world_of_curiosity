@@ -36,7 +36,7 @@
             - [x] 21. [RECOVERY] [Feel-Good Stretches for Splits](https://www.youtube.com/watch?v=J8KQ5zLBOEI)
             - [ ] 22. [Lean & Sculpted Body](https://www.youtube.com/watch?v=QK72EKtdPkQ) + [Butt Lift & Slim Thighs](https://www.youtube.com/watch?v=JYA_tmos1-4)
             - [ ] 23. [Snatched Waist & Shapely Thighs](https://www.youtube.com/watch?v=sDzubGfNhew) + [Beautiful Abs](https://www.youtube.com/watch?v=lr5oEBVUevs)
-            - [ ] 24. [Bombshell Bootification](https://www.youtube.com/watch?v=QlhoB9_ZZGw) + [Butt Workout for a Nice Shaped Booty](https://www.youtube.com/watch?v=Cxs70j4DCT8)
+            - [x] 24. [Bombshell Bootification](https://www.youtube.com/watch?v=QlhoB9_ZZGw) *includes resistance band loop and dumbbells :)* + [Butt Workout for a Nice Shaped Booty](https://www.youtube.com/watch?v=Cxs70j4DCT8)
             - [ ] 25. [Flat Belly Fat Burner](https://www.youtube.com/watch?v=dOKsHrvPNVk) + [8 Min At Home Cardio Workout](https://www.youtube.com/watch?v=MM_tQtO3QC8) + [10 Min Fat Burning Cardio Workout](https://www.youtube.com/watch?v=Wg6-xYyB0cg)
             - [ ] 26. [21 Min Total Arm Tone Workout](https://www.youtube.com/watch?v=uA4ljsDHnAU) + [20 Min Weightless Arm Isolate Workout](https://www.youtube.com/watch?v=x6eyr0wxlmk)
             - [ ] 27. [20 Min Leg Slimming Cardio Pilates Workout](https://www.youtube.com/watch?v=KpCPgNer_Oo) + [Sculpted Legs in Skinny Leggings Workout](https://www.youtube.com/watch?v=yhTxFOVAZtg) + [Toned Thighs Workout](https://www.youtube.com/watch?v=ymOvg-GSX2s)
