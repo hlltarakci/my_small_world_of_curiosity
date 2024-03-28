@@ -7,6 +7,8 @@
 - [ ] [ONLINE][UDEMY: Character Art School: Complete Character Drawing Course (28 hours)](https://www.udemy.com/course/character-art-school-complete-character-drawing/)
 - [x] [ONLINE][**UDEMY: Three Hour Cyrillic (2 hours)**](https://www.udemy.com/course/russian-alphabet-mastery/)
 - [x] [ONLINE][**UDEMY: Russian Alphabet Course (1,5 hours)**](https://www.udemy.com/course/russian-alphabet-course/) - [Russian alphabet (РУССКИЙ АЛЬФАВИТ)](https://en.wikipedia.org/wiki/Russian_alphabet)
+- [ ] [ONLINE][UDEMY: Learn Russian for Beginners: The Ultimate 100-Lesson Course (6.5 hours)](https://www.udemy.com/course/learn-russian-for-beginners/?couponCode=KEEPLEARNING)
+- [ ] [ONLINE][UDEMY: Complete Russian Course for Beginners (A1-A2) (12.5 hours)](https://www.udemy.com/course/complete-russian-course-for-beginners/?couponCode=KEEPLEARNING)
 - [ ] [ONLINE][UDEMY: The Complete Russian Language Course (27 hours)](https://www.udemy.com/course/the-complete-russian-language-course/)
 - [ ] [ONLINE][Understanding Russia: A Cultural History, by Lynne Ann Hartnett (24 lectures)](https://www.thegreatcourses.com/courses/understanding-russia-a-cultural-history) - [Available on Amazon](https://www.amazon.co.uk/Understanding-Russia-A-Cultural-History/dp/B087VQK95R) - [available for free :)](https://www.youtube.com/playlist?list=PLez3PPtnpncRCc9iDxz2fHbLGhh5xgVt3)
     - [x] [**01 A Russian Past, the Putin Future**](https://www.youtube.com/watch?v=Zr6cBtokEQw&list=PLez3PPtnpncRCc9iDxz2fHbLGhh5xgVt3&index=1)
