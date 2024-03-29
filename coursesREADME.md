@@ -8,6 +8,8 @@
 - [x] [ONLINE][**UDEMY: Three Hour Cyrillic (2 hours)**](https://www.udemy.com/course/russian-alphabet-mastery/)
 - [x] [ONLINE][**UDEMY: Russian Alphabet Course (1,5 hours)**](https://www.udemy.com/course/russian-alphabet-course/) - [Russian alphabet (РУССКИЙ АЛЬФАВИТ)](https://en.wikipedia.org/wiki/Russian_alphabet)
 - [ ] [ONLINE][UDEMY: Learn Russian for Beginners: The Ultimate 100-Lesson Course (6.5 hours)](https://www.udemy.com/course/learn-russian-for-beginners/?couponCode=KEEPLEARNING)
+     - Mikhail Lomonosov: *"..because Russian has a grandeur of Spanish, the vivacity of French, the strength of German, the gentleness of Italian, and in addition to that, the wealth and brevity of Latin and Greek."*
+     - *"Indeed, Russian is one of the most interesting languages in the world. It's the king of Slavic languages. It's been said by language learners that if you learn this language, you can easily learn any other language in the world, no matter how difficult it may seem."*
 - [ ] [ONLINE][UDEMY: Complete Russian Course for Beginners (A1-A2) (12.5 hours)](https://www.udemy.com/course/complete-russian-course-for-beginners/?couponCode=KEEPLEARNING)
 - [ ] [ONLINE][UDEMY: The Complete Russian Language Course (27 hours)](https://www.udemy.com/course/the-complete-russian-language-course/)
 - [ ] [ONLINE][Understanding Russia: A Cultural History, by Lynne Ann Hartnett (24 lectures)](https://www.thegreatcourses.com/courses/understanding-russia-a-cultural-history) - [Available on Amazon](https://www.amazon.co.uk/Understanding-Russia-A-Cultural-History/dp/B087VQK95R) - [available for free :)](https://www.youtube.com/playlist?list=PLez3PPtnpncRCc9iDxz2fHbLGhh5xgVt3)
