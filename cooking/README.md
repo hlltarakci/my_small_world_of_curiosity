@@ -370,6 +370,13 @@
 2. Tuz ve misir unu ile hamsileri karistir.
 3. Cok az kizartmalik yag ile tavada kizart.
 
+## Mushroom Saute
+[<img src="mushroom_saute.jpg" width="500"/>](mushroom_saute.jpg)
+1. 1 orta boy sogan (yemeklik dogranmis) + 2-3 dis sarimsak (ince ince kiyilmis) -> 2 yemek kasigi siviyagda biraz oldur.
+2. 300 gr kadar mantari dogra ve tavaya ekle. Kavur.
+3. Suyunu salip biraz cakmeye baslayinca 1 cay kasigi tuz + yarim cay kasigi karabiber + yarim cay kasigi kirkizi biber + ceyrek cay kasigi chili flakes ekle.
+4. Suyunu cekince ocagi kapat, servis yap.
+
 ## Yumurtali Ekmek (Eggy Fried Bread for Breakfast)
 [<img src="yumurtali_ekmek.jpg" width="500"/>](yumurtali_ekmek.jpg)
 1. 2 yumurta + 1 cay kasigi tuz. Guzelce cirp.
