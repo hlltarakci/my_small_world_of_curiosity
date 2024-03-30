@@ -228,6 +228,13 @@
 6. Dinlenmis hamuru 4 parcaya, her parcayi 8'e bol. Yuvarlak yap, ic harc ekle, kapat.
 7. Kizgin siviyagda 4 sefer halinde kizart. [Orjinal tarif](https://www.youtube.com/watch?v=sVVFPrfDzn8&t=4s)
 
+## Russian [bliny (блины)](https://en.wikipedia.org/wiki/Blini) with Minced Meat
+<img src="russian_bliny_with_minced_meat.jpg" width="500"/>
+
+1. Krep (bliny) -> 1 su bardagi sut + 1 yumurta + yarim cay kasigi tuz iyice cirp. Yarim su bardagi un ekle, cirp. Koyulmadiysa yarim su bardagi un daha ekle. Boza kivaminda ve topaksiz olmali. Cok sivi olduysa un, cok kati olduysa sut veya su ekle. Tavanin her yerine ancak gelecek sekilde yag puskurt ve krepleri pisir. Normal boyutta bir tavada 4 tane cikiyor.
+2. Ici -> 1 sogan (ince ince kiyilmis) + 2-3 dis sarimsak (ince ince kiyilmis), 2 yemek kasigi yagda rengi pembelesene kadar kavur. 200-250 gr kadar kiyma ekle, kavur. 1 cay kasigi tuz + yarim cay kasigi karabiber ekle.
+3. Kreplere kiymayi koy ve sekil ver. [Orjinal tarif](https://www.rbth.com/russian-kitchen/333357-russian-bliny-crepe-wraps-meat-recipe)
+
 ## [Chebureki/Cigborek](https://en.wikipedia.org/wiki/Chebureki)
 <img src="cheburek_cigborek_v2.jpg" width="500"/>
 
