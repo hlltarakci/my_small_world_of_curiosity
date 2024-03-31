@@ -37,6 +37,41 @@
 - [ ] 31. [Lower Abs & Booty Blast](https://www.youtube.com/watch?v=iCeGf5MZJto) + [10 Min Side Booty Shaper](https://www.youtube.com/watch?v=4uRIozcsebQ) + [5 Best Butt Exercises to Sculpt a Cute Booty](https://www.youtube.com/watch?v=-7cylyuk84o)
 
 ### Monthly - Version 2 - [Move with Nicole](https://movewithnicole.com.au/pages/weekly-plans)
+- [ ] 1. [20 MIN EXPRESS PILATES WORKOUT || Everyday Pilates For Energy (Moderate)](https://www.youtube.com/watch?v=ezke0GlKeM4)
+- [ ] 2. [30 MIN CARDIO PILATES || At-Home Full Body Workout](https://www.youtube.com/watch?v=AeiqiA6FpmI)
+- [ ] 3. [30 MIN YOGA FLOW || Feel Good Yoga For Flexibility](https://www.youtube.com/watch?v=RvCntPg7oPE)
+- [ ] 4. [30 MIN FULL BODY WORKOUT || Power Pilates With Weights (Intermediate)](https://www.youtube.com/watch?v=bkiatp2muRs)
+- [ ] 5. [20 MIN MORNING PILATES || Full Body Workout](https://www.youtube.com/watch?v=UcRFvDEU0EA)
+- [ ] 6. [35 MIN DANCER PILATES WORKOUT || Full Body Sculpt (No Equipment)](https://www.youtube.com/watch?v=OPyJVW7BMqU)
+- [ ] 7. [REST]
+- [ ] 8. [30 MIN FULL BODY WORKOUT || At-Home Pilates (No Equipment)](https://www.youtube.com/watch?v=lNftFawOAUM)
+- [ ] 9. [30 MIN BARRE WORKOUT || Dancer Sculpt (No Equipment)](https://www.youtube.com/watch?v=Y_e85p7MuEw)
+- [ ] 10. [30 MIN ARMS & ABS WORKOUT || At-Home Pilates](https://www.youtube.com/watch?v=fs84obrlYoE)
+- [ ] 11. [25 MIN MORNING YOGA FLOW || Energising Yoga Flow To Feel Your Best](https://www.youtube.com/watch?v=dqIZnyUtKXI)
+- [ ] 12. [20 MIN PILATES CARDIO & ABS || Low Impact Workout (Stretch Included)](https://www.youtube.com/watch?v=1jZVEqgeO4U)
+- [ ] 13. [35 MIN FULL BODY WORKOUT || Intermediate Mat Pilates (No Equipment)](https://youtu.be/9Te82opGhiQ?feature=shared)
+- [ ] 14. [REST]
+- [ ] 15. [30 MIN MORNING PILATES || Full Body Mat Pilates Workout (Moderate)](https://www.youtube.com/watch?v=C3LB3Qszx2I)
+- [ ] 16. [40 MIN FULL BODY WORKOUT || Intermediate Pilates With Mini Band (Optional)](https://www.youtube.com/watch?v=e4A58O1oLJc)
+- [ ] 17. [20 MIN EVERYDAY YOGA || Daily Yoga Flow To Stretch & Feel Good](https://www.youtube.com/watch?v=98rmMgBwJXE)
+- [ ] 18. [30 MIN STANDING PILATES || Full Body Workout (No Equipment)](https://www.youtube.com/watch?v=ASAWSZ3Zrns)
+- [ ] 19. [35 MIN UPPER BODY & CORE WORKOUT || At-Home Pilates (No Equipment)](https://www.youtube.com/watch?v=Q98t9cbp-xo)
+- [ ] 20. [25 MIN CARDIO BARRE & PILATES || At-Home Full Body Workout](https://www.youtube.com/watch?v=3peZNCsYJws)
+- [ ] 21. [REST]
+- [ ] 22. [30 MIN ABS & BOOTY WORKOUT || Intermediate Mat Pilates (No Equipment)](https://www.youtube.com/watch?v=MvSK7dBbt8Q)
+- [ ] 23. [25 MIN PILATES YOGA WORKOUT || Power Yoga For Strength](https://www.youtube.com/watch?v=e8TuZbVK3h8)
+- [ ] 24. [25 MIN PILATES WORKOUT || Pilates For Better Posture & A Healthy Spine (Moderate)](https://www.youtube.com/watch?v=imWc_27U9w8)
+- [ ] 25. [FULL BODY PILATES HIIT WORKOUT || No Equipment (Warm Up & Cool Down Included)](https://www.youtube.com/watch?v=U6niiU5595Y)
+- [ ] 26. [30 MIN MORNING PILATES || Energising Full Body Workout (Moderate)](https://www.youtube.com/watch?v=LbG1ovCGp-E)
+- [ ] 27. [40 MIN FULL BODY WORKOUT || Power Pilates With Weights (Intermediate)](https://www.youtube.com/watch?v=dOO6-o7ObnU)
+- [ ] 28. [REST]
+- [ ] 29. [30 MIN FULL BODY WORKOUT || Intermediate Power Pilates (No Equipment)](https://www.youtube.com/watch?v=zdz8c9a-rDo)
+- [ ] 30. [35 MIN PILATES WORKOUT || Pilates For A Strong & Healthy Back (Intermediate)](https://www.youtube.com/watch?v=AMLSBnAxLbU)
+- [ ] 31. [20 MIN PILATES HIIT || Low Impact & No Repeat Workout (Stretch Included)](https://www.youtube.com/watch?v=6RIbWni5JVk)
+- [ ] 32. [20 MIN FEEL GOOD YOGA || Yoga Flow To Stretch & Feel Good](https://www.youtube.com/watch?v=poZBpvLTHNw)
+- [ ] 33. [35 MIN BARRE & PILATES WORKOUT || Full Body Sculpt](https://www.youtube.com/watch?v=8JWZehPF9_k)
+- [ ] 34. [30 MIN YOGA PILATES FLOW || Yoga Workout For Healthy & Happy Hips](https://www.youtube.com/watch?v=HIuJA4xS4WM)
+- [ ] 35. [REST]
      
 ### Monthly - Version 3 - [Summer Sculpt (Cassey)](https://www.blogilates.com/blog/28daysummersculpt/)
 ### Monthly - Version 4 - [Beginner Calendar (Cassey)](https://www.blogilates.com/blog/new-beginners-calendar-2-0-for-2015/)
