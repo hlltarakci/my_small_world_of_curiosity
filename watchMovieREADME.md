@@ -388,7 +388,7 @@
          - [x] [**Seventeen Moments of Spring, Part 3**](https://www.imdb.com/title/tt1981441/?ref_=ttep_ep3) - [where to watch](https://www.youtube.com/watch?v=0WR9xqeCXTk) - [**Двое в кафе - фрагмент музыки из к/ф "17 Мгновений Весны"**](https://www.youtube.com/watch?v=xMWkTOJxbyA)
          - [x] [**Seventeen Moments of Spring, Part 4**](https://www.imdb.com/title/tt1981442/?ref_=ttep_ep4) - [where to watch](https://www.youtube.com/watch?v=bFon8e2yWHs)
          - [x] [**Seventeen Moments of Spring, Part 5**](https://www.imdb.com/title/tt1983885/?ref_=ttep_ep5) - [where to watch](https://www.youtube.com/watch?v=VfO3tDOOMZU)
-         - [ ] [Seventeen Moments of Spring, Part 6](https://www.imdb.com/title/tt1983886/?ref_=ttep_ep6) - [where to watch](https://www.youtube.com/watch?v=G7WtXrI4r5M)
+         - [x] [**Seventeen Moments of Spring, Part 6**](https://www.imdb.com/title/tt1983886/?ref_=ttep_ep6) - [where to watch](https://www.youtube.com/watch?v=G7WtXrI4r5M)
          - [ ] [Seventeen Moments of Spring, Part 7](https://www.imdb.com/title/tt1985757/?ref_=ttep_ep7) - [where to watch](https://www.youtube.com/watch?v=Tr1-bE3WVi0)
          - [ ] [Seventeen Moments of Spring, Part 8](https://www.imdb.com/title/tt1985758/?ref_=ttep_ep8) - [where to watch](https://www.youtube.com/watch?v=Quk3RxnWB7E)
          - [ ] [Seventeen Moments of Spring, Part 9](https://www.imdb.com/title/tt1985759/?ref_=ttep_ep9) - [where to watch](https://www.youtube.com/watch?v=4ItqhfxDAiA)
