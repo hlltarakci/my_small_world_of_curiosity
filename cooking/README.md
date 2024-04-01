@@ -391,6 +391,12 @@
 3. Bir yemek kasigi un ekle, cirp (az olsun, dolu dolu olmayacak)
 4. Dilimlenmis ekmekleri onlu arkali bula, tavada az yagda kizart. Bayat ekmek daha guzel cektigi icin daha lezzetli oluyor.
 
+## Avocado Toast
+[<img src="avocado_toast.jpg" width="500"/>](avocado_toast.jpg)
+1. Bir avocadonun icini cikar. Yarim limon suyu + tuz + karabiber + pul biber ekle. Catalle ez.
+2. Kizarmis ekmegin uzerine yag. Biraz zaytinyagi gezdir.
+
+
 ## Green Peppers with Creamy Sauce (for Breakfast)
 [<img src="green_peppers_with_creamy_sauce.jpg" width="500"/>](green_peppers_with_creamy_sauce.jpg)
 1. Tavaya biberleri kucuk kucuk dogra, 2-3 yemek kasigi siviyag ile hafif pisir.
