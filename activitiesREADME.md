@@ -26,7 +26,7 @@
 - [x] 20. [30 Min EXTREME Pilates Thigh Workout](https://www.youtube.com/watch?v=yU5uWAMed7k) + [Sculpted Thighs & Tight Abs](https://www.youtube.com/watch?v=FikdzDw4uHo)
 - [x] 21. [RECOVERY] [Feel-Good Stretches for Splits](https://www.youtube.com/watch?v=J8KQ5zLBOEI)
 - [x] 22. [Lean & Sculpted Body](https://www.youtube.com/watch?v=QK72EKtdPkQ) + [Butt Lift & Slim Thighs](https://www.youtube.com/watch?v=JYA_tmos1-4)
-- [ ] 23. [Snatched Waist & Shapely Thighs](https://www.youtube.com/watch?v=sDzubGfNhew) + [Beautiful Abs](https://www.youtube.com/watch?v=lr5oEBVUevs)
+- [x] 23. [Snatched Waist & Shapely Thighs](https://www.youtube.com/watch?v=sDzubGfNhew) + [Beautiful Abs](https://www.youtube.com/watch?v=lr5oEBVUevs)
 - [x] 24. [Bombshell Bootification](https://www.youtube.com/watch?v=QlhoB9_ZZGw) *includes resistance band loop and dumbbells :)* + [Butt Workout for a Nice Shaped Booty](https://www.youtube.com/watch?v=Cxs70j4DCT8)
 - [ ] 25. [Flat Belly Fat Burner](https://www.youtube.com/watch?v=dOKsHrvPNVk) + [8 Min At Home Cardio Workout](https://www.youtube.com/watch?v=MM_tQtO3QC8) + [10 Min Fat Burning Cardio Workout](https://www.youtube.com/watch?v=Wg6-xYyB0cg)
 - [ ] 26. [21 Min Total Arm Tone Workout](https://www.youtube.com/watch?v=uA4ljsDHnAU) + [20 Min Weightless Arm Isolate Workout](https://www.youtube.com/watch?v=x6eyr0wxlmk)
