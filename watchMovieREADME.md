@@ -391,7 +391,7 @@
          - [x] [**Seventeen Moments of Spring, Part 6**](https://www.imdb.com/title/tt1983886/?ref_=ttep_ep6) - [where to watch](https://www.youtube.com/watch?v=G7WtXrI4r5M)
          - [x] [**Seventeen Moments of Spring, Part 7**](https://www.imdb.com/title/tt1985757/?ref_=ttep_ep7) - [where to watch](https://www.youtube.com/watch?v=Tr1-bE3WVi0)
          - [x] [**Seventeen Moments of Spring, Part 8**](https://www.imdb.com/title/tt1985758/?ref_=ttep_ep8) - [where to watch](https://www.youtube.com/watch?v=Quk3RxnWB7E)
-         - [ ] [Seventeen Moments of Spring, Part 9](https://www.imdb.com/title/tt1985759/?ref_=ttep_ep9) - [where to watch](https://www.youtube.com/watch?v=4ItqhfxDAiA)
+         - [x] [**Seventeen Moments of Spring, Part 9**](https://www.imdb.com/title/tt1985759/?ref_=ttep_ep9) - [where to watch](https://www.youtube.com/watch?v=4ItqhfxDAiA) - *amazing song!* [**Где-то далеко (Somewhere Far Away)**](https://youtu.be/howt8gN1ieI?si=0_kffMWbh8-bd5mX)
          - [ ] [Seventeen Moments of Spring, Part 10](https://www.imdb.com/title/tt1985754/?ref_=ttep_ep10) - [where to watch](https://www.youtube.com/watch?v=kMlPix9jbv0)
          - [ ] [Seventeen Moments of Spring, Part 11](https://www.imdb.com/title/tt1985755/?ref_=ttep_ep11) - [where to watch](https://www.youtube.com/watch?v=s85zvDLxydY)
          - [ ] [Seventeen Moments of Spring, Part 12](https://www.imdb.com/title/tt1985756/?ref_=ttep_ep12) - [where to watch](https://www.youtube.com/watch?v=AV6LcmTlZhA)
