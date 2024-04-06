@@ -294,6 +294,16 @@
 5. Bulgurun ustunu gececek kadar sicak su koy. Et suyu kullanmak ya da bulyon eklemek lezzetini arttirir.
 6. Tencerenin altini kis, kapagini kapat. Suyunu cekene kadar pisir.
 
+## Pea Stew with Minced Beef
+<img src="pea_stew_with_minced_beef.jpg" width="500"/>
+
+1. Tencereye 3 yemek kasigi zeytinyagi koy, azicik isit.
+2. Ince ince kiyilmis bir sogan ekle, biraz kendini salsin.
+3. 200 gram kadar kiyma ekle, kavur.
+4. 1 havuc ve 1 patates kup kup dogra (garnitur gibi) tencereye ekle.
+5. 750 gram kadar bezelye ekle. 1 yemek kasigi salca (ya da 5-6 corba kasigi domates sosu) ekle.
+6. 1,5 su bardagi sicak su + 1 cay kasigi tuz ekle. Kapagini kapatip, kisik ateste pisir. Arada karistir, suyunu kontrol et. 30-40 dakikada pisiyor.
+
 ## [Et Sote (Beef Saute)](https://www.dreamstime.com/turkish-et-sote-traditional-turkish-et-sote-meat-saute-bread-vegetables-image218473270)
 <img src="et_sote.jpg" width="500"/>
 
