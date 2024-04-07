@@ -1,4 +1,4 @@
-# Practice Russian 
+# Practice Russian :)
 
 - [Russian Level 1](https://www.youtube.com/@RussianLevel1/videos)
     - [ ] [Books and Literature Vocabulary in Russian (with pictures and example sentences)](https://www.youtube.com/watch?v=o3wIZZKS7Ec)
@@ -8,3 +8,10 @@
 - For kids content :)  
     - [ ] Learn Russian for Kids - Numbers, Colors & More](https://www.youtube.com/watch?v=oE_QegYAvTc)
     - [ ] Watch [Masha and the Bear (Маша и Медведь)](https://www.netflix.com/gb/title/70286901) in Russian
+    - [Learn Russian with cartoons :)](https://www.youtube.com/@RussianCartoons)
+         - [ ] [Learning Russian through Fairy Tales](https://www.youtube.com/playlist?list=PLtB2jErS8LTtVJzbEXTX8u4MJderupbME)
+             - [ ] [Learning Russian from books: Fairy Tale "Goldilocks and the three bears"](https://www.youtube.com/watch?v=_CCrP_saf7s&list=PLtB2jErS8LTtVJzbEXTX8u4MJderupbME&index=1)
+             - [ ] [Learning Russian from books: Fairy Tale "Cinderella"](https://www.youtube.com/watch?v=ReLmm2IBH2o&list=PLtB2jErS8LTtVJzbEXTX8u4MJderupbME&index=2)
+             - [ ] [Learning Russian from books: Fairy Tale "The small red feather"](https://www.youtube.com/watch?v=yLPyLVE7Ey8&list=PLtB2jErS8LTtVJzbEXTX8u4MJderupbME&index=3)
+             - [ ] [Learning Russian from books: Fairy Tale "The Small Wooden House"](https://www.youtube.com/watch?v=vo4_vaWGSR8&list=PLtB2jErS8LTtVJzbEXTX8u4MJderupbME&index=4)
+             - [ ] [Learning Russian from books: Fairy Tale "Repka"](https://www.youtube.com/watch?v=sppiMHBnjhU&list=PLtB2jErS8LTtVJzbEXTX8u4MJderupbME&index=5)
