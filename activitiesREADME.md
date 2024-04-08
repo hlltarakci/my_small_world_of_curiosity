@@ -33,7 +33,7 @@
 - [ ] 27. [20 Min Leg Slimming Cardio Pilates Workout](https://www.youtube.com/watch?v=KpCPgNer_Oo) + [Sculpted Legs in Skinny Leggings Workout](https://www.youtube.com/watch?v=yhTxFOVAZtg) + [Toned Thighs Workout](https://www.youtube.com/watch?v=ymOvg-GSX2s)
 - [x] 28. [RECOVERY] [Yoga for Splits](https://www.youtube.com/watch?v=iz0RPXRyFa0) + [Relax with Me Stretch Routine](https://www.youtube.com/watch?v=Qgz4o2lEXYQ)
 - [ ] 29. [Fat Melter & Ab Trainer](https://www.youtube.com/watch?v=B5HGDbiH5S4) + [Low Impact Total Body Workout](https://www.youtube.com/watch?v=GT2Uv05iY1k)
-- [ ] 30. [Abs, Butt and Thighs](https://www.youtube.com/watch?v=IjEBfs35HSc) + [Extreme Abs Workout 2](https://www.youtube.com/watch?v=wztS1XHqJBI)
+- [x] 30. [Abs, Butt and Thighs](https://www.youtube.com/watch?v=IjEBfs35HSc) + [Extreme Abs Workout 2](https://www.youtube.com/watch?v=wztS1XHqJBI)
 - [x] 31. [Lower Abs & Booty Blast](https://www.youtube.com/watch?v=iCeGf5MZJto) + [10 Min Side Booty Shaper](https://www.youtube.com/watch?v=4uRIozcsebQ) *add resistance band loop :)* + [5 Best Butt Exercises to Sculpt a Cute Booty](https://www.youtube.com/watch?v=-7cylyuk84o)
 
 ### Monthly - Version 2 - [Move with Nicole](https://movewithnicole.com.au/pages/weekly-plans)
