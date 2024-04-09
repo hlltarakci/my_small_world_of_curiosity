@@ -3,7 +3,7 @@
 [counter helper for extra unguided moves](https://youtu.be/-qCfKkME9lE?si=hNkukqV2egTbBYIB)
 
 ## MONTHLY PROGRAMS
-### Monthly - Version 1 - [**Monthly program (Cassey)**](https://www.blogilates.com/blog/the-blogilates-january-2024-workout-calendar/) 
+### Monthly - Version 1 - [**Monthly program (Cassey)**](https://www.blogilates.com/blog/the-blogilates-january-2024-workout-calendar/) - (Completion Dates: 9-April-2024)
 - [x] 1. [21 Min Cardio Burn N’ Tone Workout](https://www.youtube.com/watch?v=CMMaEFiY-nE) + [10 Min AntiBloating Cardio](https://www.youtube.com/watch?v=lQDrPsPodA0) + [WHOA WHOA!!! Whole Body Workout](https://www.youtube.com/watch?v=PUgcHQJuQys)
 - [x] 2. [Abdominal Etcher & Butt Enhancer](https://www.youtube.com/watch?v=T4adtRJ_b3g) + [3 Min Obliques Workout](https://www.youtube.com/watch?v=HRIOrIxsr6g)
 - [x] 3. [20 Min Natural Glute Enhancing Workout](https://www.youtube.com/watch?v=xGxbB72qBig) *add resistance band loop* + [Butt Lifting & Thigh Sculpting Workout](https://www.youtube.com/watch?v=h_rAyZgbSPM) + [5 Min Beautiful Booty](https://www.youtube.com/watch?v=3kfu9CPM4B8)
@@ -30,9 +30,9 @@
 - [x] 24. [Bombshell Bootification](https://www.youtube.com/watch?v=QlhoB9_ZZGw) *includes resistance band loop and dumbbells :)* + [Butt Workout for a Nice Shaped Booty](https://www.youtube.com/watch?v=Cxs70j4DCT8)
 - [x] 25. [Flat Belly Fat Burner](https://www.youtube.com/watch?v=dOKsHrvPNVk) + [8 Min At Home Cardio Workout](https://www.youtube.com/watch?v=MM_tQtO3QC8) + [10 Min Fat Burning Cardio Workout](https://www.youtube.com/watch?v=Wg6-xYyB0cg)
 - [x] 26. [21 Min Total Arm Tone Workout](https://www.youtube.com/watch?v=uA4ljsDHnAU) *includes dumbbells* + [20 Min Weightless Arm Isolate Workout](https://www.youtube.com/watch?v=x6eyr0wxlmk)
-- [ ] 27. [20 Min Leg Slimming Cardio Pilates Workout](https://www.youtube.com/watch?v=KpCPgNer_Oo) + [Sculpted Legs in Skinny Leggings Workout](https://www.youtube.com/watch?v=yhTxFOVAZtg) + [Toned Thighs Workout](https://www.youtube.com/watch?v=ymOvg-GSX2s)
+- [x] 27. [20 Min Leg Slimming Cardio Pilates Workout](https://www.youtube.com/watch?v=KpCPgNer_Oo) + [Sculpted Legs in Skinny Leggings Workout](https://www.youtube.com/watch?v=yhTxFOVAZtg) *use a chair, super bridges are awesome :)* + [Toned Thighs Workout](https://www.youtube.com/watch?v=ymOvg-GSX2s)
 - [x] 28. [RECOVERY] [Yoga for Splits](https://www.youtube.com/watch?v=iz0RPXRyFa0) + [Relax with Me Stretch Routine](https://www.youtube.com/watch?v=Qgz4o2lEXYQ)
-- [ ] 29. [Fat Melter & Ab Trainer](https://www.youtube.com/watch?v=B5HGDbiH5S4) + [Low Impact Total Body Workout](https://www.youtube.com/watch?v=GT2Uv05iY1k)
+- [x] 29. [Fat Melter & Ab Trainer](https://www.youtube.com/watch?v=B5HGDbiH5S4) + [Low Impact Total Body Workout](https://www.youtube.com/watch?v=GT2Uv05iY1k)
 - [x] 30. [Abs, Butt and Thighs](https://www.youtube.com/watch?v=IjEBfs35HSc) + [Extreme Abs Workout 2](https://www.youtube.com/watch?v=wztS1XHqJBI)
 - [x] 31. [Lower Abs & Booty Blast](https://www.youtube.com/watch?v=iCeGf5MZJto) + [10 Min Side Booty Shaper](https://www.youtube.com/watch?v=4uRIozcsebQ) *add resistance band loop :)* + [5 Best Butt Exercises to Sculpt a Cute Booty](https://www.youtube.com/watch?v=-7cylyuk84o)
 
