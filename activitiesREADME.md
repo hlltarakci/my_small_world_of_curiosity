@@ -38,7 +38,7 @@
 
 ### Monthly - Version 2 - [Move with Nicole](https://movewithnicole.com.au/pages/weekly-plans)
 - [x] 1. [20 MIN EXPRESS PILATES WORKOUT || Everyday Pilates For Energy (Moderate)](https://www.youtube.com/watch?v=ezke0GlKeM4) (x2)
-- [ ] 2. [30 MIN CARDIO PILATES || At-Home Full Body Workout](https://www.youtube.com/watch?v=AeiqiA6FpmI)
+- [x] 2. [30 MIN CARDIO PILATES || At-Home Full Body Workout](https://www.youtube.com/watch?v=AeiqiA6FpmI)
 - [ ] 3. [30 MIN YOGA FLOW || Feel Good Yoga For Flexibility](https://www.youtube.com/watch?v=RvCntPg7oPE)
 - [ ] 4. [30 MIN FULL BODY WORKOUT || Power Pilates With Weights (Intermediate)](https://www.youtube.com/watch?v=bkiatp2muRs)
 - [ ] 5. [20 MIN MORNING PILATES || Full Body Workout](https://www.youtube.com/watch?v=UcRFvDEU0EA)
