@@ -18,3 +18,7 @@
          - [x] [**Russian lessons – Lesson 1. Russian for beginners. Who or What Is It? Russian cartoon**](https://www.youtube.com/watch?v=YR3XqKknMQc)
          - [ ] [Russian Vocabulary](https://www.youtube.com/playlist?list=PLtB2jErS8LTteUuphcIUN7X-QUSHIEjKF)
              - [x] [**Fruits and berries in Russian Vocabulary, Learn Russian**](https://www.youtube.com/watch?v=eUmNv2aBv2Q&list=PLtB2jErS8LTteUuphcIUN7X-QUSHIEjKF&index=1)
+             - [x] [**Vegetables in Russian Vocabulary, Learn Russian**](https://www.youtube.com/watch?v=rWf_HGLwmuw&list=PLtB2jErS8LTteUuphcIUN7X-QUSHIEjKF&index=2)
+             - [x] [**At the Restaurant Conversation, Learn Russian**](https://www.youtube.com/watch?v=fC6YwggPNZQ&list=PLtB2jErS8LTteUuphcIUN7X-QUSHIEjKF&index=3)
+         - [In Russian From Afar](https://www.youtube.com/@InRussianFromAfar/videos)
+             - [ ] [Started Learning Russian? Watch This! Super Easy Story about Gopnik Fedya | Level A1](https://www.youtube.com/watch?v=IQmVidaTgr8)
