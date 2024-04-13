@@ -126,7 +126,7 @@
 - [x] [**Exploring Russia's Forgotten Nuclear Town**](https://www.youtube.com/watch?v=XUvgQbHFvWE) - [Kamskiye Polyany](https://en.wikipedia.org/wiki/Kamskiye_Polyany)
 - [ ] [Full Circle with Michael Palin: Alaska/Russia](https://www.imdb.com/title/tt1480995/) - [where to watch](https://www.youtube.com/watch?v=3Lp1Cer6iDY)
 - [ ] [SERIES][The Art of Russia, 2009](https://www.imdb.com/title/tt3112906/)
-     - [ ] [The Art of Russia 1of3 Out of the Forest](https://www.dailymotion.com/video/x3htrrg)
+     - [x] [**The Art of Russia 1of3 Out of the Forest**](https://www.dailymotion.com/video/x3htrrg) *"..**more than anything else is this extraordinary sense of intimacy**.."* - [Russian icon collection](https://russianicon.com/) - [How Russians invented memes in the 17th century: History of the ‘lubok’](https://www.rbth.com/arts/332642-russian-memes-lubok) - [20 stunning aerial views of Russian churches (PHOTOS)](https://www.rbth.com/travel/331467-aerial-photos-russian-churches)
      - [ ] [The Art of Russia 2of3 Roads to Revolution](https://www.dailymotion.com/video/x3htrrh)
      - [ ] [The Art of Russia 3of3 Smashing The Mould](https://www.dailymotion.com/video/x3htrri)
 - [ ] [2023 St. Petersburg International Cultural Forum](https://www.youtube.com/playlist?list=PLCFS2rj-qIVaKzpGCr7T7G211_pjzdcR5)
