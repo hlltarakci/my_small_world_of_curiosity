@@ -1,4 +1,4 @@
-## Personal Russian Course Cheatsheet 1
+## Russian Course Cheatsheet 1
 
  Notes from [**UDEMY: Learn Russian for Beginners: The Ultimate 100-Lesson Course**](https://www.udemy.com/course/learn-russian-for-beginners/?couponCode=KEEPLEARNING)
 
