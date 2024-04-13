@@ -1,6 +1,6 @@
-## Personal Russian Vocabulary Cheatsheet 1
+## Personal Russian Course Cheatsheet 1
 
- Vocabulary from [**UDEMY: Learn Russian for Beginners: The Ultimate 100-Lesson Course**](https://www.udemy.com/course/learn-russian-for-beginners/?couponCode=KEEPLEARNING)
+ Notes from [**UDEMY: Learn Russian for Beginners: The Ultimate 100-Lesson Course**](https://www.udemy.com/course/learn-russian-for-beginners/?couponCode=KEEPLEARNING)
 
 - здравствуйте
 - Здравствуйте, Вы - Павел Иванович?
