@@ -15,7 +15,7 @@
 
 ## Lessons (*100 Lessons*)
 See [lessons](https://learnrussian.github.io/lessons/)
-- [ ] 1. [Greeting and first simple phrases, professions. (Привет! Меня зовут Майкл! Я дизайнер. А ты?)](https://learnrussian.github.io/lessons/greeting-first-simple-phrases-professions/) - [*Russian unofficial names*](https://github.com/hlltarakci/my_small_world_of_curiosity/blob/main/russian/russian_unofficial_names_cheatsheet.png)
+- [x] 1. [**Greeting and first simple phrases, professions. (Привет! Меня зовут Майкл! Я дизайнер. А ты?)**](https://learnrussian.github.io/lessons/greeting-first-simple-phrases-professions/) - [*Russian unofficial names*](https://github.com/hlltarakci/my_small_world_of_curiosity/blob/main/russian/russian_unofficial_names_cheatsheet.png)
 - [ ] 2. [Who is it? What is it? Nouns and their gender. (Кто это? Что это?)](https://learnrussian.github.io/lessons/nouns-their-gender/)
 - [ ] 3. [First verbs; nationality; languages; “Where are you from?” (Откуда Вы? Вы говорите по-русски?)](https://learnrussian.github.io/lessons/first-verbs-nationality/)
 - [ ] 4. [Possessive pronouns and questions. (Как работа? Как твоя семья?)](https://learnrussian.github.io/lessons/possessive-pronouns-questions/)
