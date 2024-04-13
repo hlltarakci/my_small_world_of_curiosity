@@ -10,7 +10,7 @@
 - [x] [ONLINE][**UDEMY: Learn Russian for Beginners: The Ultimate 100-Lesson Course (6.5 hours)**](https://www.udemy.com/course/learn-russian-for-beginners/?couponCode=KEEPLEARNING) - [course cheatsheet](https://github.com/hlltarakci/my_small_world_of_curiosity/blob/main/russian/russian_course_cheatsheet_1.md) - *listening exercises (section 5&6) were a bit advanced, checking again after a while would be wise.*
      - Mikhail Lomonosov: *"..because Russian has a grandeur of Spanish, the vivacity of French, the strength of German, the gentleness of Italian, and in addition to that, the wealth and brevity of Latin and Greek."*
      - *"Indeed, Russian is one of the most interesting languages in the world. It's the king of Slavic languages. It's been said by language learners that if you learn this language, you can easily learn any other language in the world, no matter how difficult it may seem."*
-- [ ] [ONLINE][Learn Russian (100 topics)](https://learnrussian.github.io/)
+- [ ] [ONLINE][Learn Russian (100 lessons)](https://learnrussian.github.io/)
 - [ ] [ONLINE][UDEMY: Conversational Russian for beginners (11 hours)](https://www.udemy.com/course/conversational-russian-for-beginners/?couponCode=KEEPLEARNING)
 - [ ] [ONLINE][UDEMY: Complete Russian Course for Beginners (A1-A2) (12.5 hours)](https://www.udemy.com/course/complete-russian-course-for-beginners/?couponCode=KEEPLEARNING)
 - [ ] [ONLINE][UDEMY: The Complete Russian Language Course (27 hours)](https://www.udemy.com/course/the-complete-russian-language-course/)
