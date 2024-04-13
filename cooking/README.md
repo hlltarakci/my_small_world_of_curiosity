@@ -294,6 +294,14 @@
 5. Bulgurun ustunu gececek kadar sicak su koy. Et suyu kullanmak ya da bulyon eklemek lezzetini arttirir.
 6. Tencerenin altini kis, kapagini kapat. Suyunu cekene kadar pisir.
 
+## Orzo Pilaf
+<img src="orzo_pilaf.jpg" width="500"/>
+
+1. Tencereye 2 corba kasigi tereyag + 2 yemek kasigi siviyag koy.
+2. Tereyag eriyince 2 su bardagi arpa sehriye ekle. Rengi biraz degisene kadar karistirarak, orta ateste kavur.
+3. 3 su bardagi sicak su + 1,5 tatli kasigi tuz ekle. Altini epey kis, tencerenin kapagini kapat. Suyunu cekene kadar pisir. Arada kontrol et ve karistir. Cok cabuk pisiyor.
+4. Suyunu cekince ocagi kapat. Kagit havlu koyarak 10 dakika demlendir.
+
 ## Pea Stew with Minced Beef
 <img src="pea_stew_with_minced_beef.jpg" width="500"/>
 
