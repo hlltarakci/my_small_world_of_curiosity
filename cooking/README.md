@@ -456,9 +456,10 @@
 4. AirFryer da 200 derecede arada karistirarak 20 dk kadar pisir. Cacik veya sarimsakli yogurtla servis yap.
 
 ## Roast Potatoes
-[<img src="roast_potatoes.jpeg" width="500"/>](roast_potatoes.jpeg)
+[<img src="roast_potatoes_v2.jpg" width="500"/>](roast_potatoes_v2.jpg)
 1. Patatesleri ortadan kes, tuzla, AirFryer da pisir.
 2. Ustune tereyag, peynir, poy (karisik baharat) ekle.
+3. Alternatif: Patatatesler yavastan olunca uzerlerinde rendelenmis mozarella koy, peyniri AirFryer da erit. Pesto sosu veya domatesle servis et.
 
 ## Potato Wedges
 [<img src="potato_wedges.jpg" width="500"/>](potato_wedges.jpg)
