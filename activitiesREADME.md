@@ -36,11 +36,11 @@
 - [x] 30. [Abs, Butt and Thighs](https://www.youtube.com/watch?v=IjEBfs35HSc) + [Extreme Abs Workout 2](https://www.youtube.com/watch?v=wztS1XHqJBI)
 - [x] 31. [Lower Abs & Booty Blast](https://www.youtube.com/watch?v=iCeGf5MZJto) + [10 Min Side Booty Shaper](https://www.youtube.com/watch?v=4uRIozcsebQ) *add resistance band loop :)* + [5 Best Butt Exercises to Sculpt a Cute Booty](https://www.youtube.com/watch?v=-7cylyuk84o)
 
-### Monthly - Version 2 - [Move with Nicole](https://movewithnicole.com.au/pages/weekly-plans)
+### Monthly - Version 2 - [Move with Nicole](https://movewithnicole.com.au/pages/weekly-plans) (*+[100 repeats](https://youtu.be/-qCfKkME9lE?si=hNkukqV2egTbBYIB) of a glute exercise with resistance band loop*)
 - [x] 1. [20 MIN EXPRESS PILATES WORKOUT || Everyday Pilates For Energy (Moderate)](https://www.youtube.com/watch?v=ezke0GlKeM4) (x2)
 - [x] 2. [30 MIN CARDIO PILATES || At-Home Full Body Workout](https://www.youtube.com/watch?v=AeiqiA6FpmI)
 - [ ] 3. [30 MIN YOGA FLOW || Feel Good Yoga For Flexibility](https://www.youtube.com/watch?v=RvCntPg7oPE)
-- [ ] 4. [30 MIN FULL BODY WORKOUT || Power Pilates With Weights (Intermediate)](https://www.youtube.com/watch?v=bkiatp2muRs)
+- [x] 4. [30 MIN FULL BODY WORKOUT || Power Pilates With Weights (Intermediate)](https://www.youtube.com/watch?v=bkiatp2muRs) *includes dumbbells*
 - [ ] 5. [20 MIN MORNING PILATES || Full Body Workout](https://www.youtube.com/watch?v=UcRFvDEU0EA)
 - [ ] 6. [35 MIN DANCER PILATES WORKOUT || Full Body Sculpt (No Equipment)](https://www.youtube.com/watch?v=OPyJVW7BMqU)
 - [x] 7. [REST]
