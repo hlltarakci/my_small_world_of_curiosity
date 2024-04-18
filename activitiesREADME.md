@@ -41,7 +41,7 @@
 - [x] 2. [30 MIN CARDIO PILATES || At-Home Full Body Workout](https://www.youtube.com/watch?v=AeiqiA6FpmI)
 - [x] 3. [30 MIN YOGA FLOW || Feel Good Yoga For Flexibility](https://www.youtube.com/watch?v=RvCntPg7oPE)
 - [x] 4. [30 MIN FULL BODY WORKOUT || Power Pilates With Weights (Intermediate)](https://www.youtube.com/watch?v=bkiatp2muRs) *includes dumbbells*
-- [ ] 5. [20 MIN MORNING PILATES || Full Body Workout](https://www.youtube.com/watch?v=UcRFvDEU0EA)
+- [x] 5. [20 MIN MORNING PILATES || Full Body Workout](https://www.youtube.com/watch?v=UcRFvDEU0EA)
 - [x] 6. [35 MIN DANCER PILATES WORKOUT || Full Body Sculpt (No Equipment)](https://www.youtube.com/watch?v=OPyJVW7BMqU)
 - [x] 7. [REST]
 - [x] 8. [30 MIN FULL BODY WORKOUT || At-Home Pilates (No Equipment)](https://www.youtube.com/watch?v=lNftFawOAUM)
