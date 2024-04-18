@@ -17,6 +17,7 @@ Most fun way: follow lyrics :)
 - [Ты неси меня река / Любэ](https://www.youtube.com/watch?v=NcmuZCZ0iGw)
 - [Я свободен / Кипелов Валерий](https://www.youtube.com/watch?v=TCfHg1i6zAs)
 - [Потерянный рай / Ария](https://www.youtube.com/watch?v=KnACG9gIbWM)
+- [Можно я с тобой? / AP$ENT](https://www.youtube.com/watch?v=4aVBzpr7RIo)
 
 ## Resources 
 - http://www.practicerussian.com/Materials/Songs.aspx
