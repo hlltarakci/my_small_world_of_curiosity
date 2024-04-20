@@ -6,7 +6,7 @@
 [<img src="kale_soup_from_blacksea_region.jpg" width="500"/>](kale_soup_from_blacksea_region.jpg)
 1. 2 demet kadar kara lahanayi yika, dogra.
 2. 2 orta boy sogan -> yemeklik dogra
-3. Soganlari 4-5 yemek kasigi zeytonyagi ile kavur
+3. Soganlari 4-5 yemek kasigi zeytinyagi ile kavur
 4. 2-3 dis sarimsak -> dogra ve tencereye ekle
 5. 2 yemek kasigi biber salcasi -> tencereye ekle
 6. 3 orta boy patates -> kup kup dogra
@@ -252,6 +252,13 @@
 1. Hamuru tutup yuvarlak acinca, yagsiz tavada onlu arkali kizart. Cok kurutmadan, pisince al.
 2. Icine arzuya gore, tereyag, peynir, pesto sosu (acika) koy, wrap yap. Sicakken tuket.
 
+## Saksuka (Turkish aubergine in tomato sauce)
+<img src="saksuka.jpg" width="500"/>
+
+1. 1 patlicani alacali soy, kup kup dogra, 5 dk tuzlu suda beklet. Kagit havluyla iyice kurulayip, air fryerda spray yag ile yaglayip tuzla, kizart. Kizarinca al, kagit havluda fazla yagini al.
+2. 3 kucuk domatesi rendele. 3 yemek kasigi zeytinyaginda 1 tatli kasigi tuz, 1 cay kasigi karabiberle sosu hazirla. Sarimsak da eklenebilir.
+3. Domates sosu olmaya baslayinca patlicanlari tavaya al, sosla ozdeslessin. Cirpilmis yogurtla servis yap.
+
 ## [Kavurma](https://en.wikipedia.org/wiki/Kavurma)
 <img src="kavurma.jpg" width="500"/>
 
@@ -413,7 +420,6 @@
 [<img src="avocado_toast.jpg" width="500"/>](avocado_toast.jpg)
 1. Bir avocadonun icini cikar. Yarim limon suyu + tuz + karabiber + pul biber ekle. Catalle ez.
 2. Kizarmis ekmegin uzerine yag. Biraz zaytinyagi gezdir.
-
 
 ## Green Peppers with Creamy Sauce (for Breakfast)
 [<img src="green_peppers_with_creamy_sauce.jpg" width="500"/>](green_peppers_with_creamy_sauce.jpg)
