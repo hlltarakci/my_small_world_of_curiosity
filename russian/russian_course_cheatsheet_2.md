@@ -30,13 +30,13 @@ See [lessons](https://learnrussian.github.io/lessons/)
      - Grammar: [Conjunctions “и”, “а”, “но”, “тоже”](https://learnrussian.github.io/grammar-tables/conjunctions/)
 - [x] 5. [**Speaking about places and time, prepositions “в” and “на”. (Что ты делаешь в офисе на работе ночью?)**](https://learnrussian.github.io/lessons/speaking-places-time-prepositions/)
      - Grammar: [Where? (“Где?”)](https://learnrussian.github.io/grammar-tables/where/)
-- [ ] [TEST (*lessons 1-5*)](https://learnrussian.github.io/tests/test-1/) - [Vocabulary (*lessons 1-5*)](https://learnrussian.github.io/vocabulary/lesson-1-5/)
+- [**Vocabulary (*lessons 1-5*)**](https://learnrussian.github.io/vocabulary/lesson-1-5/)
 - [ ] 6. [Speaking about location, answering the question “Where?” Где находится Большой театр?](https://learnrussian.github.io/lessons/speaking-location/)
 - [ ] 7. [Present and Past Tenses. Где ты был?](https://learnrussian.github.io/lessons/present-past-tenses/)
 - [ ] 8. [Adjectives in the Nominative Case. Какой? Какая? Какое? Какие?](https://learnrussian.github.io/lessons/adjectives-nominative-case/)
 - [ ] 9. [Adverbs and Adjectives. Как играть? Какой игрок?](https://learnrussian.github.io/lessons/adverbs-adjectives/)
 - [ ] 10. [Accusative Case, Direct Objects. Я люблю тебя!](https://learnrussian.github.io/lessons/accusative-case-direct-objects/)
-- [ ] [TEST (*lessons 6-10*)](https://learnrussian.github.io/tests/test-2/) - [Vocabulary (*lessons 6-10*)](https://learnrussian.github.io/vocabulary/lesson-6-10/)
+- [Vocabulary (*lessons 6-10*)](https://learnrussian.github.io/vocabulary/lesson-6-10/)
 
 
 
