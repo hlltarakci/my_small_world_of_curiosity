@@ -39,6 +39,13 @@ See [lessons](https://learnrussian.github.io/lessons/)
 - [ ] 9. [Adverbs and Adjectives. Как играть? Какой игрок?](https://learnrussian.github.io/lessons/adverbs-adjectives/)
 - [ ] 10. [Accusative Case, Direct Objects. Я люблю тебя!](https://learnrussian.github.io/lessons/accusative-case-direct-objects/)
 - [Vocabulary (*lessons 6-10*)](https://learnrussian.github.io/vocabulary/lesson-6-10/)
+- [ ] 11. [Future Tense. Что ты будешь делать завтра?](https://learnrussian.github.io/lessons/future-tense/)
+- [ ] 12. [Speaking about reasons: “because” and “that's why”. Почему? — Потому что… Поэтому.](https://learnrussian.github.io/lessons/speaking-about-reasons-because-and-thats-why/)
+- [ ] 13. [Numbers and Quantity. Сколько это стоит?](https://learnrussian.github.io/lessons/numbers-quantity/)
+- [ ] 14. [Nouns in the Genitive Case (all genders, Singular). У меня нет кота.](https://learnrussian.github.io/lessons/nouns-in-genitive-case/)
+- [ ] 15. [Prepositions with the Genitive Case. Моя семья.](https://learnrussian.github.io/lessons/prepositions-genitive-case/)
+- [Vocabulary (*lessons 11-15*)](https://learnrussian.github.io/vocabulary/lesson-11-15/)
+      
 
 
 
