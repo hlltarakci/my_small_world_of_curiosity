@@ -290,7 +290,7 @@
          - [ ] [The Sixth Part of the World, 1926 (Shestaya chast mira)](https://www.imdb.com/title/tt0017376/)
          - [ ] [The Eleventh Year, 1928 (Odinnadtsatyy)](https://www.imdb.com/title/tt0019225/)
      - [Mikhail Shvejtser](https://en.wikipedia.org/wiki/Mikhail_Schweitzer)
-         - [ ] [The Golden Calf, 1968 (Zolotoy telyonok)](https://www.imdb.com/title/tt0063845/) - [part 1](https://www.youtube.com/watch?v=HjMMj3sttGA) - [part 2](https://www.youtube.com/watch?v=XukcyHljlCE)
+         - [ ] [The Golden Calf, 1968 (Золотой телёнок)](https://www.imdb.com/title/tt0063845/) - [part 1](https://www.youtube.com/watch?v=HjMMj3sttGA) - [part 2](https://www.youtube.com/watch?v=jHCJytsQbEU)
          - [ ] [Voskreseniye, 1960](https://www.imdb.com/title/tt0054449/)
      - [Dmitriy Kiselev](https://en.wikipedia.org/wiki/Dmitry_Kiselyov)
          - [ ] [Spacewalk, 2017 (The Age of Pioneers/Время первых)](https://www.imdb.com/title/tt6673840/)
