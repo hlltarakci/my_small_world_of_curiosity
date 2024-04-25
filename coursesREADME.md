@@ -14,6 +14,7 @@
 - [ ] [ONLINE][UDEMY: Conversational Russian for beginners (11 hours)](https://www.udemy.com/course/conversational-russian-for-beginners/?couponCode=KEEPLEARNING)
 - [ ] [ONLINE][UDEMY: Complete Russian Course for Beginners (A1-A2) (12.5 hours)](https://www.udemy.com/course/complete-russian-course-for-beginners/?couponCode=KEEPLEARNING)
 - [ ] [ONLINE][UDEMY: The Complete Russian Language Course (27 hours)](https://www.udemy.com/course/the-complete-russian-language-course/)
+- [ ] [ONSITE][Russian Language Center, Group Courses for Beginners (Pushkin House) (10 weeks)](https://www.russiancentre.co.uk/group-courses-for-beginners/)
 - [x] [ONLINE][**Understanding Russia: A Cultural History, by Lynne Ann Hartnett (24 lectures)**](https://www.thegreatcourses.com/courses/understanding-russia-a-cultural-history) - [Available on Amazon](https://www.amazon.co.uk/Understanding-Russia-A-Cultural-History/dp/B087VQK95R) - [available for free :)](https://www.youtube.com/playlist?list=PLez3PPtnpncRCc9iDxz2fHbLGhh5xgVt3)
     <details>
         <summary>See Notes</summary>
