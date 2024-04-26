@@ -9,6 +9,6 @@ Homework Tracker for [Russian Language Center, Group Courses for Beginners (Push
    - [ ] Do exercice 5 (pp. 27)
    - [ ] Use audio files on the RLC website to help you. https://www.russianlanguagecentre.org/alphabet-audio-files
    - [ ] You can also use the links on the file we used in class (see the file attached - "Reading In Russion" pdf)
-      - [ ] Supporting video: https://www.youtube.com/watch?v=HRsO0XrypCY
+      - [x] Supporting video: https://www.youtube.com/watch?v=HRsO0XrypCY
       - [ ] Difficult Russian vowels: https://www.youtube.com/watch?v=r3xcTOL-0PA
       - [ ] Difficult Russian consonants: https://www.youtube.com/watch?v=On8r_oVDjJQ
