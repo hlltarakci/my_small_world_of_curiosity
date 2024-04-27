@@ -13,6 +13,7 @@
 - [Podcasts](https://github.com/hlltarakci/my_small_world_of_curiosity/blob/main/listenREADME.md)
 - [Exercise & Hikes](https://github.com/hlltarakci/my_small_world_of_curiosity/blob/main/activitiesREADME.md)
 - [Courses](https://github.com/hlltarakci/my_small_world_of_curiosity/blob/main/coursesREADME.md)
+- [Learning Russian (Изучаем Русский язык)](https://github.com/hlltarakci/my_small_world_of_curiosity/tree/main/russian)
 - [Cook](https://github.com/hlltarakci/my_small_world_of_curiosity/tree/main/cooking)
 - [Self-growth](https://github.com/hlltarakci/my_small_world_of_curiosity/blob/main/selfAdviceREADME.md)
 
