@@ -421,6 +421,12 @@
 1. Bir avocadonun icini cikar. Yarim limon suyu + tuz + karabiber + pul biber ekle. Catalle ez.
 2. Kizarmis ekmegin uzerine yag. Biraz zaytinyagi gezdir.
 
+## Menemen (Turkish Scrambled Eggs With Tomatoes)
+[<img src="menemen.jpg" width="500"/>](menemen.jpg)
+1. 3 yemek kasigi zeytinyagini isit. 2 kucuk yesil carliston biberi ufak ufak dogra. Yag kizinca biraz kizart.
+2. 4 ufak boy domates rendele, tavaya ekle, biraz pisir.
+3. 2 yumurta + 1 cay kasigi tuz + yarim cay kasigi karabiber -> cirp. Tavaya ekle. Hemen pisiyor, servis tabagina al.
+
 ## Green Peppers with Creamy Sauce (for Breakfast)
 [<img src="green_peppers_with_creamy_sauce.jpg" width="500"/>](green_peppers_with_creamy_sauce.jpg)
 1. Tavaya biberleri kucuk kucuk dogra, 2-3 yemek kasigi siviyag ile hafif pisir.
