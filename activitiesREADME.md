@@ -43,7 +43,7 @@
 - [x] 4. [30 MIN FULL BODY WORKOUT || Power Pilates With Weights (Intermediate)](https://www.youtube.com/watch?v=bkiatp2muRs) *includes dumbbells*
 - [x] 5. [20 MIN MORNING PILATES || Full Body Workout](https://www.youtube.com/watch?v=UcRFvDEU0EA)
 - [x] 6. [35 MIN DANCER PILATES WORKOUT || Full Body Sculpt (No Equipment)](https://www.youtube.com/watch?v=OPyJVW7BMqU)
-- [ ] 7. [30 MIN FULL BODY WORKOUT || At-Home Pilates (No Equipment)](https://www.youtube.com/watch?v=lNftFawOAUM)
+- [x] 7. [30 MIN FULL BODY WORKOUT || At-Home Pilates (No Equipment)](https://www.youtube.com/watch?v=lNftFawOAUM)
 - [ ] 8. [30 MIN BARRE WORKOUT || Dancer Sculpt (No Equipment)](https://www.youtube.com/watch?v=Y_e85p7MuEw)
 - [ ] 9. [30 MIN ARMS & ABS WORKOUT || At-Home Pilates](https://www.youtube.com/watch?v=fs84obrlYoE)
 - [ ] 10. [25 MIN MORNING YOGA FLOW || Energising Yoga Flow To Feel Your Best](https://www.youtube.com/watch?v=dqIZnyUtKXI)
