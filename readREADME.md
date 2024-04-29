@@ -678,6 +678,7 @@
 - [ ] [Robin Sharma, The 5 AM Club Own Your Morning. Elevate Your Life.](https://www.amazon.com/AM-Club-Morning-Elevate-Life/dp/1443456624)
 - [ ] [Stephen R Covey, The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change](https://www.amazon.com/Habits-Highly-Effective-People-Powerful/dp/0743269519)
 - [ ] [Charles Duhigg, The Power of Habit Why We Do What We Do in Life and Business](https://www.amazon.com/Power-Habit-What-Life-Business/dp/081298160X)
+- [ ] [Carl Gustav Jung, The Undiscovered Self](https://www.amazon.co.uk/Undiscovered-Self-Carl-Gustav-Jung/dp/0415278392)
 - [ ] [Chris MacLeod, The Social Skills Guidebook](https://www.amazon.com/Social-Skills-Guidebook-Shyness-Conversations-ebook/dp/B01AU8C766)
 - [ ] [Carmine Gallo, The Storyteller's Secret: From TED Speakers to Business Legends, Why Some Ideas Catch On and Others Don't](https://www.amazon.com/Storytellers-Secret-Speakers-Business-Legends-ebook/dp/B012NCOC38)
 - [ ] [Walter Sinnott-Armstrong, Think Again How to Reason and Argue](https://www.amazon.com/Think-Again-How-Reason-Argue/dp/0190627123)
