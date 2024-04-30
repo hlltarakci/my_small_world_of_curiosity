@@ -1,6 +1,10 @@
 # Practice Russian :)
 
 - [Russian Level 1](https://www.youtube.com/@RussianLevel1/videos)
+    - [ ] [Russian Reading Playlist (Slow & Easy)](https://www.youtube.com/playlist?list=PL9OVcuPQUHuP2iTKtLy-HjCG5SJFB6jtg)
+    - [ ] [Russian Short Conversations Playlist](https://www.youtube.com/playlist?list=PL9OVcuPQUHuMSWjwLekA7r_x84-atvM8B)
+    - [ ] [Russian Dialogs for Beginners Playlist](https://www.youtube.com/playlist?list=PL9OVcuPQUHuPM9O5uFPGZqNY1hO_uNYX_)
+    - [ ] [Russian Listening Practice](https://www.youtube.com/playlist?list=PL9OVcuPQUHuPomBr0hcb-aVS9zg26isQt)
     - [ ] [Books and Literature Vocabulary in Russian (with pictures and example sentences)](https://www.youtube.com/watch?v=o3wIZZKS7Ec)
     - [ ] [Sports Vocabulary in Russian (with pictures and example sentences)](https://www.youtube.com/watch?v=YvNMTKN24vE)
     - [ ] [Travel Vocabulary in Russian (with pictures and example sentences)](https://www.youtube.com/watch?v=aFQjYdxqV7g)
