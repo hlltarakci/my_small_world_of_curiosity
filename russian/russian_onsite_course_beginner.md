@@ -16,5 +16,5 @@ Support website: https://www.russianlanguagecentre.org and https://www.russianla
    - [x] Difficult Russian consonants (ж, ш, щ, ч, ц): https://www.youtube.com/watch?v=On8r_oVDjJQ
 - [ ] **Week 2: Homework**
    - [ ] Do exercise 5 (p. 27)
-   - [ ] Practise reading the file attached (reading.pdf)
-   - [ ] Revise pp. 13-29. Use audio files on the RLC website to help you. https://www.russianlanguagecentre.org/alphabet-audio-files
+   - [x] Practise reading the file attached (reading.pdf)
+   - [x] Revise pp. 13-29. Use audio files on the RLC website to help you. https://www.russianlanguagecentre.org/alphabet-audio-files
