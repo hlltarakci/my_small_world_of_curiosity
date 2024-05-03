@@ -14,7 +14,7 @@ Support website: https://www.russianlanguagecentre.org and https://www.russianla
    - [x] Supporting video: https://www.youtube.com/watch?v=HRsO0XrypCY
    - [x] Difficult Russian vowels (И, Ы, and Й): https://www.youtube.com/watch?v=r3xcTOL-0PA
    - [x] Difficult Russian consonants (ж, ш, щ, ч, ц): https://www.youtube.com/watch?v=On8r_oVDjJQ
-- [ ] **Week 2: Homework**
-   - [ ] Do exercise 5 (p. 27)
+- [x] **Week 2: Homework**
+   - [x] Do exercise 5 (p. 27)
    - [x] Practise reading the file attached (reading.pdf)
    - [x] Revise pp. 13-29. Use audio files on the RLC website to help you. https://www.russianlanguagecentre.org/alphabet-audio-files
