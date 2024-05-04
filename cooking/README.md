@@ -453,6 +453,14 @@
 2. Sicakken ortadan kes. Icine 25 gr kadar tereyagi koy. Tuz ekle. Iyice karistir. Icine rendelenmis mozarella peyniri koy, iyice karistir, peynir patateste erisin.
 3. Uzerine rendelenmis mozarella, misir ve pesto sosu ile servis yap. Istege gore kornison, zeytin, sosis vs. de eklenebilir.
 
+## Kozlenmis Sebze Salatasi
+[<img src="kozlenmis_sebze_salatasi.jpg" width="500"/>](kozlenmis_sebze_salatasi.jpg)
+1. Sebzeleri yika, kagit havluyla iyice kurula.
+2. Patlicani bicakla yar, 200 derecede 15 dakika airfryerda pisir.
+3. Biberlerde cizik at, soganlari buyuk parcalara bol. Airfryerde 180 derecede 15 dakika pisir.
+4. Malzemeleri ufak ufak dogra. Taze domates dogra, ekle.
+5. Siviyag + tuz + (opsiyonel) sarimsak + (opsiyonel) nar eksisi ile iyice karistir.
+ 
 ## Salmon and Asparagus
 [<img src="salmon_and_asparagus.jpg" width="500"/>](salmon_and_asparagus.jpg)
 1. Somonun uzerine zeytin yagi (ya da ceviz yagi), tuz, karabiber ve kirmizi biber dok, masaj yap. Kirmizi biber yuzeyi kaplasin, rengini o veriyor.
