@@ -404,7 +404,7 @@ https://sovietmoviesonline.com/
      - [ ] [SERIES][Slovo patsana. Krov na asfalte, 2023](https://www.imdb.com/title/tt28429213/) - [where to watch](https://www.the-boys-word.com)
      - [ ] [SERIES][Ekaterina, 2014](https://www.imdb.com/title/tt4231140/)
      - [ ] [SERIES][Dead Mountain, 2020](https://www.imdb.com/title/tt11455654/) - [where to watch](https://www.amazon.com/Dead-Mountain-Season-1/dp/B09DXQ6NJL)
-     - [ ] [SERIES][Law of the Lawless, 2002 (БРИГАДА)](https://www.imdb.com/title/tt0337898/) - [where to watch, requires membership](https://sovietmoviesonline.com/drama/brigada-mini-serial) - [comments](https://eksisozluk.com/brigada--1343840)
+     - [ ] [SERIES][Law of the Lawless, 2002 (БРИГАДА)](https://www.imdb.com/title/tt0337898/) - [where to watch, requires membership](https://sovietmoviesonline.com/drama/brigada-mini-serial) - [comments](https://eksisozluk.com/brigada--1343840) - @4of15
      - [ ] [SERIES][The Kitchen, 2012 (Kukhnya)](https://www.imdb.com/title/tt2930610/) - [comments](https://eksisozluk111.com/kukhnya--5131473) - [where to watch, season 1](https://www.youtube.com/playlist?list=PLt1HghNvGLPCkxXXFxHCVAx6CIy5tEN75) - [where to watch, auto-generated subtitles](https://www.youtube.com/playlist?list=PL1tGazPf1vqU6SWSbUrJNU0mvfRReOwkX)
      - [ ] [SERIES][Silver Spoon, 2014 (Mazhor)](https://www.imdb.com/title/tt4426042/)
      - [x] [SERIES][**Better Than Us, 2018**](https://www.imdb.com/title/tt8285216/) - [where to watch](https://www.netflix.com/gb/title/81026915) - [Better Than Us is the best Asimov inspired show I've seen](https://www.reddit.com/r/sciencefiction/comments/cstsao/better_than_us_is_the_best_asimov_inspired_show/)
