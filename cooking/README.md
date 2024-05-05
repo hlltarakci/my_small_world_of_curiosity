@@ -235,6 +235,11 @@
 2. Ici -> 1 sogan (ince ince kiyilmis) + 2-3 dis sarimsak (ince ince kiyilmis), 2 yemek kasigi yagda rengi pembelesene kadar kavur. 200-250 gr kadar kiyma ekle, kavur. 1 cay kasigi tuz + yarim cay kasigi karabiber ekle.
 3. Kreplere kiymayi koy ve sekil ver. Tavada altli ustu bir daha kizart. [Orjinal tarif](https://www.rbth.com/russian-kitchen/333357-russian-bliny-crepe-wraps-meat-recipe)
 
+**Alternatif: Nutella ve cilekle :)**
+
+<img src="russian_blini_with_nutella_and_strawberries.jpg" width="500"/>
+
+
 ## [Chebureki/Cigborek](https://en.wikipedia.org/wiki/Chebureki)
 <img src="cheburek_cigborek_v2.jpg" width="500"/>
 
