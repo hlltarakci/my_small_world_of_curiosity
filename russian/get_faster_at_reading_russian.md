@@ -1,14 +1,16 @@
 # Get Faster at Reading Russian
 
+[Моя русская музыка](https://open.spotify.com/playlist/07T35gKAbOUiWwNmlSFtoV)
+
 Most fun way: follow lyrics :)
 
 - [Где-то далеко / Микаэл Таривердиев](https://www.youtube.com/watch?v=howt8gN1ieI)
 - [Жестокая любовь / Филипп Киркоров](https://www.youtube.com/watch?v=dMPEP_Cp2HM)
 - [Живём мы что-то без азарта / Людмила Гурченко](https://www.youtube.com/watch?v=LTbGVTofwyA)
 - [Я спросил у ясеня / Микаэл Таривердиев](https://www.youtube.com/watch?v=ybsTYWlGNlM)
-- [Золото II / Шòртпари́с](https://www.youtube.com/watch?v=7BlvIB0jafA) - [lyrics](https://genius.com/Shortparis-ii-gold-ii-lyrics)
-- [Стаканчики граненые / Жанна Бичевская](https://www.youtube.com/watch?v=w4OdWg4I0jM) - [lyrics](http://a-pesni.org/popular20/stakantchiki.php)
-- [Странные танцы / Технология](https://www.youtube.com/watch?v=COi_OXUQxA4) - [lyrics](https://genius.com/Technology-strange-dance-lyrics)
+- [Золото II / Шòртпари́с](https://www.youtube.com/watch?v=7BlvIB0jafA) - [текст песни](https://genius.com/Shortparis-ii-gold-ii-lyrics)
+- [Стаканчики граненые / Жанна Бичевская](https://www.youtube.com/watch?v=w4OdWg4I0jM) - [текст песни](http://a-pesni.org/popular20/stakantchiki.php)
+- [Странные танцы / Технология](https://www.youtube.com/watch?v=COi_OXUQxA4) - [текст песни](https://genius.com/Technology-strange-dance-lyrics)
 - [Мгновения / Микаэл Таривердиев](https://www.youtube.com/watch?v=N7dBsCnAHN0)
 - [Белая ночь / Черниковская Хата](https://www.youtube.com/watch?v=Bu-Fk4jbXxA)
 - [Белая ночь / Группа Форум](https://www.youtube.com/watch?v=YfV5lKjLSlM)
@@ -18,6 +20,4 @@ Most fun way: follow lyrics :)
 - [Я свободен / Кипелов Валерий](https://www.youtube.com/watch?v=TCfHg1i6zAs)
 - [Потерянный рай / Ария](https://www.youtube.com/watch?v=KnACG9gIbWM)
 - [Можно я с тобой? / AP$ENT](https://www.youtube.com/watch?v=4aVBzpr7RIo)
-
-## Resources 
-- http://www.practicerussian.com/Materials/Songs.aspx
+- [Генералы песчаных карьеров / Несчастный Случай](https://www.youtube.com/watch?v=1e2GMY-yykI) - [текст песни](https://genius.com/Neschastniy-sluchai-the-sandpit-generals-lyrics)
