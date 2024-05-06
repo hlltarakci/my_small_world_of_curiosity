@@ -217,6 +217,17 @@
 4. Ustunu gececek kadar sicak su koy, eti pisir.
 5. Haslanmis nohutu ekle, 3 cay kasigi tuz, yarim cay kasigi karabiber ekle. Pisirmeye devam et.
 
+## Potato Stew with Olive Oil
+[<img src="potato_stew_with_olive_oil.jpg" width="500"/>](potato_stew_with_olive_oil.jpg)
+1. 3 yemek kasigi zeytinyagini tencereye al. Isit.
+2. 3 ufak yemeklik dogranmis sogani kokusu cikana kadar kavur.
+3. 2 yemek kasigi salca ekle, kavur.
+4. Yarim kg kadar patatesi yemeklik dogra, tencereye al, salca ve soganla karistir.
+5. 3 su bardagi kaynamis su ekle. Bir tatli kasigi dolu dolu tuz + yarim tatli kasigi karabiber ekle.
+6. Altini kis, kapagini kapat. Patates yumusayana kadar pisir.
+7. Bebek patates ve sarimsakli domates sosu kullandim. Inanilmaz lezzetli oldu.
+
+
 ## [Pirozhki with Potatoes(Russian Fried Buns with Potato Filling)](https://en.wikipedia.org/wiki/Pirozhki)
 <img src="pirozhki.jpg" width="500"/>
 
