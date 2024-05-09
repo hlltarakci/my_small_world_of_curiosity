@@ -338,6 +338,7 @@ https://sovietmoviesonline.com/
      - [Stanislav Govorukhin](https://en.wikipedia.org/wiki/Stanislav_Govorukhin)
          - [ ] [Ten Little Indians, 1987 (Desyat negrityat)](https://www.imdb.com/title/tt0092879/)
          - [ ] [Vertikal, 1966](https://www.imdb.com/title/tt0182512/) - [where to watch](https://www.youtube.com/watch?v=rjDI-pX3JIQ)
+         - [ ] [Так жить нельзя, 1990 (We Can’t Live like This)](https://www.imdb.com/title/tt0100738/)
      - [Emil Loteanu](https://en.wikipedia.org/wiki/Emil_Loteanu)
          - [ ] [Moy laskovyy i nezhnyy zver, 1978](https://www.imdb.com/title/tt0172812/)
      - [Edmond Keosayan](https://en.wikipedia.org/wiki/Edmond_Keosayan)
