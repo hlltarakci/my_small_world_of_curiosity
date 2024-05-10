@@ -694,6 +694,8 @@ In May 1989, the Congress of People’s Deputies had held its opening session in
 - [ ] [Simon Franklin, Emma Widdis, National Identity in Russian Culture: An Introduction](https://www.amazon.co.uk/National-Identity-Russian-Culture-Introduction/dp/0521024293)
 - [ ] [Paul Miliukov, Outlines Of Russian Culture](https://www.amazon.co.uk/Outlines-Russian-Culture-Paul-Miliukov/dp/1406719811)
 - [ ] [Paul Miliukov, Russia, To-day and To-morrow](https://www.amazon.com/Russia-Morrow-Pavel-Nikolaevich-Miliukov/dp/1371493553/)
+- [ ] [Geoffrey Hosking, Russia and the Russians: A History](https://www.amazon.co.uk/Russia-Russians-History-Geoffrey-Hosking/dp/0674004736)
+- [ ] [Geoffrey Hosking, Russia and the Russians: From Earliest Times to the Present](https://www.amazon.co.uk/Russia-Russians-Earliest-Times-Present/dp/0718193601)
 - [ ] [Peter Kenez, A History of the Soviet Union from the Beginning to its Legacy](https://www.amazon.co.uk/History-Soviet-Union-Beginning-Legacy/dp/1316506231/)
 - [ ] [Peter Kenez, A History of the Soviet Union from the Beginning to the End](https://www.amazon.co.uk/History-Soviet-Union-Beginning-End/dp/0521324262/)
 - [ ] [Peter Kenez, Cinema and Soviet Society: From the Revolution to the Death of Stalin (KINO: The Russian Cinema Series)](https://www.amazon.co.uk/Cinema-Soviet-Society-Revolution-Russian/dp/1860646328/)
