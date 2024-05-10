@@ -22,5 +22,5 @@ Support website: https://www.russianlanguagecentre.org and https://www.russianla
    - [x] We started lesson 1 and covered pp. 31-34. learn the vocabulary, do ex. 1.4 (p. 34). Repeat.
    - [x] The audio files for lesson 1: https://www.russianlanguagecentre.org/lesson-1-audio-files
    - [x] Do exercises on the RLC website (only those themes that were covered in class) - https://www.russianlanguagecentre.org/lesson-1
-   - [ ] Do Wordwall exercises: Урок 1—2 - https://wordwall.net/play/31684/109/266
+   - [x] Do Wordwall exercises: Урок 1—2 - https://wordwall.net/play/31684/109/266
    - [ ] Practice writing.
