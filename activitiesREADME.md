@@ -261,6 +261,7 @@ Hike Groups: https://theflamingohiker.com/hiking-groups-in-london/
 - https://www.meetup.com/AAA-London-Group/
 
 Day Hikes & Sightseeing:
+- [x] May 2024 - Hassocks to Brighton (*32 km*)
 - [x] Oct 2023 - **South Downs National Park on the Amberley Circular via Bignor Hill and Glatting Beacon**
 - [x] Oct 2023 - **Holliwell Point**, Southminster to Burnham-on-Crouch
 - [x] [Oct 2023 - Denbies Winery](https://www.meetup.com/londonwellnessgroup/events/296293668/)
