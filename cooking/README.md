@@ -78,6 +78,13 @@
 4. Servis yaparken uzerine cirpilmis yogurt ekle. Sarimsakli yogurt cok guzel oluyor.
 5. Tavada siviyagda nane, kirmizi biber yak. Uzerine dok.
 
+# SANDWICHES
+## Avocado-Egg Sandwich
+[<img src="avocado_egg_sandwich.jpg" width="500"/>](avocado_egg_sandwich.jpg)
+1. Bir cok kati olmayan haslanmis yumurta + 1 olgun avocado -> kucuk kucuk dogra.
+2. Zeytinyagi (cok fazla olmasin) + tuz + pul biber (chili flakes) ekle, guzelce karistir.
+3. Pita ekmegine doldur (iki ekmek doluyor).
+
 # OVEN RECIPES
 ## El Acmasi Kol Boregi (Pirasali)
 [<img src="acma_borek.jpg" width="500"/>](acma_borek.jpg)
