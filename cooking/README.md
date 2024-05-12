@@ -234,6 +234,14 @@
 6. Altini kis, kapagini kapat. Patates yumusayana kadar pisir.
 7. Bebek patates ve sarimsakli domates sosu kullandim. Inanilmaz lezzetli oldu.
 
+## Ispanak Oturtma (Spinach and Onion with Eggs)
+[<img src="spinach_and_onion_with_eggs.jpg" width="500"/>](spinach_and_onion_with_eggs.jpg)
+1. 100 gr kadar ispanagi iki parmak genisliginde dilimle, uzerine kaynamis su ekle, 20 dk. beklet.
+2. 3 yemek kasigi zeytinyagini tavaya al, isit. Ince kiyilmis iki kucuk sogani ekle, biraz oldur.
+3. 1,5 cay kasigi kirmizi biber + yarim cay kasigi karabiber + 1 cay kasigi pul biber ekle. Sogan ile iyice karistir.
+4. Sogan olunce, ispanaklari sudan al, guzelce suzdur ve tavaya al. Ispanaklari biraz pisir.
+5. 1 yumurta ekle, iyice karistigi an ocagi kapat.
+
 
 ## [Pirozhki with Potatoes(Russian Fried Buns with Potato Filling)](https://en.wikipedia.org/wiki/Pirozhki)
 <img src="pirozhki.jpg" width="500"/>
