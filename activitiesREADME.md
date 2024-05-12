@@ -51,8 +51,8 @@
 - [x] 12. [35 MIN FULL BODY WORKOUT || Intermediate Mat Pilates (No Equipment)](https://youtu.be/9Te82opGhiQ?feature=shared)
 - [x] 13. [30 MIN MORNING PILATES || Full Body Mat Pilates Workout (Moderate)](https://www.youtube.com/watch?v=C3LB3Qszx2I)
 - [x] 14. [40 MIN FULL BODY WORKOUT || Intermediate Pilates With Mini Band (Optional)](https://www.youtube.com/watch?v=e4A58O1oLJc) *includes resistance band loop*
-- [ ] 15. [20 MIN EVERYDAY YOGA || Daily Yoga Flow To Stretch & Feel Good](https://www.youtube.com/watch?v=98rmMgBwJXE)
-- [ ] 16. [30 MIN STANDING PILATES || Full Body Workout (No Equipment)](https://www.youtube.com/watch?v=ASAWSZ3Zrns)
+- [x] 15. [20 MIN EVERYDAY YOGA || Daily Yoga Flow To Stretch & Feel Good](https://www.youtube.com/watch?v=98rmMgBwJXE)
+- [x] 16. [30 MIN STANDING PILATES || Full Body Workout (No Equipment)](https://www.youtube.com/watch?v=ASAWSZ3Zrns)
 - [x] 17. [35 MIN UPPER BODY & CORE WORKOUT || At-Home Pilates (No Equipment)](https://www.youtube.com/watch?v=Q98t9cbp-xo)
 - [ ] 18. [25 MIN CARDIO BARRE & PILATES || At-Home Full Body Workout](https://www.youtube.com/watch?v=3peZNCsYJws)
 - [ ] 19. [30 MIN ABS & BOOTY WORKOUT || Intermediate Mat Pilates (No Equipment)](https://www.youtube.com/watch?v=MvSK7dBbt8Q)
