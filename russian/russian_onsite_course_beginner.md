@@ -24,3 +24,16 @@ Support website: https://www.russianlanguagecentre.org and https://www.russianla
    - [x] Do exercises on the RLC website (only those themes that were covered in class) - https://www.russianlanguagecentre.org/lesson-1
    - [x] Do Wordwall exercises: Урок 1—2 - https://wordwall.net/play/31684/109/266
    - [x] Practice writing.
+- [ ] **Week 4: Homework**
+   - [ ] We did pp. 35-39 of lesson 1. Repeat
+   - [ ] Do ex. 1.9 in writing (p. 39)
+   - [ ] Read and translate the text (p. 40)
+   - [ ] Do exercises on the RLC website (only those themes that were covered in class). https://www.russianlanguagecentre.org/lesson-1 The audio files for lesson 1 can be found here: https://www.russianlanguagecentre.org/lesson-1-audio-files
+   - [ ] Do Wordwall exercises:
+       - [ ] УРОК 1-1 (First phrases) - https://wordwall.net/play/31683/726/686
+       - [ ] УРОК 1-2 (First vocabulary list) - https://wordwall.net/play/31684/109/266
+       - [ ] УРОК 1-3 (Personal pronouns) - https://wordwall.net/play/31684/368/571
+       - [ ] УРОК 1-4 (Occupations short list) - https://wordwall.net/play/31684/746/160
+       - [ ] Go over shared note (note-share-1715361162153.pdf)
+
+
