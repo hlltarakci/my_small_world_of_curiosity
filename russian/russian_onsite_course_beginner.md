@@ -35,5 +35,32 @@ Support website: https://www.russianlanguagecentre.org and https://www.russianla
        - [x] УРОК 1-3 (Personal pronouns) - https://wordwall.net/play/31684/368/571
        - [x] УРОК 1-4 (Occupations short list) - https://wordwall.net/play/31684/746/160
        - [x] Go over shared note (note-share-1715361162153.pdf)
-
-
+- [ ] **Review Road So Far (Weeks 1-4)**
+   - [ ] Introduction (pages 13-29).
+       - [ ] Read everything. Listen: https://www.russianlanguagecentre.org/alphabet-audio-files
+       - [ ] Write everything
+       - [ ] Do exercises on the book
+       - [ ] Supporting video: https://www.youtube.com/watch?v=HRsO0XrypCY
+       - [ ] Difficult Russian vowels (И, Ы, and Й): https://www.youtube.com/watch?v=r3xcTOL-0PA
+       - [ ] Difficult Russian consonants (ж, ш, щ, ч, ц): https://www.youtube.com/watch?v=On8r_oVDjJQ
+       - [ ] Review: "Reading In Russion" pdf
+       - [ ] Урок 1—2 - https://wordwall.net/play/31684/109/266
+    - [ ] УРОК 1 (pages 30-41).
+       - [ ] Read everything. Listen: https://www.russianlanguagecentre.org/lesson-1-audio-files
+       - [ ] Write everything
+       - [ ] Do exercises on the book 
+       - [ ] Exercises: https://www.russianlanguagecentre.org/lesson-1
+       - [ ] Review: "reading" pdf
+       - [ ] Review: "note-share-1715361162153" pdf
+       - [ ] Wordwall:
+          - [ ] УРОК 1-1 (First phrases) - https://wordwall.net/play/31683/726/686
+          - [ ] УРОК 1-2 (First vocabulary list) - https://wordwall.net/play/31684/109/266
+          - [ ] УРОК 1-3 (Personal pronouns) - https://wordwall.net/play/31684/368/571
+          - [ ] УРОК 1-4 (Occupations short list) - https://wordwall.net/play/31684/746/160
+    - [ ] Make an entrance to УРОК 2 (pages 42-60)
+      - [ ] Read everything. Listen: https://www.russianlanguagecentre.org/lesson-2-audio-files
+      - [ ] Write everything
+      - [ ] Do exercises on the book
+      - [ ] Exercises: https://www.russianlanguagecentre.org/lesson-2
+      - [ ] Review: leaflet
+          
