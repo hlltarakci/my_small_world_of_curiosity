@@ -63,4 +63,10 @@ Support website: https://www.russianlanguagecentre.org and https://www.russianla
       - [ ] Do exercises on the book
       - [ ] Exercises: https://www.russianlanguagecentre.org/lesson-2
       - [ ] Review: leaflet
-          
+- [ ] **Week 5: Homework**
+  - [ ] We did revision of lesson 1 and started lesson 2. Repeat. https://www.russianlanguagecentre.org/lesson-2-audio-files
+  - [ ] Lesson 2 exercises: https://www.russianlanguagecentre.org/lesson-2
+  - [ ] Do Exercise 2.1 (page 44)
+  - [ ] Link to the board - https://air.ifpshare.com/documentPreview.html?s_id=f6c13863-f15d-4c1b-b6b6-7faf75fff371#/detail/5aa87978-f6eb-42f3-be6a-b3a85b84125e/record
+  - [ ] Wordwall exercise: УРОК 2-1 (Genders of nouns) - https://wordwall.net/play/31684/953/507
+  - [ ] Learn "gender of nouns" pdf  
