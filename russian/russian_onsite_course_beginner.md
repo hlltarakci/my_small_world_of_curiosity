@@ -40,9 +40,9 @@ Support website: https://www.russianlanguagecentre.org and https://www.russianla
        - [x] Read everything. Listen: https://www.russianlanguagecentre.org/alphabet-audio-files
        - [ ] Write everything
        - [ ] Do exercises on the book
-       - [ ] Supporting video: https://www.youtube.com/watch?v=HRsO0XrypCY
-       - [ ] Difficult Russian vowels (И, Ы, and Й): https://www.youtube.com/watch?v=r3xcTOL-0PA
-       - [ ] Difficult Russian consonants (ж, ш, щ, ч, ц): https://www.youtube.com/watch?v=On8r_oVDjJQ
+       - [x] Supporting video: https://www.youtube.com/watch?v=HRsO0XrypCY
+       - [x] Difficult Russian vowels (И, Ы, and Й): https://www.youtube.com/watch?v=r3xcTOL-0PA
+       - [x] Difficult Russian consonants (ж, ш, щ, ч, ц): https://www.youtube.com/watch?v=On8r_oVDjJQ
        - [ ] Review: "Reading In Russion" pdf
        - [x] Урок 1—2 - https://wordwall.net/play/31684/109/266
     - [ ] УРОК 1 (pages 30-41).
