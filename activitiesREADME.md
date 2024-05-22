@@ -66,7 +66,7 @@
 - [ ] 27. [20 MIN PILATES HIIT || Low Impact & No Repeat Workout (Stretch Included)](https://www.youtube.com/watch?v=6RIbWni5JVk)
 - [ ] 28. [20 MIN FEEL GOOD YOGA || Yoga Flow To Stretch & Feel Good](https://www.youtube.com/watch?v=poZBpvLTHNw)
 - [ ] 29. [35 MIN BARRE & PILATES WORKOUT || Full Body Sculpt](https://www.youtube.com/watch?v=8JWZehPF9_k)
-- [ ] 30. [30 MIN YOGA PILATES FLOW || Yoga Workout For Healthy & Happy Hips](https://www.youtube.com/watch?v=HIuJA4xS4WM)
+- [x] 30. [30 MIN YOGA PILATES FLOW || Yoga Workout For Healthy & Happy Hips](https://www.youtube.com/watch?v=HIuJA4xS4WM)
      
 ### Monthly - Version 3 - [Summer Sculpt (Cassey)](https://www.blogilates.com/blog/28daysummersculpt/)
 ### Monthly - Version 4 - [Beginner Calendar (Cassey)](https://www.blogilates.com/blog/new-beginners-calendar-2-0-for-2015/)
