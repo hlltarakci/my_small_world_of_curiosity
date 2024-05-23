@@ -63,7 +63,7 @@
 - [x] 24. [40 MIN FULL BODY WORKOUT || Power Pilates With Weights (Intermediate)](https://www.youtube.com/watch?v=dOO6-o7ObnU) *includes dumbbells*
 - [x] 25. [30 MIN FULL BODY WORKOUT || Intermediate Power Pilates (No Equipment)](https://www.youtube.com/watch?v=zdz8c9a-rDo)
 - [x] 26. [35 MIN PILATES WORKOUT || Pilates For A Strong & Healthy Back (Intermediate)](https://www.youtube.com/watch?v=AMLSBnAxLbU)
-- [ ] 27. [20 MIN PILATES HIIT || Low Impact & No Repeat Workout (Stretch Included)](https://www.youtube.com/watch?v=6RIbWni5JVk)
+- [x] 27. [20 MIN PILATES HIIT || Low Impact & No Repeat Workout (Stretch Included)](https://www.youtube.com/watch?v=6RIbWni5JVk)
 - [ ] 28. [20 MIN FEEL GOOD YOGA || Yoga Flow To Stretch & Feel Good](https://www.youtube.com/watch?v=poZBpvLTHNw)
 - [ ] 29. [35 MIN BARRE & PILATES WORKOUT || Full Body Sculpt](https://www.youtube.com/watch?v=8JWZehPF9_k)
 - [x] 30. [30 MIN YOGA PILATES FLOW || Yoga Workout For Healthy & Happy Hips](https://www.youtube.com/watch?v=HIuJA4xS4WM)
