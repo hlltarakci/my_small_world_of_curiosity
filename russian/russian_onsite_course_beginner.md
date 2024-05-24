@@ -35,7 +35,7 @@ Support website: https://www.russianlanguagecentre.org and https://www.russianla
        - [x] УРОК 1-3 (Personal pronouns) - https://wordwall.net/play/31684/368/571
        - [x] УРОК 1-4 (Occupations short list) - https://wordwall.net/play/31684/746/160
        - [x] Go over shared note (note-share-1715361162153.pdf)
-- [ ] **Review Road So Far (Weeks 1-4)**
+- [x] **Review Road So Far (Weeks 1-4)**
    - [x] Introduction (pages 13-29).
        - [x] Read everything. Listen: https://www.russianlanguagecentre.org/alphabet-audio-files
        - [x] Do exercises on the book
@@ -44,24 +44,38 @@ Support website: https://www.russianlanguagecentre.org and https://www.russianla
        - [x] Difficult Russian consonants (ж, ш, щ, ч, ц): https://www.youtube.com/watch?v=On8r_oVDjJQ
        - [x] Review: "Reading In Russion" pdf
        - [x] Урок 1—2 - https://wordwall.net/play/31684/109/266
-    - [ ] УРОК 1 (pages 30-41).
+    - [x] УРОК 1 (pages 30-41).
        - [x] Read everything. Listen: https://www.russianlanguagecentre.org/lesson-1-audio-files
        - [x] Do exercises on the book 
-       - [ ] Exercises: https://www.russianlanguagecentre.org/lesson-1
        - [x] Review: "reading" pdf
        - [x] Review: "note-share-1715361162153" pdf
-       - [ ] Wordwall:
-          - [ ] УРОК 1-1 (First phrases) - https://wordwall.net/play/31683/726/686
-          - [ ] УРОК 1-2 (First vocabulary list) - https://wordwall.net/play/31684/109/266
-          - [ ] УРОК 1-3 (Personal pronouns) - https://wordwall.net/play/31684/368/571
-          - [ ] УРОК 1-4 (Occupations short list) - https://wordwall.net/play/31684/746/160
     - [x] Make an entrance to УРОК 2 (pages 42-60)
       - [x] Read everything. Listen: https://www.russianlanguagecentre.org/lesson-2-audio-files
       - [x] Review: leaflet
 - [ ] **Week 5: Homework**
   - [x] We did revision of lesson 1 and started lesson 2. Repeat. https://www.russianlanguagecentre.org/lesson-2-audio-files
-  - [ ] Lesson 2 exercises (only relevant ones so far): https://www.russianlanguagecentre.org/lesson-2
+  - [x] Lesson 2 exercises (only relevant ones so far): https://www.russianlanguagecentre.org/lesson-2
   - [x] Do Exercise 2.1 (page 44)
   - [x] Link to the board - https://air.ifpshare.com/documentPreview.html?s_id=f6c13863-f15d-4c1b-b6b6-7faf75fff371#/detail/5aa87978-f6eb-42f3-be6a-b3a85b84125e/record
   - [ ] Wordwall exercise: УРОК 2-1 (Genders of nouns) - https://wordwall.net/play/31684/953/507
   - [x] Learn "gender of nouns" pdf  **https://www.russiantools.com/en/russian-words-find-what-gender-it-is**
+- [ ] **Week 6: Homework**
+  - [ ] Weekly Review
+    - [ ] Introduction (pages 13-29)
+      - [ ] Read everything. Listen: https://www.russianlanguagecentre.org/alphabet-audio-files
+      - [ ] Write vocabulary
+    - [ ] УРОК 1 (pages 30-41)
+      - [ ] Read everything. Listen: https://www.russianlanguagecentre.org/lesson-1-audio-files
+      - [ ] Do exercises: https://www.russianlanguagecentre.org/lesson-1
+      - [ ] Write everything
+    - [ ] УРОК 2 (pages 42-60)
+      - [ ] Read everything. https://www.russianlanguagecentre.org/lesson-2-audio-files
+      - [ ] Do exercises: https://www.russianlanguagecentre.org/lesson-2
+      - [ ] Write everything
+    - [ ] Wordwall:
+      - [ ] УРОК 1-1 (First phrases) - https://wordwall.net/play/31683/726/686
+      - [ ] УРОК 1-2 (First vocabulary list) - https://wordwall.net/play/31684/109/266
+      - [ ] УРОК 1-3 (Personal pronouns) - https://wordwall.net/play/31684/368/571
+      - [ ] УРОК 1-4 (Occupations short list) - https://wordwall.net/play/31684/746/160
+      - [ ] УРОК 2-1 (Genders of nouns) - https://wordwall.net/play/31684/953/507
+ - [ ] TBD
