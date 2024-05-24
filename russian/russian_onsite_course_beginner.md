@@ -36,9 +36,8 @@ Support website: https://www.russianlanguagecentre.org and https://www.russianla
        - [x] УРОК 1-4 (Occupations short list) - https://wordwall.net/play/31684/746/160
        - [x] Go over shared note (note-share-1715361162153.pdf)
 - [ ] **Review Road So Far (Weeks 1-4)**
-   - [ ] Introduction (pages 13-29).
+   - [x] Introduction (pages 13-29).
        - [x] Read everything. Listen: https://www.russianlanguagecentre.org/alphabet-audio-files
-       - [ ] Write everything
        - [x] Do exercises on the book
        - [x] Supporting video: https://www.youtube.com/watch?v=HRsO0XrypCY
        - [x] Difficult Russian vowels (И, Ы, and Й): https://www.youtube.com/watch?v=r3xcTOL-0PA
@@ -47,7 +46,6 @@ Support website: https://www.russianlanguagecentre.org and https://www.russianla
        - [x] Урок 1—2 - https://wordwall.net/play/31684/109/266
     - [ ] УРОК 1 (pages 30-41).
        - [x] Read everything. Listen: https://www.russianlanguagecentre.org/lesson-1-audio-files
-       - [ ] Write everything
        - [x] Do exercises on the book 
        - [ ] Exercises: https://www.russianlanguagecentre.org/lesson-1
        - [x] Review: "reading" pdf
@@ -57,13 +55,13 @@ Support website: https://www.russianlanguagecentre.org and https://www.russianla
           - [ ] УРОК 1-2 (First vocabulary list) - https://wordwall.net/play/31684/109/266
           - [ ] УРОК 1-3 (Personal pronouns) - https://wordwall.net/play/31684/368/571
           - [ ] УРОК 1-4 (Occupations short list) - https://wordwall.net/play/31684/746/160
-    - [ ] Make an entrance to УРОК 2 (pages 42-60)
+    - [x] Make an entrance to УРОК 2 (pages 42-60)
       - [x] Read everything. Listen: https://www.russianlanguagecentre.org/lesson-2-audio-files
-      - [ ] Review: leaflet
+      - [x] Review: leaflet
 - [ ] **Week 5: Homework**
   - [x] We did revision of lesson 1 and started lesson 2. Repeat. https://www.russianlanguagecentre.org/lesson-2-audio-files
-  - [ ] Lesson 2 exercises: https://www.russianlanguagecentre.org/lesson-2
-  - [ ] Do Exercise 2.1 (page 44)
-  - [ ] Link to the board - https://air.ifpshare.com/documentPreview.html?s_id=f6c13863-f15d-4c1b-b6b6-7faf75fff371#/detail/5aa87978-f6eb-42f3-be6a-b3a85b84125e/record
+  - [ ] Lesson 2 exercises (only relevant ones so far): https://www.russianlanguagecentre.org/lesson-2
+  - [x] Do Exercise 2.1 (page 44)
+  - [x] Link to the board - https://air.ifpshare.com/documentPreview.html?s_id=f6c13863-f15d-4c1b-b6b6-7faf75fff371#/detail/5aa87978-f6eb-42f3-be6a-b3a85b84125e/record
   - [ ] Wordwall exercise: УРОК 2-1 (Genders of nouns) - https://wordwall.net/play/31684/953/507
-  - [ ] Learn "gender of nouns" pdf  
+  - [x] Learn "gender of nouns" pdf  **https://www.russiantools.com/en/russian-words-find-what-gender-it-is**
