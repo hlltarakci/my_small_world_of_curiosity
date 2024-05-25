@@ -56,7 +56,7 @@
 - [x] 17. [35 MIN UPPER BODY & CORE WORKOUT || At-Home Pilates (No Equipment)](https://www.youtube.com/watch?v=Q98t9cbp-xo)
 - [x] 18. [25 MIN CARDIO BARRE & PILATES || At-Home Full Body Workout](https://www.youtube.com/watch?v=3peZNCsYJws)
 - [x] 19. [30 MIN ABS & BOOTY WORKOUT || Intermediate Mat Pilates (No Equipment)](https://www.youtube.com/watch?v=MvSK7dBbt8Q)
-- [ ] 20. [25 MIN PILATES YOGA WORKOUT || Power Yoga For Strength](https://www.youtube.com/watch?v=e8TuZbVK3h8)
+- [x] 20. [25 MIN PILATES YOGA WORKOUT || Power Yoga For Strength](https://www.youtube.com/watch?v=e8TuZbVK3h8)
 - [x] 21. [25 MIN PILATES WORKOUT || Pilates For Better Posture & A Healthy Spine (Moderate)](https://www.youtube.com/watch?v=imWc_27U9w8)
 - [ ] 22. [FULL BODY PILATES HIIT WORKOUT || No Equipment (Warm Up & Cool Down Included)](https://www.youtube.com/watch?v=U6niiU5595Y)
 - [x] 23. [30 MIN MORNING PILATES || Energising Full Body Workout (Moderate)](https://www.youtube.com/watch?v=LbG1ovCGp-E)
