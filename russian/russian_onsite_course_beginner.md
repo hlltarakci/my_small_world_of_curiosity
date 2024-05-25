@@ -61,9 +61,7 @@ Support website: https://www.russianlanguagecentre.org and https://www.russianla
   - [x] Learn "gender of nouns" pdf  **https://www.russiantools.com/en/russian-words-find-what-gender-it-is**
 - [ ] **Week 6: Homework**
   - [ ] Weekly Review
-    - [ ] Introduction (pages 13-29)
-      - [ ] Read everything. Listen: https://www.russianlanguagecentre.org/alphabet-audio-files
-      - [ ] Write vocabulary
+    - [ ] Introduction (pages 13-29), fast repeat.
     - [ ] УРОК 1 (pages 30-41)
       - [ ] Read everything. Listen: https://www.russianlanguagecentre.org/lesson-1-audio-files
       - [ ] Do exercises: https://www.russianlanguagecentre.org/lesson-1
