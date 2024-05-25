@@ -424,7 +424,8 @@ https://sovietmoviesonline.com/
          - [x] [**Three from Prostokvashino, 1978 (Troe iz Prostokvashino)**](https://www.imdb.com/title/tt0189160/) - [where to watch](https://www.youtube.com/watch?v=BFbhZ-te8JY) - *The book [What Every Russian Knows (and You Don't)](https://www.amazon.co.uk/What-Every-Russian-Knows-Dont/dp/1901990125) has a dedicated section :)* - [Uncle Fedya, His Dog, and His Cat](https://en.wikipedia.org/wiki/Uncle_Fedya,_His_Dog,_and_His_Cat)
          - [ ] [The Old Man and the Sea, 1999](https://www.imdb.com/title/tt0207639/) - [where to watch](https://www.youtube.com/watch?v=W5ih1IRIRxI)
          - [x] [**Bootleggers, 1962 (Samogonshchiki)**](https://www.imdb.com/title/tt0055400/) *Leonid Gaidai* - [where to watch](https://youtu.be/x_-ehagcrBg?si=SGY8AP6OSugEP_w5)
-
+     - [Juho Kuosmanen](https://en.wikipedia.org/wiki/Juho_Kuosmanen)
+         - [ ] [Compartment No.6, 2021 (Купе номер шесть)](https://www.imdb.com/title/tt10262648/) - [Russian Film Club: Compartment No. 6](https://www.russiancentre.co.uk/event/russian-film-club-compartment-no-6/) 
 ## Short Movies
 - [Short of the weeek](https://www.shortoftheweek.com/)
 - [Film Shortage](https://filmshortage.com/)
