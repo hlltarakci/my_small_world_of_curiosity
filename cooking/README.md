@@ -254,6 +254,13 @@
 6. Dinlenmis hamuru 4 parcaya, her parcayi 8'e bol. Yuvarlak yap, ic harc ekle, kapat.
 7. Kizgin siviyagda 4 sefer halinde kizart. [Orjinal tarif](https://www.youtube.com/watch?v=sVVFPrfDzn8&t=4s)
 
+## [Pişi (пышки)](https://tr.wikipedia.org/wiki/Pi%C5%9Fi)
+<img src="pisi.jpg" width="500"/>
+
+1. 1 su bardagi un + 1 tatli kasigi dolu dolu baking powder + 1 tatli kasigi dolu dolu tuz + 1 su bardagi yogurt + 1 yumurta -> Hamur tutmaya basla.
+2. Azar azar un ekleyerek, ele yapismayacak kivamda hamur tut. Uzerini bezle ort, +2 saat beklet.
+3. Hamuru cok ince veya kalin olmayacak sekilde ac, bol. Kizart.
+
 ## Russian [bliny (блины)](https://en.wikipedia.org/wiki/Blini) with Minced Meat
 <img src="russian_bliny_with_minced_meat.jpg" width="500"/>
 
