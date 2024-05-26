@@ -65,11 +65,11 @@ Support website: https://www.russianlanguagecentre.org and https://www.russianla
     - [ ] УРОК 1 (pages 30-41)
       - [ ] Read everything. Listen: https://www.russianlanguagecentre.org/lesson-1-audio-files
       - [ ] Do exercises: https://www.russianlanguagecentre.org/lesson-1
-      - [ ] Write everything
+      - [ ] Listen and write everything
     - [ ] УРОК 2 (pages 42-60)
       - [ ] Read everything. https://www.russianlanguagecentre.org/lesson-2-audio-files
       - [ ] Do exercises: https://www.russianlanguagecentre.org/lesson-2
-      - [ ] Write everything
+      - [ ] Listen and write everything
     - [ ] Wordwall:
       - [ ] УРОК 1-1 (First phrases) - https://wordwall.net/play/31683/726/686
       - [ ] УРОК 1-2 (First vocabulary list) - https://wordwall.net/play/31684/109/266
