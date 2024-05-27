@@ -10,7 +10,9 @@
     - [ ] [Sports Vocabulary in Russian (with pictures and example sentences)](https://www.youtube.com/watch?v=YvNMTKN24vE)
     - [ ] [Travel Vocabulary in Russian (with pictures and example sentences)](https://www.youtube.com/watch?v=aFQjYdxqV7g)
     - [ ] [Hobbies Vocabulary in Russian (with pictures and example sentences)](https://www.youtube.com/watch?v=4pPh15rDE2I)
-- For kids content :)  
+- For kids content :)
+    - [Cartoons on Soviet Movies Online :)](https://sovietmoviesonline.com/cartoons)
+      - [ ] [ЗИМА В ПРОСТОКВАШИНО](https://sovietmoviesonline.com/cartoons/zima-v-prostokvashino) *1.watch with english subtitles 2.watch with russian subtitles [here](https://www.youtube.com/watch?v=W2We9cbdcbs) 3.watch with english subtitles*
     - [**10 Russian Cartoons for Language Learners of All Ages**](https://www.thoughtco.com/russian-cartoons-language-learners-4178973)
     - [100+ Russian Cartoons With English Subtitles](https://www.youtube.com/playlist?list=PLIf2mW7VLSwIV7D6fQi8w-LQUbk3wDF0d)
     - [ ] [Learn Russian for Kids - Numbers, Colors & More](https://www.youtube.com/watch?v=oE_QegYAvTc)
