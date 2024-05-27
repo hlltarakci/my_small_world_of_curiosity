@@ -67,7 +67,7 @@
 - [ ] 28. [20 MIN FEEL GOOD YOGA || Yoga Flow To Stretch & Feel Good](https://www.youtube.com/watch?v=poZBpvLTHNw)
 - [ ] 29. [35 MIN BARRE & PILATES WORKOUT || Full Body Sculpt](https://www.youtube.com/watch?v=8JWZehPF9_k)
 - [x] 30. [30 MIN YOGA PILATES FLOW || Yoga Workout For Healthy & Happy Hips](https://www.youtube.com/watch?v=HIuJA4xS4WM)
-- [ ] *Extended Program Below* 31. [1 HOUR FULL BODY WORKOUT || Full Length Intermediate Pilates Class](https://www.youtube.com/watch?v=3guGRzS1oLA)
+- [x] 31. [1 HOUR FULL BODY WORKOUT || Full Length Intermediate Pilates Class](https://www.youtube.com/watch?v=3guGRzS1oLA)
 - [ ] 32. [55 MIN FULL BODY PILATES WORKOUT || 🤍 Day 1: Move With Me Series](https://www.youtube.com/watch?v=9tVNYGx4FeI)
 - [ ] 33. [40 MIN FULL BODY WORKOUT || Intermediate Pilates Class](https://www.youtube.com/watch?v=koTzaUu7Vws)
 - [ ] 34. [50 MIN FULL BODY WORKOUT || At-Home Pilates](https://www.youtube.com/watch?v=IwSdbcvEIbA)
