@@ -61,9 +61,9 @@ Support website: https://www.russianlanguagecentre.org and https://www.russianla
   - [x] Learn "gender of nouns" pdf  **https://www.russiantools.com/en/russian-words-find-what-gender-it-is**
 - [ ] **Week 6: Homework**
   - [ ] Weekly Review
-    - [ ] Introduction (pages 13-29), fast repeat.
+    - [x] Introduction (pages 13-29), fast repeat.
     - [ ] УРОК 1 (pages 30-41)
-      - [ ] Read everything. Listen: https://www.russianlanguagecentre.org/lesson-1-audio-files
+      - [x] Read everything. Listen: https://www.russianlanguagecentre.org/lesson-1-audio-files
       - [ ] Do exercises: https://www.russianlanguagecentre.org/lesson-1
       - [ ] Listen and write everything
     - [ ] УРОК 2 (pages 42-60)
@@ -71,10 +71,10 @@ Support website: https://www.russianlanguagecentre.org and https://www.russianla
       - [ ] Do exercises: https://www.russianlanguagecentre.org/lesson-2
       - [ ] Listen and write everything
     - [ ] Wordwall:
-      - [ ] УРОК 1-1 (First phrases) - https://wordwall.net/play/31683/726/686
-      - [ ] УРОК 1-2 (First vocabulary list) - https://wordwall.net/play/31684/109/266
-      - [ ] УРОК 1-3 (Personal pronouns) - https://wordwall.net/play/31684/368/571
-      - [ ] УРОК 1-4 (Occupations short list) - https://wordwall.net/play/31684/746/160
+      - [x] УРОК 1-1 (First phrases) - https://wordwall.net/play/31683/726/686
+      - [x] УРОК 1-2 (First vocabulary list) - https://wordwall.net/play/31684/109/266
+      - [x] УРОК 1-3 (Personal pronouns) - https://wordwall.net/play/31684/368/571
+      - [x] УРОК 1-4 (Occupations short list) - https://wordwall.net/play/31684/746/160
       - [ ] УРОК 2-1 (Genders of nouns) - https://wordwall.net/play/31684/953/507
       - [ ] УРОК 2-2 (Places in town) - https://wordwall.net/play/33167/097/790
       - [ ] УРОК 2-3 (Survival expressions) - https://wordwall.net/play/31685/540/757
