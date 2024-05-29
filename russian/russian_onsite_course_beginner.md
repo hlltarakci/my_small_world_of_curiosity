@@ -64,21 +64,21 @@ Support website: https://www.russianlanguagecentre.org and https://www.russianla
     - [x] Introduction (pages 13-29), fast repeat.
     - [ ] УРОК 1 (pages 30-41)
       - [x] Read everything. Listen: https://www.russianlanguagecentre.org/lesson-1-audio-files
-      - [ ] Do exercises: https://www.russianlanguagecentre.org/lesson-1
+      - [x] Do exercises: https://www.russianlanguagecentre.org/lesson-1
       - [ ] Listen and write everything
     - [ ] УРОК 2 (pages 42-60)
       - [x] Read everything. https://www.russianlanguagecentre.org/lesson-2-audio-files
       - [ ] Do exercises: https://www.russianlanguagecentre.org/lesson-2
       - [ ] Listen and write everything
-    - [ ] Wordwall:
+    - [x] Wordwall:
       - [x] УРОК 1-1 (First phrases) - https://wordwall.net/play/31683/726/686
       - [x] УРОК 1-2 (First vocabulary list) - https://wordwall.net/play/31684/109/266
       - [x] УРОК 1-3 (Personal pronouns) - https://wordwall.net/play/31684/368/571
       - [x] УРОК 1-4 (Occupations short list) - https://wordwall.net/play/31684/746/160
-      - [ ] УРОК 2-1 (Genders of nouns) - https://wordwall.net/play/31684/953/507
-      - [ ] УРОК 2-2 (Places in town) - https://wordwall.net/play/33167/097/790
-      - [ ] УРОК 2-3 (Survival expressions) - https://wordwall.net/play/31685/540/757
-      - [ ] УРОК 2-4 (Word order in sentences) https://wordwall.net/play/31685/734/363
+      - [x] УРОК 2-1 (Genders of nouns) - https://wordwall.net/play/31684/953/507
+      - [x] УРОК 2-2 (Places in town) - https://wordwall.net/play/33167/097/790
+      - [x] УРОК 2-3 (Survival expressions) - https://wordwall.net/play/31685/540/757
+      - [x] УРОК 2-4 (Word order in sentences) https://wordwall.net/play/31685/734/363
  - [ ] We did pp. 44-49 of lesson 2. Repeat.
  - [ ] Ex. 2.5, ex. 2.6 (p. 48), ex. 2.7 (p. 49)
  - [ ] Learn survival expressions
