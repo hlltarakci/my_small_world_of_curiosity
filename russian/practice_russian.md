@@ -23,7 +23,7 @@
              - [ ] [Learning Russian from books: Fairy Tale "Cinderella"](https://www.youtube.com/watch?v=ReLmm2IBH2o&list=PLtB2jErS8LTtVJzbEXTX8u4MJderupbME&index=2)
              - [ ] [Learning Russian from books: Fairy Tale "The small red feather"](https://www.youtube.com/watch?v=yLPyLVE7Ey8&list=PLtB2jErS8LTtVJzbEXTX8u4MJderupbME&index=3)
              - [ ] [Learning Russian from books: Fairy Tale "The Small Wooden House"](https://www.youtube.com/watch?v=vo4_vaWGSR8&list=PLtB2jErS8LTtVJzbEXTX8u4MJderupbME&index=4)
-             - [ ] [Learning Russian from books: Fairy Tale "Repka"](https://www.youtube.com/watch?v=sppiMHBnjhU&list=PLtB2jErS8LTtVJzbEXTX8u4MJderupbME&index=5)
+             - [x] [Learning Russian from books: Русская народная сказка: Репка](https://www.youtube.com/watch?v=sppiMHBnjhU&list=PLtB2jErS8LTtVJzbEXTX8u4MJderupbME&index=5) *(x3)*
          - [x] [**Russian lessons – Lesson 1. Russian for beginners. Who or What Is It? Russian cartoon**](https://www.youtube.com/watch?v=YR3XqKknMQc)
          - [Russian Vocabulary](https://www.youtube.com/playlist?list=PLtB2jErS8LTteUuphcIUN7X-QUSHIEjKF)
              - [x] [**Fruits and berries in Russian Vocabulary, Learn Russian**](https://www.youtube.com/watch?v=eUmNv2aBv2Q&list=PLtB2jErS8LTteUuphcIUN7X-QUSHIEjKF&index=1)
