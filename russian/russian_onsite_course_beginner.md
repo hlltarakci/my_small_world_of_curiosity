@@ -79,13 +79,13 @@ Support website: https://www.russianlanguagecentre.org and https://www.russianla
       - [x] УРОК 2-2 (Places in town) - https://wordwall.net/play/33167/097/790
       - [x] УРОК 2-3 (Survival expressions) - https://wordwall.net/play/31685/540/757
       - [x] УРОК 2-4 (Word order in sentences) https://wordwall.net/play/31685/734/363
- - [ ] We did pp. 44-49 of lesson 2. Repeat.
- - [ ] Ex. 2.5, ex. 2.6 (p. 48), ex. 2.7 (p. 49)
- - [ ] Learn survival expressions
+ - [x] We did pp. 44-49 of lesson 2. Repeat - https://www.russianlanguagecentre.org/lesson-2-audio-files
+ - [x] Ex. 2.5, ex. 2.6 (p. 48), ex. 2.7 (p. 49)
+ - [x] Learn survival expressions - https://www.russianlanguagecentre.org/lesson-2-audio-files
  - [ ] Read "Russian names" pdf - Имя - First name / Фамилия - Surname / Отчество - Patronymic
- - [ ] Wordwall:
-   - [ ] УРОК 2-1 (Genders of nouns) - https://wordwall.net/play/31684/953/507
-   - [ ] УРОК 2-2 (Places in town) - https://wordwall.net/play/33167/097/790
-   - [ ] УРОК 2-3 (Survival expressions) - https://wordwall.net/play/31685/540/757
-   - [ ] УРОК 2-4 (Word order in sentences) https://wordwall.net/play/31685/734/363
+ - [x] Wordwall:
+   - [x] УРОК 2-1 (Genders of nouns) - https://wordwall.net/play/31684/953/507
+   - [x] УРОК 2-2 (Places in town) - https://wordwall.net/play/33167/097/790
+   - [x] УРОК 2-3 (Survival expressions) - https://wordwall.net/play/31685/540/757
+   - [x] УРОК 2-4 (Word order in sentences) https://wordwall.net/play/31685/734/363
 
