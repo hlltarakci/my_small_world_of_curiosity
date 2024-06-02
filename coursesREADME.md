@@ -14,7 +14,7 @@
 - [ ] [ONLINE][UDEMY: Conversational Russian for beginners (11 hours)](https://www.udemy.com/course/conversational-russian-for-beginners/?couponCode=KEEPLEARNING)
 - [ ] [ONLINE][UDEMY: Complete Russian Course for Beginners (A1-A2) (12.5 hours)](https://www.udemy.com/course/complete-russian-course-for-beginners/?couponCode=KEEPLEARNING)
 - [ ] [ONLINE][UDEMY: The Complete Russian Language Course (27 hours)](https://www.udemy.com/course/the-complete-russian-language-course/)
-- [ ] [ONSITE][Russian Language Center, Group Courses for Beginners (Pushkin House) (10 weeks)](https://www.russiancentre.co.uk/group-courses-for-beginners/)
+- [ ] [ONSITE][Russian Language Center, Group Courses for Beginners (Pushkin House) (10 weeks)](https://www.russiancentre.co.uk/group-courses-for-beginners/) - [term dates](https://www.russiancentre.co.uk/term-dates/) - [course homework tracker](https://github.com/hlltarakci/my_small_world_of_curiosity/blob/main/russian/russian_onsite_course_beginner.md)
 - [ ] [ONSITE][Russian Language Center, Group Courses for False Beginners (Pushkin House) (10 weeks)](https://www.russiancentre.co.uk/group-courses-for-non-beginners/)
 - [ ] [ONLINE][UDEMY: Russian Pronunciation Course (11.5 hours)](https://www.udemy.com/course/improve-russian-pronunciation/?couponCode=LEADERSALE24TRFR)
 - [ ] [ONLINE][UDEMY: Russian Handwriting Course (2.5 hours)](https://www.udemy.com/course/russian-handwriting-cursive/?couponCode=LEADERSALE24TRFR)
