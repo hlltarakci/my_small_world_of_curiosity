@@ -519,6 +519,12 @@
 2. Ustune tereyag, peynir, poy (karisik baharat) ekle.
 3. Alternatif: Patatatesler yavastan olunca uzerlerinde rendelenmis mozarella koy, peyniri AirFryer da erit. Pesto sosu veya domatesle servis et.
 
+**Alternatif:**
+
+<img src="roast_potatoes_v3.jpg" width="500"/>
+
+1. Patatesleri su karisimla servis et: Lezzetli cherry domates + extra virgin olive oil + rendelenmis mozarella peyniri + biraz tuz => Iyice karistir.
+
 ## Potato Wedges
 [<img src="potato_wedges.jpg" width="500"/>](potato_wedges.jpg)
 1. 4-5 patates, esit sekilde kizartmalik dogra
