@@ -59,17 +59,14 @@ Support website: https://www.russianlanguagecentre.org and https://www.russianla
   - [x] Link to the board - https://air.ifpshare.com/documentPreview.html?s_id=f6c13863-f15d-4c1b-b6b6-7faf75fff371#/detail/5aa87978-f6eb-42f3-be6a-b3a85b84125e/record
   - [x] Wordwall exercise: УРОК 2-1 (Genders of nouns) - https://wordwall.net/play/31684/953/507
   - [x] Learn "gender of nouns" pdf  **https://www.russiantools.com/en/russian-words-find-what-gender-it-is**
-- [ ] **Week 6: Homework**
-  - [ ] Weekly Review
+- [x] **Week 6: Homework**
+  - [x] Weekly Review
     - [x] Introduction (pages 13-29), fast repeat.
-    - [ ] УРОК 1 (pages 30-41)
+    - [x] УРОК 1 (pages 30-41)
       - [x] Read everything. Listen: https://www.russianlanguagecentre.org/lesson-1-audio-files
       - [x] Do exercises: https://www.russianlanguagecentre.org/lesson-1
-      - [ ] Listen and write everything
-    - [ ] УРОК 2 (pages 42-60)
+    - [x] УРОК 2 (pages 42-60)
       - [x] Read everything. https://www.russianlanguagecentre.org/lesson-2-audio-files
-      - [ ] Do exercises: https://www.russianlanguagecentre.org/lesson-2
-      - [ ] Listen and write everything
     - [x] Wordwall:
       - [x] УРОК 1-1 (First phrases) - https://wordwall.net/play/31683/726/686
       - [x] УРОК 1-2 (First vocabulary list) - https://wordwall.net/play/31684/109/266
@@ -82,15 +79,15 @@ Support website: https://www.russianlanguagecentre.org and https://www.russianla
  - [x] We did pp. 44-49 of lesson 2. Repeat - https://www.russianlanguagecentre.org/lesson-2-audio-files
  - [x] Ex. 2.5, ex. 2.6 (p. 48), ex. 2.7 (p. 49)
  - [x] Learn survival expressions - https://www.russianlanguagecentre.org/lesson-2-audio-files
- - [ ] Read "Russian names" pdf - Имя - First name / Фамилия - Surname / Отчество - Patronymic
  - [x] Wordwall:
    - [x] УРОК 2-1 (Genders of nouns) - https://wordwall.net/play/31684/953/507
    - [x] УРОК 2-2 (Places in town) - https://wordwall.net/play/33167/097/790
    - [x] УРОК 2-3 (Survival expressions) - https://wordwall.net/play/31685/540/757
    - [x] УРОК 2-4 (Word order in sentences) https://wordwall.net/play/31685/734/363
-- [ ] **Week 7: Homework**
+- [ ] **Week 7: Homework**  (2 weeks homework below)
   - [ ] Weekly Review
-    - [ ] Introduction (pages 13-29), fast repeat.
+    - [ ] Introduction (pages 13-29)
+    - [ ] Listen and write everything
     - [ ] УРОК 1 (pages 30-41)
       - [ ] Read everything. Listen: https://www.russianlanguagecentre.org/lesson-1-audio-files
       - [ ] Do exercises: https://www.russianlanguagecentre.org/lesson-1
@@ -108,7 +105,10 @@ Support website: https://www.russianlanguagecentre.org and https://www.russianla
       - [ ] УРОК 2-2 (Places in town) - https://wordwall.net/play/33167/097/790
       - [ ] УРОК 2-3 (Survival expressions) - https://wordwall.net/play/31685/540/757
       - [ ] УРОК 2-4 (Word order in sentences) https://wordwall.net/play/31685/734/363
+    - [ ] Go over all leaflets handed out
+    - [ ] Know everything taught so far by heart
  - [ ] In class, we did ex.2.10 on p.53. Repeat. https://www.russianlanguagecentre.org/lesson-2-audio-files
  - [ ] Do ex.2.11 on p.53
  - [ ] Learn expressions on p.51 by heart
  - [ ] Read dialogues 2.6 on p.52 and all the theory on the same page
+ - [ ] Read "Russian names" pdf - Имя - First name / Фамилия - Surname / Отчество - Patronymic
