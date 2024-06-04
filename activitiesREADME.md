@@ -72,7 +72,7 @@
 - [ ] 33. [40 MIN FULL BODY WORKOUT || Intermediate Pilates Class](https://www.youtube.com/watch?v=koTzaUu7Vws)
 - [ ] 34. [50 MIN FULL BODY WORKOUT || At-Home Pilates](https://www.youtube.com/watch?v=IwSdbcvEIbA)
 - [ ] 35. [45 MIN FULL BODY WORKOUT || At-Home Pilates 🤍 Day 7: Move With Me Series](https://www.youtube.com/watch?v=dN5fWO9m1AY)
-- [ ] 36. [40 MIN FULL BODY WORKOUT || Intermediate Pilates With Mini Band (Optional)](https://www.youtube.com/watch?v=e4A58O1oLJc)
+- [x] 36. [40 MIN FULL BODY WORKOUT || Intermediate Pilates With Mini Band (Optional)](https://www.youtube.com/watch?v=e4A58O1oLJc) *includes resistance band loop*
 - [x] 37. [45 MIN FULL BODY WORKOUT || At-Home Pilates (Mini Resistance Band)](https://www.youtube.com/watch?v=pw5qYP3Gz0k) *includes resistance band loop*
 - [x] 38. [40 MIN FULL BODY WORKOUT || Intermediate/Advanced Pilates](https://youtu.be/GTZioQTSy8o)
 - [ ] 39. [30 MIN INTENSE MAT PILATES || Full Body Workout (Cool Down Included)](https://www.youtube.com/watch?v=_HnWLkHL1hU)
