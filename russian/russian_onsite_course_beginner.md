@@ -89,11 +89,12 @@ Support website: https://www.russianlanguagecentre.org and https://www.russianla
     - [ ] Introduction (pages 13-29)
     - [ ] Listen and write everything
     - [ ] УРОК 1 (pages 30-41)
-      - [ ] Read everything. Listen: https://www.russianlanguagecentre.org/lesson-1-audio-files
+      - [x] Read everything. Listen: https://www.russianlanguagecentre.org/lesson-1-audio-files
       - [ ] Do exercises: https://www.russianlanguagecentre.org/lesson-1
       - [ ] Listen and write everything
     - [ ] УРОК 2 (pages 42-60)
-      - [ ] Read everything. https://www.russianlanguagecentre.org/lesson-2-audio-files
+      - [x] Read everything. https://www.russianlanguagecentre.org/lesson-2-audio-files
+      - [ ] Learn survival expressions by heart (p. 46)
       - [ ] Do exercises: https://www.russianlanguagecentre.org/lesson-2
       - [ ] Listen and write everything
     - [ ] Wordwall:
