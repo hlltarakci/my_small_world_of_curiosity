@@ -76,7 +76,7 @@
 - [x] 37. [45 MIN FULL BODY WORKOUT || At-Home Pilates (Mini Resistance Band)](https://www.youtube.com/watch?v=pw5qYP3Gz0k) *includes resistance band loop*
 - [x] 38. [40 MIN FULL BODY WORKOUT || Intermediate/Advanced Pilates](https://youtu.be/GTZioQTSy8o)
 - [ ] 39. [30 MIN INTENSE MAT PILATES || Full Body Workout (Cool Down Included)](https://www.youtube.com/watch?v=_HnWLkHL1hU)
-- [ ] 40. [30 MIN FULL BODY WORKOUT || Intermediate/Advanced Pilates (No Equipment)](https://www.youtube.com/watch?v=zdw1V-IBekc)
+- [x] 40. [30 MIN FULL BODY WORKOUT || Intermediate/Advanced Pilates (No Equipment)](https://www.youtube.com/watch?v=zdw1V-IBekc)
 - [x] 41. [20 MINUTE FULL BODY WORKOUT | At-Home Pilates](https://www.youtube.com/watch?v=jHQnb7RfI58)
 
 ### Monthly - Version 3 - [Beginner Calendar (Cassey)](https://www.blogilates.com/blog/new-beginners-calendar-2-0-for-2015/)
