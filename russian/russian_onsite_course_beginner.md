@@ -87,7 +87,7 @@ Support website: https://www.russianlanguagecentre.org and https://www.russianla
 - [ ] **Week 7: Homework**  (2 weeks homework below)
   - [ ] Weekly Review
     - [ ] Introduction (pages 13-29)
-    - [ ] Listen and write everything
+    - [ ] Listen and write everything - https://www.russianlanguagecentre.org/alphabet-audio-files
     - [ ] УРОК 1 (pages 30-41)
       - [x] Read everything. Listen: https://www.russianlanguagecentre.org/lesson-1-audio-files
       - [ ] Do exercises: https://www.russianlanguagecentre.org/lesson-1
@@ -97,16 +97,16 @@ Support website: https://www.russianlanguagecentre.org and https://www.russianla
       - [ ] Learn survival expressions by heart (p. 46)
       - [ ] Do exercises: https://www.russianlanguagecentre.org/lesson-2
       - [ ] Listen and write everything
-    - [ ] Wordwall:
-      - [ ] УРОК 1-1 (First phrases) - https://wordwall.net/play/31683/726/686
-      - [ ] УРОК 1-2 (First vocabulary list) - https://wordwall.net/play/31684/109/266
-      - [ ] УРОК 1-3 (Personal pronouns) - https://wordwall.net/play/31684/368/571
-      - [ ] УРОК 1-4 (Occupations short list) - https://wordwall.net/play/31684/746/160
-      - [ ] УРОК 2-1 (Genders of nouns) - https://wordwall.net/play/31684/953/507
-      - [ ] УРОК 2-2 (Places in town) - https://wordwall.net/play/33167/097/790
-      - [ ] УРОК 2-3 (Survival expressions) - https://wordwall.net/play/31685/540/757
-      - [ ] УРОК 2-4 (Word order in sentences) https://wordwall.net/play/31685/734/363
-    - [ ] Go over all leaflets handed out
+    - [x] Wordwall:
+      - [x] УРОК 1-1 (First phrases) - https://wordwall.net/play/31683/726/686
+      - [x] УРОК 1-2 (First vocabulary list) - https://wordwall.net/play/31684/109/266
+      - [x] УРОК 1-3 (Personal pronouns) - https://wordwall.net/play/31684/368/571
+      - [x] УРОК 1-4 (Occupations short list) - https://wordwall.net/play/31684/746/160
+      - [x] УРОК 2-1 (Genders of nouns) - https://wordwall.net/play/31684/953/507
+      - [x] УРОК 2-2 (Places in town) - https://wordwall.net/play/33167/097/790
+      - [x] УРОК 2-3 (Survival expressions) - https://wordwall.net/play/31685/540/757
+      - [x] УРОК 2-4 (Word order in sentences) https://wordwall.net/play/31685/734/363
+    - [x] Go over all leaflets handed out: reading practice, reading exercises, lecture notes, lesson 1 exercise, gender of nouns, Russian names
     - [ ] Know everything taught so far by heart
  - [ ] In class, we did ex.2.10 on p.53. Repeat. https://www.russianlanguagecentre.org/lesson-2-audio-files
  - [ ] Do ex.2.11 on p.53
