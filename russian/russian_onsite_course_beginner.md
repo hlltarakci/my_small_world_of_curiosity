@@ -90,12 +90,14 @@ Support website: https://www.russianlanguagecentre.org and https://www.russianla
     - [ ] Listen and write everything - https://www.russianlanguagecentre.org/alphabet-audio-files
     - [ ] УРОК 1 (pages 30-41)
       - [x] Read everything. Listen: https://www.russianlanguagecentre.org/lesson-1-audio-files
-      - [ ] Do exercises: https://www.russianlanguagecentre.org/lesson-1
+      - [x] Do exercises: https://www.russianlanguagecentre.org/lesson-1
+      - [ ] Play with revision exercises, there are options - https://www.russianlanguagecentre.org/lesson-1
       - [ ] Listen and write everything
     - [ ] УРОК 2 (pages 42-60)
       - [x] Read everything. https://www.russianlanguagecentre.org/lesson-2-audio-files
       - [ ] Learn survival expressions by heart (p. 46)
-      - [ ] Do exercises: https://www.russianlanguagecentre.org/lesson-2
+      - [x] Do exercises: https://www.russianlanguagecentre.org/lesson-2
+      - [ ] Play with revision exercises, there are options - https://www.russianlanguagecentre.org/lesson-2
       - [ ] Listen and write everything
     - [x] Wordwall:
       - [x] УРОК 1-1 (First phrases) - https://wordwall.net/play/31683/726/686
