@@ -459,6 +459,12 @@ What Did it Do in Poland and Russia?](http://econweb.umd.edu/~murrell/articles/W
 - [ ] Putin's Revenge - FRONTLINE, 2017
      - [ ] [Putin's Revenge, Part 1](https://www.youtube.com/watch?v=o2L8qINZD3Q)
      - [ ] [Putin's Revenge, Part 2](https://www.youtube.com/watch?v=8Q_uKCEj2Xk)
+- [ ] [The Kursk | What Happened to the Russian Sub That Exploded](https://www.youtube.com/watch?v=7RL_UdWCPlw) - [Kursk submarine disaster](https://en.wikipedia.org/wiki/Kursk_submarine_disaster) - [comments](https://eksisozluk.com/kursk-faciasi--206701)
+- [ ] [Kursk Submarine Disaster - Russian Navy's Biggest Mistake](https://www.youtube.com/watch?v=HzlBB1dGkGM)
+- [ ] [Savaş Bilimi: Kursk Denizaltı Faciası](https://www.youtube.com/watch?v=GPv-k80p3q8)
+- [ ] [Trapped Inside - Kursk Submarine Explosion (Documentary)](https://www.youtube.com/watch?v=884i-6lQR-c)
+- [ ] [The Darkest Submarine Catastrophe Ever Seen](https://www.youtube.com/watch?v=T_tJfrJ_Z_8)  
+- [ ] [Russian Submarine Disaster - Documentary Military](https://www.youtube.com/watch?v=syf3VxfGw8E) 
 - [ ] [SERIES][Turning Point: The Bomb and the Cold War, 2024](https://www.imdb.com/title/tt26227818/) - [where to watch](https://www.netflix.com/gb/title/81614129)
      - [ ] 1. The Sun Came Up Tremendous
      - [ ] 2. Poisoning the Soil
