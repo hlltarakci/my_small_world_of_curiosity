@@ -74,8 +74,8 @@
 - [x] 35. [30 MIN FULL BODY WORKOUT || Intermediate/Advanced Pilates (No Equipment)](https://www.youtube.com/watch?v=zdw1V-IBekc)
 - [x] 36. [20 MINUTE FULL BODY WORKOUT | At-Home Pilates](https://www.youtube.com/watch?v=jHQnb7RfI58)
 
-### Monthly - Version 3 - [Beginner Calendar (Cassey)](https://www.blogilates.com/blog/new-beginners-calendar-2-0-for-2015/) - [program](https://www.blogilates.com/wp-content/uploads/2014/12/beginners-2b-1.png)
-- [ ] [Day 1 - Total Body](https://www.blogilates.com/beginners-2-0-day-1/)
+### Monthly - Version 3 - [Beginner Calendar (Cassey)](https://www.blogilates.com/blog/new-beginners-calendar-2-0-for-2015/) - [program](https://www.blogilates.com/wp-content/uploads/2014/12/beginners-2b-1.png) *+[100 repeats](https://youtu.be/-qCfKkME9lE?si=hNkukqV2egTbBYIB) of a glute exercise with resistance band loop*)
+- [x] [Day 1 - Total Body](https://www.blogilates.com/beginners-2-0-day-1/)
 - [ ] [Day 2 - Abs](https://www.blogilates.com/beginners-2-0-day-2/)
 - [ ] [Day 3 - Total Body](https://www.blogilates.com/beginners-2-0-day-3/)
 - [ ] [Day 4 - Lower Body](https://www.blogilates.com/beginners-2-0-day-4/)
