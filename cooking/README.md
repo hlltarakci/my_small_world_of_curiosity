@@ -59,6 +59,15 @@
 5. (Opsiyonel) 1 tavuk ya da et bulyon ekle
 6. Arpa sehriyeler pisince dinlenmeye birak
 
+## [Tarhana Soup](https://en.wikipedia.org/wiki/Tarhana)
+[<img src="tarhana_soup.jpg" width="500"/>](tarhana_soup.jpg)
+
+1. 3-3.5 yemek kasigi tarhanayi bir su bardagi su ile isla. Arada karistirarak dinlenmeye birak.
+2. Tencerede 3 yemek kasigi zeytinyagini biraz isit, 1 yemek kasigi salca ekle (sarimsakli domates sosu kullandim). Salcanin kokusu cikinca 3 su bardagi sicak su ekle. Kaynasin.
+3. Dinlenmis tarhanayi, karistirarak, azar azar tencereye ekle. Cok koyu olduysa azar azar su eklemye devam et, kaynat.
+4. Kaynayinca 2 cay kasigi tuz, kasigin burnunla karabiber ekle. 10 dk. kadar kaynat.
+
+
 ## Kiyma Paca (Soup with Minced Beef)
 [<img src="kiyma_paca.jpg" width="500"/>](kiyma_paca.jpg)
 
