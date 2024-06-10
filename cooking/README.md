@@ -456,6 +456,10 @@
 3. Suyunu salip biraz cakmeye baslayinca 1 cay kasigi tuz + yarim cay kasigi karabiber + yarim cay kasigi kirkizi biber + ceyrek cay kasigi chili flakes ekle.
 4. Suyunu cekince ocagi kapat, servis yap.
 
+**NOTE:** 600 gram mantar ile tum malzemeleri katlayarak tam olcu oldu. Mantarlari biraz daha buyuk kesince goruntusu daha guzel oldu.
+
+[<img src="mushroom_saute_v2.jpg" width="500"/>](mushroom_saute.jpg)
+
 ## Yumurtali Ekmek (Eggy Fried Bread for Breakfast)
 [<img src="yumurtali_ekmek.jpg" width="500"/>](yumurtali_ekmek.jpg)
 1. 2 yumurta + 1 cay kasigi tuz. Guzelce cirp.
