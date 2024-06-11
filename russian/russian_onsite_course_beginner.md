@@ -86,8 +86,8 @@ Support website: https://www.russianlanguagecentre.org and https://www.russianla
    - [x] УРОК 2-4 (Word order in sentences) https://wordwall.net/play/31685/734/363
 - [ ] **Week 7: Homework**  (2 weeks homework below)
   - [ ] Weekly Review
-    - [ ] Introduction (pages 13-29)
-    - [ ] Listen and write everything - https://www.russianlanguagecentre.org/alphabet-audio-files
+    - [x] Introduction (pages 13-29)
+      - [x] Listen and write everything - https://www.russianlanguagecentre.org/alphabet-audio-files
     - [ ] УРОК 1 (pages 30-41)
       - [x] Read everything. Listen: https://www.russianlanguagecentre.org/lesson-1-audio-files
       - [x] Do exercises: https://www.russianlanguagecentre.org/lesson-1
