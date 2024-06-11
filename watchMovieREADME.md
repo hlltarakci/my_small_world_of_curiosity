@@ -313,7 +313,7 @@ https://sovietmoviesonline.com/
      - [Isidor Annensky](https://en.wikipedia.org/wiki/Isidor_Annensky)
          - [ ] [Svadba, 1944](https://www.imdb.com/title/tt0037332/)  
      - [Aleksey Batalov](https://en.wikipedia.org/wiki/Aleksey_Batalov)
-         - [ ] [Shinel, 1959 (Overcoat)](https://www.imdb.com/title/tt0053274/)  
+         - [ ] [ШИНЕЛЬ, 1959 (Overcoat)](https://www.imdb.com/title/tt0053274/) - [where to watch](https://sovietmoviesonline.com/drama/shinel) 
      - [Konstantin Ershov](https://www.imdb.com/name/nm0947669/)
          - [ ] [Viy, 1967](https://www.imdb.com/title/tt0062453/)
      - [Dmitriy Dyachenko](https://en.wikipedia.org/wiki/Dmitry_Dyachenko)
