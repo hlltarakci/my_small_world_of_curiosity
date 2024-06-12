@@ -595,6 +595,12 @@ Protip: Esit olcude kes. Patatesleri kagit havluyla iyice kurula. Pisirirken ara
 
 1. Ekmek uzerine malzemeleri koyup, Airfryer da 160 derecede 8 dk pisir. Tercihen flat bread uzerine biraz yag, rendelenmis mozarella ve cherry domates guzel oluyor. Maydanoz ya da pizza baharati da guzel sonuc veriyor. Eriyen herhangi bir peynir tipi de yakisiyor.
 
+**Alternatif:** 
+Pita ekmegi kullaninca biraz daha yumusak oluyor. Kirmizi kapya biberi air fryerda biraz firinlayip, yesillikle servis edilebilir.
+
+<img src="kahvaltilik_ekmek_v2.jpg" width="500"/>
+
+
 ## [Chocolate Chip Cookies](https://www.youtube.com/watch?v=vWP85FYQjcE)
 <img src="chocolate_chip_cookies.jpg" width="500"/>
 
