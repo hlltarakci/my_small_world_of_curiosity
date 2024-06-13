@@ -88,17 +88,17 @@ Support website: https://www.russianlanguagecentre.org and https://www.russianla
   - [ ] Weekly Review
     - [x] Introduction (pages 13-29)
       - [x] Listen and write everything - https://www.russianlanguagecentre.org/alphabet-audio-files
-    - [ ] УРОК 1 (pages 30-41)
+    - [x] УРОК 1 (pages 30-41)
       - [x] Read everything. Listen: https://www.russianlanguagecentre.org/lesson-1-audio-files
       - [x] Do exercises: https://www.russianlanguagecentre.org/lesson-1
       - [x] Play with revision exercises, there are options - https://www.russianlanguagecentre.org/lesson-1
-      - [ ] Listen and write everything
+      - [x] Listen, repeat and write everything (dialogs + exercises + vocabulary (page 41)) - https://www.russianlanguagecentre.org/lesson-1-audio-files
     - [ ] УРОК 2 (pages 42-60)
       - [x] Read everything. https://www.russianlanguagecentre.org/lesson-2-audio-files
       - [ ] Learn survival expressions by heart (p. 46)
       - [x] Do exercises: https://www.russianlanguagecentre.org/lesson-2
       - [ ] Play with revision exercises, there are options - https://www.russianlanguagecentre.org/lesson-2
-      - [ ] Listen and write everything
+      - [ ] Listen and write everything - https://www.russianlanguagecentre.org/lesson-2-audio-files
     - [x] Wordwall:
       - [x] УРОК 1-1 (First phrases) - https://wordwall.net/play/31683/726/686
       - [x] УРОК 1-2 (First vocabulary list) - https://wordwall.net/play/31684/109/266
