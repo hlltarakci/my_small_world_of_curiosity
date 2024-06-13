@@ -74,9 +74,9 @@
 - [x] 35. [30 MIN FULL BODY WORKOUT || Intermediate/Advanced Pilates (No Equipment)](https://www.youtube.com/watch?v=zdw1V-IBekc)
 - [x] 36. [20 MINUTE FULL BODY WORKOUT | At-Home Pilates](https://www.youtube.com/watch?v=jHQnb7RfI58)
 
-### Monthly - Version 3 - [Summer Sculpt (Cassey)](https://www.blogilates.com/blog/28daysummersculpt/) (*+[100 repeats](https://youtu.be/-qCfKkME9lE?si=hNkukqV2egTbBYIB) of a glute exercise with resistance band loop*)
+### Monthly - Version 3 - [Summer Sculpt (Cassey)](https://www.blogilates.com/blog/28daysummersculpt/) (*+[20 to 100 repeats](https://youtu.be/-qCfKkME9lE?si=hNkukqV2egTbBYIB) of a glute exercise with resistance band loop*)
 - [ ] **Week 1**
-    - [ ] [TOTAL BODY][Lean, Long & Lifted From Head to Toe / 28-Day Summer Sculpt](https://www.youtube.com/watch?v=YdnqNGcmhqA)
+    - [x] [TOTAL BODY][Lean, Long & Lifted From Head to Toe / 28-Day Summer Sculpt](https://www.youtube.com/watch?v=YdnqNGcmhqA)
     - [ ] [LEGS & BUTT][Peach Booty & Thigh Shaper / 28-Day Summer Sculpt](https://www.youtube.com/watch?v=XjiRVCEokWE)
     - [ ] [ARMS & BACK][Toned Tank Top Arms & Back / 28-Day Summer Sculpt](https://www.youtube.com/watch?v=2YdJgcrrHKI)
     - [ ] [ABS & BUTT][Abdominal Etcher & Butt Enhancer / 28-Day Summer Sculpt](https://www.youtube.com/watch?v=T4adtRJ_b3g)
