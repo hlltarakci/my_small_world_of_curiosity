@@ -97,7 +97,7 @@ Support website: https://www.russianlanguagecentre.org and https://www.russianla
       - [x] Read everything. https://www.russianlanguagecentre.org/lesson-2-audio-files
       - [x] Learn survival expressions by heart (p. 46)
       - [x] Do exercises: https://www.russianlanguagecentre.org/lesson-2
-      - [ ] Play with revision exercises, there are options - https://www.russianlanguagecentre.org/lesson-2
+      - [x] Play with revision exercises, there are options - https://www.russianlanguagecentre.org/lesson-2
       - [x] Listen, repeat and write everything (dialogs + exercised for what we have covered so far) - https://www.russianlanguagecentre.org/lesson-2-audio-files
     - [x] Wordwall:
       - [x] УРОК 1-1 (First phrases) - https://wordwall.net/play/31683/726/686
@@ -115,3 +115,4 @@ Support website: https://www.russianlanguagecentre.org and https://www.russianla
  - [x] Learn expressions on p.51 by heart
  - [x] Read dialogues 2.6 on p.52 and all the theory on the same page
  - [x] Read "Russian names" pdf - Имя - First name / Фамилия - Surname / Отчество - Patronymic
+ - [x] Listen a bit forward for next lesson - https://www.russianlanguagecentre.org/lesson-2-audio-files
