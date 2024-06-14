@@ -313,7 +313,7 @@ https://sovietmoviesonline.com/
      - [Isidor Annensky](https://en.wikipedia.org/wiki/Isidor_Annensky)
          - [ ] [Svadba, 1944](https://www.imdb.com/title/tt0037332/)  
      - [Aleksey Batalov](https://en.wikipedia.org/wiki/Aleksey_Batalov)
-         - [ ] [ШИНЕЛЬ, 1959 (Overcoat)](https://www.imdb.com/title/tt0053274/) - [where to watch](https://sovietmoviesonline.com/drama/shinel) 
+         - [x] [**ШИНЕЛЬ, 1959 (Overcoat)**](https://www.imdb.com/title/tt0053274/) - [where to watch](https://sovietmoviesonline.com/drama/shinel) - [*"People consider that Russian writer Nikolai Vasilievich Gogol (Николай Васильевич Гоголь) founded realism in Russian literature.....**Dostoevsky has been quoted as saying, 'We all come from under Gogol's Overcoat', and it is true that much of Russian literature can be glimpsed in this single short story: it is a satire ranging from buffonery to social commentary, a realist work rooted in naturalistic detail that sometimes descends to the grotesque and the surreal, and yet remains compassionate, maintaining its sympathy for all of us humans and our tragic and ludicrous plight.**..*"](https://www.goodreads.com/book/show/537094.The_Overcoat)
      - [Konstantin Ershov](https://www.imdb.com/name/nm0947669/)
          - [ ] [Viy, 1967](https://www.imdb.com/title/tt0062453/)
      - [Dmitriy Dyachenko](https://en.wikipedia.org/wiki/Dmitry_Dyachenko)
@@ -424,6 +424,7 @@ https://sovietmoviesonline.com/
      - [ ] [SERIES][Guest from the Future, 1984 (Gostya iz budushchego)](https://www.imdb.com/title/tt0086723/)
      - [ ] [SERIES][The Adventures of the Electronic, 1979](https://www.imdb.com/title/tt0078673/)
      - [ ] [SERIES][Vechnyy zov, 1973](https://www.imdb.com/title/tt0331802/)
+     - [ ] [SERIES][Dead Souls, 1984 (МЁРТВЫЕ ДУШИ)](https://www.imdb.com/title/tt0168084/) - [where to watch](https://sovietmoviesonline.com/comedy/mertvye-dushi) - [comments](https://eksisozluk.com/myortviye-dusi--1419039)
      - [Russian Animation & Short Movies](https://en.wikipedia.org/wiki/History_of_Russian_animation) - [10 most decorated Soviet & Russian animated movies](https://www.rbth.com/arts/336838-most-decorated-soviet-russian-animation)
          - [x] [Hedgehog in the Fog, 1975 (Yozhik v tumane)](https://www.imdb.com/title/tt0073099/) - [where to watch](https://filmschoolrejects.com/hedgehog-in-the-fog/) - *The book [What Every Russian Knows (and You Don't)](https://www.amazon.co.uk/What-Every-Russian-Knows-Dont/dp/1901990125) has a dedicated section :)*
          - [x] [**Three from Prostokvashino, 1978 (Troe iz Prostokvashino)**](https://www.imdb.com/title/tt0189160/) - [where to watch](https://www.youtube.com/watch?v=BFbhZ-te8JY) - *The book [What Every Russian Knows (and You Don't)](https://www.amazon.co.uk/What-Every-Russian-Knows-Dont/dp/1901990125) has a dedicated section :)* - [Uncle Fedya, His Dog, and His Cat](https://en.wikipedia.org/wiki/Uncle_Fedya,_His_Dog,_and_His_Cat)
