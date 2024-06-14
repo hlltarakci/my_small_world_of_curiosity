@@ -140,3 +140,4 @@ Support website: https://www.russianlanguagecentre.org and https://www.russianla
       - [ ] УРОК 2-4 (Word order in sentences) https://wordwall.net/play/31685/734/363
     - [ ] Go over all leaflets handed out: reading practice, reading exercises, lecture notes, lesson 1 exercise, gender of nouns, Russian names
     - [ ] Know everything taught so far by heart
+- [ ] 🔂 [EXTRA] Take the online course again to see how comfortable i get at this point: [UDEMY: Learn Russian for Beginners: The Ultimate 100-Lesson Course (6.5 hours)](https://www.udemy.com/course/learn-russian-for-beginners/?couponCode=KEEPLEARNING) 
