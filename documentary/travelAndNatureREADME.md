@@ -184,7 +184,7 @@
 - [ ] [SERIES][The Silk Road](https://www.imdb.com/title/tt5995592/) - [where to watch](https://curiositystream.com/video/2339)
 - [ ] [Kyrgyzstan](https://www.youtube.com/watch?v=c_qf_TZMTx0) 
 - [ ] [Uzbekistan](https://www.youtube.com/watch?v=TcqAu8VyjZA)
-- [ ] [Kazakhstan](https://www.youtube.com/watch?v=8t5ZkVdXjrE)
+- [x] [**Kazakhstan**](https://www.youtube.com/watch?v=8t5ZkVdXjrE)
 - [ ] [How the Silk Road Made the World](https://www.youtube.com/watch?v=H_pFt5s_pIM)
 - [ ] [Georgia & The Great Caucasus](https://www.youtube.com/watch?v=NLXWC4enm_I)
 - [ ] [Armenia](https://www.youtube.com/watch?v=SgL2IKV8UB0)
