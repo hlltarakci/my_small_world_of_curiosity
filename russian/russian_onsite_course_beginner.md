@@ -140,4 +140,18 @@ Support website: https://www.russianlanguagecentre.org and https://www.russianla
       - [ ] УРОК 2-4 (Word order in sentences) https://wordwall.net/play/31685/734/363
     - [ ] Go over all leaflets handed out: reading practice, reading exercises, lecture notes, lesson 1 exercise, gender of nouns, Russian names
     - [ ] Know everything taught so far by heart
+  - [ ] We did pp. 53-57 of lesson 2. Repeat.
+  - [ ] Do exercises, ex. 2.16, ex. 2.17 (p. 58), text 2 (p. 59).
+  - [ ] Do exercises on RLC website. https://www.russianlanguagecentre.org/lesson-2
+  - [ ] Wordwall:
+    - [ ] УРОК 2-1 (Genders of nouns) - https://wordwall.net/play/31684/953/507
+    - [ ] УРОК 2-2 (Places in town) - https://wordwall.net/play/33167/097/790
+    - [ ] УРОК 2-3 (Survival expressions) - https://wordwall.net/play/31685/540/757
+    - [ ] УРОК 2-4 (Word order in sentences) - https://wordwall.net/play/31685/734/363
+    - [ ] УРОК 2-5 (Demonstratives) - https://wordwall.net/play/31685/997/962
+    - [ ] УРОК 2-6 (Possesives) - https://wordwall.net/play/31691/880/263
+    - [ ] УРОК 2-7 (Gender of adjectives) - https://wordwall.net/play/31692/609/897
+    - [ ] УРОК 2-8 (Lesson 2 vocabulary list) - https://wordwall.net/resource/31710966/%d1%83%d1%80%d0%be%d0%ba-2-8-lesson-2-vocabulary-list
+    - [ ] УРОК 2-9 (Lesson 2 vocabulary list) - https://wordwall.net/play/33166/975/101
+    - [ ] УРОК 2-10 (Lesson 2 vocabulary list) - https://wordwall.net/play/33789/950/714 
 - [ ] 🔂 [EXTRA] Take the online course again to see how comfortable i get at this point: [UDEMY: Learn Russian for Beginners: The Ultimate 100-Lesson Course (6.5 hours)](https://www.udemy.com/course/learn-russian-for-beginners/?couponCode=KEEPLEARNING) 
