@@ -77,7 +77,7 @@
 ### Monthly - Version 3 - [Summer Sculpt (Cassey)](https://www.blogilates.com/blog/28daysummersculpt/) (*+[20 to 100 repeats](https://youtu.be/-qCfKkME9lE?si=hNkukqV2egTbBYIB) of a glute exercise with resistance band loop*)
 - [ ] **Week 1**
     - [x] [TOTAL BODY][Lean, Long & Lifted From Head to Toe / 28-Day Summer Sculpt](https://www.youtube.com/watch?v=YdnqNGcmhqA)
-    - [ ] [LEGS & BUTT][Peach Booty & Thigh Shaper / 28-Day Summer Sculpt](https://www.youtube.com/watch?v=XjiRVCEokWE)
+    - [x] [LEGS & BUTT][Peach Booty & Thigh Shaper / 28-Day Summer Sculpt](https://www.youtube.com/watch?v=XjiRVCEokWE)
     - [ ] [ARMS & BACK][Toned Tank Top Arms & Back / 28-Day Summer Sculpt](https://www.youtube.com/watch?v=2YdJgcrrHKI)
     - [ ] [ABS & BUTT][Abdominal Etcher & Butt Enhancer / 28-Day Summer Sculpt](https://www.youtube.com/watch?v=T4adtRJ_b3g)
     - [ ] [OBLIQUES & THIGHS][Snatched Waist & Shapely Thighs / 28-Day Summer Sculpt](https://www.youtube.com/watch?v=sDzubGfNhew)
