@@ -78,7 +78,7 @@
 - [ ] **Week 1**
     - [x] [TOTAL BODY][Lean, Long & Lifted From Head to Toe / 28-Day Summer Sculpt](https://www.youtube.com/watch?v=YdnqNGcmhqA)
     - [x] [LEGS & BUTT][Peach Booty & Thigh Shaper / 28-Day Summer Sculpt](https://www.youtube.com/watch?v=XjiRVCEokWE)
-    - [ ] [ARMS & BACK][Toned Tank Top Arms & Back / 28-Day Summer Sculpt](https://www.youtube.com/watch?v=2YdJgcrrHKI)
+    - [x] [ARMS & BACK][Toned Tank Top Arms & Back / 28-Day Summer Sculpt](https://www.youtube.com/watch?v=2YdJgcrrHKI)
     - [ ] [ABS & BUTT][Abdominal Etcher & Butt Enhancer / 28-Day Summer Sculpt](https://www.youtube.com/watch?v=T4adtRJ_b3g)
     - [ ] [OBLIQUES & THIGHS][Snatched Waist & Shapely Thighs / 28-Day Summer Sculpt](https://www.youtube.com/watch?v=sDzubGfNhew)
     - [ ] [STRETCH][Feel-Good Stretches for Splits / 28-Day Summer Sculpt](https://www.youtube.com/watch?v=J8KQ5zLBOEI)
@@ -298,6 +298,8 @@ Hike Groups: https://theflamingohiker.com/hiking-groups-in-london/
 - https://www.meetup.com/AAA-London-Group/
 
 Day Hikes & Sightseeing:
+- [x] Jun 2024 - Cotswold, Oxford
+- [x] Jun 2024 - Bath, Windsor Castle, Stonehenge
 - [x] May 2024 - Hassocks to Brighton (*32 km*)
 - [x] Oct 2023 - **South Downs National Park on the Amberley Circular via Bignor Hill and Glatting Beacon**
 - [x] Oct 2023 - **Holliwell Point**, Southminster to Burnham-on-Crouch
