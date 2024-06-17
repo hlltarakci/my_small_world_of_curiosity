@@ -118,17 +118,13 @@ Support website: https://www.russianlanguagecentre.org and https://www.russianla
   - [x] Listen a bit forward for next lesson - https://www.russianlanguagecentre.org/lesson-2-audio-files
 - [ ] **Week 8: Homework**  
   - [ ] Weekly Review
-    - [ ] Introduction fast-repeat. (pages 13-29)
+    - [x] Introduction fast-repeat. (pages 13-29)
     - [ ] УРОК 1 (pages 30-41)
-      - [ ] Listen, repeat and write everything (dialogs + exercises + vocabulary (page 41)) - https://www.russianlanguagecentre.org/lesson-1-audio-files 
-      - [ ] Do exercises: https://www.russianlanguagecentre.org/lesson-1
-      - [ ] Listen and read everything - https://www.russianlanguagecentre.org/lesson-1-audio-files
-      - [ ] Play with exercises, there are options - https://www.russianlanguagecentre.org/lesson-1
+      - [x] Listen, read, repeat and write everything (dialogs + vocabulary (page 41)) - https://www.russianlanguagecentre.org/lesson-1-audio-files 
+      - [ ] Do exercises (do options as well): https://www.russianlanguagecentre.org/lesson-1
     - [ ] УРОК 2 (pages 42-60)
-      - [ ] Listen, repeat and write everything (dialogs + exercises + vocabulary) - https://www.russianlanguagecentre.org/lesson-2-audio-files
-      - [ ] Do exercises: https://www.russianlanguagecentre.org/lesson-2
-      - [ ] Listen and read everything - https://www.russianlanguagecentre.org/lesson-2-audio-files
-      - [ ] Play with exercises, there are options - https://www.russianlanguagecentre.org/lesson-2
+      - [ ] Listen, read, repeat and write everything (dialogs + exercises + vocabulary) - https://www.russianlanguagecentre.org/lesson-2-audio-files
+      - [ ] Do exercises (do options as well): https://www.russianlanguagecentre.org/lesson-2
     - [ ] Wordwall:
       - [ ] УРОК 1-1 (First phrases) - https://wordwall.net/play/31683/726/686
       - [ ] УРОК 1-2 (First vocabulary list) - https://wordwall.net/play/31684/109/266
