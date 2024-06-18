@@ -119,22 +119,21 @@ Support website: https://www.russianlanguagecentre.org and https://www.russianla
 - [ ] **Week 8: Homework**  
   - [ ] Weekly Review
     - [x] Introduction fast-repeat. (pages 13-29)
-    - [ ] УРОК 1 (pages 30-41)
+    - [x] УРОК 1 (pages 30-41)
       - [x] Listen, read, repeat and write everything (dialogs + vocabulary (page 41)) - https://www.russianlanguagecentre.org/lesson-1-audio-files 
-      - [ ] Do exercises (do options as well): https://www.russianlanguagecentre.org/lesson-1
+      - [x] Do exercises (do options as well): https://www.russianlanguagecentre.org/lesson-1
     - [ ] УРОК 2 (pages 42-60)
       - [ ] Listen, read, repeat and write everything (dialogs + exercises + vocabulary) - https://www.russianlanguagecentre.org/lesson-2-audio-files
-      - [ ] Do exercises (do options as well): https://www.russianlanguagecentre.org/lesson-2
-    - [ ] Wordwall:
-      - [ ] УРОК 1-1 (First phrases) - https://wordwall.net/play/31683/726/686
-      - [ ] УРОК 1-2 (First vocabulary list) - https://wordwall.net/play/31684/109/266
-      - [ ] УРОК 1-3 (Personal pronouns) - https://wordwall.net/play/31684/368/571
-      - [ ] УРОК 1-4 (Occupations short list) - https://wordwall.net/play/31684/746/160
-      - [ ] УРОК 2-1 (Genders of nouns) - https://wordwall.net/play/31684/953/507
-      - [ ] УРОК 2-2 (Places in town) - https://wordwall.net/play/33167/097/790
-      - [ ] УРОК 2-3 (Survival expressions) - https://wordwall.net/play/31685/540/757
-      - [ ] УРОК 2-4 (Word order in sentences) https://wordwall.net/play/31685/734/363
-    - [ ] Go over all leaflets handed out: reading practice, reading exercises, lecture notes, lesson 1 exercise, gender of nouns, Russian names
+      - [x] Do exercises (do options as well): https://www.russianlanguagecentre.org/lesson-2
+    - [x] Wordwall:
+      - [x] УРОК 1-1 (First phrases) - https://wordwall.net/play/31683/726/686
+      - [x] УРОК 1-2 (First vocabulary list) - https://wordwall.net/play/31684/109/266
+      - [x] УРОК 1-3 (Personal pronouns) - https://wordwall.net/play/31684/368/571
+      - [x] УРОК 1-4 (Occupations short list) - https://wordwall.net/play/31684/746/160
+      - [x] УРОК 2-1 (Genders of nouns) - https://wordwall.net/play/31684/953/507
+      - [x] УРОК 2-2 (Places in town) - https://wordwall.net/play/33167/097/790
+      - [x] УРОК 2-3 (Survival expressions) - https://wordwall.net/play/31685/540/757
+      - [x] УРОК 2-4 (Word order in sentences) https://wordwall.net/play/31685/734/363
     - [ ] Know everything taught so far by heart
   - [ ] We did pp. 53-57 of lesson 2. Repeat.
   - [ ] Do exercises, ex. 2.16, ex. 2.17 (p. 58), text 2 (p. 59).
