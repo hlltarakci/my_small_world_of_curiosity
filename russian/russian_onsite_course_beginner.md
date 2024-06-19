@@ -123,7 +123,8 @@ Support website: https://www.russianlanguagecentre.org and https://www.russianla
       - [x] Listen, read, repeat and write everything (dialogs + vocabulary (page 41)) - https://www.russianlanguagecentre.org/lesson-1-audio-files 
       - [x] Do exercises (do options as well): https://www.russianlanguagecentre.org/lesson-1
     - [ ] УРОК 2 (pages 42-60)
-      - [ ] Listen, read, repeat and write everything (dialogs + exercises + vocabulary) - https://www.russianlanguagecentre.org/lesson-2-audio-files
+      - [x] (*Up to page 51*) Listen, read, repeat and write everything (dialogs) - https://www.russianlanguagecentre.org/lesson-2-audio-files
+      - [ ] (*From page 51*) Listen, read, repeat and write everything (dialogs) - https://www.russianlanguagecentre.org/lesson-2-audio-files
       - [x] Do exercises (do options as well): https://www.russianlanguagecentre.org/lesson-2
     - [x] Wordwall:
       - [x] УРОК 1-1 (First phrases) - https://wordwall.net/play/31683/726/686
