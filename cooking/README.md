@@ -402,6 +402,16 @@
 4. 1 kilo soguk sut ekle, karistir. Kaynamaya baslayinca 10 dk kaynat.
 5. Biraz soguyunca 1 paket vanilya ilave et. En az 5 dk. mikserle cirp, sut ilave edip kivami ayarla.
 
+## Irmik Helvasi (Turkish Semolina Halva)
+[<img src="irmik_helvasi.jpg" width="500"/>](irmik_helvasi.jpg)
+1. Serbet: 1,5 su bardagi su + 1,5 su bardagi seker + 1,5 su bardagi sut => Karistir, kisik ateste ocaga al
+2. Tavaya 3 yemek kasigi tereyag koy erit
+3. (Opsiyonel) Yarim su bardagi cam fistigini kavur
+4. 1,5 su bardagi irmigi kisik ateste karistirarak 20 dakika kadar kavur
+5. Serbeti azar azar helvaya ekle, fokurdayacak. karistir. 8-10 dakika kadar kavur, daha ince de pisebilir
+6. Uzerine kapak orterek demlenmeye birak
+
+
 ## [Helva (Turkish Halva With Flour)](https://en.wikipedia.org/wiki/Halva)
 [<img src="un_helvasi_v2.jpg" width="500"/>](un_helvasi_v2.jpg)
 1. Serbet: 2 su bardagi su + 2 su bardagi seker. Seker eriyene dek isinsin yeterli, cok kaynatilmayacak.
