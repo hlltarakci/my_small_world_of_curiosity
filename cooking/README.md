@@ -546,7 +546,15 @@
 
 ## Crispy Potatoes
 [<img src="crispy_potatoes.jpg" width="500"/>](crispy_potatoes.jpg)
-Protip: Esit olcude kes. Patatesleri kagit havluyla iyice kurula. Pisirirken arada bak, erken oluyor.
+1. Esit olcude kes. Patatesleri kagit havluyla iyice kurula. Pisirirken arada bak, erken oluyor.
+
+**Alternative:**
+
+[<img src="crispy_potatoes_v2.jpg" width="500"/>](crispy_potatoes_v2.jpg)
+
+1. Bir kabin icine zeytin yagi + kirmizi biber + pul biber + biraz karabiber + bolca kekik + tuz => Karistir.
+2. Patatesleri sosa iyice bula, airfryerda arada karistirarak cok kurutmadan pisir.
+
 
 ## Toasted Bread
 [<img src="airfryer_toasted_bread.jpg" width="500"/>](airfryer_toasted_bread.jpg)
