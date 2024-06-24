@@ -73,7 +73,8 @@
     - [x] [**Yuzlestiginde seni guclendirecek 7 aci gercek**](https://open.spotify.com/episode/4yy0At17AENkpik6ifaTNv?si=51ca225d84ab4639&nd=1)
     - [x] [**Kendini gelistirmek icin 17 farkli deneyim onerisi**](https://open.spotify.com/episode/3FmjHstnpNa4mGvP5xg489?si=798c182a75ef430d)
     - [x] [**Iyi bir insani nasil tanirsin?**](https://open.spotify.com/episode/5DSSsFuHiDQo2F1XBPvCNy?si=U1PTywfGS-qlAsSdUCNg5g)
-    - [x] [**Hayatini degistirecek 10 kucuk aliskanlik**](https://open.spotify.com/episode/6AGLhz5en0i30hg8ZY8SD9?si=45cec2e914cf4eae) 
+    - [x] [**Hayatini degistirecek 10 kucuk aliskanlik**](https://open.spotify.com/episode/6AGLhz5en0i30hg8ZY8SD9?si=45cec2e914cf4eae)
+    - [x] 💡 [**Mutlu olmak için neden yavaşlamak zorundayiz?**](https://open.spotify.com/episode/2qQrLSuExdtyTLMy9jpFH9?si=RspPgA72TNSPWunhdy4K5g&nd=1&dlsi=7cbcbb2a59904fdf)
 - Misc
     - [x] [The School of Life, The Imposter Syndrom](https://www.youtube.com/watch?v=eqhUHyVpAwE)
     - [x] [Alan Watkins, Being Brilliant Every Single Day](https://www.youtube.com/watch?v=fRItG9G1rb4)
