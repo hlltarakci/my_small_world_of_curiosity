@@ -151,15 +151,18 @@ Support website: https://www.russianlanguagecentre.org and https://www.russianla
     - [x] УРОК 2-10 (Lesson 2 vocabulary list) - https://wordwall.net/play/33789/950/714 
 - [ ] **Week 9: Homework**  
   - [ ] Weekly Review
-    - [ ] Introduction fast-repeat. (pages 13-29)
-    - [ ] УРОК 1 (pages 30-41)
-      - [ ] Listen, read, repeat and write everything (dialogs + vocabulary (page 41)) - https://www.russianlanguagecentre.org/lesson-1-audio-files 
-      - [ ] Do exercises (do options as well): https://www.russianlanguagecentre.org/lesson-1
-    - [ ] УРОК 2 (pages 42-60)
-      - [ ] Listen, read, repeat and write everything (dialogs) - https://www.russianlanguagecentre.org/lesson-2-audio-files
-      - [ ] Do exercises (do options as well): https://www.russianlanguagecentre.org/lesson-2
+    - [x] Introduction fast-repeat. (pages 13-29)
+    - [x] УРОК 1 (pages 30-41)
+      - [x] Listen, read everything - https://www.russianlanguagecentre.org/lesson-1-audio-files 
+      - [x] Do exercises: https://www.russianlanguagecentre.org/lesson-1
+    - [x] УРОК 2 (pages 42-60)
+      - [x] Listen, read everything - https://www.russianlanguagecentre.org/lesson-2-audio-files
+      - [x] Do exercises: https://www.russianlanguagecentre.org/lesson-2
+   - [ ] УРОК 3 (pages 62-66 we are here)
+      - [ ] Listen, read everything so far - https://www.russianlanguagecentre.org/new-page
+      - [ ] Do exercises: [https://www.russianlanguagecentre.org/lesson-2](https://www.russianlanguagecentre.org/lesson-3)
     - [ ] Wordwall:
-      - [ ] УРОК 1-1 (First phrases) - https://wordwall.net/play/31683/726/686
+      - [x] УРОК 1-1 (First phrases) - https://wordwall.net/play/31683/726/686
       - [ ] УРОК 1-2 (First vocabulary list) - https://wordwall.net/play/31684/109/266
       - [ ] УРОК 1-3 (Personal pronouns) - https://wordwall.net/play/31684/368/571
       - [ ] УРОК 1-4 (Occupations short list) - https://wordwall.net/play/31684/746/160
