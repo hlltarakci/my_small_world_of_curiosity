@@ -161,21 +161,21 @@ Support website: https://www.russianlanguagecentre.org and https://www.russianla
    - [ ] УРОК 3 (pages 62-66 we are here)
       - [ ] Listen, read everything so far - https://www.russianlanguagecentre.org/new-page
       - [ ] Do exercises: [https://www.russianlanguagecentre.org/lesson-2](https://www.russianlanguagecentre.org/lesson-3)
-    - [ ] Wordwall:
+    - [x] Wordwall:
       - [x] УРОК 1-1 (First phrases) - https://wordwall.net/play/31683/726/686
-      - [ ] УРОК 1-2 (First vocabulary list) - https://wordwall.net/play/31684/109/266
-      - [ ] УРОК 1-3 (Personal pronouns) - https://wordwall.net/play/31684/368/571
-      - [ ] УРОК 1-4 (Occupations short list) - https://wordwall.net/play/31684/746/160
-      - [ ] УРОК 2-1 (Genders of nouns) - https://wordwall.net/play/31684/953/507
-      - [ ] УРОК 2-2 (Places in town) - https://wordwall.net/play/33167/097/790
-      - [ ] УРОК 2-3 (Survival expressions) - https://wordwall.net/play/31685/540/757
-      - [ ] УРОК 2-4 (Word order in sentences) https://wordwall.net/play/31685/734/363
-      - [ ] УРОК 2-5 (Demonstratives) - https://wordwall.net/play/31685/997/962
-      - [ ] УРОК 2-6 (Possesives) - https://wordwall.net/play/31691/880/263
-      - [ ] УРОК 2-7 (Gender of adjectives) - https://wordwall.net/play/31692/609/897
-      - [ ] УРОК 2-8 (Lesson 2 vocabulary list) - https://wordwall.net/resource/31710966/%d1%83%d1%80%d0%be%d0%ba-2-8-lesson-2-vocabulary-list
-      - [ ] УРОК 2-9 (Lesson 2 vocabulary list) - https://wordwall.net/play/33166/975/101
-      - [ ] УРОК 2-10 (Lesson 2 vocabulary list) - https://wordwall.net/play/33789/950/714 
+      - [x] УРОК 1-2 (First vocabulary list) - https://wordwall.net/play/31684/109/266
+      - [x] УРОК 1-3 (Personal pronouns) - https://wordwall.net/play/31684/368/571
+      - [x] УРОК 1-4 (Occupations short list) - https://wordwall.net/play/31684/746/160
+      - [x] УРОК 2-1 (Genders of nouns) - https://wordwall.net/play/31684/953/507
+      - [x] УРОК 2-2 (Places in town) - https://wordwall.net/play/33167/097/790
+      - [x] УРОК 2-3 (Survival expressions) - https://wordwall.net/play/31685/540/757
+      - [x] УРОК 2-4 (Word order in sentences) https://wordwall.net/play/31685/734/363
+      - [x] УРОК 2-5 (Demonstratives) - https://wordwall.net/play/31685/997/962
+      - [x] УРОК 2-6 (Possesives) - https://wordwall.net/play/31691/880/263
+      - [x] УРОК 2-7 (Gender of adjectives) - https://wordwall.net/play/31692/609/897
+      - [x] УРОК 2-8 (Lesson 2 vocabulary list) - https://wordwall.net/resource/31710966/%d1%83%d1%80%d0%be%d0%ba-2-8-lesson-2-vocabulary-list
+      - [x] УРОК 2-9 (Lesson 2 vocabulary list) - https://wordwall.net/play/33166/975/101
+      - [x] УРОК 2-10 (Lesson 2 vocabulary list) - https://wordwall.net/play/33789/950/714 
     - [ ] Know everything taught so far by heart
   - [ ] We finished lesson 2 and started lesson 3 and did pp. 63-65. Repeat. - https://www.russianlanguagecentre.org/lesson-2-audio-files - https://www.russianlanguagecentre.org/new-page
   - [ ] Do ex. 3.3 (p. 64), ex. 3.5 (p. 66)
