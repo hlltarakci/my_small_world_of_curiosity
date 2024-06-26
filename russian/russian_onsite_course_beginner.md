@@ -180,7 +180,8 @@ Support website: https://www.russianlanguagecentre.org and https://www.russianla
   - [ ] We finished lesson 2 and started lesson 3 and did pp. 63-65. Repeat. - https://www.russianlanguagecentre.org/lesson-2-audio-files - https://www.russianlanguagecentre.org/new-page
   - [ ] Do ex. 3.3 (p. 64), ex. 3.5 (p. 66)
   - [ ] Do exercises that i can - https://www.russianlanguagecentre.org/lesson-3
-  - [ ] Revision on lesson 2 (see materials attached - PLURAL_OF_NOUNS.pdf, RMC_-_Lesson_2.pdf, RMC_-_Lesson_2_-_The_Key.pdf)
+  - [x] Do revision exercises on lesson 2 (RMC_-_Lesson_2.pdf, RMC_-_Lesson_2_-_The_Key.pdf)
+  - [ ] See PLURAL_OF_NOUNS.pdf
   - [ ] Wordwall:
     - [ ] УРОК 3-1 (Plural of nouns) - https://wordwall.net/play/31693/580/940
     - [ ] УРОК 3-2 (Singular and Plural of possessives and demonstratives) - https://wordwall.net/play/31696/599/941
