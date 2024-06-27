@@ -149,8 +149,8 @@ Support website: https://www.russianlanguagecentre.org and https://www.russianla
     - [x] УРОК 2-8 (Lesson 2 vocabulary list) - https://wordwall.net/resource/31710966/%d1%83%d1%80%d0%be%d0%ba-2-8-lesson-2-vocabulary-list
     - [x] УРОК 2-9 (Lesson 2 vocabulary list) - https://wordwall.net/play/33166/975/101
     - [x] УРОК 2-10 (Lesson 2 vocabulary list) - https://wordwall.net/play/33789/950/714 
-- [ ] **Week 9: Homework**  
-  - [ ] Weekly Review
+- [x] **Week 9: Homework**  
+  - [x] Weekly Review
     - [x] Introduction fast-repeat. (pages 13-29)
     - [x] УРОК 1 (pages 30-41)
       - [x] Listen, read everything - https://www.russianlanguagecentre.org/lesson-1-audio-files 
@@ -158,9 +158,8 @@ Support website: https://www.russianlanguagecentre.org and https://www.russianla
     - [x] УРОК 2 (pages 42-60)
       - [x] Listen, read everything - https://www.russianlanguagecentre.org/lesson-2-audio-files
       - [x] Do exercises: https://www.russianlanguagecentre.org/lesson-2
-   - [ ] УРОК 3 (pages 62-66 we are here)
-      - [ ] Listen, read everything so far - https://www.russianlanguagecentre.org/new-page
-      - [ ] Do exercises: [https://www.russianlanguagecentre.org/lesson-2](https://www.russianlanguagecentre.org/lesson-3)
+   - [x] УРОК 3 (pages 62-66 we are here)
+      - [x] Listen, read everything so far - https://www.russianlanguagecentre.org/new-page
     - [x] Wordwall:
       - [x] УРОК 1-1 (First phrases) - https://wordwall.net/play/31683/726/686
       - [x] УРОК 1-2 (First vocabulary list) - https://wordwall.net/play/31684/109/266
@@ -176,13 +175,14 @@ Support website: https://www.russianlanguagecentre.org and https://www.russianla
       - [x] УРОК 2-8 (Lesson 2 vocabulary list) - https://wordwall.net/resource/31710966/%d1%83%d1%80%d0%be%d0%ba-2-8-lesson-2-vocabulary-list
       - [x] УРОК 2-9 (Lesson 2 vocabulary list) - https://wordwall.net/play/33166/975/101
       - [x] УРОК 2-10 (Lesson 2 vocabulary list) - https://wordwall.net/play/33789/950/714 
-    - [ ] Know everything taught so far by heart
-  - [ ] We finished lesson 2 and started lesson 3 and did pp. 63-65. Repeat. - https://www.russianlanguagecentre.org/lesson-2-audio-files - https://www.russianlanguagecentre.org/new-page
-  - [ ] Do ex. 3.3 (p. 64), ex. 3.5 (p. 66)
-  - [ ] Do exercises that i can - https://www.russianlanguagecentre.org/lesson-3
+    - [x] Know everything taught so far by heart
+  - [x] We finished lesson 2 and started lesson 3 and did pp. 63-65. Repeat. - https://www.russianlanguagecentre.org/lesson-2-audio-files - https://www.russianlanguagecentre.org/new-page
+  - [x] See page 375 for irregular plurals
+  - [x] Do ex. 3.3 (p. 64), ex. 3.5 (p. 66)
+  - [x] Do exercises that i can - https://www.russianlanguagecentre.org/lesson-3
   - [x] Do revision exercises on lesson 2 (RMC_-_Lesson_2.pdf, RMC_-_Lesson_2_-_The_Key.pdf)
-  - [ ] See PLURAL_OF_NOUNS.pdf
-  - [ ] Wordwall:
-    - [ ] УРОК 3-1 (Plural of nouns) - https://wordwall.net/play/31693/580/940
-    - [ ] УРОК 3-2 (Singular and Plural of possessives and demonstratives) - https://wordwall.net/play/31696/599/941
+  - [x] See PLURAL_OF_NOUNS.pdf
+  - [x] Wordwall:
+    - [x] УРОК 3-1 (Plural of nouns) - https://wordwall.net/play/31693/580/940
+    - [x] УРОК 3-2 (Singular and Plural of possessives and demonstratives) - https://wordwall.net/play/31696/599/941
 - [ ] 🔂 [EXTRA] Take the online course again to see how comfortable i get at this point: [UDEMY: Learn Russian for Beginners: The Ultimate 100-Lesson Course (6.5 hours)](https://www.udemy.com/course/learn-russian-for-beginners/?couponCode=KEEPLEARNING) 
