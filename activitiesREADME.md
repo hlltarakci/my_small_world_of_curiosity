@@ -88,7 +88,7 @@
     - [x] [LEGS & BUTT][Peach Booty & Thigh Shaper / 28-Day Summer Sculpt](https://www.youtube.com/watch?v=XjiRVCEokWE)
     - [x] [ARMS & BACK][Toned Tank Top Arms & Back / 28-Day Summer Sculpt](https://www.youtube.com/watch?v=2YdJgcrrHKI)
     - [x] [ABS & BUTT][Abdominal Etcher & Butt Enhancer / 28-Day Summer Sculpt](https://www.youtube.com/watch?v=T4adtRJ_b3g)
-    - [ ] [OBLIQUES & THIGHS][Snatched Waist & Shapely Thighs / 28-Day Summer Sculpt](https://www.youtube.com/watch?v=sDzubGfNhew)
+    - [x] [OBLIQUES & THIGHS][Snatched Waist & Shapely Thighs / 28-Day Summer Sculpt](https://www.youtube.com/watch?v=sDzubGfNhew)
     - [ ] [STRETCH][Feel-Good Stretches for Splits / 28-Day Summer Sculpt](https://www.youtube.com/watch?v=J8KQ5zLBOEI)
     - [ ] [CARDIO & ABS][Fat Melter & Ab Trainer / 28-Day Summer Sculpt](https://www.youtube.com/watch?v=B5HGDbiH5S4)
 - [ ] **Week 3**
