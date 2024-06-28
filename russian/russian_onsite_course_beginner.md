@@ -185,4 +185,5 @@ Support website: https://www.russianlanguagecentre.org and https://www.russianla
   - [x] Wordwall:
     - [x] УРОК 3-1 (Plural of nouns) - https://wordwall.net/play/31693/580/940
     - [x] УРОК 3-2 (Singular and Plural of possessives and demonstratives) - https://wordwall.net/play/31696/599/941
+  - [x] Extra repeat on Lesson 3 and a bit look forward - https://www.russianlanguagecentre.org/new-page  https://www.russianlanguagecentre.org/lesson-3  https://wordwall.net/play/31693/580/940  https://wordwall.net/play/31696/599/941
 - [ ] 🔂 [EXTRA] Take the online course again to see how comfortable i get at this point: [UDEMY: Learn Russian for Beginners: The Ultimate 100-Lesson Course (6.5 hours)](https://www.udemy.com/course/learn-russian-for-beginners/?couponCode=KEEPLEARNING) 
