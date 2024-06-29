@@ -186,4 +186,56 @@ Support website: https://www.russianlanguagecentre.org and https://www.russianla
     - [x] УРОК 3-1 (Plural of nouns) - https://wordwall.net/play/31693/580/940
     - [x] УРОК 3-2 (Singular and Plural of possessives and demonstratives) - https://wordwall.net/play/31696/599/941
   - [x] Extra repeat on Lesson 3 and a bit look forward - https://www.russianlanguagecentre.org/new-page  https://www.russianlanguagecentre.org/lesson-3  https://wordwall.net/play/31693/580/940  https://wordwall.net/play/31696/599/941
-- [ ] 🔂 [EXTRA] Take the online course again to see how comfortable i get at this point: [UDEMY: Learn Russian for Beginners: The Ultimate 100-Lesson Course (6.5 hours)](https://www.udemy.com/course/learn-russian-for-beginners/?couponCode=KEEPLEARNING) 
+- [ ] **Repeat Program - until next term** (2 weeks homework below)
+  - [ ] Introduction
+    - [ ] Fast-repeat. (pages 13-29)
+    - [ ] Supporting video: https://www.youtube.com/watch?v=HRsO0XrypCY
+    - [ ] Difficult Russian vowels (И, Ы, and Й): https://www.youtube.com/watch?v=r3xcTOL-0PA
+    - [ ] Difficult Russian consonants (ж, ш, щ, ч, ц): https://www.youtube.com/watch?v=On8r_oVDjJQ
+  - [ ] УРОК 1 (pages 30-41)
+    - [ ] Listen, repeat, read everything - https://www.russianlanguagecentre.org/lesson-1-audio-files
+    - [ ] Write down dialogs and vocabulary - https://www.russianlanguagecentre.org/lesson-1-audio-files
+    - [ ] Do exercises: https://www.russianlanguagecentre.org/lesson-1
+    - [ ] Do revision exercises on lesson 1 (leaflet)
+  - [ ] УРОК 2 (pages 42-60)
+    - [ ] Listen, repeat, read everything - https://www.russianlanguagecentre.org/lesson-2-audio-files
+    - [ ] Write down dialogs and vocabulary
+    - [ ] Do exercises: https://www.russianlanguagecentre.org/lesson-2
+    - [ ] Do revision exercises on lesson 2 (RMC_-_Lesson_2.pdf, RMC_-_Lesson_2_-_The_Key.pdf)
+  - [ ] УРОК 3 (pages 62-?)
+    - [ ] Listen, repeat, read everything - https://www.russianlanguagecentre.org/new-page
+    - [ ] Do all exercises in the book (including the ones we already did)
+    - [ ] Write down dialogs and vocabulary - https://www.russianlanguagecentre.org/lesson-1-audio-files
+    - [ ] Do exercises - https://www.russianlanguagecentre.org/lesson-3
+    - [ ] We did pp. 66-70 of lesson 3. Repeat.
+    - [ ] Do ex. 3.12 (p. 70), ex. 3.13, ex. 3.14 (p. 71), learn numbers (p. 72)
+    - [ ] See leaflets: COUNTRIES-LANGUAGES.pdf, note-share-1719594635601.pdf, note-share-1719606066567.pdf, Russian_names.pdf
+    - [ ] See page 375 and PLURAL_OF_NOUNS.pdf for irregular plurals
+  - [ ] Wordwall:
+    - [ ] УРОК 1-1 (First phrases) - https://wordwall.net/play/31683/726/686
+    - [ ] УРОК 1-2 (First vocabulary list) - https://wordwall.net/play/31684/109/266
+    - [ ] УРОК 1-3 (Personal pronouns) - https://wordwall.net/play/31684/368/571
+    - [ ] УРОК 1-4 (Occupations short list) - https://wordwall.net/play/31684/746/160
+    - [ ] УРОК 2-1 (Genders of nouns) - https://wordwall.net/play/31684/953/507
+    - [ ] УРОК 2-2 (Places in town) - https://wordwall.net/play/33167/097/790
+    - [ ] УРОК 2-3 (Survival expressions) - https://wordwall.net/play/31685/540/757
+    - [ ] УРОК 2-4 (Word order in sentences) https://wordwall.net/play/31685/734/363
+    - [ ] УРОК 2-5 (Demonstratives) - https://wordwall.net/play/31685/997/962
+    - [ ] УРОК 2-6 (Possesives) - https://wordwall.net/play/31691/880/263
+    - [ ] УРОК 2-7 (Gender of adjectives) - https://wordwall.net/play/31692/609/897
+    - [ ] УРОК 2-8 (Lesson 2 vocabulary list) - https://wordwall.net/resource/31710966/%d1%83%d1%80%d0%be%d0%ba-2-8-lesson-2-vocabulary-list
+    - [ ] УРОК 2-9 (Lesson 2 vocabulary list) - https://wordwall.net/play/33166/975/101
+    - [ ] УРОК 2-10 (Lesson 2 vocabulary list) - https://wordwall.net/play/33789/950/714
+    - [ ] УРОК 3-1 (Plural of nouns) - https://wordwall.net/play/31693/580/940
+    - [ ] УРОК 3-2 (Singular and Plural of possessives and demonstratives) - https://wordwall.net/play/31696/599/941
+    - [ ] УРОК 3-3 (Possessives) - https://wordwall.net/play/31698/680/599
+    - [ ] УРОК 3-4 (Agreement of possessives and demonstratives with nouns) - https://wordwall.net/play/31711/219/559
+    - [ ] УРОК 3-5 (Country-national-adjective spelling) - https://wordwall.net/play/31699/043/908
+    - [ ] УРОК 3-6 (Accusative case of personal pronouns) - https://wordwall.net/play/31711/472/477
+    - [ ] УРОК 3-7 (Family) - https://wordwall.net/play/31711/577/973
+    - [ ] УРОК 3-8 (Questions and answers) - https://wordwall.net/play/31875/319/654
+    - [ ] УРОК 3-9 (Numbers 1-20) - https://wordwall.net/play/31876/110/278
+    - [ ] УРОК 3-11 (Professions) - https://wordwall.net/play/31883/882/310
+    - [ ] УРОК 3-12 (Occupations) - https://wordwall.net/play/32150/781/533
+    - [ ] УРОК 3-13 (Vocabulary of lesson 3) - https://wordwall.net/resource/31877045/%d1%83%d1%80%d0%be%d0%ba-3-13-vocabulary-of-lesson-3
+  - [ ] 🔂 [EXTRA] Take the online course again to see how comfortable i get at this point: [UDEMY: Learn Russian for Beginners: The Ultimate 100-Lesson Course (6.5 hours)](https://www.udemy.com/course/learn-russian-for-beginners/?couponCode=KEEPLEARNING) 
