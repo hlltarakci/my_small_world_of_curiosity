@@ -92,7 +92,7 @@
     - [x] [STRETCH][Feel-Good Stretches for Splits / 28-Day Summer Sculpt](https://www.youtube.com/watch?v=J8KQ5zLBOEI)
     - [x] [CARDIO & ABS][Fat Melter & Ab Trainer / 28-Day Summer Sculpt](https://www.youtube.com/watch?v=B5HGDbiH5S4)
 - [ ] **Week 3**
-    - [ ] [TOTAL BODY][Lean, Long & Lifted From Head to Toe / 28-Day Summer Sculpt](https://www.youtube.com/watch?v=YdnqNGcmhqA)
+    - [x] [TOTAL BODY][Lean, Long & Lifted From Head to Toe / 28-Day Summer Sculpt](https://www.youtube.com/watch?v=YdnqNGcmhqA)
     - [ ] [LEGS & BUTT][Peach Booty & Thigh Shaper / 28-Day Summer Sculpt](https://www.youtube.com/watch?v=XjiRVCEokWE)
     - [ ] [ARMS & BACK][Toned Tank Top Arms & Back / 28-Day Summer Sculpt](https://www.youtube.com/watch?v=2YdJgcrrHKI)
     - [ ] [ABS & BUTT][Abdominal Etcher & Butt Enhancer / 28-Day Summer Sculpt](https://www.youtube.com/watch?v=T4adtRJ_b3g)
