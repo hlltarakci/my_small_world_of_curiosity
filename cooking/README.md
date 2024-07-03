@@ -313,6 +313,13 @@
 2. Cok az sicak su ekle, duduklu tencereyi kapat, duman ciktiktan sonra altini kis, 40 dk pisir
 3. Tencerenin altini kapat, biraz soguyunca kapagi ac. (3 kasik dolu dolu) tuz at. Kalan suyunu cekene kadar pisir.
 
+## Kiyma Kavurma
+<img src="kiyma_kavurma.jpg" width="500"/>
+
+1. 2 yemek kasigi zeytingyaginda, 2 yemeklik dogranmis orta boy sogani pembelesinceye kadar kavur.
+2. 1 kg kiyma ekle, karistirarak kavur.
+3. Suyunu salip cekince 1 tatli kasigi tuz + yarim tatli kasigi karabiber ekle.
+
 ## Meatballs
 <img src="meatballs.jpg" width="500"/>
 
