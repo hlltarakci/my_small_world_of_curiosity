@@ -320,6 +320,12 @@
 2. 1 kg kiyma ekle, karistirarak kavur.
 3. Suyunu salip cekince 1 tatli kasigi tuz + yarim tatli kasigi karabiber ekle.
 
+**Alternatif:**
+
+<img src="kiyma_kavurma_v2.jpg" width="500"/>
+
+1. Bazen kaldiginda ertesi gun isitip, uzerine yumurta kir.
+
 ## Meatballs
 <img src="meatballs.jpg" width="500"/>
 
