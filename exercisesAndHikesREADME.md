@@ -1,4 +1,4 @@
-# EXERCISE & HIKES
+# EXERCISE and HIKES
 
 [counter helper for extra unguided moves](https://youtu.be/-qCfKkME9lE?si=hNkukqV2egTbBYIB)
 
