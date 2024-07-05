@@ -2,7 +2,7 @@
 
 ## Russian History and Culture
 
-See [here.](https://github.com/hlltarakci/my_small_world_of_curiosity/edit/main/documentary/russianHistoryAndCultureREADME.md)
+See [here.](https://github.com/hlltarakci/my_small_world_of_curiosity/blob/main/documentary/russianHistoryAndCultureAndNatureREADME.md)
 
 ## World History
 - [ ] [World War One (ALL PARTS)](https://www.youtube.com/watch?v=G1p6rlDCxq0)
