@@ -1,24 +1,20 @@
-# Courses
-- [x] [ONSITE][Drawing for Comics and Graphic Novels](https://www.city-academy.com/drawing-for-comics-and-graphic-novels)
-- [x] [ONSITE][How to Draw - Beginners](https://www.city-academy.com/how-to-draw-beginners)
-- [x] [ONLINE][**UDEMY: Street Photography Masterclass (2 hours)**](https://www.udemy.com/course/street-photography-masterclass/) - by [Adam Tan](https://www.adamtanphotography.com)
-- [ ] [ONLINE][UDEMY: Capture Stanning Street Photography (3.5 hours)](https://www.udemy.com/course/photography-with-anthony-carbajal/) - by [Anthony Carbajal](https://www.anthonycarbajal.com)
-- [ ] [ONLINE][UDEMY: The Ultimate Drawing Course - Beginner to Advanced (11 hours)](https://www.udemy.com/course/the-ultimate-drawing-course-beginner-to-advanced/)
-- [ ] [ONLINE][UDEMY: Character Art School: Complete Character Drawing Course (28 hours)](https://www.udemy.com/course/character-art-school-complete-character-drawing/)
+# COURSES
+
+## Russian Language and History
+- [x] [ONSITE][**Russian Language Center, Group Courses for Beginners (Pushkin House) (10 weeks)**](https://www.russiancentre.co.uk/group-courses-for-beginners/) - [term dates](https://www.russiancentre.co.uk/term-dates/) - [course homework tracker](https://github.com/hlltarakci/my_small_world_of_curiosity/blob/main/russian/russian_onsite_course_beginner.md)
+- [ ] [ONSITE][Russian Language Center, Group Courses for False Beginners (Pushkin House) (10 weeks)](https://www.russiancentre.co.uk/group-courses-for-non-beginners/)
 - [x] [ONLINE][**UDEMY: Three Hour Cyrillic (2 hours)**](https://www.udemy.com/course/russian-alphabet-mastery/)
 - [x] [ONLINE][**UDEMY: Russian Alphabet Course (1,5 hours)**](https://www.udemy.com/course/russian-alphabet-course/) - [Russian alphabet (РУССКИЙ АЛЬФАВИТ)](https://en.wikipedia.org/wiki/Russian_alphabet)
 - [x] [ONLINE][**UDEMY: Learn Russian for Beginners: The Ultimate 100-Lesson Course (6.5 hours)**](https://www.udemy.com/course/learn-russian-for-beginners/?couponCode=KEEPLEARNING) - [course cheatsheet](https://github.com/hlltarakci/my_small_world_of_curiosity/blob/main/russian/russian_course_cheatsheet_1.md) - *listening exercises (section 5&6) were a bit advanced, checking again after a while would be wise.*
      - Mikhail Lomonosov: *"..because Russian has a grandeur of Spanish, the vivacity of French, the strength of German, the gentleness of Italian, and in addition to that, the wealth and brevity of Latin and Greek."*
      - *"Indeed, Russian is one of the most interesting languages in the world. It's the king of Slavic languages. It's been said by language learners that if you learn this language, you can easily learn any other language in the world, no matter how difficult it may seem."*
-- [ ] [ONLINE][Learn Russian (100 lessons)](https://learnrussian.github.io/)
 - [ ] [ONLINE][UDEMY: Conversational Russian for beginners (11 hours)](https://www.udemy.com/course/conversational-russian-for-beginners/?couponCode=KEEPLEARNING)
 - [ ] [ONLINE][UDEMY: Complete Russian Course for Beginners (A1-A2) (12.5 hours)](https://www.udemy.com/course/complete-russian-course-for-beginners/?couponCode=KEEPLEARNING)
 - [ ] [ONLINE][UDEMY: The Complete Russian Language Course (27 hours)](https://www.udemy.com/course/the-complete-russian-language-course/)
-- [x] [ONSITE][**Russian Language Center, Group Courses for Beginners (Pushkin House) (10 weeks)**](https://www.russiancentre.co.uk/group-courses-for-beginners/) - [term dates](https://www.russiancentre.co.uk/term-dates/) - [course homework tracker](https://github.com/hlltarakci/my_small_world_of_curiosity/blob/main/russian/russian_onsite_course_beginner.md)
-- [ ] [ONSITE][Russian Language Center, Group Courses for False Beginners (Pushkin House) (10 weeks)](https://www.russiancentre.co.uk/group-courses-for-non-beginners/)
 - [ ] [ONLINE][UDEMY: Russian Pronunciation Course (11.5 hours)](https://www.udemy.com/course/improve-russian-pronunciation/?couponCode=LEADERSALE24TRFR)
 - [ ] [ONLINE][UDEMY: Russian Handwriting Course (2.5 hours)](https://www.udemy.com/course/russian-handwriting-cursive/?couponCode=LEADERSALE24TRFR)
 - [ ] [ONLINE][UDEMY: Russian Literature: Learn from Masters (5.5 hours)](https://www.udemy.com/course/russian-literature-explained-simply/)
+- [ ] [ONLINE][Learn Russian (100 lessons)](https://learnrussian.github.io/)
 - [x] [ONLINE][**Understanding Russia: A Cultural History, by Lynne Ann Hartnett (24 lectures)**](https://www.thegreatcourses.com/courses/understanding-russia-a-cultural-history) - [Available on Amazon](https://www.amazon.co.uk/Understanding-Russia-A-Cultural-History/dp/B087VQK95R) - [available for free :)](https://www.youtube.com/playlist?list=PLez3PPtnpncRCc9iDxz2fHbLGhh5xgVt3)
     <details>
         <summary>See Notes</summary>
@@ -181,16 +177,26 @@
 - [RESOURCE-ONLY][Orlando Figes resources collection for all-level Russian History courses](http://www.orlandofiges.info/index.php)
 - [Russian culture courses](https://russiancultureschool.com/courses/)
 - [ ] [ONLINE][UDEMY: Understanding Post Soviet Space (5.5 hours)](https://www.udemy.com/course/understanding-post-soviet-space/)
-- [ ] [ONLINE][UDEMY: Caucasian Cooking Classes - Learn Ancient Secrets of Cooking (1 hour)](https://www.udemy.com/course/learn-caucasian-culinary-secrets-of-ancient-cooking/)
 - [ ] [ONLINE][UDEMY: THE END OF BIPOLARITY-USSR between 1924 to 1991 (1 hour)](https://www.udemy.com/course/the-end-of-bipolarity/)
 - [ ] [ONLINE][UDEMY: Crimea: History and People (1.5 hours)](https://www.udemy.com/course/crimea-history-and-people/)
 - [ ] [ONLINE][UDEMY: Ukraine War Explained in 2024 (2 hours)](https://www.udemy.com/course/ukraine-war-explained/)
 - [ ] [ONLINE][UDEMY: Tarkovsky Ayna Filminin Analizi: Filmlerin Bize Anlattığı (3.5 hours)](https://www.udemy.com/course/tarkovsky-ayna-filminin-analizi-filmlerin-bize-anlattg/)
-- [ ] [ONLINE][UDEMY: Learn Social Psychology (5 hours)](https://www.udemy.com/course/social-psychology/)
-- [ ] [ONLINE][UDEMY: Master Persuasion Psychology (3 hours)](https://www.udemy.com/course/persuasion-psychology-influence/)
-- [ ] [ONLINE][UDEMY: Secrets Of Psychology - Why People Do The Things They Do](https://www.udemy.com/course/secrets-of-psychology/)
 - [ ] [ONLINE][UDEMY: International Politics: Levels of Analysis](https://www.udemy.com/course/international-politics-online-course/)
 - [RESOURCE-ONLY][Soviet and Russian Cinema (Slavonic Studies)](https://www.mmll.cam.ac.uk/sl7) - [**handbook with a lot of useful info and watch-list**](https://www.mmll.cam.ac.uk/sites/www.mmll.cam.ac.uk/files/sl7_handbook_2023-2024.pdf)
 - [ ] [ONLINE][MASTERCLASS: Soviet Montage Theory: History, Types and Examples](https://www.masterclass.com/articles/soviet-montage) - [Soviet montage theory](https://en.wikipedia.org/wiki/Soviet_montage_theory) - [Eisenstein's Methods of Montage Explained | Russian Soviet Montage Theory](https://www.youtube.com/watch?v=NtnTs90knro)
 
+## Art
 
+- [x] [ONSITE][Drawing for Comics and Graphic Novels](https://www.city-academy.com/drawing-for-comics-and-graphic-novels)
+- [x] [ONSITE][How to Draw - Beginners](https://www.city-academy.com/how-to-draw-beginners)
+- [x] [ONLINE][**UDEMY: Street Photography Masterclass (2 hours)**](https://www.udemy.com/course/street-photography-masterclass/) - by [Adam Tan](https://www.adamtanphotography.com)
+- [ ] [ONLINE][UDEMY: Capture Stanning Street Photography (3.5 hours)](https://www.udemy.com/course/photography-with-anthony-carbajal/) - by [Anthony Carbajal](https://www.anthonycarbajal.com)
+- [ ] [ONLINE][UDEMY: The Ultimate Drawing Course - Beginner to Advanced (11 hours)](https://www.udemy.com/course/the-ultimate-drawing-course-beginner-to-advanced/)
+- [ ] [ONLINE][UDEMY: Character Art School: Complete Character Drawing Course (28 hours)](https://www.udemy.com/course/character-art-school-complete-character-drawing/)
+
+## Misc
+
+- [ ] [ONLINE][UDEMY: Caucasian Cooking Classes - Learn Ancient Secrets of Cooking (1 hour)](https://www.udemy.com/course/learn-caucasian-culinary-secrets-of-ancient-cooking/)
+- [ ] [ONLINE][UDEMY: Learn Social Psychology (5 hours)](https://www.udemy.com/course/social-psychology/)
+- [ ] [ONLINE][UDEMY: Master Persuasion Psychology (3 hours)](https://www.udemy.com/course/persuasion-psychology-influence/)
+- [ ] [ONLINE][UDEMY: Secrets Of Psychology - Why People Do The Things They Do](https://www.udemy.com/course/secrets-of-psychology/)
