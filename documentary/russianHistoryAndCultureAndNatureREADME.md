@@ -1,11 +1,11 @@
-## Russian History and Culture
+# RUSSIAN HISTORY, CULTURE AND NATURE
 
 - Good visual archives
      - [**17 Moments in Soviet History**](https://soviethistory.msu.edu/)
      - [**US-Russia Relations Timeline**](https://usrussiarelations.org/2/timeline)
 - [Collection: Documentaries on Russia and the Soviet Union: History, Politics, Current Events](https://www.ucl.ac.uk/library/using-library/libraries-and-study-spaces/ssees-library/bain-graffy-film-collection/documentaries-0)
 
-### History
+## History
 - [x] [The Last Days of the USSR, Curiosity Stream](https://curiositystream.com/video/4723?utm_campaign=D-PerformanceMax-ROW&utm_medium=display&utm_source=google&utm_placement=&utm_content=&gclid=EAIaIQobChMI9YqEwMbV9gIVxJrVCh1rfAACEAAYASAAEgIww_D_BwE)
 - [x] [The Breakup of the Soviet Union Explained](https://youtu.be/t2GmtBCVHzY)
 - [x] [The Entire History of the Cold War Explained | Best Cold War Documentary](https://www.youtube.com/watch?v=XDrykOhrb5s) - provides complete overview of events, helping to see their relation and chronology, difficult to digest
@@ -185,7 +185,7 @@
 - [ ] [SERIES][The Abyss: Rise and Fall of the Nazis, 2021](https://www.imdb.com/title/tt14365118/) / [where to watch](https://www.youtube.com/playlist?list=PLf1QSB7YWJJQoi512Urg84f0tY_cQA0wI)
   
 
-### Culture, Life style, Politics
+## Culture, Life style, Politics
 
 - [x] [The Economy of the Soviet Union](https://youtu.be/S3Jkqqlpibo)
 - [x] [What Life in Soviet Union was Like?](https://www.youtube.com/watch?v=EF_GjtpR1Xo)
@@ -485,7 +485,7 @@ What Did it Do in Poland and Russia?](http://econweb.umd.edu/~murrell/articles/W
     - [x] [**Born in the USSR: 28 Up, 2012 (Part 2)**](https://www.imdb.com/title/tt2224083/) - [where to watch](https://youtu.be/mqvk0Zd9Q9k?feature=shared)
     - [**Born in the USSR: Children vs. Ideology and the Impact of Database Cinema**](https://discovery.ucl.ac.uk/id/eprint/1514594/1/Daria%20Shembel%20-%20Born%20in%20the%20USSR.pdf)
 
-### [Vladimir Putin (Владимир Путин)](https://en.wikipedia.org/wiki/Vladimir_Putin)
+## [Vladimir Putin (Владимир Путин)](https://en.wikipedia.org/wiki/Vladimir_Putin)
 
 - [x] [Putin: The New Tsar, 2018](https://www.imdb.com/title/tt8365160/)
 - [x] [SERIES][**Putin, Russia and the West, 2011**](https://www.imdb.com/title/tt2131951/?ref_=tt_sims_tt_t_1) - [where to watch](https://www.bbc.co.uk/programmes/b01b434y)
@@ -560,3 +560,7 @@ What Did it Do in Poland and Russia?](http://econweb.umd.edu/~murrell/articles/W
 - [ ] [A conversation with founder of the Open Russia movement Mikhail Khodorkovsky](https://www.youtube.com/watch?v=FtNTacsV3BY)
 - [ ] [Putin's advances in the Arctic | DW Documentary](https://www.youtube.com/watch?v=W9wyajjYBUc)
 - [ ] [Putin's Way](https://www.youtube.com/watch?v=NIgqhU4lkgo)
+
+## Nature
+
+
