@@ -5,13 +5,12 @@
 - [Vladimir Putin](https://github.com/hlltarakci/my_small_world_of_curiosity/blob/main/documentary/russianHistoryAndCultureAndNatureREADME.md#vladimir-putin-%D0%B2%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80-%D0%BF%D1%83%D1%82%D0%B8%D0%BD)
 - [Nature](https://github.com/hlltarakci/my_small_world_of_curiosity/blob/main/documentary/russianHistoryAndCultureAndNatureREADME.md#nature)
 
+## History
 
 - Good visual archives
      - [**17 Moments in Soviet History**](https://soviethistory.msu.edu/)
      - [**US-Russia Relations Timeline**](https://usrussiarelations.org/2/timeline)
 - [Collection: Documentaries on Russia and the Soviet Union: History, Politics, Current Events](https://www.ucl.ac.uk/library/using-library/libraries-and-study-spaces/ssees-library/bain-graffy-film-collection/documentaries-0)
-
-## History
 - [x] [The Last Days of the USSR, Curiosity Stream](https://curiositystream.com/video/4723?utm_campaign=D-PerformanceMax-ROW&utm_medium=display&utm_source=google&utm_placement=&utm_content=&gclid=EAIaIQobChMI9YqEwMbV9gIVxJrVCh1rfAACEAAYASAAEgIww_D_BwE)
 - [x] [The Breakup of the Soviet Union Explained](https://youtu.be/t2GmtBCVHzY)
 - [x] [The Entire History of the Cold War Explained | Best Cold War Documentary](https://www.youtube.com/watch?v=XDrykOhrb5s) - provides complete overview of events, helping to see their relation and chronology, difficult to digest
