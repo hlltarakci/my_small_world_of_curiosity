@@ -1,6 +1,6 @@
 # LIFE
 
-- See [here](https://github.com/hlltarakci/my_small_world_of_curiosity/blob/main/documentary/russianHistoryAndCultureREADME.md#culture-life-style-politics) for Russian culture and lifestyle
+- See [here](https://github.com/hlltarakci/my_small_world_of_curiosity/blob/main/documentary/russianHistoryAndCultureAndNatureREADME.md#culture-life-style-politics) for Russian culture and lifestyle
 - [ ] [Life in a day, 2011](https://www.imdb.com/title/tt1687247/) / [where to watch](https://www.youtube.com/watch?v=JaFVr_cJJIY)
 - [ ] [Life in a day, 2021](https://www.imdb.com/title/tt12706768/) / [where to watch](https://www.youtube.com/watch?v=vcsSc2iksC0)
 - [ ] [Erdoğan's world - Turkey and its President | DW Documentary](https://www.youtube.com/watch?v=WS99QTC2Hbo)
