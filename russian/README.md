@@ -1,6 +1,6 @@
 # Learning Russian :)
 
-- [MAIN COURSE TRACKER](https://github.com/hlltarakci/my_small_world_of_curiosity/blob/main/russian/russian_onsite_course_beginner.md
+- [MAIN COURSE TRACKER](https://github.com/hlltarakci/my_small_world_of_curiosity/blob/main/russian/russian_onsite_course_beginner.md)
 
 ## Resources
 - [Beginner Onsite course tracker](https://github.com/hlltarakci/my_small_world_of_curiosity/blob/main/russian/russian_onsite_course_beginner.md)
