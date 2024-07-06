@@ -2,8 +2,8 @@
 
 [counter helper for extra unguided moves](https://youtu.be/-qCfKkME9lE?si=hNkukqV2egTbBYIB)
 
-## MONTHLY PROGRAMS
-### Monthly - Version 1 - [**Monthly program (Cassey)**](https://www.blogilates.com/blog/the-blogilates-january-2024-workout-calendar/) - (Completion Dates: 9-April-2024)
+## PROGRAMS
+### Monthly - [**Monthly program (Cassey)**](https://www.blogilates.com/blog/the-blogilates-january-2024-workout-calendar/) - (Completion Dates: 9-April-2024)
 - [x] 1. [21 Min Cardio Burn N’ Tone Workout](https://www.youtube.com/watch?v=CMMaEFiY-nE) + [10 Min AntiBloating Cardio](https://www.youtube.com/watch?v=lQDrPsPodA0) + [WHOA WHOA!!! Whole Body Workout](https://www.youtube.com/watch?v=PUgcHQJuQys)
 - [x] 2. [Abdominal Etcher & Butt Enhancer](https://www.youtube.com/watch?v=T4adtRJ_b3g) + [3 Min Obliques Workout](https://www.youtube.com/watch?v=HRIOrIxsr6g)
 - [x] 3. [20 Min Natural Glute Enhancing Workout](https://www.youtube.com/watch?v=xGxbB72qBig) *add resistance band loop* + [Butt Lifting & Thigh Sculpting Workout](https://www.youtube.com/watch?v=h_rAyZgbSPM) + [5 Min Beautiful Booty](https://www.youtube.com/watch?v=3kfu9CPM4B8)
@@ -36,7 +36,7 @@
 - [x] 30. [Abs, Butt and Thighs](https://www.youtube.com/watch?v=IjEBfs35HSc) + [Extreme Abs Workout 2](https://www.youtube.com/watch?v=wztS1XHqJBI)
 - [x] 31. [Lower Abs & Booty Blast](https://www.youtube.com/watch?v=iCeGf5MZJto) + [10 Min Side Booty Shaper](https://www.youtube.com/watch?v=4uRIozcsebQ) *add resistance band loop :)* + [5 Best Butt Exercises to Sculpt a Cute Booty](https://www.youtube.com/watch?v=-7cylyuk84o)
 
-### Monthly - Version 2 - [Move with Nicole](https://movewithnicole.com.au/pages/weekly-plans) (*+[100 repeats](https://youtu.be/-qCfKkME9lE?si=hNkukqV2egTbBYIB) of a glute exercise with resistance band loop*) (Completion Dates: 6-June-2024)
+### Monthly - [Move with Nicole](https://movewithnicole.com.au/pages/weekly-plans) (*+[100 repeats](https://youtu.be/-qCfKkME9lE?si=hNkukqV2egTbBYIB) of a glute exercise with resistance band loop*) (Completion Dates: 6-June-2024)
 - [x] 1. [20 MIN EXPRESS PILATES WORKOUT || Everyday Pilates For Energy (Moderate)](https://www.youtube.com/watch?v=ezke0GlKeM4)
 - [x] 2. [30 MIN CARDIO PILATES || At-Home Full Body Workout](https://www.youtube.com/watch?v=AeiqiA6FpmI)
 - [x] 3. [30 MIN YOGA FLOW || Feel Good Yoga For Flexibility](https://www.youtube.com/watch?v=RvCntPg7oPE)
@@ -74,7 +74,7 @@
 - [x] 35. [30 MIN FULL BODY WORKOUT || Intermediate/Advanced Pilates (No Equipment)](https://www.youtube.com/watch?v=zdw1V-IBekc)
 - [x] 36. [20 MINUTE FULL BODY WORKOUT | At-Home Pilates](https://www.youtube.com/watch?v=jHQnb7RfI58)
 
-### Monthly - Version 3 - [Summer Sculpt (Cassey)](https://www.blogilates.com/blog/28daysummersculpt/) (*+[20 to 100 repeats](https://youtu.be/-qCfKkME9lE?si=hNkukqV2egTbBYIB) of a glute exercise with resistance band loop*)
+### 2-weeks - [Summer Sculpt (Cassey)](https://www.blogilates.com/blog/28daysummersculpt/) (*+[20 to 100 repeats](https://youtu.be/-qCfKkME9lE?si=hNkukqV2egTbBYIB) of a glute exercise with resistance band loop*) (Completion Dates: 4-July-2024)
 - [x] **Week 1**
     - [x] [TOTAL BODY][Lean, Long & Lifted From Head to Toe / 28-Day Summer Sculpt](https://www.youtube.com/watch?v=YdnqNGcmhqA)
     - [x] [LEGS & BUTT][Peach Booty & Thigh Shaper / 28-Day Summer Sculpt](https://www.youtube.com/watch?v=XjiRVCEokWE)
@@ -91,26 +91,8 @@
     - [x] [OBLIQUES & THIGHS][Snatched Waist & Shapely Thighs / 28-Day Summer Sculpt](https://www.youtube.com/watch?v=sDzubGfNhew)
     - [x] [STRETCH][Feel-Good Stretches for Splits / 28-Day Summer Sculpt](https://www.youtube.com/watch?v=J8KQ5zLBOEI)
     - [x] [CARDIO & ABS][Fat Melter & Ab Trainer / 28-Day Summer Sculpt](https://www.youtube.com/watch?v=B5HGDbiH5S4)
-- [ ] **Week 3**
-    - [x] [TOTAL BODY][Lean, Long & Lifted From Head to Toe / 28-Day Summer Sculpt](https://www.youtube.com/watch?v=YdnqNGcmhqA)
-    - [ ] [LEGS & BUTT][Peach Booty & Thigh Shaper / 28-Day Summer Sculpt](https://www.youtube.com/watch?v=XjiRVCEokWE)
-    - [ ] [ARMS & BACK][Toned Tank Top Arms & Back / 28-Day Summer Sculpt](https://www.youtube.com/watch?v=2YdJgcrrHKI)
-    - [ ] [ABS & BUTT][Abdominal Etcher & Butt Enhancer / 28-Day Summer Sculpt](https://www.youtube.com/watch?v=T4adtRJ_b3g)
-    - [ ] [OBLIQUES & THIGHS][Snatched Waist & Shapely Thighs / 28-Day Summer Sculpt](https://www.youtube.com/watch?v=sDzubGfNhew)
-    - [ ] [STRETCH][Feel-Good Stretches for Splits / 28-Day Summer Sculpt](https://www.youtube.com/watch?v=J8KQ5zLBOEI)
-    - [ ] [CARDIO & ABS][Fat Melter & Ab Trainer / 28-Day Summer Sculpt](https://www.youtube.com/watch?v=B5HGDbiH5S4)
-- [ ] **Week 4**
-    - [ ] [TOTAL BODY][Lean, Long & Lifted From Head to Toe / 28-Day Summer Sculpt](https://www.youtube.com/watch?v=YdnqNGcmhqA)
-    - [ ] [LEGS & BUTT][Peach Booty & Thigh Shaper / 28-Day Summer Sculpt](https://www.youtube.com/watch?v=XjiRVCEokWE)
-    - [ ] [ARMS & BACK][Toned Tank Top Arms & Back / 28-Day Summer Sculpt](https://www.youtube.com/watch?v=2YdJgcrrHKI)
-    - [ ] [ABS & BUTT][Abdominal Etcher & Butt Enhancer / 28-Day Summer Sculpt](https://www.youtube.com/watch?v=T4adtRJ_b3g)
-    - [ ] [OBLIQUES & THIGHS][Snatched Waist & Shapely Thighs / 28-Day Summer Sculpt](https://www.youtube.com/watch?v=sDzubGfNhew)
-    - [ ] [STRETCH][Feel-Good Stretches for Splits / 28-Day Summer Sculpt](https://www.youtube.com/watch?v=J8KQ5zLBOEI)
-    - [ ] [CARDIO & ABS][Fat Melter & Ab Trainer / 28-Day Summer Sculpt](https://www.youtube.com/watch?v=B5HGDbiH5S4)
 
-## WEEKLY PROGRAMS
-
-### Weekly - Version 1 (Focus: Total body)
+### Weekly (Focus: Total body)
 - Sunday:
     - [60 min - Nicole](https://www.youtube.com/watch?v=3guGRzS1oLA)  
 - Monday:
@@ -127,7 +109,7 @@
 
 Spice it up replacements: [15 min playlist - Nicole](https://www.youtube.com/playlist?list=PLipSZg1JNsC_uKB9PQoIlTao6ZCWlnZPE) - [25 min playlist - Nicole](https://www.youtube.com/playlist?list=PLipSZg1JNsC9Olv_XGOcEEldnBP_41WzT)
       
-### Weekly - Version 2 ([Cassey's Sculpt Program](https://www.blogilates.com/blog/28daysummersculpt/) Adapted)
+### Weekly ([Cassey's Sculpt Program](https://www.blogilates.com/blog/28daysummersculpt/) Adapted)
 - Sunday:
     - [35 Min - CARDIO & ABS](https://www.youtube.com/watch?v=B5HGDbiH5S4)
 - Monday:
@@ -143,7 +125,7 @@ Spice it up replacements: [15 min playlist - Nicole](https://www.youtube.com/pla
 - Saturday:
     - [37 Min - OBLIQUES & THIGHS](https://www.youtube.com/watch?v=sDzubGfNhew)
 
- ### Weekly - Version 3 ([Cassey's Toned Series](https://www.youtube.com/playlist?list=PLSCcAGyv98ick76ygMkdu7PuRFfpn8ixM) Adapted)
+ ### Weekly - ([Cassey's Toned Series](https://www.youtube.com/playlist?list=PLSCcAGyv98ick76ygMkdu7PuRFfpn8ixM) Adapted)
 - Sunday:
     - *Optional* [15 min - butt lifting](https://www.youtube.com/watch?v=WUxjY2r88a8)
     - *Optional* [10 min - side butt](https://www.youtube.com/watch?v=pLAWcMLRgj4) 
@@ -169,7 +151,7 @@ Spice it up replacements: [15 min playlist - Nicole](https://www.youtube.com/pla
     - [12 Minutes to Toned Arms Workout](https://www.youtube.com/watch?v=nejA_F4D2ps&list=PLSCcAGyv98ick76ygMkdu7PuRFfpn8ixM&index=4) 
     - [12 minutes - Stretches You Need After a Stressful Day](https://www.youtube.com/watch?v=NRWz91kQuJk)
   
-### Weekly - Version 4
+### Weekly
 - Tuesday, Thursday, Sunday - [20 min butt addition](https://www.youtube.com/watch?v=36aBAcVc7Es)
 - Tuesday, Thursday, Sunday - [26 min - Kelly](https://www.youtube.com/watch?v=jaqciTxwDoE)
 - Wednesday, Friday, Saturday -  [30 min - Cassey](https://www.youtube.com/watch?v=CKe6EYSzmtU)
@@ -177,7 +159,7 @@ Spice it up replacements: [15 min playlist - Nicole](https://www.youtube.com/pla
 - Spice it up replacements: [15 min playlist - Nicole](https://www.youtube.com/playlist?list=PLipSZg1JNsC_uKB9PQoIlTao6ZCWlnZPE) - [25 min playlist - Nicole](https://www.youtube.com/playlist?list=PLipSZg1JNsC9Olv_XGOcEEldnBP_41WzT)
 
       
-## Selection 
+## SELECTION
 Cassey:
 - [Sculpt Program](https://www.blogilates.com/blog/28daysummersculpt/)
 - [100 Glute Challenge](https://www.youtube.com/playlist?list=PLSCcAGyv98idAYy_syDOjnnZ5E362V-wK)
@@ -281,7 +263,7 @@ Extras:
 - [15m hamstrings RDL (Romanian Dead Lift) - Caroline (with dumbbells)](https://www.youtube.com/watch?v=N9_11gKQGqM)
 - [20m glutes&hamstrings - Caroline (with dumbbells)](https://www.youtube.com/watch?v=1T3v_leyDIE)
 
-## Resources
+## RESOURCES
 - [**Nicole**](https://www.youtube.com/@MoveWithNicole/videos) - *best suits me. just add resistance band loop where applicable*
 - [**Cassey (blogilates)**](https://www.youtube.com/@blogilates/videos) - *monthly programs are great*
 - [Nathalie](https://www.youtube.com/@NathalieShanti/videos)
@@ -289,7 +271,7 @@ Extras:
 - [Eleni](https://www.youtube.com/@EleniFit/videos)
 - [Lottie](https://www.youtube.com/@LottieMurphy/videos)
 
-## Tracking Group Hiking & Sightseeing Activity
+## GROUP HIKING & SIGHTSEEING
 
 Hike Groups: https://theflamingohiker.com/hiking-groups-in-london/
 - http://www.senderismoenlondres.co.uk
