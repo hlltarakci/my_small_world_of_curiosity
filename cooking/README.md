@@ -87,6 +87,12 @@
 4. Servis yaparken uzerine cirpilmis yogurt ekle. Sarimsakli yogurt cok guzel oluyor.
 5. Tavada siviyagda nane, kirmizi biber yak. Uzerine dok.
 
+## Noodles with Greek Yogurt
+[<img src="noodlesWithGreekYogurt.jpg" width="500"/>](noodlesWithGreekYogurt.jpg)
+1. Noodlelari pisir, suzerken biraz suyu kalsin.
+2. Yogurt + tuz + pul biber + sarimsak -> guzelce karistir.
+3. Yogurtla noodlelari karistir.
+
 # SANDWICHES
 ## Avocado-Egg Sandwich
 [<img src="avocado_egg_sandwich.jpg" width="500"/>](avocado_egg_sandwich.jpg)
