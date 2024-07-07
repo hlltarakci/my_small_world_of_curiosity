@@ -187,22 +187,18 @@ Support website: https://www.russianlanguagecentre.org and https://www.russianla
     - [x] УРОК 3-2 (Singular and Plural of possessives and demonstratives) - https://wordwall.net/play/31696/599/941
   - [x] Extra repeat on Lesson 3 and a bit look forward - https://www.russianlanguagecentre.org/new-page  https://www.russianlanguagecentre.org/lesson-3  https://wordwall.net/play/31693/580/940  https://wordwall.net/play/31696/599/941
 - [ ] **Repeat Program - until next term** (2 weeks homework below)
-  - [ ] Introduction
-    - [ ] Fast-repeat. (pages 13-29)
-    - [ ] Supporting video: https://www.youtube.com/watch?v=HRsO0XrypCY
-    - [ ] Difficult Russian vowels (И, Ы, and Й): https://www.youtube.com/watch?v=r3xcTOL-0PA
-    - [ ] Difficult Russian consonants (ж, ш, щ, ч, ц): https://www.youtube.com/watch?v=On8r_oVDjJQ
+  - [x] Introduction - Fast-repeat. (pages 13-29)
   - [ ] УРОК 1 (pages 30-41)
-    - [ ] Listen, repeat, read everything - https://www.russianlanguagecentre.org/lesson-1-audio-files
-    - [ ] Write down dialogs and vocabulary - https://www.russianlanguagecentre.org/lesson-1-audio-files
+    - [x] Listen, repeat, read everything - https://www.russianlanguagecentre.org/lesson-1-audio-files
+    - [x] Write down dialogs and vocabulary - https://www.russianlanguagecentre.org/lesson-1-audio-files
     - [ ] Do exercises: https://www.russianlanguagecentre.org/lesson-1
     - [ ] Do revision exercises on lesson 1 (leaflet)
   - [ ] УРОК 2 (pages 42-60)
-    - [ ] Listen, repeat, read everything - https://www.russianlanguagecentre.org/lesson-2-audio-files
-    - [ ] Write down dialogs and vocabulary
+    - [x] Listen, repeat, read everything - https://www.russianlanguagecentre.org/lesson-2-audio-files
+    - [x] Write down dialogs and vocabulary - https://www.russianlanguagecentre.org/lesson-2-audio-files
     - [ ] Do exercises: https://www.russianlanguagecentre.org/lesson-2
     - [ ] Do revision exercises on lesson 2 (RMC_-_Lesson_2.pdf, RMC_-_Lesson_2_-_The_Key.pdf)
-  - [ ] УРОК 3 (pages 62-?)
+  - [ ] УРОК 3 (pages 62-76)
     - [ ] Listen, repeat, read everything - https://www.russianlanguagecentre.org/new-page
     - [ ] Do all exercises in the book (including the ones we already did)
     - [ ] Write down dialogs and vocabulary - https://www.russianlanguagecentre.org/lesson-1-audio-files
