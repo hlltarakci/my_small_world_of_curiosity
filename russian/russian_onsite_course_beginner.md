@@ -199,14 +199,13 @@ Support website: https://www.russianlanguagecentre.org and https://www.russianla
     - [ ] Do exercises: https://www.russianlanguagecentre.org/lesson-2
     - [ ] Do revision exercises on lesson 2 (RMC_-_Lesson_2.pdf, RMC_-_Lesson_2_-_The_Key.pdf)
   - [ ] УРОК 3 (pages 62-76)
-    - [ ] Listen, repeat, read everything - https://www.russianlanguagecentre.org/new-page
-    - [ ] Do all exercises in the book (including the ones we already did)
-    - [ ] Write down dialogs and vocabulary - https://www.russianlanguagecentre.org/lesson-1-audio-files
-    - [ ] Do exercises - https://www.russianlanguagecentre.org/lesson-3
-    - [ ] We did pp. 66-70 of lesson 3. Repeat.
-    - [ ] Do ex. 3.12 (p. 70), ex. 3.13, ex. 3.14 (p. 71), learn numbers (p. 72)
-    - [ ] See leaflets: COUNTRIES-LANGUAGES.pdf, note-share-1719594635601.pdf, note-share-1719606066567.pdf, Russian_names.pdf
+    - [ ] Pages 62-71: Listen, repeat, read, write - https://www.russianlanguagecentre.org/new-page
+    - [ ] Do exercises from 3.1 to 3.14
     - [ ] See page 375 and PLURAL_OF_NOUNS.pdf for irregular plurals
+    - [ ] See leaflets: COUNTRIES-LANGUAGES.pdf, note-share-1719594635601.pdf, note-share-1719606066567.pdf, Russian_names.pdf
+    - [ ] Learn numbers (p.72)
+    - [ ] Pages 72-76: Listen, repeat, read, write - https://www.russianlanguagecentre.org/new-page  
+    - [ ] Do exercises - https://www.russianlanguagecentre.org/lesson-3
   - [ ] Wordwall:
     - [ ] УРОК 1-1 (First phrases) - https://wordwall.net/play/31683/726/686
     - [ ] УРОК 1-2 (First vocabulary list) - https://wordwall.net/play/31684/109/266
