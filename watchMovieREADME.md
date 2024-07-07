@@ -563,6 +563,7 @@ https://sovietmoviesonline.com/
 - [ ] [SERIES][**11.22.63, 2016**](https://www.imdb.com/title/tt2879552/)
 - [ ] [SERIES][Rick and Morty, 2013](https://www.imdb.com/title/tt2861424/)
 - [ ] [SERIES][**Curb Your Enthusiasm, 2000**](https://www.imdb.com/title/tt0264235/)
+- [ ] [SERIES][Cunk on Earth, 2022](https://www.imdb.com/title/tt16867040/)
 - [x] [SERIES][House of Cards, 2013](https://www.imdb.com/title/tt1856010/)
 - [ ] [SERIES][The West Wing, 1999](https://www.imdb.com/title/tt0200276/)
 - [x] [SERIES][Secret City, 2016](https://www.imdb.com/title/tt4976512/)
