@@ -1,7 +1,8 @@
 # COURSES
 
 ## Russian Language and History
-- [x] [ONSITE][**Russian Language Center, Group Courses for Beginners (Pushkin House) (10 weeks)**](https://www.russiancentre.co.uk/group-courses-for-beginners/) - [term dates](https://www.russiancentre.co.uk/term-dates/) - [course homework tracker](https://github.com/hlltarakci/my_small_world_of_curiosity/blob/main/russian/russian_onsite_course_beginner.md)
+- [RLC Term Dates](https://www.russiancentre.co.uk/term-dates/) - [RLC Level Guide](https://www.russiancentre.co.uk/rlc-level-guide/) - [RLC Events Calendar](https://www.russiancentre.co.uk/events-calendar/)
+- [x] [ONSITE][**Russian Language Center, Group Courses for Beginners (Pushkin House) (10 weeks)**](https://www.russiancentre.co.uk/group-courses-for-beginners/)  - [course homework tracker](https://github.com/hlltarakci/my_small_world_of_curiosity/blob/main/russian/russian_onsite_course_beginner.md)
 - [ ] [ONSITE][Russian Language Center, Group Courses for False Beginners (Pushkin House) (10 weeks)](https://www.russiancentre.co.uk/group-courses-for-non-beginners/)
 - [x] [ONLINE][**UDEMY: Three Hour Cyrillic (2 hours)**](https://www.udemy.com/course/russian-alphabet-mastery/)
 - [x] [ONLINE][**UDEMY: Russian Alphabet Course (1,5 hours)**](https://www.udemy.com/course/russian-alphabet-course/) - [Russian alphabet (РУССКИЙ АЛЬФАВИТ)](https://en.wikipedia.org/wiki/Russian_alphabet)
