@@ -199,10 +199,10 @@ Support website: https://www.russianlanguagecentre.org and https://www.russianla
     - [ ] Do exercises: https://www.russianlanguagecentre.org/lesson-2
     - [ ] Do revision exercises on lesson 2 (RMC_-_Lesson_2.pdf, RMC_-_Lesson_2_-_The_Key.pdf)
   - [ ] УРОК 3 (pages 62-76)
-    - [ ] Pages 62-71: Listen, repeat, read, write - https://www.russianlanguagecentre.org/new-page
-    - [ ] Do exercises from 3.1 to 3.14
-    - [ ] See page 375 and PLURAL_OF_NOUNS.pdf for irregular plurals
-    - [ ] See leaflets: COUNTRIES-LANGUAGES.pdf, note-share-1719594635601.pdf, note-share-1719606066567.pdf, Russian_names.pdf
+    - [x] Pages 62-71: Listen, repeat, read, write - https://www.russianlanguagecentre.org/new-page
+    - [x] Do exercises from 3.1 to 3.14
+    - [x] See page 375 for irregular plurals
+    - [ ] See leaflets: PLURAL_OF_NOUNS.pdf, COUNTRIES-LANGUAGES.pdf, note-share-1719594635601.pdf, note-share-1719606066567.pdf, Russian_names.pdf
     - [ ] Learn numbers (p.72)
     - [ ] Pages 72-76: Listen, repeat, read, write - https://www.russianlanguagecentre.org/new-page  
     - [ ] Do exercises - https://www.russianlanguagecentre.org/lesson-3
@@ -233,4 +233,4 @@ Support website: https://www.russianlanguagecentre.org and https://www.russianla
     - [ ] УРОК 3-11 (Professions) - https://wordwall.net/play/31883/882/310
     - [ ] УРОК 3-12 (Occupations) - https://wordwall.net/play/32150/781/533
     - [ ] УРОК 3-13 (Vocabulary of lesson 3) - https://wordwall.net/resource/31877045/%d1%83%d1%80%d0%be%d0%ba-3-13-vocabulary-of-lesson-3
-  - [ ] 🔂 [EXTRA] Take the online course again to see how comfortable i get at this point: [UDEMY: Learn Russian for Beginners: The Ultimate 100-Lesson Course (6.5 hours)](https://www.udemy.com/course/learn-russian-for-beginners/?couponCode=KEEPLEARNING) 
+- [ ] 🔂 [EXTRA] Take the online course again to see how comfortable i get at this point: [UDEMY: Learn Russian for Beginners: The Ultimate 100-Lesson Course (6.5 hours)](https://www.udemy.com/course/learn-russian-for-beginners/?couponCode=KEEPLEARNING) 
