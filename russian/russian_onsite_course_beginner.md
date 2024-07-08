@@ -203,8 +203,10 @@ Support website: https://www.russianlanguagecentre.org and https://www.russianla
     - [x] Do exercises from 3.1 to 3.14
     - [x] See page 375 for irregular plurals
     - [ ] See leaflets: PLURAL_OF_NOUNS.pdf, COUNTRIES-LANGUAGES.pdf, note-share-1719594635601.pdf, note-share-1719606066567.pdf, Russian_names.pdf
-    - [ ] Learn numbers (p.72)
-    - [ ] Pages 72-76: Listen, repeat, read, write - https://www.russianlanguagecentre.org/new-page  
+    - [x] Learn numbers (p.72)
+    - [x] Pages 72-76: Listen, repeat, read, write - https://www.russianlanguagecentre.org/new-page
+    - [x] Do exercises on 72-76
+    - [ ] Do exercise 3.19 (translation)
     - [ ] Do exercises - https://www.russianlanguagecentre.org/lesson-3
   - [ ] Wordwall:
     - [ ] УРОК 1-1 (First phrases) - https://wordwall.net/play/31683/726/686
