@@ -11,7 +11,7 @@
   - [x] [30 MIN CARDIO & CORE HIIT WORKOUT (Warm Up & Cool Down Included)](https://www.youtube.com/watch?v=BIyX9uVyyF4&list=PLipSZg1JNsC-cujq6r6fUdqj43W6aqv2Z&index=3)
   - [ ] [30 MIN GENTLE PILATES FLOW || Morning/Evening Workout](https://www.youtube.com/watch?v=_Rg7nToY1dg&list=PLipSZg1JNsC-cujq6r6fUdqj43W6aqv2Z&index=4)
   - [x] [40 MIN DANCER WORKOUT || Full Body Sculpt (No Equipment)](https://www.youtube.com/watch?v=CxfAULXP8SM&list=PLipSZg1JNsC-cujq6r6fUdqj43W6aqv2Z&index=5)
-  - [ ] [40 MIN YOGA WORKOUT || Full Body Yoga Flow For Strength & Flexibility](https://www.youtube.com/watch?v=uqJ-jANozcE&list=PLipSZg1JNsC-cujq6r6fUdqj43W6aqv2Z&index=6)
+  - [x] [40 MIN YOGA WORKOUT || Full Body Yoga Flow For Strength & Flexibility](https://www.youtube.com/watch?v=uqJ-jANozcE&list=PLipSZg1JNsC-cujq6r6fUdqj43W6aqv2Z&index=6)
 - [ ] [Week 2](https://www.youtube.com/playlist?list=PLipSZg1JNsC-XvTDgAHuMSrv_rrAdT69T)
   - [ ] [30 MIN FULL BODY WORKOUT || At-Home Pilates (No Equipment)](https://www.youtube.com/watch?v=C2HX2pNbUCM&list=PLipSZg1JNsC-XvTDgAHuMSrv_rrAdT69T&index=1)
   - [ ] [20 MIN FULL BODY PILATES HIIT || Low Impact Workout (Stretch Included)](https://www.youtube.com/watch?v=MDDuE_vdVFo&list=PLipSZg1JNsC-XvTDgAHuMSrv_rrAdT69T&index=2)
