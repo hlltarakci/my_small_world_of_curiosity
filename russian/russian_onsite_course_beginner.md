@@ -191,12 +191,12 @@ Support website: https://www.russianlanguagecentre.org and https://www.russianla
   - [ ] УРОК 1 (pages 30-41)
     - [x] Listen, repeat, read everything - https://www.russianlanguagecentre.org/lesson-1-audio-files
     - [x] Write down dialogs and vocabulary - https://www.russianlanguagecentre.org/lesson-1-audio-files
-    - [ ] Do exercises: https://www.russianlanguagecentre.org/lesson-1
+    - [x] Do exercises: https://www.russianlanguagecentre.org/lesson-1
     - [ ] Do revision exercises on lesson 1 (leaflet)
   - [ ] УРОК 2 (pages 42-60)
     - [x] Listen, repeat, read everything - https://www.russianlanguagecentre.org/lesson-2-audio-files
     - [x] Write down dialogs and vocabulary - https://www.russianlanguagecentre.org/lesson-2-audio-files
-    - [ ] Do exercises: https://www.russianlanguagecentre.org/lesson-2
+    - [x] Do exercises: https://www.russianlanguagecentre.org/lesson-2
     - [ ] Do revision exercises on lesson 2 (RMC_-_Lesson_2.pdf, RMC_-_Lesson_2_-_The_Key.pdf)
   - [ ] УРОК 3 (pages 62-76)
     - [x] Pages 62-71: Listen, repeat, read, write - https://www.russianlanguagecentre.org/new-page
@@ -207,7 +207,7 @@ Support website: https://www.russianlanguagecentre.org and https://www.russianla
     - [x] Pages 72-76: Listen, repeat, read, write - https://www.russianlanguagecentre.org/new-page
     - [x] Do exercises on 72-76
     - [ ] Do exercise 3.19 (translation)
-    - [ ] Do exercises - https://www.russianlanguagecentre.org/lesson-3
+    - [x] Do exercises - https://www.russianlanguagecentre.org/lesson-3
   - [x] Wordwall:
     - [x] УРОК 1-1 (First phrases) - https://wordwall.net/play/31683/726/686
     - [x] УРОК 1-2 (First vocabulary list) - https://wordwall.net/play/31684/109/266
