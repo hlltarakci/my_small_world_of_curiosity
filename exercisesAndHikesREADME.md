@@ -3,8 +3,8 @@
 [counter helper for extra unguided moves](https://youtu.be/-qCfKkME9lE?si=hNkukqV2egTbBYIB)
 
 ## PROGRAMS
-### 2-Months [**Monthly program (Nicole)**](https://www.youtube.com/@MoveWithNicole) (*+[20 to 100 repeats](https://youtu.be/-qCfKkME9lE?si=hNkukqV2egTbBYIB) of a glute exercise with resistance band loop OR if extra energy, add resistance band loop exercise [1](https://www.youtube.com/watch?v=BB0QpDx93lk), [2](https://www.youtube.com/watch?v=QG3TAwfo9iQ), [3](https://www.youtube.com/watch?v=UnUK2p_s998)*)
-
+### 2-Months [**Monthly program (Nicole)**](https://www.youtube.com/@MoveWithNicole)
+- [EXTRA][Sunday, Tuesday, Thursday, (*Optional*)Saturday][20 Min INTENSE GLUTE WORKOUT at Home with Resistance Band](https://www.youtube.com/watch?v=gm4zVOaj37E)
 - [ ] [Week 1](https://www.youtube.com/playlist?list=PLipSZg1JNsC-cujq6r6fUdqj43W6aqv2Z)
   - [x] [40 MIN FULL BODY WORKOUT || Power Pilates With Weights (Intermediate)](https://www.youtube.com/watch?v=dOO6-o7ObnU&list=PLipSZg1JNsC-cujq6r6fUdqj43W6aqv2Z) *includes dumbbells*
   - [ ] [25 MIN MORNING PILATES || Wake Up & Feel Energised](https://www.youtube.com/watch?v=Wnwo1MvW-Ug&list=PLipSZg1JNsC-cujq6r6fUdqj43W6aqv2Z&index=2)
