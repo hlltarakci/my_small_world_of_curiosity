@@ -186,19 +186,19 @@ Support website: https://www.russianlanguagecentre.org and https://www.russianla
     - [x] УРОК 3-1 (Plural of nouns) - https://wordwall.net/play/31693/580/940
     - [x] УРОК 3-2 (Singular and Plural of possessives and demonstratives) - https://wordwall.net/play/31696/599/941
   - [x] Extra repeat on Lesson 3 and a bit look forward - https://www.russianlanguagecentre.org/new-page  https://www.russianlanguagecentre.org/lesson-3  https://wordwall.net/play/31693/580/940  https://wordwall.net/play/31696/599/941
-- [ ] **Repeat Program - until next term** (2 weeks homework below)
+- [x] 😊 **Repeat Program - until next term** (2 weeks homework below)
   - [x] Introduction - Fast-repeat. (pages 13-29)
-  - [ ] УРОК 1 (pages 30-41)
+  - [x] УРОК 1 (pages 30-41)
     - [x] Listen, repeat, read everything - https://www.russianlanguagecentre.org/lesson-1-audio-files
     - [x] Write down dialogs and vocabulary - https://www.russianlanguagecentre.org/lesson-1-audio-files
     - [x] Do exercises: https://www.russianlanguagecentre.org/lesson-1
-    - [ ] Do revision exercises on lesson 1 (leaflet)
-  - [ ] УРОК 2 (pages 42-60)
+    - [x] Do revision exercises on lesson 1 (leaflet)
+  - [x] УРОК 2 (pages 42-60)
     - [x] Listen, repeat, read everything - https://www.russianlanguagecentre.org/lesson-2-audio-files
     - [x] Write down dialogs and vocabulary - https://www.russianlanguagecentre.org/lesson-2-audio-files
     - [x] Do exercises: https://www.russianlanguagecentre.org/lesson-2
-    - [ ] Do revision exercises on lesson 2 (RMC_-_Lesson_2.pdf, RMC_-_Lesson_2_-_The_Key.pdf)
-  - [ ] УРОК 3 (pages 62-76)
+    - [x] Do revision exercises on lesson 2 (RMC_-_Lesson_2.pdf, RMC_-_Lesson_2_-_The_Key.pdf)
+  - [x] УРОК 3 (pages 62-76)
     - [x] Pages 62-71: Listen, repeat, read, write - https://www.russianlanguagecentre.org/new-page
     - [x] Do exercises from 3.1 to 3.14
     - [x] See page 375 for irregular plurals
@@ -206,7 +206,7 @@ Support website: https://www.russianlanguagecentre.org and https://www.russianla
     - [x] Learn numbers (p.72) - [Russian numbers song 😊](https://www.youtube.com/watch?v=oyaD9CNcguo)
     - [x] Pages 72-76: Listen, repeat, read, write - https://www.russianlanguagecentre.org/new-page
     - [x] Do exercises on 72-76
-    - [ ] Do exercise 3.19 (translation)
+    - [x] Do exercise 3.19 (translation)
     - [x] Do exercises - https://www.russianlanguagecentre.org/lesson-3
   - [x] Wordwall:
     - [x] УРОК 1-1 (First phrases) - https://wordwall.net/play/31683/726/686
