@@ -4,7 +4,7 @@
 
 ## PROGRAMS
 ### 2-Months [**Monthly program (Nicole)**](https://www.youtube.com/@MoveWithNicole)
-- [EXTRA][Sunday, Tuesday, Thursday, (*Optional*)Saturday][20 Min INTENSE GLUTE WORKOUT at Home with Resistance Band](https://www.youtube.com/watch?v=gm4zVOaj37E)
+- **[EXTRA][Sunday, Tuesday, Thursday, (*Optional*)Saturday]** [20 Min INTENSE GLUTE WORKOUT at Home with Resistance Band](https://www.youtube.com/watch?v=gm4zVOaj37E)
 - [ ] [Week 1](https://www.youtube.com/playlist?list=PLipSZg1JNsC-cujq6r6fUdqj43W6aqv2Z)
   - [x] [40 MIN FULL BODY WORKOUT || Power Pilates With Weights (Intermediate)](https://www.youtube.com/watch?v=dOO6-o7ObnU&list=PLipSZg1JNsC-cujq6r6fUdqj43W6aqv2Z) *includes dumbbells*
   - [ ] [25 MIN MORNING PILATES || Wake Up & Feel Energised](https://www.youtube.com/watch?v=Wnwo1MvW-Ug&list=PLipSZg1JNsC-cujq6r6fUdqj43W6aqv2Z&index=2)
