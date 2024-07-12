@@ -3,7 +3,7 @@
 ## Russian Language and History
 - [RLC Term Dates](https://www.russiancentre.co.uk/term-dates/) - [RLC Level Guide](https://www.russiancentre.co.uk/rlc-level-guide/) - [RLC Events Calendar](https://www.russiancentre.co.uk/events-calendar/)
 - [x] [ONSITE][**Russian Language Center, Group Courses for Beginners (Pushkin House) (10 weeks)**](https://www.russiancentre.co.uk/group-courses-for-beginners/)  - [course homework tracker](https://github.com/hlltarakci/my_small_world_of_curiosity/blob/main/russian/russian_onsite_course_beginner.md)
-- [ ] [ONSITE][Russian Language Center, Group Courses for False Beginners (Pushkin House) (10 weeks)](https://www.russiancentre.co.uk/group-courses-for-non-beginners/)
+- [ ] [ONSITE][Russian Language Center, Group Courses for False Beginners (Pushkin House) (10 weeks)](https://www.russiancentre.co.uk/group-courses-for-non-beginners/) - [course homework tracker](https://github.com/hlltarakci/my_small_world_of_curiosity/blob/main/russian/russian_onsite_course_false_beginner.md)
 - [x] [ONLINE][**UDEMY: Three Hour Cyrillic (2 hours)**](https://www.udemy.com/course/russian-alphabet-mastery/)
 - [x] [ONLINE][**UDEMY: Russian Alphabet Course (1,5 hours)**](https://www.udemy.com/course/russian-alphabet-course/) - [Russian alphabet (РУССКИЙ АЛЬФАВИТ)](https://en.wikipedia.org/wiki/Russian_alphabet)
 - [x] [ONLINE][**UDEMY: Learn Russian for Beginners: The Ultimate 100-Lesson Course (6.5 hours)**](https://www.udemy.com/course/learn-russian-for-beginners/?couponCode=KEEPLEARNING) - [course cheatsheet](https://github.com/hlltarakci/my_small_world_of_curiosity/blob/main/russian/russian_course_cheatsheet_1.md) - *listening exercises (section 5&6) were a bit advanced, checking again after a while would be wise.*
