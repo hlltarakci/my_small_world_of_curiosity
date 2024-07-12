@@ -1,3 +1,5 @@
+See [false beginner course notes](https://github.com/hlltarakci/my_small_world_of_curiosity/blob/main/russian/russian_onsite_course_false_beginner.md)
+
 # Russion Onsite Course - Beginner
 
 Homework Tracker for [Russian Language Center, Group Courses for Beginners (Pushkin House) (10 weeks)](https://www.russiancentre.co.uk/group-courses-for-beginners/)
@@ -236,4 +238,4 @@ Support website: https://www.russianlanguagecentre.org and https://www.russianla
     - [x] УРОК 3-12 (Occupations) - https://wordwall.net/play/32150/781/533
     - [x] УРОК 3-13 (Vocabulary of lesson 3) - https://wordwall.net/resource/31877045/%d1%83%d1%80%d0%be%d0%ba-3-13-vocabulary-of-lesson-3
   - [x] Review УРОК 3 - Repeat. Listen, read everything, do exercises, review homework exercises. -  https://www.russianlanguagecentre.org/new-page - https://www.russianlanguagecentre.org/lesson-3 - [Russian numbers song 😊](https://www.youtube.com/watch?v=oyaD9CNcguo)
-- [ ] 🔂 [EXTRA] Take the online course again to see how comfortable i get at this point: [UDEMY: Learn Russian for Beginners: The Ultimate 100-Lesson Course (6.5 hours)](https://www.udemy.com/course/learn-russian-for-beginners/?couponCode=KEEPLEARNING) 
+- [ ] 🔂 [EXTRA] Take the online course again to see how comfortable i get at this point: [UDEMY: Learn Russian for Beginners: The Ultimate 100-Lesson Course (6.5 hours)](https://www.udemy.com/course/learn-russian-for-beginners/?couponCode=KEEPLEARNING)
