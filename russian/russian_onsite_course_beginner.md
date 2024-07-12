@@ -235,4 +235,5 @@ Support website: https://www.russianlanguagecentre.org and https://www.russianla
     - [x] УРОК 3-11 (Professions) - https://wordwall.net/play/31883/882/310
     - [x] УРОК 3-12 (Occupations) - https://wordwall.net/play/32150/781/533
     - [x] УРОК 3-13 (Vocabulary of lesson 3) - https://wordwall.net/resource/31877045/%d1%83%d1%80%d0%be%d0%ba-3-13-vocabulary-of-lesson-3
+  - [ ] Review УРОК 3 - Repeat. Listen, read everything, do exercises, do wordwall exercises.
 - [ ] 🔂 [EXTRA] Take the online course again to see how comfortable i get at this point: [UDEMY: Learn Russian for Beginners: The Ultimate 100-Lesson Course (6.5 hours)](https://www.udemy.com/course/learn-russian-for-beginners/?couponCode=KEEPLEARNING) 
