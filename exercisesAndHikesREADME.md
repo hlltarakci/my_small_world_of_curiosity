@@ -5,11 +5,11 @@
 ## PROGRAMS
 ### 2-Months [**Monthly program (Nicole)**](https://www.youtube.com/@MoveWithNicole)
 - **[EXTRA][Sunday, Tuesday, Thursday, (*Optional*)Saturday]** [20 Min INTENSE GLUTE WORKOUT at Home with Resistance Band](https://www.youtube.com/watch?v=gm4zVOaj37E)
-- [ ] [Week 1](https://www.youtube.com/playlist?list=PLipSZg1JNsC-cujq6r6fUdqj43W6aqv2Z)
+- [x] [Week 1](https://www.youtube.com/playlist?list=PLipSZg1JNsC-cujq6r6fUdqj43W6aqv2Z)
   - [x] [40 MIN FULL BODY WORKOUT || Power Pilates With Weights (Intermediate)](https://www.youtube.com/watch?v=dOO6-o7ObnU&list=PLipSZg1JNsC-cujq6r6fUdqj43W6aqv2Z) *includes dumbbells*
   - [x] [25 MIN MORNING PILATES || Wake Up & Feel Energised](https://www.youtube.com/watch?v=Wnwo1MvW-Ug&list=PLipSZg1JNsC-cujq6r6fUdqj43W6aqv2Z&index=2)
   - [x] [30 MIN CARDIO & CORE HIIT WORKOUT (Warm Up & Cool Down Included)](https://www.youtube.com/watch?v=BIyX9uVyyF4&list=PLipSZg1JNsC-cujq6r6fUdqj43W6aqv2Z&index=3)
-  - [ ] [30 MIN GENTLE PILATES FLOW || Morning/Evening Workout](https://www.youtube.com/watch?v=_Rg7nToY1dg&list=PLipSZg1JNsC-cujq6r6fUdqj43W6aqv2Z&index=4)
+  - [x] [30 MIN GENTLE PILATES FLOW || Morning/Evening Workout](https://www.youtube.com/watch?v=_Rg7nToY1dg&list=PLipSZg1JNsC-cujq6r6fUdqj43W6aqv2Z&index=4)
   - [x] [40 MIN DANCER WORKOUT || Full Body Sculpt (No Equipment)](https://www.youtube.com/watch?v=CxfAULXP8SM&list=PLipSZg1JNsC-cujq6r6fUdqj43W6aqv2Z&index=5)
   - [x] [40 MIN YOGA WORKOUT || Full Body Yoga Flow For Strength & Flexibility](https://www.youtube.com/watch?v=uqJ-jANozcE&list=PLipSZg1JNsC-cujq6r6fUdqj43W6aqv2Z&index=6)
 - [ ] [Week 2](https://www.youtube.com/playlist?list=PLipSZg1JNsC-XvTDgAHuMSrv_rrAdT69T)
