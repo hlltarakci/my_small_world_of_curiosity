@@ -455,6 +455,15 @@
 5. 175 derecede pisir
 6. Ilininca ortasina recel ekle, soguyunca servis yap.
 
+## Spinach Omelet
+[<img src="spinach_omelet.jpg" width="500"/>](spinach_omelet.jpg)
+1. Tavada 2 yemek kasigi zeytinyagini isit.
+2. Ince kiyilmis bir kuru sogani pembelesene dek kavur.
+3. 50-60 gram kiyilmis ispanagi sotele, yarim cay kasigi tuz ekle.
+4. Derin bir kapta 2 yumurta + 1 cay kasigi tuz -> cirp.
+5. Yumurtalari ispanagin uzerine dek.
+6. Pismeye yakin yarisina rendelenmis mozarella ekle, ikiye katlayip servis tabagina al.
+
 ## Cheese Omelette
 [<img src="cheese_omelette.jpg" width="500"/>](cheese_omelette.jpg)
 1. 1 yemek kasigi tereyegi tavada erit.
