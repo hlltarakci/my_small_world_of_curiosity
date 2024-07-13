@@ -159,6 +159,17 @@
 5. Uzerinde zeytinyagi gezdir, tereyagi ekle.
 6. 180 derecede pisir.
 
+## Cokertme Kebabi
+[<img src="cokertme_kebabi.jpg" width="500"/>](cokertme_kebabi.jpg)
+
+1. 3 yemek kasigi zeytinyagini tavaya al, biraz isit. Ince kiyilmis bir sogani hafifce pembelestir.
+2. 200-400 gram kadar kiyma ekle, kavur.
+3. 1 tatli kasigi salca + 1 tatli kasigi tuz + 1 tatli kasigi kirmizi toz biber + yarim cay kasigi karabiber ekle.
+4. Yarim cay bardagi sicak su ekle, cekene kadar guzelce karistirarak kavur.
+5. Diger yanda bir tabaklik, ince patates kizartmasi hazirla. Airfryerda daha hafif olur.
+6. Diger yanda 250 gram yogurda biraz tuz kat, sarimsak dogra, guzelce karistir.
+7. Patatesler kizarinca servis tabagina al. Patateslerin uzerine yogurdu yay. Onun uzerine kiymayi koy. Biraz pul biber serp.
+
 ## Russian Tea Cakes
 [<img src="russian_tea_cakes.jpg" width="500"/>](russian_tea_cakes.jpg)
 1. 200 gr oda sicakliginda tereyag + 1 paket vanilya -> 2-3 dk mikserle cirp
