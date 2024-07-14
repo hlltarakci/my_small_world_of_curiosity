@@ -14,19 +14,24 @@ See [**beginner course notes**](https://github.com/hlltarakci/my_small_world_of_
     - [ ] Introduction - Fast-repeat. (pages 13-29)
     - [ ] УРОК 1 (pages 30-41)
       - [ ] Listen, repeat, read everything - https://www.russianlanguagecentre.org/lesson-1-audio-files
-      - [ ] Write down dialogs and vocabulary - https://www.russianlanguagecentre.org/lesson-1-audio-files
+      - [ ] Write dialogs - https://www.russianlanguagecentre.org/lesson-1-audio-files
       - [ ] Do exercises: https://www.russianlanguagecentre.org/lesson-1
       - [ ] Fast repeat revision exercises on lesson 1 (leaflet)
     - [ ] УРОК 2 (pages 42-60)
       - [ ] Listen, repeat, read everything - https://www.russianlanguagecentre.org/lesson-2-audio-files
-      - [ ] Write down dialogs and vocabulary - https://www.russianlanguagecentre.org/lesson-2-audio-files
+      - [ ] Write dialogs - https://www.russianlanguagecentre.org/lesson-2-audio-files
       - [ ] Do exercises: https://www.russianlanguagecentre.org/lesson-2
-      - [ ] Repeat revision exercises on lesson 2 (RMC_-_Lesson_2.pdf, RMC_-_Lesson_2_-_The_Key.pdf)
+      - [ ] Fast repeat revision exercises on lesson 2 (RMC_-_Lesson_2.pdf, RMC_-_Lesson_2_-_The_Key.pdf)
     - [ ] УРОК 3 (pages 62-76)
       - [ ] Listen, repeat, read everything - https://www.russianlanguagecentre.org/new-page
-      - [ ] Write down dialogs and vocabulary - https://www.russianlanguagecentre.org/new-page
+      - [ ] Write dialogs - https://www.russianlanguagecentre.org/new-page
       - [ ] Do exercises - https://www.russianlanguagecentre.org/lesson-3
       - [ ] See leaflets: PLURAL_OF_NOUNS.pdf, COUNTRIES-LANGUAGES.pdf, the gender of nouns, note-share-1719594635601.pdf, note-share-1719606066567.pdf, Russian_names.pdf
+    - [ ] УРОК 4 (pages 78 - 94 (we did until 82))
+      - [ ] Listen, repeat, read everything - https://www.russianlanguagecentre.org/new-page-1
+      - [ ] Write dialogs - https://www.russianlanguagecentre.org/new-page-1
+      - [ ] Do exercises on the book
+      - [ ] Do exercises - https://www.russianlanguagecentre.org/lesson-4
     - [ ] Wordwall:
       - [ ] УРОК 1-1 (First phrases) - https://wordwall.net/play/31683/726/686
       - [ ] УРОК 1-2 (First vocabulary list) - https://wordwall.net/play/31684/109/266
@@ -53,4 +58,9 @@ See [**beginner course notes**](https://github.com/hlltarakci/my_small_world_of_
       - [ ] УРОК 3-9 (Numbers 1-20) - https://wordwall.net/play/31876/110/278
       - [ ] УРОК 3-11 (Professions) - https://wordwall.net/play/31883/882/310
       - [ ] УРОК 3-12 (Occupations) - https://wordwall.net/play/32150/781/533
+    - [ ] LOOK FORWARD => УРОК 5 (pages 96 - 114)
+      - [ ] Listen, repeat, read everything - https://www.russianlanguagecentre.org/lesson-5-audio-files
+      - [ ] Do exercises on the book
+      - [ ] Do exercises - https://www.russianlanguagecentre.org/lesson-4-1
   - [ ] Homework
+      - [ ] УРОК 3 revision exercises (cannot reach hw board :( )
