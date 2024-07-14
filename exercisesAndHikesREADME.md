@@ -4,7 +4,7 @@
 
 ## PROGRAMS
 ### 2-Months [**Monthly program (Nicole)**](https://www.youtube.com/@MoveWithNicole)
-- **[EXTRA][Sunday, Tuesday, Thursday, (*Optional*)Saturday]** [20 Min INTENSE GLUTE WORKOUT at Home with Resistance Band](https://www.youtube.com/watch?v=gm4zVOaj37E)
+- **[EXTRA][Sunday, Tuesday, Thursday, (*Optional*)Saturday]** [20 Min INTENSE GLUTE WORKOUT at Home with Resistance Band](https://www.youtube.com/watch?v=gm4zVOaj37E) + [50 repeats of a glute exercise with resistance band loop](https://www.youtube.com/watch?v=FzXjnQXHgwY)
 - [x] [Week 1](https://www.youtube.com/playlist?list=PLipSZg1JNsC-cujq6r6fUdqj43W6aqv2Z)
   - [x] [40 MIN FULL BODY WORKOUT || Power Pilates With Weights (Intermediate)](https://www.youtube.com/watch?v=dOO6-o7ObnU&list=PLipSZg1JNsC-cujq6r6fUdqj43W6aqv2Z) *includes dumbbells*
   - [x] [25 MIN MORNING PILATES || Wake Up & Feel Energised](https://www.youtube.com/watch?v=Wnwo1MvW-Ug&list=PLipSZg1JNsC-cujq6r6fUdqj43W6aqv2Z&index=2)
@@ -18,7 +18,7 @@
   - [ ] [35 MIN PILATES WORKOUT || Pilates For A Strong & Healthy Back (Intermediate)](https://www.youtube.com/watch?v=AMLSBnAxLbU&list=PLipSZg1JNsC-XvTDgAHuMSrv_rrAdT69T&index=3)
   - [ ] [30 MIN YOGA STRETCH || Feel Good Flexibility Flow](https://www.youtube.com/watch?v=baqAriam3l8&list=PLipSZg1JNsC-XvTDgAHuMSrv_rrAdT69T&index=4)
   - [ ] [30 MIN FULL BODY BARRE & PILATES WORKOUT || Sculpt & Strengthen](https://www.youtube.com/watch?v=pdHLxolGGX4&list=PLipSZg1JNsC-XvTDgAHuMSrv_rrAdT69T&index=5)
-  - [ ] [45 MIN PILATES ARMS & ABS WORKOUT || 🤍 Day 4: Move With Me Series](https://www.youtube.com/watch?v=I_MNcYo-dsA&list=PLipSZg1JNsC-XvTDgAHuMSrv_rrAdT69T&index=6)
+  - [x] [45 MIN PILATES ARMS & ABS WORKOUT || 🤍 Day 4: Move With Me Series](https://www.youtube.com/watch?v=I_MNcYo-dsA&list=PLipSZg1JNsC-XvTDgAHuMSrv_rrAdT69T&index=6) *includes dumbbells*
 - [ ] [Week 3](https://www.youtube.com/playlist?list=PLipSZg1JNsC8wIkTQ6u8V_wJyD9owWWzO)
   - [ ] [40 MIN FULL BODY WORKOUT || At-Home Pilates](https://www.youtube.com/watch?v=0zjiVQ950EE&list=PLipSZg1JNsC8wIkTQ6u8V_wJyD9owWWzO&index=1)
   - [ ] [30 MIN PILATES YOGA WORKOUT || Full Body Stretch & Strengthen](https://www.youtube.com/watch?v=NJU8dcCacRY&list=PLipSZg1JNsC8wIkTQ6u8V_wJyD9owWWzO&index=2)
