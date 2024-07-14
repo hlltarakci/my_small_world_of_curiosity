@@ -1,5 +1,6 @@
 # Practice Russian :)
 
+- [Playlist - Super Easy Russian - Russian for beginners](https://www.youtube.com/playlist?list=PLA5UIoabheFMRV-A92wr5G4lJZCx-ITMd)
 - [Russian Level 1](https://www.youtube.com/@RussianLevel1/videos)
     - [ ] [Russian Reading Playlist (Slow & Easy)](https://www.youtube.com/playlist?list=PL9OVcuPQUHuP2iTKtLy-HjCG5SJFB6jtg) 
       - [x] [фруктовый пирог](https://www.youtube.com/watch?v=qi_VMYmFhog) *1.listen 2.listen,learn translation 3.read outloud,listen 4.write,read outloud,listen 5.read outloud,listen 6.listen*
