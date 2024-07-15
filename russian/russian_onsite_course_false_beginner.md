@@ -11,25 +11,21 @@ See [**beginner course notes**](https://github.com/hlltarakci/my_small_world_of_
 - [ ] 🔂 [EXTRA] Take the online course again to see how comfortable i get at this point: [UDEMY: Learn Russian for Beginners: The Ultimate 100-Lesson Course (6.5 hours)](https://www.udemy.com/course/learn-russian-for-beginners/?couponCode=KEEPLEARNING)
 - [ ] **Week 1: Homework**
   - [ ] Weekly Review
-    - [ ] Introduction - Fast-repeat. (pages 13-29)
+    - [x] Introduction - Fast-repeat. (pages 13-29)
     - [ ] УРОК 1 (pages 30-41)
-      - [ ] Listen, repeat, read everything - https://www.russianlanguagecentre.org/lesson-1-audio-files
-      - [ ] Write dialogs - https://www.russianlanguagecentre.org/lesson-1-audio-files
+      - [x] Listen, read everything - https://www.russianlanguagecentre.org/lesson-1-audio-files
       - [ ] Do exercises: https://www.russianlanguagecentre.org/lesson-1
       - [ ] Fast repeat revision exercises on lesson 1 (leaflet)
     - [ ] УРОК 2 (pages 42-60)
-      - [ ] Listen, repeat, read everything - https://www.russianlanguagecentre.org/lesson-2-audio-files
-      - [ ] Write dialogs - https://www.russianlanguagecentre.org/lesson-2-audio-files
+      - [x] Listen, read everything - https://www.russianlanguagecentre.org/lesson-2-audio-files
       - [ ] Do exercises: https://www.russianlanguagecentre.org/lesson-2
       - [ ] Fast repeat revision exercises on lesson 2 (RMC_-_Lesson_2.pdf, RMC_-_Lesson_2_-_The_Key.pdf)
     - [ ] УРОК 3 (pages 62-76)
-      - [ ] Listen, repeat, read everything - https://www.russianlanguagecentre.org/new-page
-      - [ ] Write dialogs - https://www.russianlanguagecentre.org/new-page
+      - [x] Listen, read everything - https://www.russianlanguagecentre.org/new-page
       - [ ] Do exercises - https://www.russianlanguagecentre.org/lesson-3
       - [ ] See leaflets: PLURAL_OF_NOUNS.pdf, COUNTRIES-LANGUAGES.pdf, the gender of nouns, note-share-1719594635601.pdf, note-share-1719606066567.pdf, Russian_names.pdf
     - [ ] УРОК 4 (pages 78 - 94 (we did until 82))
-      - [ ] Listen, repeat, read everything - https://www.russianlanguagecentre.org/new-page-1
-      - [ ] Write dialogs - https://www.russianlanguagecentre.org/new-page-1
+      - [x] Listen, read everything - https://www.russianlanguagecentre.org/new-page-1
       - [ ] Do exercises on the book
       - [ ] Do exercises - https://www.russianlanguagecentre.org/lesson-4
     - [ ] Wordwall:
