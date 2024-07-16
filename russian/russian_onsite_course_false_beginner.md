@@ -59,7 +59,7 @@ See [**beginner course notes**](https://github.com/hlltarakci/my_small_world_of_
       - [ ] Do exercises on the book
       - [ ] Do exercises - https://www.russianlanguagecentre.org/lesson-4-1
   - [ ] Homework
-      - [ ] УРОК 3 revision exercises - RMC_-_Lesson_3.pdf, RMC_-_Lesson_3_-_The_Key.pdf
+      - [x] УРОК 3 revision exercises - RMC_-_Lesson_3.pdf, RMC_-_Lesson_3_-_The_Key.pdf
       - [ ] We finished lesson 3 today and started lesson 4 (covered pp. 79-81).repeat
       - [ ] Do ex. 4.2 (p. 80), ex. 4.4 (p. 81)
-      - [ ] Leaflets: PREPOSITIONAL_CASE.pdf, note-share-1720803928341.pdf
+      - [x] Leaflets: PREPOSITIONAL_CASE.pdf, note-share-1720803928341.pdf
