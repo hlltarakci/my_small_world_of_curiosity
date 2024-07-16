@@ -15,7 +15,7 @@
 - [ ] [Week 2](https://www.youtube.com/playlist?list=PLipSZg1JNsC-XvTDgAHuMSrv_rrAdT69T)
   - [x] [30 MIN FULL BODY WORKOUT || At-Home Pilates (No Equipment)](https://www.youtube.com/watch?v=C2HX2pNbUCM&list=PLipSZg1JNsC-XvTDgAHuMSrv_rrAdT69T&index=1)
   - [ ] [20 MIN FULL BODY PILATES HIIT || Low Impact Workout (Stretch Included)](https://www.youtube.com/watch?v=MDDuE_vdVFo&list=PLipSZg1JNsC-XvTDgAHuMSrv_rrAdT69T&index=2)
-  - [ ] [35 MIN PILATES WORKOUT || Pilates For A Strong & Healthy Back (Intermediate)](https://www.youtube.com/watch?v=AMLSBnAxLbU&list=PLipSZg1JNsC-XvTDgAHuMSrv_rrAdT69T&index=3)
+  - [x] [35 MIN PILATES WORKOUT || Pilates For A Strong & Healthy Back (Intermediate)](https://www.youtube.com/watch?v=AMLSBnAxLbU&list=PLipSZg1JNsC-XvTDgAHuMSrv_rrAdT69T&index=3)
   - [ ] [30 MIN YOGA STRETCH || Feel Good Flexibility Flow](https://www.youtube.com/watch?v=baqAriam3l8&list=PLipSZg1JNsC-XvTDgAHuMSrv_rrAdT69T&index=4)
   - [ ] [30 MIN FULL BODY BARRE & PILATES WORKOUT || Sculpt & Strengthen](https://www.youtube.com/watch?v=pdHLxolGGX4&list=PLipSZg1JNsC-XvTDgAHuMSrv_rrAdT69T&index=5)
   - [x] [45 MIN PILATES ARMS & ABS WORKOUT || 🤍 Day 4: Move With Me Series](https://www.youtube.com/watch?v=I_MNcYo-dsA&list=PLipSZg1JNsC-XvTDgAHuMSrv_rrAdT69T&index=6) *includes dumbbells*
