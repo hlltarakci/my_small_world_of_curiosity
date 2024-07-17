@@ -9,17 +9,17 @@ Support website: https://www.russianlanguagecentre.org and https://www.russianla
 See [**beginner course notes**](https://github.com/hlltarakci/my_small_world_of_curiosity/blob/main/russian/russian_onsite_course_beginner.md)
 
 - [ ] 🔂 [EXTRA] Take the online course again to see how comfortable i get at this point: [UDEMY: Learn Russian for Beginners: The Ultimate 100-Lesson Course (6.5 hours)](https://www.udemy.com/course/learn-russian-for-beginners/?couponCode=KEEPLEARNING)
-- [ ] **Week 1: Homework**
+- [ ] **Week 11: Homework**
   - [ ] Weekly Review
     - [x] Introduction - Fast-repeat. (pages 13-29)
     - [ ] УРОК 1 (pages 30-41)
       - [x] Listen, read everything - https://www.russianlanguagecentre.org/lesson-1-audio-files
       - [ ] Do exercises: https://www.russianlanguagecentre.org/lesson-1
-      - [ ] Fast repeat revision exercises on lesson 1 (leaflet)
+      - [x] Fast repeat revision exercises on lesson 1 (leaflet)
     - [ ] УРОК 2 (pages 42-60)
       - [x] Listen, read everything - https://www.russianlanguagecentre.org/lesson-2-audio-files
       - [ ] Do exercises: https://www.russianlanguagecentre.org/lesson-2
-      - [ ] Fast repeat revision exercises on lesson 2 (RMC_-_Lesson_2.pdf, RMC_-_Lesson_2_-_The_Key.pdf)
+      - [x] Fast repeat revision exercises on lesson 2 (RMC_-_Lesson_2.pdf, RMC_-_Lesson_2_-_The_Key.pdf)
     - [ ] УРОК 3 (pages 62-76)
       - [x] Listen, read everything - https://www.russianlanguagecentre.org/new-page
       - [ ] Do exercises - https://www.russianlanguagecentre.org/lesson-3
