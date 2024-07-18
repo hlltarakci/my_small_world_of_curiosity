@@ -43,12 +43,12 @@ See [**beginner course notes**](https://github.com/hlltarakci/my_small_world_of_
       - [x] УРОК 2-8 (Lesson 2 vocabulary list) - https://wordwall.net/resource/31710966/%d1%83%d1%80%d0%be%d0%ba-2-8-lesson-2-vocabulary-list
       - [x] УРОК 2-9 (Lesson 2 vocabulary list) - https://wordwall.net/play/33166/975/101
       - [x] УРОК 2-10 (Lesson 2 vocabulary list) - https://wordwall.net/play/33789/950/714
-      - [ ] УРОК 3-1 (Plural of nouns) - https://wordwall.net/play/31693/580/940
-      - [ ] УРОК 3-2 (Singular and Plural of possessives and demonstratives) - https://wordwall.net/play/31696/599/941
-      - [ ] УРОК 3-3 (Possessives) - https://wordwall.net/play/31698/680/599
-      - [ ] УРОК 3-4 (Agreement of possessives and demonstratives with nouns) - https://wordwall.net/play/31711/219/559
+      - [x] УРОК 3-1 (Plural of nouns) - https://wordwall.net/play/31693/580/940
+      - [x] УРОК 3-2 (Singular and Plural of possessives and demonstratives) - https://wordwall.net/play/31696/599/941
+      - [x] УРОК 3-3 (Possessives) - https://wordwall.net/play/31698/680/599
+      - [x] УРОК 3-4 (Agreement of possessives and demonstratives with nouns) - https://wordwall.net/play/31711/219/559
       - [ ] УРОК 3-5 (Country-national-adjective spelling) - https://wordwall.net/play/31699/043/908
-      - [ ] УРОК 3-6 (Accusative case of personal pronouns) - https://wordwall.net/play/31711/472/477
+      - [x] УРОК 3-6 (Accusative case of personal pronouns) - https://wordwall.net/play/31711/472/477
       - [ ] УРОК 3-7 (Family) - https://wordwall.net/play/31711/577/973
       - [ ] УРОК 3-8 (Questions and answers) - https://wordwall.net/play/31875/319/654
       - [ ] УРОК 3-9 (Numbers 1-20) - https://wordwall.net/play/31876/110/278
