@@ -28,7 +28,7 @@ See [**beginner course notes**](https://github.com/hlltarakci/my_small_world_of_
       - [x] Listen, read everything - https://www.russianlanguagecentre.org/new-page-1
       - [ ] Do exercises on the book
       - [ ] Do exercises - https://www.russianlanguagecentre.org/lesson-4
-    - [ ] Wordwall:
+    - [x] Wordwall:
       - [x] УРОК 1-1 (First phrases) - https://wordwall.net/play/31683/726/686
       - [x] УРОК 1-2 (First vocabulary list) - https://wordwall.net/play/31684/109/266
       - [x] УРОК 1-3 (Personal pronouns) - https://wordwall.net/play/31684/368/571
@@ -47,19 +47,18 @@ See [**beginner course notes**](https://github.com/hlltarakci/my_small_world_of_
       - [x] УРОК 3-2 (Singular and Plural of possessives and demonstratives) - https://wordwall.net/play/31696/599/941
       - [x] УРОК 3-3 (Possessives) - https://wordwall.net/play/31698/680/599
       - [x] УРОК 3-4 (Agreement of possessives and demonstratives with nouns) - https://wordwall.net/play/31711/219/559
-      - [ ] УРОК 3-5 (Country-national-adjective spelling) - https://wordwall.net/play/31699/043/908
+      - [x] УРОК 3-5 (Country-national-adjective spelling) - https://wordwall.net/play/31699/043/908
       - [x] УРОК 3-6 (Accusative case of personal pronouns) - https://wordwall.net/play/31711/472/477
-      - [ ] УРОК 3-7 (Family) - https://wordwall.net/play/31711/577/973
-      - [ ] УРОК 3-8 (Questions and answers) - https://wordwall.net/play/31875/319/654
-      - [ ] УРОК 3-9 (Numbers 1-20) - https://wordwall.net/play/31876/110/278
-      - [ ] УРОК 3-11 (Professions) - https://wordwall.net/play/31883/882/310
-      - [ ] УРОК 3-12 (Occupations) - https://wordwall.net/play/32150/781/533
+      - [x] УРОК 3-7 (Family) - https://wordwall.net/play/31711/577/973
+      - [x] УРОК 3-9 (Numbers 1-20) - https://wordwall.net/play/31876/110/278
+      - [x] УРОК 3-11 (Professions) - https://wordwall.net/play/31883/882/310
+      - [x] УРОК 3-12 (Occupations) - https://wordwall.net/play/32150/781/533
     - [ ] LOOK FORWARD => УРОК 5 (pages 96 - 114)
       - [ ] Listen, repeat, read everything - https://www.russianlanguagecentre.org/lesson-5-audio-files
       - [ ] Do exercises on the book
       - [ ] Do exercises - https://www.russianlanguagecentre.org/lesson-4-1
-  - [ ] Homework
+  - [x] Homework
       - [x] УРОК 3 revision exercises - RMC_-_Lesson_3.pdf, RMC_-_Lesson_3_-_The_Key.pdf
-      - [ ] We finished lesson 3 today and started lesson 4 (covered pp. 79-81).repeat
-      - [ ] Do ex. 4.2 (p. 80), ex. 4.4 (p. 81)
+      - [x] We finished lesson 3 today and started lesson 4 (covered pp. 79-81).repeat. https://www.russianlanguagecentre.org/new-page-1
+      - [x] Do ex. 4.2 (p. 80), ex. 4.4 (p. 81)
       - [x] Leaflets: PREPOSITIONAL_CASE.pdf, note-share-1720803928341.pdf
