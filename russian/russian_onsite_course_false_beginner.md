@@ -9,8 +9,8 @@ Support website: https://www.russianlanguagecentre.org and https://www.russianla
 See [**beginner course notes**](https://github.com/hlltarakci/my_small_world_of_curiosity/blob/main/russian/russian_onsite_course_beginner.md)
 
 - [ ] 🔂 [EXTRA] Take the online course again to see how comfortable i get at this point: [UDEMY: Learn Russian for Beginners: The Ultimate 100-Lesson Course (6.5 hours)](https://www.udemy.com/course/learn-russian-for-beginners/?couponCode=KEEPLEARNING)
-- [ ] **Week 11: Homework**
-  - [ ] Weekly Review
+- [x] 😊 **Week 11: Homework**
+  - [x] Weekly Review
     - [x] Introduction - Fast-repeat. (pages 13-29)
     - [x] УРОК 1 (pages 30-41)
       - [x] Listen, read everything - https://www.russianlanguagecentre.org/lesson-1-audio-files
@@ -24,10 +24,10 @@ See [**beginner course notes**](https://github.com/hlltarakci/my_small_world_of_
       - [x] Listen, read everything - https://www.russianlanguagecentre.org/new-page
       - [x] Do exercises - https://www.russianlanguagecentre.org/lesson-3
       - [x] See leaflets: PLURAL_OF_NOUNS.pdf, COUNTRIES-LANGUAGES.pdf, the gender of nouns, note-share-1719594635601.pdf, note-share-1719606066567.pdf, Russian_names.pdf
-    - [ ] УРОК 4 (pages 78 - 94 (we did until 82))
+    - [x] УРОК 4 (pages 78 - 94 (we did until 82)) + LOOK FORWARD
       - [x] Listen, read everything - https://www.russianlanguagecentre.org/new-page-1
-      - [ ] Do exercises on the book
-      - [ ] Do exercises - https://www.russianlanguagecentre.org/lesson-4
+      - [x] Do some of the exercises on the book
+      - [x] Do exercises - https://www.russianlanguagecentre.org/lesson-4
     - [x] Wordwall:
       - [x] УРОК 1-1 (First phrases) - https://wordwall.net/play/31683/726/686
       - [x] УРОК 1-2 (First vocabulary list) - https://wordwall.net/play/31684/109/266
@@ -53,10 +53,6 @@ See [**beginner course notes**](https://github.com/hlltarakci/my_small_world_of_
       - [x] УРОК 3-9 (Numbers 1-20) - https://wordwall.net/play/31876/110/278
       - [x] УРОК 3-11 (Professions) - https://wordwall.net/play/31883/882/310
       - [x] УРОК 3-12 (Occupations) - https://wordwall.net/play/32150/781/533
-    - [ ] LOOK FORWARD => УРОК 5 (pages 96 - 114)
-      - [ ] Listen, repeat, read everything - https://www.russianlanguagecentre.org/lesson-5-audio-files
-      - [ ] Do exercises on the book
-      - [ ] Do exercises - https://www.russianlanguagecentre.org/lesson-4-1
   - [x] Homework
       - [x] УРОК 3 revision exercises - RMC_-_Lesson_3.pdf, RMC_-_Lesson_3_-_The_Key.pdf
       - [x] We finished lesson 3 today and started lesson 4 (covered pp. 79-81).repeat. https://www.russianlanguagecentre.org/new-page-1
