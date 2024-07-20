@@ -521,6 +521,11 @@
 1. Bir avocadonun icini cikar. Yarim limon suyu + tuz + karabiber + pul biber ekle. Catalle ez.
 2. Kizarmis ekmegin uzerine yag. Biraz zaytinyagi gezdir.
 
+## Avocado-Egg Salad
+[<img src="avocado_egg_salad.jpg" width="500"/>](avocado_egg_salad.jpg)
+1. 1 avocado + 2 haslanmis yumurta -> dilimle, bir kapta zeytinyagi, tuz ve baharatla iyice karistir.
+
+
 ## Menemen (Turkish Scrambled Eggs With Tomatoes)
 [<img src="menemen.jpg" width="500"/>](menemen.jpg)
 1. 3 yemek kasigi zeytinyagini isit. 2 kucuk yesil carliston biberi ufak ufak dogra. Yag kizinca biraz kizart.
