@@ -466,6 +466,16 @@
 5. 175 derecede pisir
 6. Ilininca ortasina recel ekle, soguyunca servis yap.
 
+## Pasta with Spinach and Tomato Sauce
+[<img src="pasta_with_spinach_and_tomato_sauce.jpg" width="500"/>](pasta_with_spinach_and_tomato_sauce.jpg)
+
+1. Bir yanda makarna hasla.
+2. Diger yanda tavaya 1 yemek kasigi zeytinyagi, ince kiyilmis bir kuru sogan ve 1-2 dis sarimsak al. Bir cay kasigi tuz + yarim cay kasigi karabiber ekle. Pembelestir.
+3. Bir su bardagi domates sosu ekle. Biraz karistir. 2 mama kasigi kekik ekle. 1-2 kepce makarnanin suyundan ekle. Kaynat.
+4. 50 gram kadar ispanagi ince kiy, ekle, karistir.
+5. Bir su bardagi rendelenmis mozarella ekle. Sosla karistir.
+6. Suzulmus makarnalari da tavaya al, sosla karistir. Sicak servis et.
+
 ## Spinach Omelet
 [<img src="spinach_omelet.jpg" width="500"/>](spinach_omelet.jpg)
 1. Tavada 2 yemek kasigi zeytinyagini isit.
