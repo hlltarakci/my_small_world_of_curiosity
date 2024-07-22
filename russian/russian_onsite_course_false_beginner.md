@@ -112,12 +112,12 @@ See [**beginner course notes**](https://github.com/hlltarakci/my_small_world_of_
       - [ ] We covered pp. 80-85 and partly 86. Repeat.
       - [ ] ex. 4.10, ex. 4.11 (p. 85), conjugate the verbs in the green field on p. 86; ex. 4.12, ex. 4.13 (p. 86);
       - [ ] do exercises on RLC website - https://www.russianlanguagecentre.org/lesson-4
-      - [ ] Wordwall:
-        - [ ] УРОК 4-1 (Prepositional case) - https://wordwall.net/play/32047/956/213
-        - [ ] УРОК 4-2 (Prepositional case) - https://wordwall.net/play/32048/578/463
-        - [ ] УРОК 4-3 (Verbs - the meaning) - https://wordwall.net/play/32050/476/968
-        - [ ] УРОК 4-4 (Present tense of verbs) https://wordwall.net/play/32966/484/908
-        - [ ] УРОК 4-4 (Present tense of verbs) (different) - https://wordwall.net/resource/32966359/%d1%83%d1%80%d0%be%d0%ba-4-4-present-tense-of-verbs
+      - [x] Wordwall:
+        - [x] УРОК 4-1 (Prepositional case) - https://wordwall.net/play/32047/956/213
+        - [x] УРОК 4-2 (Prepositional case) - https://wordwall.net/play/32048/578/463
+        - [x] УРОК 4-3 (Verbs - the meaning) - https://wordwall.net/play/32050/476/968
+        - [x] УРОК 4-4 (Present tense of verbs) https://wordwall.net/play/32966/484/908
+        - [x] УРОК 4-4 (Present tense of verbs) (different) - https://wordwall.net/resource/32966359/%d1%83%d1%80%d0%be%d0%ba-4-4-present-tense-of-verbs
       - [ ] Go over leaflet: note-share-1721408770186.pdf
    - [ ] LOOK FORWARD: УРОК 5 (pages 96 - 114)	
       - [ ] Listen, repeat, read everything - https://www.russianlanguagecentre.org/lesson-5-audio-files	
