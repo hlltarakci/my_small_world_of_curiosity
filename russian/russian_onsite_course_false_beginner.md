@@ -109,8 +109,8 @@ See [**beginner course notes**](https://github.com/hlltarakci/my_small_world_of_
       - [ ] УРОК 4-4 (Present tense of verbs) https://wordwall.net/play/32966/484/908
       - [ ] УРОК 4-4 (Present tense of verbs) (different) - https://wordwall.net/resource/32966359/%d1%83%d1%80%d0%be%d0%ba-4-4-present-tense-of-verbs
   - [ ] Homework
-      - [ ] We covered pp. 80-85 and partly 86. Repeat.
-      - [ ] ex. 4.10, ex. 4.11 (p. 85), conjugate the verbs in the green field on p. 86; ex. 4.12, ex. 4.13 (p. 86);
+      - [x] We covered pp. 80-85 and partly 86. Repeat. - https://www.russianlanguagecentre.org/new-page-1
+      - [x] ex. 4.10, ex. 4.11 (p. 85), conjugate the verbs in the green field on p. 86; ex. 4.12, ex. 4.13 (p. 86);
       - [ ] do exercises on RLC website - https://www.russianlanguagecentre.org/lesson-4
       - [x] Wordwall:
         - [x] УРОК 4-1 (Prepositional case) - https://wordwall.net/play/32047/956/213
