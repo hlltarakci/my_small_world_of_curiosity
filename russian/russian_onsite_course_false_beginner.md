@@ -78,6 +78,7 @@ See [**beginner course notes**](https://github.com/hlltarakci/my_small_world_of_
       - [ ] Write dialogs and vocab - https://www.russianlanguagecentre.org/new-page-1
       - [ ] Do the exercises on the book
       - [ ] Do exercises - https://www.russianlanguagecentre.org/lesson-4
+      - [ ] Review leaflets: PREPOSITIONAL_CASE.pdf, note-share-1721408770186.pdf
     - [ ] Wordwall:
       - [ ] УРОК 1-1 (First phrases) - https://wordwall.net/play/31683/726/686
       - [ ] УРОК 1-2 (First vocabulary list) - https://wordwall.net/play/31684/109/266
@@ -118,7 +119,7 @@ See [**beginner course notes**](https://github.com/hlltarakci/my_small_world_of_
         - [x] УРОК 4-3 (Verbs - the meaning) - https://wordwall.net/play/32050/476/968
         - [x] УРОК 4-4 (Present tense of verbs) https://wordwall.net/play/32966/484/908
         - [x] УРОК 4-4 (Present tense of verbs) (different) - https://wordwall.net/resource/32966359/%d1%83%d1%80%d0%be%d0%ba-4-4-present-tense-of-verbs
-      - [ ] Go over leaflet: note-share-1721408770186.pdf
+      - [x] Go over leaflet: note-share-1721408770186.pdf
    - [ ] LOOK FORWARD: УРОК 5 (pages 96 - 114)	
       - [ ] Listen, repeat, read everything - https://www.russianlanguagecentre.org/lesson-5-audio-files	
       - [ ] Do exercises on the book	
