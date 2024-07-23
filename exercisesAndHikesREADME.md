@@ -23,7 +23,7 @@
 - [ ] [Week 3](https://www.youtube.com/playlist?list=PLipSZg1JNsC8wIkTQ6u8V_wJyD9owWWzO)
   - [x] [40 MIN FULL BODY WORKOUT || At-Home Pilates](https://www.youtube.com/watch?v=0zjiVQ950EE&list=PLipSZg1JNsC8wIkTQ6u8V_wJyD9owWWzO&index=1)
   - [ ] [30 MIN PILATES YOGA WORKOUT || Full Body Stretch & Strengthen](https://www.youtube.com/watch?v=NJU8dcCacRY&list=PLipSZg1JNsC8wIkTQ6u8V_wJyD9owWWzO&index=2)
-  - [ ] [20 MIN PILATES CARDIO & ABS || Low Impact Workout (Stretch Included)](https://www.youtube.com/watch?v=1jZVEqgeO4U&list=PLipSZg1JNsC8wIkTQ6u8V_wJyD9owWWzO&index=3)
+  - [x] [20 MIN PILATES CARDIO & ABS || Low Impact Workout (Stretch Included)](https://www.youtube.com/watch?v=1jZVEqgeO4U&list=PLipSZg1JNsC8wIkTQ6u8V_wJyD9owWWzO&index=3)
   - [ ] [35 MIN FULL BODY WORKOUT || Intermediate Pilates (Mini Resistance Band)](https://www.youtube.com/watch?v=_xpqApNa-QE&list=PLipSZg1JNsC8wIkTQ6u8V_wJyD9owWWzO&index=4)
   - [x] [20 MIN GENTLE YOGA FLOW || Relaxing Flow to Stretch & Feel Good](https://www.youtube.com/watch?v=8cltCOUpYTQ&list=PLipSZg1JNsC8wIkTQ6u8V_wJyD9owWWzO&index=5)
   - [x] [10 MIN CARDIO & ABS WORKOUT || No Equipment](https://www.youtube.com/watch?v=koGiHes8DcM&list=PLipSZg1JNsC8wIkTQ6u8V_wJyD9owWWzO&index=6)
