@@ -60,19 +60,20 @@ See [**beginner course notes**](https://github.com/hlltarakci/my_small_world_of_
       - [x] Leaflets: PREPOSITIONAL_CASE.pdf, note-share-1720803928341.pdf
 - [ ] **Week 12: Homework**
   - [ ] Weekly Review
-    - [ ] Introduction - Fast-repeat. (pages 13-29)
-    - [ ] УРОК 1 (pages 30-41)
-      - [ ] Listen, read everything - https://www.russianlanguagecentre.org/lesson-1-audio-files
-      - [ ] Do exercises: https://www.russianlanguagecentre.org/lesson-1
-      - [ ] Fast repeat revision exercises on lesson 1 (leaflet)
-    - [ ] УРОК 2 (pages 42-60)
-      - [ ] Listen, read everything - https://www.russianlanguagecentre.org/lesson-2-audio-files
-      - [ ] Do exercises: https://www.russianlanguagecentre.org/lesson-2
-      - [ ] Fast repeat revision exercises on lesson 2 (RMC_-_Lesson_2.pdf, RMC_-_Lesson_2_-_The_Key.pdf)
-    - [ ] УРОК 3 (pages 62-76)
-      - [ ] Listen, read everything - https://www.russianlanguagecentre.org/new-page
-      - [ ] Do exercises - https://www.russianlanguagecentre.org/lesson-3
-      - [ ] See leaflets: PLURAL_OF_NOUNS.pdf, COUNTRIES-LANGUAGES.pdf, the gender of nouns, note-share-1719594635601.pdf, note-share-1719606066567.pdf, Russian_names.pdf
+    - [x] Introduction - Fast-repeat. (pages 13-29)
+    - [x] УРОК 1 (pages 30-41)
+      - [x] Listen, read everything - https://www.russianlanguagecentre.org/lesson-1-audio-files
+      - [x] Do exercises: https://www.russianlanguagecentre.org/lesson-1
+      - [x] Fast repeat revision exercises on lesson 1 (leaflet)
+    - [x] УРОК 2 (pages 42-60)
+      - [x] Listen, read everything - https://www.russianlanguagecentre.org/lesson-2-audio-files
+      - [x] Do exercises: https://www.russianlanguagecentre.org/lesson-2
+      - [x] Fast repeat revision exercises on lesson 2 (RMC_-_Lesson_2.pdf, RMC_-_Lesson_2_-_The_Key.pdf)
+    - [x] УРОК 3 (pages 62-76)
+      - [x] Listen, read everything - https://www.russianlanguagecentre.org/new-page (p375 irregular plural list)
+      - [x] Do exercises - https://www.russianlanguagecentre.org/lesson-3
+      - [x] Fast repeat revision exercises on lesson 3 (RMC_-_Lesson_3.pdf, RMC_-_Lesson_3_-_The_Key.pdf)
+      - [x] See leaflets: PLURAL_OF_NOUNS.pdf, COUNTRIES-LANGUAGES.pdf, the gender of nouns, note-share-1719594635601.pdf, note-share-1719606066567.pdf, Russian_names.pdf
     - [ ] УРОК 4 (pages 78-94)
       - [ ] Listen, read everything - https://www.russianlanguagecentre.org/new-page-1
       - [ ] Write dialogs and vocab - https://www.russianlanguagecentre.org/new-page-1
