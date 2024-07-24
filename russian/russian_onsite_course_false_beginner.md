@@ -59,7 +59,7 @@ See [**beginner course notes**](https://github.com/hlltarakci/my_small_world_of_
       - [x] Do ex. 4.2 (p. 80), ex. 4.4 (p. 81)
       - [x] Leaflets: PREPOSITIONAL_CASE.pdf, note-share-1720803928341.pdf
 - [ ] **Week 12: Homework**
-  - [ ] Weekly Review
+  - [x] Weekly Review
     - [x] Introduction - Fast-repeat. (pages 13-29)
     - [x] УРОК 1 (pages 30-41)
       - [x] Listen, read everything - https://www.russianlanguagecentre.org/lesson-1-audio-files
@@ -74,13 +74,12 @@ See [**beginner course notes**](https://github.com/hlltarakci/my_small_world_of_
       - [x] Do exercises - https://www.russianlanguagecentre.org/lesson-3
       - [x] Fast repeat revision exercises on lesson 3 (RMC_-_Lesson_3.pdf, RMC_-_Lesson_3_-_The_Key.pdf)
       - [x] See leaflets: PLURAL_OF_NOUNS.pdf, COUNTRIES-LANGUAGES.pdf, the gender of nouns, note-share-1719594635601.pdf, note-share-1719606066567.pdf, Russian_names.pdf
-    - [ ] УРОК 4 (pages 78-94)
-      - [ ] Listen, read everything - https://www.russianlanguagecentre.org/new-page-1
-      - [ ] Write dialogs and vocab - https://www.russianlanguagecentre.org/new-page-1
-      - [ ] Do the exercises on the book
-      - [ ] Do exercises - https://www.russianlanguagecentre.org/lesson-4
-      - [ ] Review leaflets: PREPOSITIONAL_CASE.pdf, note-share-1721408770186.pdf
-    - [ ] Wordwall:
+    - [x] УРОК 4 (pages 78-94 (review until page 88, rest is look forward))
+      - [x] Listen, read everything - https://www.russianlanguagecentre.org/new-page-1
+      - [x] Do the exercises on the book
+      - [x] Do exercises - https://www.russianlanguagecentre.org/lesson-4
+      - [x] Review leaflets: PREPOSITIONAL_CASE.pdf, note-share-1721408770186.pdf
+    - [x] Wordwall:
       - [x] УРОК 1-1 (First phrases) - https://wordwall.net/play/31683/726/686
       - [x] УРОК 1-2 (First vocabulary list) - https://wordwall.net/play/31684/109/266
       - [x] УРОК 1-3 (Personal pronouns) - я мы ты вы он онá онó они
@@ -95,25 +94,25 @@ See [**beginner course notes**](https://github.com/hlltarakci/my_small_world_of_
       - [x] УРОК 2-8 (Lesson 2 vocabulary list) - https://wordwall.net/resource/31710966/%d1%83%d1%80%d0%be%d0%ba-2-8-lesson-2-vocabulary-list
       - [x] УРОК 2-9 (Lesson 2 vocabulary list) - https://wordwall.net/play/33166/975/101
       - [x] УРОК 2-10 (Lesson 2 vocabulary list) - https://wordwall.net/play/33789/950/714
-      - [ ] УРОК 3-1 (Plural of nouns) - https://wordwall.net/play/31693/580/940
-      - [ ] УРОК 3-2 (Singular and Plural of possessives and demonstratives) - https://wordwall.net/play/31696/599/941
-      - [ ] УРОК 3-3 (Possessives) - https://wordwall.net/play/31698/680/599
-      - [ ] УРОК 3-4 (Agreement of possessives and demonstratives with nouns) - https://wordwall.net/play/31711/219/559
-      - [ ] УРОК 3-5 (Country-national-adjective spelling) - https://wordwall.net/play/31699/043/908
-      - [ ] УРОК 3-6 (Accusative case of personal pronouns) - https://wordwall.net/play/31711/472/477
-      - [ ] УРОК 3-7 (Family) - https://wordwall.net/play/31711/577/973
-      - [ ] УРОК 3-9 (Numbers 1-20) - https://wordwall.net/play/31876/110/278
-      - [ ] УРОК 3-11 (Professions) - https://wordwall.net/play/31883/882/310
-      - [ ] УРОК 3-12 (Occupations) - https://wordwall.net/play/32150/781/533
-      - [ ] УРОК 4-1 (Prepositional case) - https://wordwall.net/play/32047/956/213
-      - [ ] УРОК 4-2 (Prepositional case) - https://wordwall.net/play/32048/578/463
-      - [ ] УРОК 4-3 (Verbs - the meaning) - https://wordwall.net/play/32050/476/968
-      - [ ] УРОК 4-4 (Present tense of verbs) https://wordwall.net/play/32966/484/908
-      - [ ] УРОК 4-4 (Present tense of verbs) (different) - https://wordwall.net/resource/32966359/%d1%83%d1%80%d0%be%d0%ba-4-4-present-tense-of-verbs
-  - [ ] Homework
+      - [x] УРОК 3-1 (Plural of nouns) - https://wordwall.net/play/31693/580/940
+      - [x] УРОК 3-2 (Singular and Plural of possessives and demonstratives) - https://wordwall.net/play/31696/599/941
+      - [x] УРОК 3-3 (Possessives) - https://wordwall.net/play/31698/680/599
+      - [x] УРОК 3-4 (Agreement of possessives and demonstratives with nouns) - https://wordwall.net/play/31711/219/559
+      - [x] УРОК 3-5 (Country-national-adjective spelling) - https://wordwall.net/play/31699/043/908
+      - [x] УРОК 3-6 (Accusative case of personal pronouns) - https://wordwall.net/play/31711/472/477
+      - [x] УРОК 3-7 (Family) - https://wordwall.net/play/31711/577/973
+      - [x] УРОК 3-9 (Numbers 1-20) - https://wordwall.net/play/31876/110/278
+      - [x] УРОК 3-11 (Professions) - https://wordwall.net/play/31883/882/310
+      - [x] УРОК 3-12 (Occupations) - https://wordwall.net/play/32150/781/533
+      - [x] УРОК 4-1 (Prepositional case) - https://wordwall.net/play/32047/956/213
+      - [x] УРОК 4-2 (Prepositional case) - https://wordwall.net/play/32048/578/463
+      - [x] УРОК 4-3 (Verbs - the meaning) - https://wordwall.net/play/32050/476/968
+      - [x] УРОК 4-4 (Present tense of verbs) https://wordwall.net/play/32966/484/908
+      - [x] УРОК 4-4 (Present tense of verbs) (different) - https://wordwall.net/resource/32966359/%d1%83%d1%80%d0%be%d0%ba-4-4-present-tense-of-verbs
+  - [x] Homework
       - [x] We covered pp. 80-85 and partly 86. Repeat. - https://www.russianlanguagecentre.org/new-page-1
       - [x] ex. 4.10, ex. 4.11 (p. 85), conjugate the verbs in the green field on p. 86; ex. 4.12, ex. 4.13 (p. 86);
-      - [ ] do exercises on RLC website - https://www.russianlanguagecentre.org/lesson-4
+      - [x] do exercises on RLC website - https://www.russianlanguagecentre.org/lesson-4
       - [x] Wordwall:
         - [x] УРОК 4-1 (Prepositional case) - https://wordwall.net/play/32047/956/213
         - [x] УРОК 4-2 (Prepositional case) - https://wordwall.net/play/32048/578/463
@@ -121,9 +120,9 @@ See [**beginner course notes**](https://github.com/hlltarakci/my_small_world_of_
         - [x] УРОК 4-4 (Present tense of verbs) https://wordwall.net/play/32966/484/908
         - [x] УРОК 4-4 (Present tense of verbs) (different) - https://wordwall.net/resource/32966359/%d1%83%d1%80%d0%be%d0%ba-4-4-present-tense-of-verbs
       - [x] Go over leaflet: note-share-1721408770186.pdf
-   - [ ] LOOK FORWARD: УРОК 5 (pages 96 - 114)	
-      - [ ] Listen, repeat, read everything - https://www.russianlanguagecentre.org/lesson-5-audio-files	
+   - [ ] LOOK FORWARD: Complete УРОК 4 (pages 78-94)
+      - [ ] Listen, repeat, read everything - https://www.russianlanguagecentre.org/new-page-1
       - [ ] Do exercises on the book	
-      - [ ] Do exercises - https://www.russianlanguagecentre.org/lesson-4-1
+      - [ ] Do exercises - https://www.russianlanguagecentre.org/lesson-4
         
 
