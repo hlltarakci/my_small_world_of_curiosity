@@ -121,9 +121,9 @@ See [**beginner course notes**](https://github.com/hlltarakci/my_small_world_of_
         - [x] УРОК 4-4 (Present tense of verbs) (different) - https://wordwall.net/resource/32966359/%d1%83%d1%80%d0%be%d0%ba-4-4-present-tense-of-verbs
       - [x] Go over leaflet: note-share-1721408770186.pdf
    - [ ] LOOK FORWARD: Complete УРОК 4 (pages 78-94)
-      - [ ] Listen, repeat, read everything - https://www.russianlanguagecentre.org/new-page-1
+      - [x] Listen, repeat, read everything - https://www.russianlanguagecentre.org/new-page-1
       - [ ] Do exercises on the book	
-      - [ ] Do exercises - https://www.russianlanguagecentre.org/lesson-4
+      - [x] Do exercises - https://www.russianlanguagecentre.org/lesson-4
    - 😊 EXTRA
       - [x] [Basic Russian 1: Introduction to Verb Conjugation](https://www.youtube.com/watch?v=wJxi8oYEYP8) - https://www.amazingrussian.com/
       - [ ] [Basic Russian 1: Adjective Endings. Adjective-noun Agreement](https://www.youtube.com/watch?v=G9pm5AJCw1s) - https://www.amazingrussian.com/
