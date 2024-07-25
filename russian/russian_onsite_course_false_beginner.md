@@ -124,5 +124,8 @@ See [**beginner course notes**](https://github.com/hlltarakci/my_small_world_of_
       - [ ] Listen, repeat, read everything - https://www.russianlanguagecentre.org/new-page-1
       - [ ] Do exercises on the book	
       - [ ] Do exercises - https://www.russianlanguagecentre.org/lesson-4
+   - 😊 EXTRA
+      - [x] [Basic Russian 1: Introduction to Verb Conjugation](https://www.youtube.com/watch?v=wJxi8oYEYP8) - https://www.amazingrussian.com/
+      - [ ] [Basic Russian 1: Adjective Endings. Adjective-noun Agreement](https://www.youtube.com/watch?v=G9pm5AJCw1s) - https://www.amazingrussian.com/
         
 
