@@ -8,6 +8,7 @@ Support website: https://www.russianlanguagecentre.org and https://www.russianla
 
 See [**beginner course notes**](https://github.com/hlltarakci/my_small_world_of_curiosity/blob/main/russian/russian_onsite_course_beginner.md)
 
+# 🌟 Russian Homework Tracker
 - [ ] 🔂 [EXTRA] Take the online course again to see how comfortable i get at this point: [UDEMY: Learn Russian for Beginners: The Ultimate 100-Lesson Course (6.5 hours)](https://www.udemy.com/course/learn-russian-for-beginners/?couponCode=KEEPLEARNING)
 - [x] 😊 **Week 11: Homework**
   - [x] Weekly Review
@@ -120,21 +121,75 @@ See [**beginner course notes**](https://github.com/hlltarakci/my_small_world_of_
         - [x] УРОК 4-4 (Present tense of verbs) https://wordwall.net/play/32966/484/908
         - [x] УРОК 4-4 (Present tense of verbs) (different) - https://wordwall.net/resource/32966359/%d1%83%d1%80%d0%be%d0%ba-4-4-present-tense-of-verbs
       - [x] Go over leaflet: note-share-1721408770186.pdf
-   - [x] LOOK FORWARD: Complete УРОК 4 (pages 78-94)
+  - [x] LOOK FORWARD: Complete УРОК 4 (pages 78-94)
       - [x] Listen, repeat, read everything - https://www.russianlanguagecentre.org/new-page-1
       - [x] Do exercises on the book (*apart from last few translation exercises, there are many*)
       - [x] Do exercises - https://www.russianlanguagecentre.org/lesson-4
-- 😊 EXTRA
-    - [x] [Basic Russian 1: Introduction to Verb Conjugation](https://www.youtube.com/watch?v=wJxi8oYEYP8) - https://www.amazingrussian.com/
-    - [ ] [Basic Russian 1: Adjective Endings. Adjective-noun Agreement](https://www.youtube.com/watch?v=G9pm5AJCw1s) - https://www.amazingrussian.com/
-    - [x] [Basic Russian 1: Plural Forms of Nouns](https://www.youtube.com/watch?v=fK_OqJ85kck) - https://www.amazingrussian.com/
-    - [x] [Basic Russian 1: Personal Pronouns](https://www.youtube.com/watch?v=XDJWEUdzS6M) - https://www.amazingrussian.com/
-    - [ ] [Basic Russian 1: Grammatical Gender of Nouns](https://www.youtube.com/watch?v=IOyUbcK2g4k) - https://www.amazingrussian.com/
-    - [ ] [Basic Russian 1: Possessives and Questions with WHOSE (ЧЕЙ?)](https://www.youtube.com/watch?v=QQ2b4a2G7L0) - https://www.amazingrussian.com/
-    - [ ] [Basic Russian 1: First Adjectives](https://www.youtube.com/watch?v=NAfGZSpaVy0) - https://www.amazingrussian.com/
+- [ ] **Неделя 13: Домашнее задание по русскому языку**
+  - [ ] Weekly Review
+    - [ ] Introduction - Fast-repeat. (pages 13-29)
+    - [ ] УРОК 1 (pages 30-41)
+      - [ ] Listen, read everything - https://www.russianlanguagecentre.org/lesson-1-audio-files
+      - [ ] Do exercises: https://www.russianlanguagecentre.org/lesson-1
+      - [ ] Fast repeat revision exercises on lesson 1 (leaflet)
+    - [ ] УРОК 2 (pages 42-60)
+      - [ ] Listen, read everything - https://www.russianlanguagecentre.org/lesson-2-audio-files
+      - [ ] Do exercises: https://www.russianlanguagecentre.org/lesson-2
+      - [ ] Fast repeat revision exercises on lesson 2 (RMC_-_Lesson_2.pdf, RMC_-_Lesson_2_-_The_Key.pdf)
+    - [ ] УРОК 3 (pages 62-76)
+      - [ ] Listen, read everything - https://www.russianlanguagecentre.org/new-page (p375 irregular plural list)
+      - [ ] Do exercises - https://www.russianlanguagecentre.org/lesson-3
+      - [ ] Fast repeat revision exercises on lesson 3 (RMC_-_Lesson_3.pdf, RMC_-_Lesson_3_-_The_Key.pdf)
+      - [ ] See leaflets: PLURAL_OF_NOUNS.pdf, COUNTRIES-LANGUAGES.pdf, the gender of nouns, note-share-1719594635601.pdf, note-share-1719606066567.pdf, Russian_names.pdf
+    - [ ] УРОК 4 (pages 78-94)
+      - [ ] Listen, read everything - https://www.russianlanguagecentre.org/new-page-1
+      - [ ] Do the exercises on the book
+      - [ ] Do exercises - https://www.russianlanguagecentre.org/lesson-4
+      - [ ] Review leaflets: PREPOSITIONAL_CASE.pdf, note-share-1721408770186.pdf
+    - [ ] Wordwall:
+      - [ ] УРОК 1-1 (First phrases) - https://wordwall.net/play/31683/726/686
+      - [ ] УРОК 1-2 (First vocabulary list) - https://wordwall.net/play/31684/109/266
+      - [ ] УРОК 1-3 (Personal pronouns) - я мы ты вы он онá онó они
+      - [ ] УРОК 1-4 (Occupations short list) - https://wordwall.net/play/31684/746/160
+      - [ ] УРОК 2-1 (Genders of nouns) - https://wordwall.net/play/31684/953/507
+      - [ ] УРОК 2-2 (Places in town) - https://wordwall.net/play/33167/097/790
+      - [ ] УРОК 2-3 (Survival expressions) - https://wordwall.net/play/31685/540/757
+      - [ ] УРОК 2-4 (Word order in sentences) https://wordwall.net/play/31685/734/363
+      - [ ] УРОК 2-5 (Demonstratives) - https://wordwall.net/play/31685/997/962
+      - [ ] УРОК 2-6 (Possesives) - https://wordwall.net/play/31691/880/263
+      - [ ] УРОК 2-7 (Gender of adjectives) - https://wordwall.net/play/31692/609/897
+      - [ ] УРОК 2-8 (Lesson 2 vocabulary list) - https://wordwall.net/resource/31710966/%d1%83%d1%80%d0%be%d0%ba-2-8-lesson-2-vocabulary-list
+      - [ ] УРОК 2-9 (Lesson 2 vocabulary list) - https://wordwall.net/play/33166/975/101
+      - [ ] УРОК 2-10 (Lesson 2 vocabulary list) - https://wordwall.net/play/33789/950/714
+      - [ ] УРОК 3-1 (Plural of nouns) - https://wordwall.net/play/31693/580/940
+      - [ ] УРОК 3-2 (Singular and Plural of possessives and demonstratives) - https://wordwall.net/play/31696/599/941
+      - [ ] УРОК 3-3 (Possessives) - https://wordwall.net/play/31698/680/599
+      - [ ] УРОК 3-4 (Agreement of possessives and demonstratives with nouns) - https://wordwall.net/play/31711/219/559
+      - [ ] УРОК 3-5 (Country-national-adjective spelling) - https://wordwall.net/play/31699/043/908
+      - [ ] УРОК 3-6 (Accusative case of personal pronouns) - https://wordwall.net/play/31711/472/477
+      - [ ] УРОК 3-7 (Family) - https://wordwall.net/play/31711/577/973
+      - [ ] УРОК 3-9 (Numbers 1-20) - https://wordwall.net/play/31876/110/278
+      - [ ] УРОК 3-11 (Professions) - https://wordwall.net/play/31883/882/310
+      - [ ] УРОК 3-12 (Occupations) - https://wordwall.net/play/32150/781/533
+      - [ ] УРОК 4-1 (Prepositional case) - https://wordwall.net/play/32047/956/213
+      - [ ] УРОК 4-2 (Prepositional case) - https://wordwall.net/play/32048/578/463
+      - [ ] УРОК 4-3 (Verbs - the meaning) - https://wordwall.net/play/32050/476/968
+      - [ ] УРОК 4-4 (Present tense of verbs) https://wordwall.net/play/32966/484/908
+      - [ ] УРОК 4-4 (Present tense of verbs) (different) - https://wordwall.net/resource/32966359/%d1%83%d1%80%d0%be%d0%ba-4-4-present-tense-of-verbs
+  - [ ] Homework
+  - [ ] LOOK FORWARD
+
+# 😊 EXTRA
+- [x] [Basic Russian 1: Introduction to Verb Conjugation](https://www.youtube.com/watch?v=wJxi8oYEYP8) - https://www.amazingrussian.com/
+- [ ] [Basic Russian 1: Adjective Endings. Adjective-noun Agreement](https://www.youtube.com/watch?v=G9pm5AJCw1s) - https://www.amazingrussian.com/
+- [x] [Basic Russian 1: Plural Forms of Nouns](https://www.youtube.com/watch?v=fK_OqJ85kck) - https://www.amazingrussian.com/
+- [x] [Basic Russian 1: Personal Pronouns](https://www.youtube.com/watch?v=XDJWEUdzS6M) - https://www.amazingrussian.com/
+- [ ] [Basic Russian 1: Grammatical Gender of Nouns](https://www.youtube.com/watch?v=IOyUbcK2g4k) - https://www.amazingrussian.com/
+- [ ] [Basic Russian 1: Possessives and Questions with WHOSE (ЧЕЙ?)](https://www.youtube.com/watch?v=QQ2b4a2G7L0) - https://www.amazingrussian.com/
+- [ ] [Basic Russian 1: First Adjectives](https://www.youtube.com/watch?v=NAfGZSpaVy0) - https://www.amazingrussian.com/
         
 
-# Backlog
+# 🚀 BACKLOG
 - [ ] [Playlist - Super Easy Russian - Russian for beginners](https://www.youtube.com/playlist?list=PLA5UIoabheFMRV-A92wr5G4lJZCx-ITMd) - *has both russian and english subtitles :)*
 - [ ] [Playlist - Easy Russian - street interviews and more](https://www.youtube.com/playlist?list=PLxRXPwbJodj_ter_1MAr7sGW1kkc1sZQN) - *has both russian and english subtitles :)*
 - [Russian Level 1](https://www.youtube.com/@RussianLevel1/videos)
