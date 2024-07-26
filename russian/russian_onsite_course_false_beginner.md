@@ -135,6 +135,8 @@ See [**beginner course notes**](https://github.com/hlltarakci/my_small_world_of_
         
 
 # Backlog
+- [ ] [Playlist - Super Easy Russian - Russian for beginners](https://www.youtube.com/playlist?list=PLA5UIoabheFMRV-A92wr5G4lJZCx-ITMd) - *has both russian and english subtitles :)*
+- [ ] [Playlist - Easy Russian - street interviews and more](https://www.youtube.com/playlist?list=PLxRXPwbJodj_ter_1MAr7sGW1kkc1sZQN) - *has both russian and english subtitles :)*
 - [Russian Level 1](https://www.youtube.com/@RussianLevel1/videos)
     - [ ] [Russian Reading Playlist (Slow & Easy)](https://www.youtube.com/playlist?list=PL9OVcuPQUHuP2iTKtLy-HjCG5SJFB6jtg) 
       - [x] [фруктовый пирог](https://www.youtube.com/watch?v=qi_VMYmFhog) *1.listen 2.listen,learn translation 3.read outloud,listen 4.write,read outloud,listen 5.read outloud,listen 6.listen*
