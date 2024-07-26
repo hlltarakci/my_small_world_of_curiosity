@@ -168,4 +168,17 @@ See [**beginner course notes**](https://github.com/hlltarakci/my_small_world_of_
              - [x] [**At the Restaurant Conversation, Learn Russian**](https://www.youtube.com/watch?v=fC6YwggPNZQ&list=PLtB2jErS8LTteUuphcIUN7X-QUSHIEjKF&index=3)
          - [In Russian From Afar](https://www.youtube.com/@InRussianFromAfar/videos)
              - [ ] [Started Learning Russian? Watch This! Super Easy Story about Gopnik Fedya | Level A1](https://www.youtube.com/watch?v=IQmVidaTgr8)
-
+- Cheatsheats
+    - [Alphabet cheatsheet](https://github.com/hlltarakci/my_small_world_of_curiosity/blob/main/russian/%D0%90%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82_cursive_cheatsheet.png) 
+    - Vocabulary  
+         - [Regular vocabulary cheatsheet](https://github.com/hlltarakci/my_small_world_of_curiosity/blob/main/russian/russian_vocabulary_cheatsheet.pdf)
+         - [Beginners cheatsheet](https://github.com/hlltarakci/my_small_world_of_curiosity/blob/main/russian/russian_beginners_cheatsheet.pdf)
+         - [Cases cheatsheet](https://github.com/hlltarakci/my_small_world_of_curiosity/blob/main/russian/russian_cases_cheatsheet.pdf)
+         - [Prepositions cheatsheet](https://github.com/hlltarakci/my_small_world_of_curiosity/blob/main/russian/russian_prepositions_cheatsheet.pdf)
+         - [Pronouns cheatsheet](https://github.com/hlltarakci/my_small_world_of_curiosity/blob/main/russian/russian_pronouns_cheatsheet.jpg)
+         - [Question words cheatsheet](https://github.com/hlltarakci/my_small_world_of_curiosity/blob/main/russian/russian_question_words_cheatsheet.png)
+    - Course Notes
+         - [Russian course cheatsheet - 1](https://github.com/hlltarakci/my_small_world_of_curiosity/blob/main/russian/russian_course_cheatsheet_1.md)
+         - [Russian course cheatsheet - 2](https://github.com/hlltarakci/my_small_world_of_curiosity/blob/main/russian/russian_course_cheatsheet_2.md)
+- Practices
+    - [Listen to Russian sentences/conversations, practice in general](https://github.com/hlltarakci/my_small_world_of_curiosity/blob/main/russian/practice_russian.md)
