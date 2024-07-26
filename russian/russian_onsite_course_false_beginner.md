@@ -58,7 +58,7 @@ See [**beginner course notes**](https://github.com/hlltarakci/my_small_world_of_
       - [x] We finished lesson 3 today and started lesson 4 (covered pp. 79-81).repeat. https://www.russianlanguagecentre.org/new-page-1
       - [x] Do ex. 4.2 (p. 80), ex. 4.4 (p. 81)
       - [x] Leaflets: PREPOSITIONAL_CASE.pdf, note-share-1720803928341.pdf
-- [ ] **Week 12: Homework**
+- [x] 😊 **Week 12: Homework**
   - [x] Weekly Review
     - [x] Introduction - Fast-repeat. (pages 13-29)
     - [x] УРОК 1 (pages 30-41)
@@ -120,12 +120,17 @@ See [**beginner course notes**](https://github.com/hlltarakci/my_small_world_of_
         - [x] УРОК 4-4 (Present tense of verbs) https://wordwall.net/play/32966/484/908
         - [x] УРОК 4-4 (Present tense of verbs) (different) - https://wordwall.net/resource/32966359/%d1%83%d1%80%d0%be%d0%ba-4-4-present-tense-of-verbs
       - [x] Go over leaflet: note-share-1721408770186.pdf
-   - [ ] LOOK FORWARD: Complete УРОК 4 (pages 78-94)
+   - [x] LOOK FORWARD: Complete УРОК 4 (pages 78-94)
       - [x] Listen, repeat, read everything - https://www.russianlanguagecentre.org/new-page-1
-      - [ ] Do exercises on the book	
+      - [x] Do exercises on the book (*apart from last few translation exercises, there are many*)
       - [x] Do exercises - https://www.russianlanguagecentre.org/lesson-4
-   - 😊 EXTRA
-      - [x] [Basic Russian 1: Introduction to Verb Conjugation](https://www.youtube.com/watch?v=wJxi8oYEYP8) - https://www.amazingrussian.com/
-      - [ ] [Basic Russian 1: Adjective Endings. Adjective-noun Agreement](https://www.youtube.com/watch?v=G9pm5AJCw1s) - https://www.amazingrussian.com/
+- 😊 EXTRA
+    - [x] [Basic Russian 1: Introduction to Verb Conjugation](https://www.youtube.com/watch?v=wJxi8oYEYP8) - https://www.amazingrussian.com/
+    - [ ] [Basic Russian 1: Adjective Endings. Adjective-noun Agreement](https://www.youtube.com/watch?v=G9pm5AJCw1s) - https://www.amazingrussian.com/
+    - [x] [Basic Russian 1: Plural Forms of Nouns](https://www.youtube.com/watch?v=fK_OqJ85kck) - https://www.amazingrussian.com/
+    - [x] [Basic Russian 1: Personal Pronouns](https://www.youtube.com/watch?v=XDJWEUdzS6M) - https://www.amazingrussian.com/
+    - [ ] [Basic Russian 1: Grammatical Gender of Nouns](https://www.youtube.com/watch?v=IOyUbcK2g4k) - https://www.amazingrussian.com/
+    - [ ] [Basic Russian 1: Possessives and Questions with WHOSE (ЧЕЙ?)](https://www.youtube.com/watch?v=QQ2b4a2G7L0) - https://www.amazingrussian.com/
+    - [ ] [Basic Russian 1: First Adjectives](https://www.youtube.com/watch?v=NAfGZSpaVy0) - https://www.amazingrussian.com/
         
 
