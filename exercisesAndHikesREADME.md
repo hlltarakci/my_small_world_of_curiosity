@@ -20,9 +20,9 @@
   - [x] [30 MIN YOGA STRETCH || Feel Good Flexibility Flow](https://www.youtube.com/watch?v=baqAriam3l8&list=PLipSZg1JNsC-XvTDgAHuMSrv_rrAdT69T&index=4)
   - [x] [30 MIN FULL BODY BARRE & PILATES WORKOUT || Sculpt & Strengthen](https://www.youtube.com/watch?v=pdHLxolGGX4&list=PLipSZg1JNsC-XvTDgAHuMSrv_rrAdT69T&index=5)
   - [x] [45 MIN PILATES ARMS & ABS WORKOUT || 🤍 Day 4: Move With Me Series](https://www.youtube.com/watch?v=I_MNcYo-dsA&list=PLipSZg1JNsC-XvTDgAHuMSrv_rrAdT69T&index=6) *includes dumbbells*
-- [ ] [Week 3](https://www.youtube.com/playlist?list=PLipSZg1JNsC8wIkTQ6u8V_wJyD9owWWzO)
+- [x] [Week 3](https://www.youtube.com/playlist?list=PLipSZg1JNsC8wIkTQ6u8V_wJyD9owWWzO)
   - [x] [40 MIN FULL BODY WORKOUT || At-Home Pilates](https://www.youtube.com/watch?v=0zjiVQ950EE&list=PLipSZg1JNsC8wIkTQ6u8V_wJyD9owWWzO&index=1)
-  - [ ] [30 MIN PILATES YOGA WORKOUT || Full Body Stretch & Strengthen](https://www.youtube.com/watch?v=NJU8dcCacRY&list=PLipSZg1JNsC8wIkTQ6u8V_wJyD9owWWzO&index=2)
+  - [x] [30 MIN PILATES YOGA WORKOUT || Full Body Stretch & Strengthen](https://www.youtube.com/watch?v=NJU8dcCacRY&list=PLipSZg1JNsC8wIkTQ6u8V_wJyD9owWWzO&index=2)
   - [x] [20 MIN PILATES CARDIO & ABS || Low Impact Workout (Stretch Included)](https://www.youtube.com/watch?v=1jZVEqgeO4U&list=PLipSZg1JNsC8wIkTQ6u8V_wJyD9owWWzO&index=3)
   - [x] [35 MIN FULL BODY WORKOUT || Intermediate Pilates (Mini Resistance Band)](https://www.youtube.com/watch?v=_xpqApNa-QE&list=PLipSZg1JNsC8wIkTQ6u8V_wJyD9owWWzO&index=4) *includes resistance band loop*
   - [x] [20 MIN GENTLE YOGA FLOW || Relaxing Flow to Stretch & Feel Good](https://www.youtube.com/watch?v=8cltCOUpYTQ&list=PLipSZg1JNsC8wIkTQ6u8V_wJyD9owWWzO&index=5)
