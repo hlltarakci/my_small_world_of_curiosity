@@ -10,7 +10,7 @@
     - [Space](https://github.com/hlltarakci/my_small_world_of_curiosity/blob/main/documentary/spaceREADME.md)
     - [Tech and Future](https://github.com/hlltarakci/my_small_world_of_curiosity/blob/main/documentary/techAndFutureREADME.md) 
 - [Movies](https://github.com/hlltarakci/my_small_world_of_curiosity/blob/main/watchMovieREADME.md)
-- [Books](https://github.com/hlltarakci/my_small_world_of_curiosity/blob/main/booksREADME.md)
+- [Books](https://github.com/hlltarakci/my_small_world_of_curiosity/blob/main/books/README.md)
 - [Podcasts](https://github.com/hlltarakci/my_small_world_of_curiosity/blob/main/listenREADME.md)
 - [Exercise & Hikes](https://github.com/hlltarakci/my_small_world_of_curiosity/blob/main/exercisesAndHikesREADME.md)
 - [Courses](https://github.com/hlltarakci/my_small_world_of_curiosity/blob/main/coursesREADME.md)
