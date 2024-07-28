@@ -29,7 +29,7 @@
   - [x] [10 MIN CARDIO & ABS WORKOUT || No Equipment](https://www.youtube.com/watch?v=koGiHes8DcM&list=PLipSZg1JNsC8wIkTQ6u8V_wJyD9owWWzO&index=6)
   - [x] [20 MIN THIGHS & BOOTY WORKOUT || Sculpting Barre Workout](https://www.youtube.com/watch?v=wLCQC5WmVKo&list=PLipSZg1JNsC8wIkTQ6u8V_wJyD9owWWzO&index=7)
 - [ ] [Week 4](https://www.youtube.com/playlist?list=PLipSZg1JNsC8CAjkMj6sglvj0JaIexVLi)
-  - [ ] [35 MIN FULL BODY WORKOUT || Intermediate Mat Pilates](https://www.youtube.com/watch?v=mKhdLuDhGU4&list=PLipSZg1JNsC8CAjkMj6sglvj0JaIexVLi&index=1)
+  - [x] [35 MIN FULL BODY WORKOUT || Intermediate Mat Pilates](https://www.youtube.com/watch?v=mKhdLuDhGU4&list=PLipSZg1JNsC8CAjkMj6sglvj0JaIexVLi&index=1)
   - [ ] [30 MIN PILATES WORKOUT || Upper Body Pilates For Strength & Better Posture (Moderate)](https://www.youtube.com/watch?v=oiToJsf_SQ4&list=PLipSZg1JNsC8CAjkMj6sglvj0JaIexVLi&index=2)
   - [ ] [20 MIN PILATES HIIT || Low Impact & No Repeat Workout (Stretch Included)](https://www.youtube.com/watch?v=6RIbWni5JVk&list=PLipSZg1JNsC8CAjkMj6sglvj0JaIexVLi&index=3)
   - [ ] [25 MIN MORNING YOGA FLOW || Energising Yoga Flow To Feel Your Best](https://www.youtube.com/watch?v=dqIZnyUtKXI&list=PLipSZg1JNsC8CAjkMj6sglvj0JaIexVLi&index=4)
