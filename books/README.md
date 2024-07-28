@@ -10,6 +10,11 @@
     - **📝See [Notes](https://github.com/hlltarakci/my_small_world_of_curiosity/blob/main/books/notes_mark_galeotti_we_need_to_talk_about_putin_how_the_west_gets_him_wrong.md)**
 - [x] [**Philip Short, Putin: His Life and Times (The explosive and extraordinary new biography of Russia’s leader)**](https://www.amazon.co.uk/Putin-definitive-biography-Philip-Short-ebook/dp/B09VNYXDL5/) *as in 2022*
     - **📝See [Notes](https://github.com/hlltarakci/my_small_world_of_curiosity/blob/main/books/notes_philip_short_putin_his_life_and_times_the_explosive_and_extraordinary_new_biography_of_russia_s_leader.md)**
+- [x] [**Orlando Figes, The Story of Russia**](https://www.amazon.co.uk/Story-Russia-excellent-short-study/dp/152663175X/)
+    - **📝See [Notes](https://github.com/hlltarakci/my_small_world_of_curiosity/blob/main/books/note_orlando_figes_the_story_of_russia.md)**
+- [x] [**Orlando Figes, Natasha's Dance: A Cultural History of Russia**](https://www.amazon.co.uk/Natashas-Dance-Cultural-History-Russia/dp/0140297960)
+    - **📝See [Notes](https://github.com/hlltarakci/my_small_world_of_curiosity/blob/main/books/notes_orlando_figes_natasha_s_dance_a_cultural_history_of_russia.md)**
+- [ ] [Orlando Figes, A People's Tragedy: The Russian Revolution, 1891-1924](https://www.amazon.co.uk/Peoples-Tragedy-Russian-Revolution-1891-1924/dp/071267327X)
 - [ ] [Vladimir Putin, First Person: An Astonishingly Frank Self-Portrait by Russia's President Vladimir Putin](https://www.amazon.co.uk/First-Person-Astonishingly-Self-portrait-Publicaffairs/dp/1586480189)
 - [ ] [Catherine Belton, Putin’s People: A Times Book of the Year 2021 – The Story of Russia’s History and Politics](https://www.amazon.co.uk/Putins-People-Russias-History-Politics-ebook/dp/B00X6K0GB4/)
 - [ ] [Mikhail Zygar, All the Kremlin's Men: Inside the Court of Vladimir Putin](https://www.amazon.co.uk/All-Kremlins-Men-Inside-Vladimir-ebook/dp/B06XKQSJ8G/)
@@ -18,11 +23,6 @@
 - [ ] [Anna Arutunyan, The Putin Mystique: Inside Russia's Power Cult](https://www.amazon.co.uk/Putin-Mystique-Inside-Russias-Power-ebook/dp/B09HN328TT/)
 - [ ] [Graeme P. Herd, Understanding Russian Strategic Behavior: Imperial Strategic Culture and Putin’s Operational Code](https://www.amazon.co.uk/Understanding-Russian-Strategic-Behavior-Contemporary-ebook/dp/B09MV74VXZ/)
 - [ ] [Tony Wood, Russia without Putin: Money, Power and the Myths of the New Cold War](https://www.amazon.co.uk/Russia-Without-Putin-Money-Power-ebook/dp/B07KK78PF6/)
-- [x] [**Orlando Figes, The Story of Russia**](https://www.amazon.co.uk/Story-Russia-excellent-short-study/dp/152663175X/)
-    - **📝See [Notes](https://github.com/hlltarakci/my_small_world_of_curiosity/blob/main/books/note_orlando_figes_the_story_of_russia.md)**
-- [x] [**Orlando Figes, Natasha's Dance: A Cultural History of Russia**](https://www.amazon.co.uk/Natashas-Dance-Cultural-History-Russia/dp/0140297960)
-    - **📝See [Notes](https://github.com/hlltarakci/my_small_world_of_curiosity/blob/main/books/notes_orlando_figes_natasha_s_dance_a_cultural_history_of_russia.md)**
-- [ ] [Orlando Figes, A People's Tragedy: The Russian Revolution, 1891-1924](https://www.amazon.co.uk/Peoples-Tragedy-Russian-Revolution-1891-1924/dp/071267327X)
 - [ ] [Dmitry Likhachev, Reflections on the Russian Soul: A Memoir](https://www.amazon.co.uk/Reflections-Russian-Memoir-Dmitry-Likhachev/dp/9639116467)
 - [ ] [Fyodor Dostoevsky, The Russian Soul: Selections from a Writer's Diary](https://www.amazon.co.uk/Russian-Soul-Selections-Writers-Diary/dp/191074963X) *"In Russia the truth almost always has an entirely fantastical character."*
 - [ ] [Simon Franklin, Emma Widdis, National Identity in Russian Culture: An Introduction](https://www.amazon.co.uk/National-Identity-Russian-Culture-Introduction/dp/0521024293)
