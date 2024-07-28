@@ -485,6 +485,12 @@
 5. Yumurtalari ispanagin uzerine dek.
 6. Pismeye yakin yarisina rendelenmis mozarella ekle, ikiye katlayip servis tabagina al.
 
+## Kapya Biberli Omlet
+[<img src="kapya_biberli_omlet.jpg" width="500"/>](kapya_biberli_omlet.jpg)
+1. Tavada 2 yemek kasigi zeytinyagini isit. 1-2 orta boy, ufak ufak dogranmis kapya biberi biraz kavur.
+2. Kasede 2 yumurtayi bir cay kasigi tuz ekleyip guzelce cirp.
+3. Yumurtayi tavaya al, cok kurutmadan pisir. Pismeye yakin, rendelenmis mozarella koy, erimeye dogru altini kapat.
+
 ## Cheese Omelette
 [<img src="cheese_omelette.jpg" width="500"/>](cheese_omelette.jpg)
 1. 1 yemek kasigi tereyegi tavada erit.
