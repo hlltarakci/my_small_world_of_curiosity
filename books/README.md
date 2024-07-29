@@ -8,6 +8,8 @@
     - **📝See [Notes](https://github.com/hlltarakci/my_small_world_of_curiosity/blob/main/books/notes_mark_galeotti_a_short_history_of_%20russia_how%20_to_understand_the_world's_most_complex_nation.md)**
 - [x] [**Mark Galeotti, We Need to Talk About Putin: How the West gets him wrong**](https://www.amazon.co.uk/We-Need-Talk-About-Putin/dp/1529103592/) - *as in 2019*
     - **📝See [Notes](https://github.com/hlltarakci/my_small_world_of_curiosity/blob/main/books/notes_mark_galeotti_we_need_to_talk_about_putin_how_the_west_gets_him_wrong.md)**
+- [ ] [Mark Galeotti, Downfall: Prigozhin, Putin, and the new fight for the future of Russia](https://www.amazon.co.uk/Downfall-Prigozhin-Putin-Future-Russia/dp/B0CPM9LS3K)
+    - **📝See [Notes](https://github.com/hlltarakci/my_small_world_of_curiosity/blob/main/books/notes_mark_galeotti_downfall_prigozhin_putin_and_the_new_fight_for_the_future_of_russia.md)**
 - [x] [**Philip Short, Putin: His Life and Times (The explosive and extraordinary new biography of Russia’s leader)**](https://www.amazon.co.uk/Putin-definitive-biography-Philip-Short-ebook/dp/B09VNYXDL5/) *as in 2022*
     - **📝See [Notes](https://github.com/hlltarakci/my_small_world_of_curiosity/blob/main/books/notes_philip_short_putin_his_life_and_times_the_explosive_and_extraordinary_new_biography_of_russia_s_leader.md)**
 - [x] [**Orlando Figes, The Story of Russia**](https://www.amazon.co.uk/Story-Russia-excellent-short-study/dp/152663175X/)
