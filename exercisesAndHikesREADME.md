@@ -5,7 +5,7 @@
 ## PROGRAMS
 ### 2-Months [**Monthly program (Nicole)**](https://www.youtube.com/@MoveWithNicole)
 - **[ADD][Sunday, Tuesday, Thursday, (*Optional*)Saturday]** [20 Min INTENSE GLUTE WORKOUT at Home with Resistance Band](https://www.youtube.com/watch?v=gm4zVOaj37E) + [50 repeats of a glute exercise with resistance band loop](https://www.youtube.com/watch?v=FzXjnQXHgwY)
-- **[ADD][Sunday, Monday, Wednesday, (*Optional*)Saturday]** [6 Min to a Sexy Little Waist!](https://www.youtube.com/watch?v=0uuegGiEHCM)
+- **[ADD][Sunday, Monday, Wednesday, (*Optional*)Saturday]** [6 Min to a Sexy Little Waist!](https://www.youtube.com/watch?v=0uuegGiEHCM) + [50 repeats of a glute exercise with resistance band loop](https://www.youtube.com/watch?v=FzXjnQXHgwY)
 - [x] [Week 1](https://www.youtube.com/playlist?list=PLipSZg1JNsC-cujq6r6fUdqj43W6aqv2Z)
   - [x] [40 MIN FULL BODY WORKOUT || Power Pilates With Weights (Intermediate)](https://www.youtube.com/watch?v=dOO6-o7ObnU&list=PLipSZg1JNsC-cujq6r6fUdqj43W6aqv2Z) *includes dumbbells*
   - [x] [25 MIN MORNING PILATES || Wake Up & Feel Energised](https://www.youtube.com/watch?v=Wnwo1MvW-Ug&list=PLipSZg1JNsC-cujq6r6fUdqj43W6aqv2Z&index=2)
@@ -33,7 +33,7 @@
   - [ ] [30 MIN PILATES WORKOUT || Upper Body Pilates For Strength & Better Posture (Moderate)](https://www.youtube.com/watch?v=oiToJsf_SQ4&list=PLipSZg1JNsC8CAjkMj6sglvj0JaIexVLi&index=2)
   - [ ] [20 MIN PILATES HIIT || Low Impact & No Repeat Workout (Stretch Included)](https://www.youtube.com/watch?v=6RIbWni5JVk&list=PLipSZg1JNsC8CAjkMj6sglvj0JaIexVLi&index=3)
   - [ ] [25 MIN MORNING YOGA FLOW || Energising Yoga Flow To Feel Your Best](https://www.youtube.com/watch?v=dqIZnyUtKXI&list=PLipSZg1JNsC8CAjkMj6sglvj0JaIexVLi&index=4)
-  - [ ] [35 MIN PILATES WORKOUT || Classical Mat Pilates Inspired (Knee & Wrist Friendly)](https://www.youtube.com/watch?v=v3B2vk5THOU&list=PLipSZg1JNsC8CAjkMj6sglvj0JaIexVLi&index=5)
+  - [x] [35 MIN PILATES WORKOUT || Classical Mat Pilates Inspired (Knee & Wrist Friendly)](https://www.youtube.com/watch?v=v3B2vk5THOU&list=PLipSZg1JNsC8CAjkMj6sglvj0JaIexVLi&index=5)
   - [ ] [40 MIN CARDIO BARRE & PILATES || Mini Ball Workout (Low Impact Options)](https://www.youtube.com/watch?v=a1GlGJfRc88&list=PLipSZg1JNsC8CAjkMj6sglvj0JaIexVLi&index=6)
 - [ ] [Week 5](https://www.youtube.com/playlist?list=PLipSZg1JNsC9yo-YJ9dYphTz7wDqnAxYy)
   - [ ] [20 MIN EXPRESS PILATES WORKOUT || Beginner to Moderate Pilates (No Equipment)](https://www.youtube.com/watch?v=y2RcYo36boM&list=PLipSZg1JNsC9yo-YJ9dYphTz7wDqnAxYy&index=1)
