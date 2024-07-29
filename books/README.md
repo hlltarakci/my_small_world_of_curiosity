@@ -11,7 +11,7 @@
 - [x] [**Philip Short, Putin: His Life and Times (The explosive and extraordinary new biography of Russia’s leader)**](https://www.amazon.co.uk/Putin-definitive-biography-Philip-Short-ebook/dp/B09VNYXDL5/) *as in 2022*
     - **📝See [Notes](https://github.com/hlltarakci/my_small_world_of_curiosity/blob/main/books/notes_philip_short_putin_his_life_and_times_the_explosive_and_extraordinary_new_biography_of_russia_s_leader.md)**
 - [x] [**Orlando Figes, The Story of Russia**](https://www.amazon.co.uk/Story-Russia-excellent-short-study/dp/152663175X/)
-    - **📝See [Notes](https://github.com/hlltarakci/my_small_world_of_curiosity/blob/main/books/note_orlando_figes_the_story_of_russia.md)**
+    - **📝See [Notes](https://github.com/hlltarakci/my_small_world_of_curiosity/blob/main/books/notes_orlando_figes_the_story_of_russia.md)**
 - [x] [**Orlando Figes, Natasha's Dance: A Cultural History of Russia**](https://www.amazon.co.uk/Natashas-Dance-Cultural-History-Russia/dp/0140297960)
     - **📝See [Notes](https://github.com/hlltarakci/my_small_world_of_curiosity/blob/main/books/notes_orlando_figes_natasha_s_dance_a_cultural_history_of_russia.md)**
 - [ ] [Orlando Figes, A People's Tragedy: The Russian Revolution, 1891-1924](https://www.amazon.co.uk/Peoples-Tragedy-Russian-Revolution-1891-1924/dp/071267327X)
