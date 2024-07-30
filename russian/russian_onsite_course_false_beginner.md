@@ -194,7 +194,8 @@ See [**beginner course notes**](https://github.com/hlltarakci/my_small_world_of_
 - [ ] [Basic Russian 1: Adjective Endings. Adjective-noun Agreement](https://www.youtube.com/watch?v=G9pm5AJCw1s) - https://www.amazingrussian.com/
 - [x] [Basic Russian 1: Plural Forms of Nouns](https://www.youtube.com/watch?v=fK_OqJ85kck) - https://www.amazingrussian.com/
 - [x] [Basic Russian 1: Personal Pronouns](https://www.youtube.com/watch?v=XDJWEUdzS6M) - https://www.amazingrussian.com/
-- [ ] [Basic Russian 1: Grammatical Gender of Nouns](https://www.youtube.com/watch?v=IOyUbcK2g4k) - https://www.amazingrussian.com/
+- [x] [Basic Russian 1: Grammatical Gender of Nouns](https://www.youtube.com/watch?v=IOyUbcK2g4k) - https://www.amazingrussian.com/
+- [x] [Basic Russian 1: Prepositional Case with В and НА](https://www.youtube.com/watch?v=cZR5FX3xpjo)
 - [x] [Basic Russian 1: Possessives and Questions with WHOSE (ЧЕЙ?)](https://www.youtube.com/watch?v=QQ2b4a2G7L0) - https://www.amazingrussian.com/
 - [x] [Basic Russian 1: First Adjectives](https://www.youtube.com/watch?v=NAfGZSpaVy0) - https://www.amazingrussian.com/
         
