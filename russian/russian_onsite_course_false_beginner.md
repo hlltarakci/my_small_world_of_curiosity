@@ -131,21 +131,21 @@ See [**beginner course notes**](https://github.com/hlltarakci/my_small_world_of_
     - [ ] УРОК 1 (pages 30-41)
       - [x] Listen, read everything - https://www.russianlanguagecentre.org/lesson-1-audio-files
       - [ ] Do exercises: https://www.russianlanguagecentre.org/lesson-1
-      - [ ] Fast repeat revision exercises on lesson 1 (leaflet)
+      - [x] Fast repeat revision exercises on lesson 1 (leaflet)
     - [ ] УРОК 2 (pages 42-60)
       - [x] Listen, read everything - https://www.russianlanguagecentre.org/lesson-2-audio-files
       - [ ] Do exercises: https://www.russianlanguagecentre.org/lesson-2
-      - [ ] Fast repeat revision exercises on lesson 2 (RMC_-_Lesson_2.pdf, RMC_-_Lesson_2_-_The_Key.pdf)
+      - [x] Fast repeat revision exercises on lesson 2 (RMC_-_Lesson_2.pdf, RMC_-_Lesson_2_-_The_Key.pdf)
     - [ ] УРОК 3 (pages 62-76)
       - [x] Listen, read everything - https://www.russianlanguagecentre.org/new-page (p375 irregular plural list)
       - [ ] Do exercises - https://www.russianlanguagecentre.org/lesson-3
-      - [ ] Fast repeat revision exercises on lesson 3 (RMC_-_Lesson_3.pdf, RMC_-_Lesson_3_-_The_Key.pdf)
-      - [ ] See leaflets: PLURAL_OF_NOUNS.pdf, COUNTRIES-LANGUAGES.pdf, the gender of nouns, note-share-1719594635601.pdf, note-share-1719606066567.pdf, Russian_names.pdf
+      - [x] Fast repeat revision exercises on lesson 3 (RMC_-_Lesson_3.pdf, RMC_-_Lesson_3_-_The_Key.pdf)
+      - [x] See leaflets: PLURAL_OF_NOUNS.pdf, COUNTRIES-LANGUAGES.pdf, the gender of nouns, note-share-1719594635601.pdf, note-share-1719606066567.pdf, Russian_names.pdf
     - [ ] УРОК 4 (pages 78-94)
       - [x] Listen, read everything - https://www.russianlanguagecentre.org/new-page-1
       - [ ] Do the exercises on the book
       - [ ] Do exercises - https://www.russianlanguagecentre.org/lesson-4
-      - [ ] Review leaflets: PREPOSITIONAL_CASE.pdf, note-share-1721408770186.pdf
+      - [x] Review leaflets: PREPOSITIONAL_CASE.pdf, note-share-1721408770186.pdf
     - [x] Wordwall:
       - [x] УРОК 1-1 (First phrases) - https://wordwall.net/play/31683/726/686
       - [x] УРОК 1-2 (First vocabulary list) - https://wordwall.net/play/31684/109/266
@@ -180,12 +180,12 @@ See [**beginner course notes**](https://github.com/hlltarakci/my_small_world_of_
       - [ ] We did pp. 86-87 and text 4.1 on p. 88. Repeat.
       - [ ] Finish creating questions for three last sentences of text 4.1; do ex. 4.16, ex. 4.17 (p. 88);
       - [ ] Do exercises on RLC website
-      - [ ] Wordwall:
-          - [ ] УРОК 4-1 (Prepositional case) - https://wordwall.net/play/32047/956/213
-          - [ ] УРОК 4-2 (Prepositional case) - https://wordwall.net/play/32048/578/463
-          - [ ] УРОК 4-3 (Verbs - the meaning) - https://wordwall.net/play/32050/476/968
-          - [ ] УРОК 4-4 (Present tense of verbs) https://wordwall.net/play/32966/484/908
-          - [ ] УРОК 4-4 (Present tense of verbs) (different) - https://wordwall.net/resource/32966359/%d1%83%d1%80%d0%be%d0%ba-4-4-present-tense-of-verbs
+      - [x] Wordwall:
+          - [x] УРОК 4-1 (Prepositional case) - https://wordwall.net/play/32047/956/213
+          - [x] УРОК 4-2 (Prepositional case) - https://wordwall.net/play/32048/578/463
+          - [x] УРОК 4-3 (Verbs - the meaning) - https://wordwall.net/play/32050/476/968
+          - [x] УРОК 4-4 (Present tense of verbs) https://wordwall.net/play/32966/484/908
+          - [x] УРОК 4-4 (Present tense of verbs) (different) - https://wordwall.net/resource/32966359/%d1%83%d1%80%d0%be%d0%ba-4-4-present-tense-of-verbs
   - [ ] LOOK FORWARD
 
 
