@@ -35,7 +35,7 @@
   - [ ] [20 MIN PILATES HIIT || Low Impact & No Repeat Workout (Stretch Included)](https://www.youtube.com/watch?v=6RIbWni5JVk&list=PLipSZg1JNsC8CAjkMj6sglvj0JaIexVLi&index=3)
   - [ ] [25 MIN MORNING YOGA FLOW || Energising Yoga Flow To Feel Your Best](https://www.youtube.com/watch?v=dqIZnyUtKXI&list=PLipSZg1JNsC8CAjkMj6sglvj0JaIexVLi&index=4)
   - [x] [35 MIN PILATES WORKOUT || Classical Mat Pilates Inspired (Knee & Wrist Friendly)](https://www.youtube.com/watch?v=v3B2vk5THOU&list=PLipSZg1JNsC8CAjkMj6sglvj0JaIexVLi&index=5)
-  - [ ] [40 MIN CARDIO BARRE & PILATES || Mini Ball Workout (Low Impact Options)](https://www.youtube.com/watch?v=a1GlGJfRc88&list=PLipSZg1JNsC8CAjkMj6sglvj0JaIexVLi&index=6)
+  - [x] [1 HOUR FULL BODY WORKOUT || Full Length Intermediate Pilates Class](https://www.youtube.com/watch?v=3guGRzS1oLA)
 - [ ] [Week 5](https://www.youtube.com/playlist?list=PLipSZg1JNsC9yo-YJ9dYphTz7wDqnAxYy)
   - [ ] [20 MIN EXPRESS PILATES WORKOUT || Beginner to Moderate Pilates (No Equipment)](https://www.youtube.com/watch?v=y2RcYo36boM&list=PLipSZg1JNsC9yo-YJ9dYphTz7wDqnAxYy&index=1)
   - [ ] [30 MIN CARDIO BARRE & PILATES || At-Home Full Body Workout](https://www.youtube.com/watch?v=EilzExU1y2g&list=PLipSZg1JNsC9yo-YJ9dYphTz7wDqnAxYy&index=2)
