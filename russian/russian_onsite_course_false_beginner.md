@@ -177,8 +177,8 @@ See [**beginner course notes**](https://github.com/hlltarakci/my_small_world_of_
       - [x] УРОК 4-4 (Present tense of verbs) https://wordwall.net/play/32966/484/908
       - [x] УРОК 4-4 (Present tense of verbs) (different) - https://wordwall.net/resource/32966359/%d1%83%d1%80%d0%be%d0%ba-4-4-present-tense-of-verbs
   - [ ] Homework
-      - [ ] We did pp. 86-87 and text 4.1 on p. 88. Repeat.
-      - [ ] Finish creating questions for three last sentences of text 4.1; do ex. 4.16, ex. 4.17 (p. 88);
+      - [x] We did pp. 86-87 and text 4.1 on p. 88. Repeat. - https://www.russianlanguagecentre.org/new-page-1
+      - [x] Finish creating questions for three last sentences of text 4.1; do ex. 4.16, ex. 4.17 (p. 88)
       - [ ] Do exercises on RLC website
       - [x] Wordwall:
           - [x] УРОК 4-1 (Prepositional case) - https://wordwall.net/play/32047/956/213
@@ -186,7 +186,9 @@ See [**beginner course notes**](https://github.com/hlltarakci/my_small_world_of_
           - [x] УРОК 4-3 (Verbs - the meaning) - https://wordwall.net/play/32050/476/968
           - [x] УРОК 4-4 (Present tense of verbs) https://wordwall.net/play/32966/484/908
           - [x] УРОК 4-4 (Present tense of verbs) (different) - https://wordwall.net/resource/32966359/%d1%83%d1%80%d0%be%d0%ba-4-4-present-tense-of-verbs
-  - [ ] LOOK FORWARD
+  - [ ] LOOK FORWARD (УРОК 4 remaining pages)
+      - [x] 🔥 Finish several, countless translation exercises in УРОК 4 !!!
+      - [ ] Page 118, Ex 6.1 More verbs
 
 
 # 😊 EXTRA
