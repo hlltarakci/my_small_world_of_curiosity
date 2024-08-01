@@ -202,7 +202,8 @@ See [**beginner course notes**](https://github.com/hlltarakci/my_small_world_of_
 - [x] [Basic Russian 1: First Adjectives](https://www.youtube.com/watch?v=NAfGZSpaVy0) - https://www.amazingrussian.com/
 - [x] [Basic Russian 1. Introductory ЭТО vs. Modifier ЭТОТ, ЭТА, ЭТО, ЭТИ](https://www.youtube.com/watch?v=6lw2PhehO68)
 - [ ] [Started Learning Russian? Watch This! Super Easy Story about Gopnik Fedya | Level A1](https://www.youtube.com/watch?v=IQmVidaTgr8)
-- [ ] [ALL cases in Russian](https://www.youtube.com/watch?v=gE49nUl7eAc)
+- [x] [ALL cases in Russian](https://www.youtube.com/watch?v=gE49nUl7eAc) CASES: 1.Nominative case | 2.Prepositional case | 3.Accusative case (action + accusative) | 4. Instrumental case | 5. Genetive case | 6. Dative case
+- [ ] [Russian Grammar short](https://www.youtube.com/watch?v=_EOF6YYv4js)
 - [ ] [Basic Russian 1. Russian Sound System: Stress. Stressed and Unstressed Vowels (Part 1)](https://www.youtube.com/watch?v=RjkqCye-nss)
 - [ ] [Basic Russian 1. Russian Sound System: Voiced and Voiceless Consonants (Part 2)](https://www.youtube.com/watch?v=qEfBbvaIDu8)
 - [ ] [Basic Russian 1. Russian Sound System: Hard and Soft Consonants (Part 3)](https://www.youtube.com/watch?v=9-2tvAdXY9Y)
