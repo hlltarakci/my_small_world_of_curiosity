@@ -193,7 +193,12 @@ See [**beginner course notes**](https://github.com/hlltarakci/my_small_world_of_
 
 # 😊 EXTRA
 - [x] [Basic Russian 1: Introduction to Verb Conjugation](https://www.youtube.com/watch?v=wJxi8oYEYP8) - https://www.amazingrussian.com/
-- [ ] [Basic Russian 1: Adjective Endings. Adjective-noun Agreement](https://www.youtube.com/watch?v=G9pm5AJCw1s) - https://www.amazingrussian.com/
+- [x] [Basic Russian 1: Adjective Endings. Adjective-noun Agreement](https://www.youtube.com/watch?v=G9pm5AJCw1s) - https://www.amazingrussian.com/
+- [ ] [Basic Russian 1: Adverbs of Frequency. Time Expressions with КАЖДЫЙ](https://www.youtube.com/watch?v=3Bt5KrUlrMQ)
+- [ ] [Basic Russian 1: Verbs of “Studying”: УЧИТЬСЯ, ЗАНИМАТЬСЯ, ИЗУЧАТЬ](https://www.youtube.com/watch?v=miD5a0kxqlM)
+- [ ] [214. Russian Vebs A1 Level | Most common Russian verbs conjugation](https://www.youtube.com/watch?v=BK1bIswL-eg)
+- [ ] [REAL RUSSIAN PHRASES](https://www.youtube.com/watch?v=HqCon1iFUJ4)
+- [ ] [100 Phrases Every Russian Beginner Must-Know](https://www.youtube.com/watch?v=e9faloUNgKM)
 - [x] [Basic Russian 1: Plural Forms of Nouns](https://www.youtube.com/watch?v=fK_OqJ85kck) - https://www.amazingrussian.com/
 - [x] [Basic Russian 1: Personal Pronouns](https://www.youtube.com/watch?v=XDJWEUdzS6M) - https://www.amazingrussian.com/
 - [x] [Basic Russian 1: Grammatical Gender of Nouns](https://www.youtube.com/watch?v=IOyUbcK2g4k) - https://www.amazingrussian.com/
