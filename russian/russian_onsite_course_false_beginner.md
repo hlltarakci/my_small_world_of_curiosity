@@ -9,7 +9,6 @@ Support website: https://www.russianlanguagecentre.org and https://www.russianla
 See [**beginner course notes**](https://github.com/hlltarakci/my_small_world_of_curiosity/blob/main/russian/russian_onsite_course_beginner.md)
 
 # 🌟 Russian Homework Tracker
-- [ ] 🔂 [EXTRA] Take the online course again to see how comfortable i get at this point: [UDEMY: Learn Russian for Beginners: The Ultimate 100-Lesson Course (6.5 hours)](https://www.udemy.com/course/learn-russian-for-beginners/?couponCode=KEEPLEARNING)
 - [x] 😊 **Week 11: Homework**
   - [x] Weekly Review
     - [x] Introduction - Fast-repeat. (pages 13-29)
@@ -125,7 +124,7 @@ See [**beginner course notes**](https://github.com/hlltarakci/my_small_world_of_
       - [x] Listen, repeat, read everything - https://www.russianlanguagecentre.org/new-page-1
       - [x] Do exercises on the book (*apart from last few translation exercises, there are many*)
       - [x] Do exercises - https://www.russianlanguagecentre.org/lesson-4
-- [ ] **Неделя 13: Домашнее задание по русскому языку**
+- [x] 😊 **Неделя 13: Домашнее задание по русскому языку**
   - [x] Weekly Review
     - [x] Introduction - Fast-repeat. (pages 13-29)
     - [x] УРОК 1 (pages 30-41)
@@ -186,17 +185,18 @@ See [**beginner course notes**](https://github.com/hlltarakci/my_small_world_of_
           - [x] УРОК 4-3 (Verbs - the meaning) - https://wordwall.net/play/32050/476/968
           - [x] УРОК 4-4 (Present tense of verbs) https://wordwall.net/play/32966/484/908
           - [x] УРОК 4-4 (Present tense of verbs) (different) - https://wordwall.net/resource/32966359/%d1%83%d1%80%d0%be%d0%ba-4-4-present-tense-of-verbs
-  - [ ] LOOK FORWARD (УРОК 4 remaining pages)
+  - [x] LOOK FORWARD (УРОК 4 remaining pages)
       - [x] 🔥 Finish several, countless translation exercises in УРОК 4 !!!
-      - [ ] Page 118, Ex 6.1 More verbs
+      - [x] УРОК 5, first few pages (more verb conjugations) https://www.russianlanguagecentre.org/lesson-5-audio-files
+      - [x] Page 118, Ex 6.1 More verbs, take a glance
 
-
-# 😊 EXTRA
+# 🍎 EXTRA
 - [x] [Basic Russian 1: Introduction to Verb Conjugation](https://www.youtube.com/watch?v=wJxi8oYEYP8) - https://www.amazingrussian.com/
 - [x] [Basic Russian 1: Adjective Endings. Adjective-noun Agreement](https://www.youtube.com/watch?v=G9pm5AJCw1s) - https://www.amazingrussian.com/
 - [ ] [Basic Russian 1: Adverbs of Frequency. Time Expressions with КАЖДЫЙ](https://www.youtube.com/watch?v=3Bt5KrUlrMQ)
 - [ ] [Basic Russian 1: Verbs of “Studying”: УЧИТЬСЯ, ЗАНИМАТЬСЯ, ИЗУЧАТЬ](https://www.youtube.com/watch?v=miD5a0kxqlM)
 - [ ] [214. Russian Vebs A1 Level | Most common Russian verbs conjugation](https://www.youtube.com/watch?v=BK1bIswL-eg)
+- [x] [Best Russian CONJUGATION Video](https://www.youtube.com/watch?v=hNdEE-qqlnk) 1st group: Verbs ending Ать 2nd group: verbs ending ИТЬ 3rd group: misc - https://cooljugator.com/ru 
 - [ ] [REAL RUSSIAN PHRASES](https://www.youtube.com/watch?v=HqCon1iFUJ4)
 - [ ] [100 Phrases Every Russian Beginner Must-Know](https://www.youtube.com/watch?v=e9faloUNgKM)
 - [x] [Basic Russian 1: Plural Forms of Nouns](https://www.youtube.com/watch?v=fK_OqJ85kck) - https://www.amazingrussian.com/
@@ -214,6 +214,25 @@ See [**beginner course notes**](https://github.com/hlltarakci/my_small_world_of_
 - [ ] [Basic Russian 1. Russian Sound System: Hard and Soft Consonants (Part 3)](https://www.youtube.com/watch?v=9-2tvAdXY9Y)
 - [ ] [Basic Russian 1: Indicating Having Something: У МЕНЯ ЕСТЬ](https://www.youtube.com/watch?v=UA76u4gRHwM)
         
+# 🍎 CHEATSHEETS/REFERENCES
+- https://translate.google.com/?hl=tr&sl=en&tl=ru&op=translate
+- https://cooljugator.com/ru
+- https://www.russiantools.com/en/russian-words-find-what-gender-it-is
+
+# 🍎 CHANNELS
+- https://www.youtube.com/@AmazingRussian
+- https://www.youtube.com/@Russianlanguage
+- https://www.youtube.com/@BeFluentinRussian
+- https://www.youtube.com/@Alfia
+- https://www.youtube.com/@russianpod101
+- https://www.youtube.com/@InRussianFromAfar
+- https://www.youtube.com/@blinschool7993
+
+# 🍎 ONLINE COURSES
+- [x] [**UDEMY: Three Hour Cyrillic (2 hours)**](https://www.udemy.com/course/russian-alphabet-mastery/)
+- [x] [**UDEMY: Russian Alphabet Course (1,5 hours)**](https://www.udemy.com/course/russian-alphabet-course/) - [Russian alphabet (РУССКИЙ АЛЬФАВИТ)](https://en.wikipedia.org/wiki/Russian_alphabet)
+- [x] [**UDEMY: Learn Russian for Beginners: The Ultimate 100-Lesson Course (6.5 hours)**](https://www.udemy.com/course/learn-russian-for-beginners/?couponCode=KEEPLEARNING) - [course cheatsheet](https://github.com/hlltarakci/my_small_world_of_curiosity/blob/main/russian/russian_course_cheatsheet_1.md) - *listening exercises (section 5&6) were a bit advanced, checking again after a while would be wise.*
+   - [ ] 🔥 Take this course again to see how comfortable i get at this point
 
 # 🚀 BACKLOG
 - [ ] [Playlist - Super Easy Russian - Russian for beginners](https://www.youtube.com/playlist?list=PLA5UIoabheFMRV-A92wr5G4lJZCx-ITMd) - *has both russian and english subtitles :)*
