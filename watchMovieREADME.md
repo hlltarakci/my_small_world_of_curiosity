@@ -385,6 +385,8 @@ https://sovietmoviesonline.com/
          - [ ] [Blue Mountains, or Unbelievable Story , 1983 (ГОЛУБЫЕ ГОРЫ, ИЛИ НЕПРАВДОПОДОБНАЯ ИСТОРИЯ)](https://www.imdb.com/title/tt0087349/) - [where to watch](https://sovietmoviesonline.com/comedy/golubye-gory-ili-nepravdopodobnaya-istoriya)
      - [Aleksey Korenev](https://www.imdb.com/name/nm0000088/)
          - [ ] [Domestic Circumstances, 1978 (ПО СЕМЕЙНЫМ ОБСТОЯТЕЛЬСТВАМ)](https://www.imdb.com/title/tt0076551/) - [where to watch](https://sovietmoviesonline.com/comedy/po-semeynym-obstoyatelstvam) 
+     - [Aleksey Uchitel](https://en.wikipedia.org/wiki/Alexei_Uchitel)
+         - [x] [**Прогулка, 2003**](https://www.imdb.com/title/tt0372478/) - [where to watch](https://sovietmoviesonline.com/melodrama/the-stroll) - [reviews](https://www.imdb.com/title/tt0372478/reviews/) 
      - [Oksana Bychkova](https://www.imdb.com/name/nm2294083/)
          - [ ] [ПИТЕР FM, 2006](https://www.imdb.com/title/tt0813541/) - [where to watch](https://sovietmoviesonline.com/comedy/piter-fm) 
      - [Juho Kuosmanen](https://en.wikipedia.org/wiki/Juho_Kuosmanen)
