@@ -4,8 +4,8 @@
 
 ## PROGRAMS
 ### 2-Months [**Monthly program (Nicole)**](https://www.youtube.com/@MoveWithNicole)
-- **[ADD][Sunday, Tuesday, Thursday, (*Optional*)Saturday]** [20 Min INTENSE GLUTE WORKOUT at Home with Resistance Band](https://www.youtube.com/watch?v=gm4zVOaj37E) 
-- **[ADD][Sunday, Monday, Wednesday, (*Optional*)Saturday]** [6 Min to a Sexy Little Waist!](https://www.youtube.com/watch?v=0uuegGiEHCM)
+- **[ADD][Sunday, Tuesday, Thursday]** [20 Min INTENSE GLUTE WORKOUT at Home with Resistance Band](https://www.youtube.com/watch?v=gm4zVOaj37E) 
+- **[ADD][Sunday, Monday, Wednesday]** [6 Min to a Sexy Little Waist!](https://www.youtube.com/watch?v=0uuegGiEHCM)
 - [OPTIONAL-ADD][50 repeats of a glute exercise with resistance band loop](https://www.youtube.com/watch?v=FzXjnQXHgwY)
 - [x] [Week 1](https://www.youtube.com/playlist?list=PLipSZg1JNsC-cujq6r6fUdqj43W6aqv2Z)
   - [x] [40 MIN FULL BODY WORKOUT || Power Pilates With Weights (Intermediate)](https://www.youtube.com/watch?v=dOO6-o7ObnU&list=PLipSZg1JNsC-cujq6r6fUdqj43W6aqv2Z) *includes dumbbells*
@@ -29,11 +29,12 @@
   - [x] [20 MIN GENTLE YOGA FLOW || Relaxing Flow to Stretch & Feel Good](https://www.youtube.com/watch?v=8cltCOUpYTQ&list=PLipSZg1JNsC8wIkTQ6u8V_wJyD9owWWzO&index=5)
   - [x] [10 MIN CARDIO & ABS WORKOUT || No Equipment](https://www.youtube.com/watch?v=koGiHes8DcM&list=PLipSZg1JNsC8wIkTQ6u8V_wJyD9owWWzO&index=6)
   - [x] [20 MIN THIGHS & BOOTY WORKOUT || Sculpting Barre Workout](https://www.youtube.com/watch?v=wLCQC5WmVKo&list=PLipSZg1JNsC8wIkTQ6u8V_wJyD9owWWzO&index=7)
-- [ ] [Week 4](https://www.youtube.com/playlist?list=PLipSZg1JNsC8CAjkMj6sglvj0JaIexVLi)
+- [x] [Week 4](https://www.youtube.com/playlist?list=PLipSZg1JNsC8CAjkMj6sglvj0JaIexVLi)
   - [x] [35 MIN FULL BODY WORKOUT || Intermediate Mat Pilates](https://www.youtube.com/watch?v=mKhdLuDhGU4&list=PLipSZg1JNsC8CAjkMj6sglvj0JaIexVLi&index=1)
   - [x] [30 MIN PILATES WORKOUT || Upper Body Pilates For Strength & Better Posture (Moderate)](https://www.youtube.com/watch?v=oiToJsf_SQ4&list=PLipSZg1JNsC8CAjkMj6sglvj0JaIexVLi&index=2)
   - [x] [20 MIN PILATES HIIT || Low Impact & No Repeat Workout (Stretch Included)](https://www.youtube.com/watch?v=6RIbWni5JVk&list=PLipSZg1JNsC8CAjkMj6sglvj0JaIexVLi&index=3)
-  - [ ] [25 MIN MORNING YOGA FLOW || Energising Yoga Flow To Feel Your Best](https://www.youtube.com/watch?v=dqIZnyUtKXI&list=PLipSZg1JNsC8CAjkMj6sglvj0JaIexVLi&index=4)
+  - [x] [25 MIN MORNING YOGA FLOW || Energising Yoga Flow To Feel Your Best](https://www.youtube.com/watch?v=dqIZnyUtKXI&list=PLipSZg1JNsC8CAjkMj6sglvj0JaIexVLi&index=4)
+  - [x] [EXTRA] [30-Minute Cardio Latin Dance Workout](https://www.youtube.com/watch?v=8DZktowZo_k)
   - [x] [35 MIN PILATES WORKOUT || Classical Mat Pilates Inspired (Knee & Wrist Friendly)](https://www.youtube.com/watch?v=v3B2vk5THOU&list=PLipSZg1JNsC8CAjkMj6sglvj0JaIexVLi&index=5)
   - [x] [1 HOUR FULL BODY WORKOUT || Full Length Intermediate Pilates Class](https://www.youtube.com/watch?v=3guGRzS1oLA)
 - [ ] [Week 5](https://www.youtube.com/playlist?list=PLipSZg1JNsC9yo-YJ9dYphTz7wDqnAxYy)
