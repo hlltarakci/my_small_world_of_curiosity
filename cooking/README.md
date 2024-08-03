@@ -574,6 +574,11 @@
 2. Sicakken ortadan kes. Icine 25 gr kadar tereyagi koy. Tuz ekle. Iyice karistir. Icine rendelenmis mozarella peyniri koy, iyice karistir, peynir patateste erisin.
 3. Uzerine rendelenmis mozarella, misir ve pesto sosu ile servis yap. Istege gore kornison, zeytin, sosis vs. de eklenebilir.
 
+## Airfryer Chicken
+[<img src="airfryer_chicken.jpg" width="500"/>](airfryer_chicken.jpg)
+1. Derin bir kasede hafif haslanmis tavugu kup kup dogra, 1 ince dogranmis sogan ve bir kac dis sarimsak ekle, sebzeleri ekle. 1 tatli kasigi tuz + yarim cay kasigi karabiber + 1 tatli kasigi chili flakes ekle, guzelce karistir.
+2. Airfryerda 190 derecede, arada acip karistirartak pisir. 12-18 dk. arasi pisiyor.
+
 ## Kozlenmis Sebze Salatasi
 [<img src="kozlenmis_sebze_salatasi.jpg" width="500"/>](kozlenmis_sebze_salatasi.jpg)
 1. Sebzeleri yika, kagit havluyla iyice kurula.
