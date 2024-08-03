@@ -143,7 +143,7 @@ https://sovietmoviesonline.com/
          - [ ] [I Am Twenty, 1965 (Mne dvadtsat let)](https://www.imdb.com/title/tt0058361/)
          - [ ] [Spring on Zarechnaya Street, 1956 (Vesna na Zarechnoy ulitse)](https://www.imdb.com/title/tt0049917/)
      - [Konstantin Lopushanskiy](https://en.wikipedia.org/wiki/Konstantin_Lopushansky)
-         - [ ] [Dead Man's Letters, 1986 (Pisma myortvogo cheloveka)](https://www.imdb.com/title/tt0091759/)
+         - [ ] [Dead Man's Letters, 1986 (Письма мёртвого человека)](https://www.imdb.com/title/tt0091759/) - [where to watch](https://sovietmoviesonline.com/fantastic/pisma-mertvogo-cheloveka)
      - [Kira Muratova](https://en.wikipedia.org/wiki/Kira_Muratova)
          - [ ] [Brief Encounters, 1967](https://www.imdb.com/title/tt0061883/) - [where to watch](https://www.youtube.com/watch?v=28skxPwAvaM)
      - [Mikhail Romm](https://en.wikipedia.org/wiki/Mikhail_Romm)
@@ -307,7 +307,7 @@ https://sovietmoviesonline.com/
      - [Antonio Lukich](https://www.imdb.com/name/nm9557050/)
          - [ ] [My Thoughts Are Silent, 2019 (Moyi dumky tykhi)](https://www.imdb.com/title/tt7876510/) 
      - [Sergey Gerasimov](https://en.wikipedia.org/wiki/Sergei_Gerasimov_(film_director))
-         - [ ] [Quiet Flows the Don, 1957 (Тихий Дон)](https://www.imdb.com/title/tt0051082/) - [where to watch](https://sovietmoviesonline.com/drama/tihiy-don)
+         - [ ] [Quiet Flows the Don, 1957 (Тихий Дон)](https://www.imdb.com/title/tt0051082/) - [where to watch](https://sovietmoviesonline.com/drama/tihiy-don) @1of3
          - [ ] [Тихий Дон II, 1958](https://www.imdb.com/title/tt0187550/)
          - [ ] [Журналист, 1967](https://www.imdb.com/title/tt0062524/) 
      - [Nikolay Lebedev](https://en.wikipedia.org/wiki/Nikolai_Lebedev_(film_director))
@@ -441,7 +441,9 @@ https://sovietmoviesonline.com/
      - [ ] [SERIES][The Adventures of the Electronic, 1979](https://www.imdb.com/title/tt0078673/)
      - [ ] [SERIES][Vechnyy zov, 1973](https://www.imdb.com/title/tt0331802/)
      - [ ] [SERIES][Dead Souls, 1984 (МЁРТВЫЕ ДУШИ)](https://www.imdb.com/title/tt0168084/) - [where to watch](https://sovietmoviesonline.com/comedy/mertvye-dushi) - [comments](https://eksisozluk.com/myortviye-dusi--1419039)
-     - [ ] [SERIES][Rurik Dynasty: The First Chapter, 2019 (РЮРИКОВИЧИ. ИСТОРИЯ ПЕРВОЙ ДИНАСТИИ)](https://www.imdb.com/title/tt10588524/) - [where to watch](https://sovietmoviesonline.com/historical-epic/rurik-dynasty-the-first-chapter)
+     - [x] [SERIES][Rurik Dynasty: The First Chapter, 2019 (РЮРИКОВИЧИ. ИСТОРИЯ ПЕРВОЙ ДИНАСТИИ)](https://www.imdb.com/title/tt10588524/) - [where to watch](https://sovietmoviesonline.com/historical-epic/rurik-dynasty-the-first-chapter) - *duplicate on documentaries*
+     - [ ] [SERIES][Нулевой пациент, 2022](https://www.imdb.com/title/tt15527340/) - [where to watch](https://sovietmoviesonline.com/drama/patient-zero)
+     - [ ] [SERIES][Калимба, 2024](https://www.imdb.com/title/tt28435317/) - [where to watch](https://sovietmoviesonline.com/drama/kalimba)
      - [Russian Animation & Short Movies](https://en.wikipedia.org/wiki/History_of_Russian_animation) - [10 most decorated Soviet & Russian animated movies](https://www.rbth.com/arts/336838-most-decorated-soviet-russian-animation)
          - [x] [Hedgehog in the Fog, 1975 (Yozhik v tumane)](https://www.imdb.com/title/tt0073099/) - [where to watch](https://filmschoolrejects.com/hedgehog-in-the-fog/) - *The book [What Every Russian Knows (and You Don't)](https://www.amazon.co.uk/What-Every-Russian-Knows-Dont/dp/1901990125) has a dedicated section :)*
          - [x] [**Three from Prostokvashino, 1978 (Troe iz Prostokvashino)**](https://www.imdb.com/title/tt0189160/) - [where to watch](https://www.youtube.com/watch?v=BFbhZ-te8JY) - *The book [What Every Russian Knows (and You Don't)](https://www.amazon.co.uk/What-Every-Russian-Knows-Dont/dp/1901990125) has a dedicated section :)* - [Uncle Fedya, His Dog, and His Cat](https://en.wikipedia.org/wiki/Uncle_Fedya,_His_Dog,_and_His_Cat)
