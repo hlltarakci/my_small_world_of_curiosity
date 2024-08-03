@@ -307,7 +307,7 @@ https://sovietmoviesonline.com/
      - [Antonio Lukich](https://www.imdb.com/name/nm9557050/)
          - [ ] [My Thoughts Are Silent, 2019 (Moyi dumky tykhi)](https://www.imdb.com/title/tt7876510/) 
      - [Sergey Gerasimov](https://en.wikipedia.org/wiki/Sergei_Gerasimov_(film_director))
-         - [ ] [Quiet Flows the Don, 1957 (Тихий Дон)](https://www.imdb.com/title/tt0051082/) - [where to watch](https://sovietmoviesonline.com/drama/tihiy-don) @1of3
+         - [ ] [Quiet Flows the Don, 1957 (Тихий Дон)](https://www.imdb.com/title/tt0051082/) - [where to watch](https://sovietmoviesonline.com/drama/tihiy-don) - [The tradition of kissing in Russia (Россия – страна с широкой душой и добрым сердцем)](https://ruslanguage.ru/blog/the-tradition-of-kissing-in-russia/) - [The Soviet Kiss, Gone But (Mostly) Not Missed](https://www.rferl.org/a/the-soviet-kiss-gone-but-not-missed/29161360.html) @1of3
          - [ ] [Тихий Дон II, 1958](https://www.imdb.com/title/tt0187550/)
          - [ ] [Журналист, 1967](https://www.imdb.com/title/tt0062524/) 
      - [Nikolay Lebedev](https://en.wikipedia.org/wiki/Nikolai_Lebedev_(film_director))
