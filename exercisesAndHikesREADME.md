@@ -4,8 +4,8 @@
 
 ## PROGRAMS
 ### 2-Months [**Monthly program (Nicole)**](https://www.youtube.com/@MoveWithNicole)
-- **[ADD][Sunday, Tuesday, Thursday]** [20 Min INTENSE GLUTE WORKOUT at Home with Resistance Band](https://www.youtube.com/watch?v=gm4zVOaj37E) 
-- **[ADD][Sunday, Monday, Wednesday]** [6 Min to a Sexy Little Waist!](https://www.youtube.com/watch?v=0uuegGiEHCM)
+- **[ADD][Sunday, Tuesday, Thursday]** [20 Min INTENSE GLUTE WORKOUT at Home with Resistance Band](https://www.youtube.com/watch?v=gm4zVOaj37E) **OR** [10 min RESISTANCE BAND BOOTY At Home Workout](https://www.youtube.com/watch?v=QG3TAwfo9iQ)
+- **[ADD][Sunday, Monday, Wednesday]** [6 Min to a Sexy Little Waist!](https://www.youtube.com/watch?v=0uuegGiEHCM) **OR** [Muffintop Shredder Workout](https://www.youtube.com/watch?v=bczcW7MTIYQ)
 - [OPTIONAL-ADD][50 repeats of a glute exercise with resistance band loop](https://www.youtube.com/watch?v=FzXjnQXHgwY)
 - [x] [Week 1](https://www.youtube.com/playlist?list=PLipSZg1JNsC-cujq6r6fUdqj43W6aqv2Z)
   - [x] [40 MIN FULL BODY WORKOUT || Power Pilates With Weights (Intermediate)](https://www.youtube.com/watch?v=dOO6-o7ObnU&list=PLipSZg1JNsC-cujq6r6fUdqj43W6aqv2Z) *includes dumbbells*
@@ -43,7 +43,7 @@
   - [ ] [20 MIN MORNING PILATES || Pilates Workout For Strength & Energy (Intermediate)](https://www.youtube.com/watch?v=9x-ItUnm7P4&list=PLipSZg1JNsC9yo-YJ9dYphTz7wDqnAxYy&index=3)
   - [ ] [30 MIN FULL BODY MINI RESISTANCE BAND WORKOUT || At-Home Pilates](https://www.youtube.com/watch?v=9kelSX3a3AQ&list=PLipSZg1JNsC9yo-YJ9dYphTz7wDqnAxYy&index=4)
   - [ ] [20 MIN EVERYDAY YOGA || Daily Yoga Flow To Stretch & Feel Good](https://www.youtube.com/watch?v=98rmMgBwJXE&list=PLipSZg1JNsC9yo-YJ9dYphTz7wDqnAxYy&index=5)
-  - [ ] [40 MIN FULL BODY WORKOUT || Intermediate Pilates Class](https://www.youtube.com/watch?v=koTzaUu7Vws&list=PLipSZg1JNsC9yo-YJ9dYphTz7wDqnAxYy&index=6)
+  - [x] [40 MIN FULL BODY WORKOUT || Intermediate Pilates Class](https://www.youtube.com/watch?v=koTzaUu7Vws&list=PLipSZg1JNsC9yo-YJ9dYphTz7wDqnAxYy&index=6)
 - [ ] [Week 6](https://www.youtube.com/playlist?list=PLipSZg1JNsC-y_xPCnTm9It25z9Kd0-XN)
   - [ ] [30 MIN CARDIO PILATES || At-Home Full Body Workout (Medium Intensity)](https://www.youtube.com/watch?v=UsyPDZptw8E&list=PLipSZg1JNsC-y_xPCnTm9It25z9Kd0-XN&index=1)
   - [ ] [25 MIN PILATES WORKOUT || Pilates For Better Posture & A Healthy Spine (Moderate)](https://www.youtube.com/watch?v=imWc_27U9w8&list=PLipSZg1JNsC-y_xPCnTm9It25z9Kd0-XN&index=2)
