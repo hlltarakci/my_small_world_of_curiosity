@@ -389,6 +389,8 @@ https://sovietmoviesonline.com/
          - [ ] [Blue Mountains, or Unbelievable Story , 1983 (ГОЛУБЫЕ ГОРЫ, ИЛИ НЕПРАВДОПОДОБНАЯ ИСТОРИЯ)](https://www.imdb.com/title/tt0087349/) - [where to watch](https://sovietmoviesonline.com/comedy/golubye-gory-ili-nepravdopodobnaya-istoriya)
      - [Aleksey Korenev](https://www.imdb.com/name/nm0000088/)
          - [ ] [Domestic Circumstances, 1978 (ПО СЕМЕЙНЫМ ОБСТОЯТЕЛЬСТВАМ)](https://www.imdb.com/title/tt0076551/) - [where to watch](https://sovietmoviesonline.com/comedy/po-semeynym-obstoyatelstvam) 
+     - [Anton Megerdichev](https://en.wikipedia.org/wiki/Anton_Megerdichev)
+         - [ ] [Метро, 2013](https://www.imdb.com/title/tt2649128/) - [where to watch](https://sovietmoviesonline.com/drama/metro) 
      - [Aleksey Uchitel](https://en.wikipedia.org/wiki/Alexei_Uchitel)
          - [x] [**Прогулка, 2003**](https://www.imdb.com/title/tt0372478/) - [where to watch](https://sovietmoviesonline.com/melodrama/the-stroll) - [reviews](https://www.imdb.com/title/tt0372478/reviews/) 
      - [Oksana Bychkova](https://www.imdb.com/name/nm2294083/)
@@ -439,7 +441,8 @@ https://sovietmoviesonline.com/
      - [ ] [SERIES][Doktor Zhivago, 2006](https://www.imdb.com/title/tt0417319/)
      - [ ] [SERIES][Guest from the Future, 1984 (Gostya iz budushchego)](https://www.imdb.com/title/tt0086723/)
      - [ ] [SERIES][The Adventures of the Electronic, 1979](https://www.imdb.com/title/tt0078673/)
-     - [ ] [SERIES][Vechnyy zov, 1973](https://www.imdb.com/title/tt0331802/)
+     - [ ] [SERIES][Вечный зов, 1973](https://www.imdb.com/title/tt0331802/)
+     - [ ] [SERIES][The Dawns Here Are Quiet, 2015 (А зори здесь тихие)](https://www.imdb.com/title/tt4629032/) - [where to watch](https://sovietmoviesonline.com/drama/a-zori-zdes-tihie-mini-serial)
      - [ ] [SERIES][Dead Souls, 1984 (МЁРТВЫЕ ДУШИ)](https://www.imdb.com/title/tt0168084/) - [where to watch](https://sovietmoviesonline.com/comedy/mertvye-dushi) - [comments](https://eksisozluk.com/myortviye-dusi--1419039)
      - [x] [SERIES][Rurik Dynasty: The First Chapter, 2019 (РЮРИКОВИЧИ. ИСТОРИЯ ПЕРВОЙ ДИНАСТИИ)](https://www.imdb.com/title/tt10588524/) - [where to watch](https://sovietmoviesonline.com/historical-epic/rurik-dynasty-the-first-chapter) - *duplicate on documentaries*
      - [ ] [SERIES][Нулевой пациент, 2022](https://www.imdb.com/title/tt15527340/) - [where to watch](https://sovietmoviesonline.com/drama/patient-zero)
