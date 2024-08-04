@@ -265,33 +265,54 @@ See [**beginner course notes**](https://github.com/hlltarakci/my_small_world_of_
   - [ ] LOOK FORWARD (Early УРОК 5)
 
 # 🍎 EXTRA
-- [x] [Basic Russian 1: Introduction to Verb Conjugation](https://www.youtube.com/watch?v=wJxi8oYEYP8) - https://www.amazingrussian.com/
-- [x] [Basic Russian 1: Adjective Endings. Adjective-noun Agreement](https://www.youtube.com/watch?v=G9pm5AJCw1s) - https://www.amazingrussian.com/
-- [ ] [Basic Russian 1: Adverbs of Frequency. Time Expressions with КАЖДЫЙ](https://www.youtube.com/watch?v=3Bt5KrUlrMQ)
-- [ ] [Basic Russian 1: Verbs of “Studying”: УЧИТЬСЯ, ЗАНИМАТЬСЯ, ИЗУЧАТЬ](https://www.youtube.com/watch?v=miD5a0kxqlM)
-- [ ] [214. Russian Vebs A1 Level | Most common Russian verbs conjugation](https://www.youtube.com/watch?v=BK1bIswL-eg)
-- [x] [Best Russian CONJUGATION Video](https://www.youtube.com/watch?v=hNdEE-qqlnk) 1st group: Verbs ending Ать 2nd group: verbs ending ИТЬ 3rd group: misc - https://cooljugator.com/ru 
-- [ ] [REAL RUSSIAN PHRASES](https://www.youtube.com/watch?v=HqCon1iFUJ4)
-- [ ] [100 Phrases Every Russian Beginner Must-Know](https://www.youtube.com/watch?v=e9faloUNgKM)
-- [x] [Basic Russian 1: Plural Forms of Nouns](https://www.youtube.com/watch?v=fK_OqJ85kck) - https://www.amazingrussian.com/
-- [x] [Basic Russian 1: Personal Pronouns](https://www.youtube.com/watch?v=XDJWEUdzS6M) - https://www.amazingrussian.com/
-- [x] [Basic Russian 1: Grammatical Gender of Nouns](https://www.youtube.com/watch?v=IOyUbcK2g4k) - https://www.amazingrussian.com/
-- [x] [Basic Russian 1: Prepositional Case with В and НА](https://www.youtube.com/watch?v=cZR5FX3xpjo)
-- [x] [Basic Russian 1: Possessives and Questions with WHOSE (ЧЕЙ?)](https://www.youtube.com/watch?v=QQ2b4a2G7L0) - https://www.amazingrussian.com/
-- [x] [Basic Russian 1: First Adjectives](https://www.youtube.com/watch?v=NAfGZSpaVy0) - https://www.amazingrussian.com/
-- [x] [Basic Russian 1. Introductory ЭТО vs. Modifier ЭТОТ, ЭТА, ЭТО, ЭТИ](https://www.youtube.com/watch?v=6lw2PhehO68)
-- [ ] [Started Learning Russian? Watch This! Super Easy Story about Gopnik Fedya | Level A1](https://www.youtube.com/watch?v=IQmVidaTgr8)
-- [x] [ALL cases in Russian](https://www.youtube.com/watch?v=gE49nUl7eAc) CASES: 1.Nominative case | 2.Prepositional case | 3.Accusative case (action + accusative) | 4. Instrumental case | 5. Genetive case | 6. Dative case
-- [ ] [Russian Grammar short](https://www.youtube.com/watch?v=_EOF6YYv4js)
-- [ ] [Basic Russian 1. Russian Sound System: Stress. Stressed and Unstressed Vowels (Part 1)](https://www.youtube.com/watch?v=RjkqCye-nss)
-- [ ] [Basic Russian 1. Russian Sound System: Voiced and Voiceless Consonants (Part 2)](https://www.youtube.com/watch?v=qEfBbvaIDu8)
-- [ ] [Basic Russian 1. Russian Sound System: Hard and Soft Consonants (Part 3)](https://www.youtube.com/watch?v=9-2tvAdXY9Y)
-- [ ] [Basic Russian 1: Indicating Having Something: У МЕНЯ ЕСТЬ](https://www.youtube.com/watch?v=UA76u4gRHwM)
-        
+- **Grammar:**
+  - [x] [Basic Russian 1: Introduction to Verb Conjugation](https://www.youtube.com/watch?v=wJxi8oYEYP8) - https://www.amazingrussian.com/
+  - [x] [Basic Russian 1: Adjective Endings. Adjective-noun Agreement](https://www.youtube.com/watch?v=G9pm5AJCw1s) - https://www.amazingrussian.com/
+  - [ ] [Basic Russian 1: Adverbs of Frequency. Time Expressions with КАЖДЫЙ](https://www.youtube.com/watch?v=3Bt5KrUlrMQ)
+  - [ ] [Basic Russian 1: Verbs of “Studying”: УЧИТЬСЯ, ЗАНИМАТЬСЯ, ИЗУЧАТЬ](https://www.youtube.com/watch?v=miD5a0kxqlM)
+  - [ ] [214. Russian Vebs A1 Level | Most common Russian verbs conjugation](https://www.youtube.com/watch?v=BK1bIswL-eg)
+  - [x] [Best Russian CONJUGATION Video](https://www.youtube.com/watch?v=hNdEE-qqlnk) 1st group: Verbs ending Ать 2nd group: verbs ending ИТЬ 3rd group: misc - https://cooljugator.com/ru 
+  - [x] [Basic Russian 1: Plural Forms of Nouns](https://www.youtube.com/watch?v=fK_OqJ85kck) - https://www.amazingrussian.com/
+  - [x] [Basic Russian 1: Personal Pronouns](https://www.youtube.com/watch?v=XDJWEUdzS6M) - https://www.amazingrussian.com/
+  - [x] [Basic Russian 1: Grammatical Gender of Nouns](https://www.youtube.com/watch?v=IOyUbcK2g4k) - https://www.amazingrussian.com/
+  - [x] [Basic Russian 1: Prepositional Case with В and НА](https://www.youtube.com/watch?v=cZR5FX3xpjo)
+  - [x] [Basic Russian 1: Possessives and Questions with WHOSE (ЧЕЙ?)](https://www.youtube.com/watch?v=QQ2b4a2G7L0) - https://www.amazingrussian.com/
+  - [x] [Basic Russian 1: First Adjectives](https://www.youtube.com/watch?v=NAfGZSpaVy0) - https://www.amazingrussian.com/
+  - [x] [Basic Russian 1. Introductory ЭТО vs. Modifier ЭТОТ, ЭТА, ЭТО, ЭТИ](https://www.youtube.com/watch?v=6lw2PhehO68)
+  - [x] [ALL cases in Russian](https://www.youtube.com/watch?v=gE49nUl7eAc) CASES: 1.Nominative case | 2.Prepositional case | 3.Accusative case (action + accusative) | 4. Instrumental case | 5. Genetive case | 6. Dative case
+  - [ ] [Russian Grammar short](https://www.youtube.com/watch?v=_EOF6YYv4js)
+  - [ ] [Basic Russian 1. Russian Sound System: Stress. Stressed and Unstressed Vowels (Part 1)](https://www.youtube.com/watch?v=RjkqCye-nss)
+  - [ ] [Basic Russian 1. Russian Sound System: Voiced and Voiceless Consonants (Part 2)](https://www.youtube.com/watch?v=qEfBbvaIDu8)
+  - [ ] [Basic Russian 1. Russian Sound System: Hard and Soft Consonants (Part 3)](https://www.youtube.com/watch?v=9-2tvAdXY9Y)
+  - [ ] [Basic Russian 1: Indicating Having Something: У МЕНЯ ЕСТЬ](https://www.youtube.com/watch?v=UA76u4gRHwM)
+- **Vocabulary:**
+  - [ ] [2 Hours of Daily Russian Conversations - Russian Practice for ALL Learners](https://www.youtube.com/watch?v=PEidRnRXA90)
+  - [ ] [196. 50 Minutes of A1 Russian Conversation Phrases](https://www.youtube.com/watch?v=VLEsxi-z-wA)
+  - [ ] [REAL RUSSIAN PHRASES](https://www.youtube.com/watch?v=HqCon1iFUJ4)
+  - [ ] [100 Phrases Every Russian Beginner Must-Know](https://www.youtube.com/watch?v=e9faloUNgKM)
+  - [ ] [Started Learning Russian? Watch This! Super Easy Story about Gopnik Fedya | Level A1](https://www.youtube.com/watch?v=IQmVidaTgr8)
+  - [Playlist - Learning Russian through Fairy Tales](https://www.youtube.com/playlist?list=PLtB2jErS8LTtVJzbEXTX8u4MJderupbME)
+     - [ ] [Learning Russian from books: Fairy Tale "Goldilocks and the three bears"](https://www.youtube.com/watch?v=_CCrP_saf7s&list=PLtB2jErS8LTtVJzbEXTX8u4MJderupbME&index=1)
+     - [ ] [Learning Russian from books: Fairy Tale "Cinderella"](https://www.youtube.com/watch?v=ReLmm2IBH2o&list=PLtB2jErS8LTtVJzbEXTX8u4MJderupbME&index=2)
+     - [ ] [Learning Russian from books: Fairy Tale "The small red feather"](https://www.youtube.com/watch?v=yLPyLVE7Ey8&list=PLtB2jErS8LTtVJzbEXTX8u4MJderupbME&index=3)
+     - [ ] [Learning Russian from books: Fairy Tale "The Small Wooden House"](https://www.youtube.com/watch?v=vo4_vaWGSR8&list=PLtB2jErS8LTtVJzbEXTX8u4MJderupbME&index=4)
+     - [ ] [Learning Russian from books: Русская народная сказка: Репка](https://www.youtube.com/watch?v=sppiMHBnjhU&list=PLtB2jErS8LTtVJzbEXTX8u4MJderupbME&index=5) 
+  - [Playlist - Russian Vocabulary](https://www.youtube.com/playlist?list=PLtB2jErS8LTteUuphcIUN7X-QUSHIEjKF)
+  - [Playlist - 100+ Russian Cartoons With English Subtitles](https://www.youtube.com/playlist?list=PLIf2mW7VLSwIV7D6fQi8w-LQUbk3wDF0d)
+  - [Playlist - Super Easy Russian - Russian for beginners](https://www.youtube.com/playlist?list=PLA5UIoabheFMRV-A92wr5G4lJZCx-ITMd) - *has both russian and english subtitles :)*
+  - [Playlist - Easy Russian - street interviews and more](https://www.youtube.com/playlist?list=PLxRXPwbJodj_ter_1MAr7sGW1kkc1sZQN) - *has both russian and english subtitles :)*
+    
 # 🍎 CHEATSHEETS/REFERENCES
 - https://translate.google.com/?hl=tr&sl=en&tl=ru&op=translate
 - https://cooljugator.com/ru
 - https://www.russiantools.com/en/russian-words-find-what-gender-it-is
+- [Regular vocabulary cheatsheet](https://github.com/hlltarakci/my_small_world_of_curiosity/blob/main/russian/russian_vocabulary_cheatsheet.pdf)
+- [Beginners cheatsheet](https://github.com/hlltarakci/my_small_world_of_curiosity/blob/main/russian/russian_beginners_cheatsheet.pdf)
+- [Cases cheatsheet](https://github.com/hlltarakci/my_small_world_of_curiosity/blob/main/russian/russian_cases_cheatsheet.pdf)
+- [Prepositions cheatsheet](https://github.com/hlltarakci/my_small_world_of_curiosity/blob/main/russian/russian_prepositions_cheatsheet.pdf)
+- [Pronouns cheatsheet](https://github.com/hlltarakci/my_small_world_of_curiosity/blob/main/russian/russian_pronouns_cheatsheet.jpg)
+- [Question words cheatsheet](https://github.com/hlltarakci/my_small_world_of_curiosity/blob/main/russian/russian_question_words_cheatsheet.png)
+- [Alphabet cheatsheet](https://github.com/hlltarakci/my_small_world_of_curiosity/blob/main/russian/%D0%90%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82_cursive_cheatsheet.png) 
 
 # 🍎 CHANNELS
 - https://www.youtube.com/@AmazingRussian
@@ -301,6 +322,9 @@ See [**beginner course notes**](https://github.com/hlltarakci/my_small_world_of_
 - https://www.youtube.com/@russianpod101
 - https://www.youtube.com/@InRussianFromAfar
 - https://www.youtube.com/@blinschool7993
+- https://www.youtube.com/@BoostYourRussian
+- https://www.youtube.com/@LearntheRussianLanguage
+- https://www.youtube.com/@RussianCartoons
 
 # 🍎 ONLINE COURSES
 - [x] [**UDEMY: Three Hour Cyrillic (2 hours)**](https://www.udemy.com/course/russian-alphabet-mastery/)
@@ -309,8 +333,6 @@ See [**beginner course notes**](https://github.com/hlltarakci/my_small_world_of_
    - [ ] 🔥 Take this course again to see how comfortable i get at this point
 
 # 🚀 BACKLOG
-- [ ] [Playlist - Super Easy Russian - Russian for beginners](https://www.youtube.com/playlist?list=PLA5UIoabheFMRV-A92wr5G4lJZCx-ITMd) - *has both russian and english subtitles :)*
-- [ ] [Playlist - Easy Russian - street interviews and more](https://www.youtube.com/playlist?list=PLxRXPwbJodj_ter_1MAr7sGW1kkc1sZQN) - *has both russian and english subtitles :)*
 - [Russian Level 1](https://www.youtube.com/@RussianLevel1/videos)
     - [ ] [Russian Reading Playlist (Slow & Easy)](https://www.youtube.com/playlist?list=PL9OVcuPQUHuP2iTKtLy-HjCG5SJFB6jtg) 
       - [x] [фруктовый пирог](https://www.youtube.com/watch?v=qi_VMYmFhog) *1.listen 2.listen,learn translation 3.read outloud,listen 4.write,read outloud,listen 5.read outloud,listen 6.listen*
@@ -325,34 +347,5 @@ See [**beginner course notes**](https://github.com/hlltarakci/my_small_world_of_
     - [Cartoons on Soviet Movies Online :)](https://sovietmoviesonline.com/cartoons)
       - [ ] [ЗИМА В ПРОСТОКВАШИНО](https://sovietmoviesonline.com/cartoons/zima-v-prostokvashino) *1.watch with english subtitles 2.watch with russian subtitles [here](https://www.youtube.com/watch?v=W2We9cbdcbs) 3.watch with english subtitles*
     - [**10 Russian Cartoons for Language Learners of All Ages**](https://www.thoughtco.com/russian-cartoons-language-learners-4178973)
-    - [100+ Russian Cartoons With English Subtitles](https://www.youtube.com/playlist?list=PLIf2mW7VLSwIV7D6fQi8w-LQUbk3wDF0d)
     - [ ] [Learn Russian for Kids - Numbers, Colors & More](https://www.youtube.com/watch?v=oE_QegYAvTc)
     - [ ] Watch [Masha and the Bear (Маша и Медведь)](https://www.netflix.com/gb/title/70286901) in Russian
-    - [Learn Russian with cartoons :)](https://www.youtube.com/@RussianCartoons)
-         - [Learning Russian through Fairy Tales](https://www.youtube.com/playlist?list=PLtB2jErS8LTtVJzbEXTX8u4MJderupbME)
-             - [ ] [Learning Russian from books: Fairy Tale "Goldilocks and the three bears"](https://www.youtube.com/watch?v=_CCrP_saf7s&list=PLtB2jErS8LTtVJzbEXTX8u4MJderupbME&index=1)
-             - [ ] [Learning Russian from books: Fairy Tale "Cinderella"](https://www.youtube.com/watch?v=ReLmm2IBH2o&list=PLtB2jErS8LTtVJzbEXTX8u4MJderupbME&index=2)
-             - [ ] [Learning Russian from books: Fairy Tale "The small red feather"](https://www.youtube.com/watch?v=yLPyLVE7Ey8&list=PLtB2jErS8LTtVJzbEXTX8u4MJderupbME&index=3)
-             - [ ] [Learning Russian from books: Fairy Tale "The Small Wooden House"](https://www.youtube.com/watch?v=vo4_vaWGSR8&list=PLtB2jErS8LTtVJzbEXTX8u4MJderupbME&index=4)
-             - [x] [Learning Russian from books: Русская народная сказка: Репка](https://www.youtube.com/watch?v=sppiMHBnjhU&list=PLtB2jErS8LTtVJzbEXTX8u4MJderupbME&index=5) *(x3)*
-         - [x] [**Russian lessons – Lesson 1. Russian for beginners. Who or What Is It? Russian cartoon**](https://www.youtube.com/watch?v=YR3XqKknMQc)
-         - [Russian Vocabulary](https://www.youtube.com/playlist?list=PLtB2jErS8LTteUuphcIUN7X-QUSHIEjKF)
-             - [x] [**Fruits and berries in Russian Vocabulary, Learn Russian**](https://www.youtube.com/watch?v=eUmNv2aBv2Q&list=PLtB2jErS8LTteUuphcIUN7X-QUSHIEjKF&index=1)
-             - [x] [**Vegetables in Russian Vocabulary, Learn Russian**](https://www.youtube.com/watch?v=rWf_HGLwmuw&list=PLtB2jErS8LTteUuphcIUN7X-QUSHIEjKF&index=2)
-             - [x] [**At the Restaurant Conversation, Learn Russian**](https://www.youtube.com/watch?v=fC6YwggPNZQ&list=PLtB2jErS8LTteUuphcIUN7X-QUSHIEjKF&index=3)
-         - [In Russian From Afar](https://www.youtube.com/@InRussianFromAfar/videos)
-             - [ ] [Started Learning Russian? Watch This! Super Easy Story about Gopnik Fedya | Level A1](https://www.youtube.com/watch?v=IQmVidaTgr8)
-- Cheatsheats
-    - [Alphabet cheatsheet](https://github.com/hlltarakci/my_small_world_of_curiosity/blob/main/russian/%D0%90%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82_cursive_cheatsheet.png) 
-    - Vocabulary  
-         - [Regular vocabulary cheatsheet](https://github.com/hlltarakci/my_small_world_of_curiosity/blob/main/russian/russian_vocabulary_cheatsheet.pdf)
-         - [Beginners cheatsheet](https://github.com/hlltarakci/my_small_world_of_curiosity/blob/main/russian/russian_beginners_cheatsheet.pdf)
-         - [Cases cheatsheet](https://github.com/hlltarakci/my_small_world_of_curiosity/blob/main/russian/russian_cases_cheatsheet.pdf)
-         - [Prepositions cheatsheet](https://github.com/hlltarakci/my_small_world_of_curiosity/blob/main/russian/russian_prepositions_cheatsheet.pdf)
-         - [Pronouns cheatsheet](https://github.com/hlltarakci/my_small_world_of_curiosity/blob/main/russian/russian_pronouns_cheatsheet.jpg)
-         - [Question words cheatsheet](https://github.com/hlltarakci/my_small_world_of_curiosity/blob/main/russian/russian_question_words_cheatsheet.png)
-    - Course Notes
-         - [Russian course cheatsheet - 1](https://github.com/hlltarakci/my_small_world_of_curiosity/blob/main/russian/russian_course_cheatsheet_1.md)
-         - [Russian course cheatsheet - 2](https://github.com/hlltarakci/my_small_world_of_curiosity/blob/main/russian/russian_course_cheatsheet_2.md)
-- Practices
-    - [Listen to Russian sentences/conversations, practice in general](https://github.com/hlltarakci/my_small_world_of_curiosity/blob/main/russian/practice_russian.md)
