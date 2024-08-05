@@ -284,7 +284,7 @@ See [**beginner course notes**](https://github.com/hlltarakci/my_small_world_of_
   - [ ] [Basic Russian 1. Russian Sound System: Stress. Stressed and Unstressed Vowels (Part 1)](https://www.youtube.com/watch?v=RjkqCye-nss)
   - [ ] [Basic Russian 1. Russian Sound System: Voiced and Voiceless Consonants (Part 2)](https://www.youtube.com/watch?v=qEfBbvaIDu8)
   - [ ] [Basic Russian 1. Russian Sound System: Hard and Soft Consonants (Part 3)](https://www.youtube.com/watch?v=9-2tvAdXY9Y)
-  - [ ] [Basic Russian 1: Indicating Having Something: У МЕНЯ ЕСТЬ](https://www.youtube.com/watch?v=UA76u4gRHwM)
+  - [x] [Basic Russian 1: Indicating Having Something: У МЕНЯ ЕСТЬ](https://www.youtube.com/watch?v=UA76u4gRHwM) **у меня есть / у тебя есть / у него есть / у неё есть / у него есть / у нас есть / у вас есть / у них есть / Negative: У меня нет ...**
 - **Vocabulary:**
   - [ ] [2 Hours of Daily Russian Conversations - Russian Practice for ALL Learners](https://www.youtube.com/watch?v=PEidRnRXA90)
   - [ ] [196. 50 Minutes of A1 Russian Conversation Phrases](https://www.youtube.com/watch?v=VLEsxi-z-wA)
