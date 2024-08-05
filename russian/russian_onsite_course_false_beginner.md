@@ -255,13 +255,13 @@ See [**beginner course notes**](https://github.com/hlltarakci/my_small_world_of_
     - [ ] We did pp. 88-91. Repeat.
     - [ ] ex. 4.21 (p. 91), ex. 4.22, ex. 4.23 (p. 92), read and translate chapter 4 (p. 93)
     - [ ] do exercises on RLC website - https://www.russianlanguagecentre.org/lesson-4
-    - [ ] Wordwall:
-      - [ ] УРОК 4-5 (Prepositional case) - https://wordwall.net/play/32050/685/321
-      - [ ] УРОК 4-6 (Accusative and Prepositional case of personal pronouns) - https://wordwall.net/play/32051/208/378
-      - [ ] УРОК 4-7 (Accusative case of personal pronouns) - https://wordwall.net/play/33449/670/849
-      - [ ] УРОК 4-8 (Prepositional case of personal pronouns) - https://wordwall.net/play/33449/676/223
-      - [ ] УРОК 4-9 (Vocabulary of lesson 4- Russian to English) - https://wordwall.net/play/32054/930/458
-      - [ ] УРОК 4-10 (Vocabulary of lesson 4: English to Russian) - https://wordwall.net/play/32055/038/215 
+    - [x] Wordwall:
+      - [x] УРОК 4-5 (Prepositional case) - https://wordwall.net/play/32050/685/321
+      - [x] УРОК 4-6 (Accusative and Prepositional case of personal pronouns) - https://wordwall.net/play/32051/208/378
+      - [x] УРОК 4-7 (Accusative case of personal pronouns) - https://wordwall.net/play/33449/670/849
+      - [x] УРОК 4-8 (Prepositional case of personal pronouns) - https://wordwall.net/play/33449/676/223
+      - [x] УРОК 4-9 (Vocabulary of lesson 4- Russian to English) - https://wordwall.net/play/32054/930/458
+      - [x] УРОК 4-10 (Vocabulary of lesson 4: English to Russian) - https://wordwall.net/play/32055/038/215 
   - [ ] LOOK FORWARD (Early УРОК 5)
 
 # 🍎 EXTRA
