@@ -191,25 +191,25 @@ See [**beginner course notes**](https://github.com/hlltarakci/my_small_world_of_
       - [x] Page 118, Ex 6.1 More verbs, take a glance
 - [ ] **Неделя 14: Домашнее задание по русскому языку**
   - [ ] Weekly Review
-    - [ ] Introduction - Fast-repeat. (pages 13-29)
+    - [x] Introduction - Fast-repeat. (pages 13-29)
     - [ ] УРОК 1 (pages 30-41)
-      - [ ] Listen, read everything - https://www.russianlanguagecentre.org/lesson-1-audio-files
+      - [x] Listen, read everything - https://www.russianlanguagecentre.org/lesson-1-audio-files
       - [ ] Do exercises: https://www.russianlanguagecentre.org/lesson-1
       - [ ] Fast repeat revision exercises on lesson 1 (leaflet)
       - [ ] Write answers to exercises on the book to the main-notebook
     - [ ] УРОК 2 (pages 42-60)
-      - [ ] Listen, read everything - https://www.russianlanguagecentre.org/lesson-2-audio-files
+      - [x] Listen, read everything - https://www.russianlanguagecentre.org/lesson-2-audio-files
       - [ ] Do exercises: https://www.russianlanguagecentre.org/lesson-2
       - [ ] Fast repeat revision exercises on lesson 2 (RMC_-_Lesson_2.pdf, RMC_-_Lesson_2_-_The_Key.pdf)
       - [ ] Write answers to exercises on the book to the main-notebook 
     - [ ] УРОК 3 (pages 62-76)
-      - [ ] Listen, read everything - https://www.russianlanguagecentre.org/new-page (p375 irregular plural list)
+      - [x] Listen, read everything - https://www.russianlanguagecentre.org/new-page (p375 irregular plural list)
       - [ ] Do exercises - https://www.russianlanguagecentre.org/lesson-3
       - [ ] Fast repeat revision exercises on lesson 3 (RMC_-_Lesson_3.pdf, RMC_-_Lesson_3_-_The_Key.pdf)
       - [ ] See leaflets: PLURAL_OF_NOUNS.pdf, COUNTRIES-LANGUAGES.pdf, the gender of nouns, note-share-1719594635601.pdf, note-share-1719606066567.pdf, Russian_names.pdf
       - [ ] Write answers to exercises on the book to the main-notebook
     - [ ] УРОК 4 (pages 78-94)
-      - [ ] Listen, read everything - https://www.russianlanguagecentre.org/new-page-1
+      - [x] Listen, read everything - https://www.russianlanguagecentre.org/new-page-1
       - [ ] Do the exercises on the book
       - [ ] Do exercises - https://www.russianlanguagecentre.org/lesson-4
       - [ ] Review leaflets: PREPOSITIONAL_CASE.pdf, note-share-1721408770186.pdf
