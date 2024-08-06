@@ -38,7 +38,7 @@
   - [x] [35 MIN PILATES WORKOUT || Classical Mat Pilates Inspired (Knee & Wrist Friendly)](https://www.youtube.com/watch?v=v3B2vk5THOU&list=PLipSZg1JNsC8CAjkMj6sglvj0JaIexVLi&index=5)
   - [x] [1 HOUR FULL BODY WORKOUT || Full Length Intermediate Pilates Class](https://www.youtube.com/watch?v=3guGRzS1oLA)
 - [ ] [Week 5](https://www.youtube.com/playlist?list=PLipSZg1JNsC9yo-YJ9dYphTz7wDqnAxYy)
-  - [ ] [20 MIN EXPRESS PILATES WORKOUT || Beginner to Moderate Pilates (No Equipment)](https://www.youtube.com/watch?v=y2RcYo36boM&list=PLipSZg1JNsC9yo-YJ9dYphTz7wDqnAxYy&index=1)
+  - [x] [20 MIN EXPRESS PILATES WORKOUT || Beginner to Moderate Pilates (No Equipment)](https://www.youtube.com/watch?v=y2RcYo36boM&list=PLipSZg1JNsC9yo-YJ9dYphTz7wDqnAxYy&index=1)
   - [ ] [30 MIN CARDIO BARRE & PILATES || At-Home Full Body Workout](https://www.youtube.com/watch?v=EilzExU1y2g&list=PLipSZg1JNsC9yo-YJ9dYphTz7wDqnAxYy&index=2)
   - [ ] [20 MIN MORNING PILATES || Pilates Workout For Strength & Energy (Intermediate)](https://www.youtube.com/watch?v=9x-ItUnm7P4&list=PLipSZg1JNsC9yo-YJ9dYphTz7wDqnAxYy&index=3)
   - [x] [30 MIN FULL BODY MINI RESISTANCE BAND WORKOUT || At-Home Pilates](https://www.youtube.com/watch?v=9kelSX3a3AQ&list=PLipSZg1JNsC9yo-YJ9dYphTz7wDqnAxYy&index=4) *includes resistance band loop*
