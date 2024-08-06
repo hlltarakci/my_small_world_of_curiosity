@@ -216,18 +216,18 @@ See [**beginner course notes**](https://github.com/hlltarakci/my_small_world_of_
       - [ ] Check verbs on page 118
       - [ ] Write answers to exercises on the book to the main-notebook
     - [ ] Wordwall:
-      - [ ] УРОК 1-1 (First phrases) - https://wordwall.net/play/31683/726/686
-      - [ ] УРОК 1-2 (First vocabulary list) - https://wordwall.net/play/31684/109/266
-      - [ ] УРОК 1-3 (Personal pronouns) - я мы ты вы он онá онó они
-      - [ ] УРОК 1-4 (Occupations short list) - https://wordwall.net/play/31684/746/160
-      - [ ] УРОК 2-1 (Genders of nouns) - https://wordwall.net/play/31684/953/507
-      - [ ] УРОК 2-2 (Places in town) - https://wordwall.net/play/33167/097/790
-      - [ ] УРОК 2-3 (Survival expressions) - https://wordwall.net/play/31685/540/757
-      - [ ] УРОК 2-4 (Word order in sentences) https://wordwall.net/play/31685/734/363
-      - [ ] УРОК 2-5 (Demonstratives) - https://wordwall.net/play/31685/997/962
-      - [ ] УРОК 2-6 (Possesives) - https://wordwall.net/play/31691/880/263
-      - [ ] УРОК 2-7 (Gender of adjectives) - https://wordwall.net/play/31692/609/897
-      - [ ] УРОК 2-8 (Lesson 2 vocabulary list) - https://wordwall.net/resource/31710966/%d1%83%d1%80%d0%be%d0%ba-2-8-lesson-2-vocabulary-list
+      - [x] УРОК 1-1 (First phrases) - https://wordwall.net/play/31683/726/686
+      - [x] УРОК 1-2 (First vocabulary list) - https://wordwall.net/play/31684/109/266
+      - [x] УРОК 1-3 (Personal pronouns) - **я мы ты вы он онá онó они**
+      - [x] УРОК 1-4 (Occupations short list) - https://wordwall.net/play/31684/746/160
+      - [x] УРОК 2-1 (Genders of nouns) - https://wordwall.net/play/31684/953/507
+      - [x] УРОК 2-2 (Places in town) - https://wordwall.net/play/33167/097/790
+      - [x] УРОК 2-3 (Survival expressions) - https://wordwall.net/play/31685/540/757
+      - [x] УРОК 2-4 (Word order in sentences) https://wordwall.net/play/31685/734/363
+      - [x] УРОК 2-5 (Demonstratives) - https://wordwall.net/play/31685/997/962
+      - [x] УРОК 2-6 (Possesives) - https://wordwall.net/play/31691/880/263
+      - [x] УРОК 2-7 (Gender of adjectives) - https://wordwall.net/play/31692/609/897
+      - [x] УРОК 2-8 (Lesson 2 vocabulary list) - https://wordwall.net/resource/31710966/%d1%83%d1%80%d0%be%d0%ba-2-8-lesson-2-vocabulary-list
       - [ ] УРОК 2-9 (Lesson 2 vocabulary list) - https://wordwall.net/play/33166/975/101
       - [ ] УРОК 2-10 (Lesson 2 vocabulary list) - https://wordwall.net/play/33789/950/714
       - [ ] УРОК 3-1 (Plural of nouns) - https://wordwall.net/play/31693/580/940
