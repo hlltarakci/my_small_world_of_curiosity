@@ -223,18 +223,18 @@ See [**beginner course notes**](https://github.com/hlltarakci/my_small_world_of_
       - [x] УРОК 2-6 (Possesives) - https://wordwall.net/play/31691/880/263
       - [x] УРОК 2-7 (Gender of adjectives) - https://wordwall.net/play/31692/609/897
       - [x] УРОК 2-8 (Lesson 2 vocabulary list) - https://wordwall.net/resource/31710966/%d1%83%d1%80%d0%be%d0%ba-2-8-lesson-2-vocabulary-list
-      - [ ] УРОК 2-9 (Lesson 2 vocabulary list) - https://wordwall.net/play/33166/975/101
-      - [ ] УРОК 2-10 (Lesson 2 vocabulary list) - https://wordwall.net/play/33789/950/714
-      - [ ] УРОК 3-1 (Plural of nouns) - https://wordwall.net/play/31693/580/940
-      - [ ] УРОК 3-2 (Singular and Plural of possessives and demonstratives) - https://wordwall.net/play/31696/599/941
-      - [ ] УРОК 3-3 (Possessives) - https://wordwall.net/play/31698/680/599
-      - [ ] УРОК 3-4 (Agreement of possessives and demonstratives with nouns) - https://wordwall.net/play/31711/219/559
-      - [ ] УРОК 3-5 (Country-national-adjective spelling) - https://wordwall.net/play/31699/043/908
-      - [ ] УРОК 3-6 (Accusative case of personal pronouns) - https://wordwall.net/play/31711/472/477
-      - [ ] УРОК 3-7 (Family) - https://wordwall.net/play/31711/577/973
-      - [ ] УРОК 3-9 (Numbers 1-20) - https://wordwall.net/play/31876/110/278
-      - [ ] УРОК 3-11 (Professions) - https://wordwall.net/play/31883/882/310
-      - [ ] УРОК 3-12 (Occupations) - https://wordwall.net/play/32150/781/533
+      - [x] УРОК 2-9 (Lesson 2 vocabulary list) - https://wordwall.net/play/33166/975/101
+      - [x] УРОК 2-10 (Lesson 2 vocabulary list) - https://wordwall.net/play/33789/950/714
+      - [x] УРОК 3-1 (Plural of nouns) - https://wordwall.net/play/31693/580/940
+      - [x] УРОК 3-2 (Singular and Plural of possessives and demonstratives) - https://wordwall.net/play/31696/599/941
+      - [x] УРОК 3-3 (Possessives) - https://wordwall.net/play/31698/680/599
+      - [x] УРОК 3-4 (Agreement of possessives and demonstratives with nouns) - https://wordwall.net/play/31711/219/559
+      - [x] УРОК 3-5 (Country-national-adjective spelling) - https://wordwall.net/play/31699/043/908
+      - [x] УРОК 3-6 (Accusative case of personal pronouns) - https://wordwall.net/play/31711/472/477
+      - [x] УРОК 3-7 (Family) - https://wordwall.net/play/31711/577/973
+      - [x] УРОК 3-9 (Numbers 1-20) - https://wordwall.net/play/31876/110/278
+      - [x] УРОК 3-11 (Professions) - https://wordwall.net/play/31883/882/310
+      - [x] УРОК 3-12 (Occupations) - https://wordwall.net/play/32150/781/533
       - [ ] УРОК 4-1 (Prepositional case) - https://wordwall.net/play/32047/956/213
       - [ ] УРОК 4-2 (Prepositional case) - https://wordwall.net/play/32048/578/463
       - [ ] УРОК 4-3 (Verbs - the meaning) - https://wordwall.net/play/32050/476/968
