@@ -235,9 +235,9 @@ See [**beginner course notes**](https://github.com/hlltarakci/my_small_world_of_
       - [x] УРОК 3-9 (Numbers 1-20) - https://wordwall.net/play/31876/110/278
       - [x] УРОК 3-11 (Professions) - https://wordwall.net/play/31883/882/310
       - [x] УРОК 3-12 (Occupations) - https://wordwall.net/play/32150/781/533
-      - [ ] УРОК 4-1 (Prepositional case) - https://wordwall.net/play/32047/956/213
-      - [ ] УРОК 4-2 (Prepositional case) - https://wordwall.net/play/32048/578/463
-      - [ ] УРОК 4-3 (Verbs - the meaning) - https://wordwall.net/play/32050/476/968
+      - [x] УРОК 4-1 (Prepositional case) - https://wordwall.net/play/32047/956/213
+      - [x] УРОК 4-2 (Prepositional case) - https://wordwall.net/play/32048/578/463
+      - [x] УРОК 4-3 (Verbs - the meaning) - https://wordwall.net/play/32050/476/968
       - [ ] УРОК 4-4 (Present tense of verbs) https://wordwall.net/play/32966/484/908
       - [ ] УРОК 4-4 (Present tense of verbs) (different) - https://wordwall.net/resource/32966359/%d1%83%d1%80%d0%be%d0%ba-4-4-present-tense-of-verbs
       - [ ] УРОК 4-5 (Prepositional case) - https://wordwall.net/play/32050/685/321
@@ -246,10 +246,10 @@ See [**beginner course notes**](https://github.com/hlltarakci/my_small_world_of_
       - [ ] УРОК 4-8 (Prepositional case of personal pronouns) - https://wordwall.net/play/33449/676/223
       - [ ] УРОК 4-9 (Vocabulary of lesson 4- Russian to English) - https://wordwall.net/play/32054/930/458
       - [ ] УРОК 4-10 (Vocabulary of lesson 4: English to Russian) - https://wordwall.net/play/32055/038/215 
-  - [ ] Homework
-    - [ ] We did pp. 88-91. Repeat.
-    - [ ] ex. 4.21 (p. 91), ex. 4.22, ex. 4.23 (p. 92), read and translate chapter 4 (p. 93)
-    - [ ] do exercises on RLC website - https://www.russianlanguagecentre.org/lesson-4
+  - [x] Homework
+    - [x] We did pp. 88-91. Repeat. https://www.russianlanguagecentre.org/new-page-1
+    - [x] ex. 4.21 (p. 91), ex. 4.22, ex. 4.23 (p. 92), read and translate chapter 4 (p. 93)
+    - [x] do exercises on RLC website - https://www.russianlanguagecentre.org/lesson-4
     - [x] Wordwall:
       - [x] УРОК 4-5 (Prepositional case) - https://wordwall.net/play/32050/685/321
       - [x] УРОК 4-6 (Accusative and Prepositional case of personal pronouns) - https://wordwall.net/play/32051/208/378
