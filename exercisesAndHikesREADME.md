@@ -42,7 +42,7 @@
   - [ ] [30 MIN CARDIO BARRE & PILATES || At-Home Full Body Workout](https://www.youtube.com/watch?v=EilzExU1y2g&list=PLipSZg1JNsC9yo-YJ9dYphTz7wDqnAxYy&index=2)
   - [x] [20 MIN MORNING PILATES || Pilates Workout For Strength & Energy (Intermediate)](https://www.youtube.com/watch?v=9x-ItUnm7P4&list=PLipSZg1JNsC9yo-YJ9dYphTz7wDqnAxYy&index=3)
   - [x] [30 MIN FULL BODY MINI RESISTANCE BAND WORKOUT || At-Home Pilates](https://www.youtube.com/watch?v=9kelSX3a3AQ&list=PLipSZg1JNsC9yo-YJ9dYphTz7wDqnAxYy&index=4) *includes resistance band loop*
-  - [ ] [20 MIN EVERYDAY YOGA || Daily Yoga Flow To Stretch & Feel Good](https://www.youtube.com/watch?v=98rmMgBwJXE&list=PLipSZg1JNsC9yo-YJ9dYphTz7wDqnAxYy&index=5)
+  - [x] [20 MIN EVERYDAY YOGA || Daily Yoga Flow To Stretch & Feel Good](https://www.youtube.com/watch?v=98rmMgBwJXE&list=PLipSZg1JNsC9yo-YJ9dYphTz7wDqnAxYy&index=5)
   - [x] [40 MIN FULL BODY WORKOUT || Intermediate Pilates Class](https://www.youtube.com/watch?v=koTzaUu7Vws&list=PLipSZg1JNsC9yo-YJ9dYphTz7wDqnAxYy&index=6)
 - [ ] [Week 6](https://www.youtube.com/playlist?list=PLipSZg1JNsC-y_xPCnTm9It25z9Kd0-XN)
   - [ ] [30 MIN CARDIO PILATES || At-Home Full Body Workout (Medium Intensity)](https://www.youtube.com/watch?v=UsyPDZptw8E&list=PLipSZg1JNsC-y_xPCnTm9It25z9Kd0-XN&index=1)
