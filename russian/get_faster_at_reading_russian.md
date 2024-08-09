@@ -4,7 +4,7 @@
 
 Most fun way: follow lyrics :)
 
-- [Где-то далеко / Микаэл Таривердиев](https://www.youtube.com/watch?v=howt8gN1ieI)
+- [Где-то далеко / Микаэл Таривердиев](https://www.youtube.com/watch?v=howt8gN1ieI) - [📖 **translation, vocab**](https://tinyurl.com/25vsdzbc)
 - [Жестокая любовь / Филипп Киркоров](https://www.youtube.com/watch?v=dMPEP_Cp2HM)
 - [Живём мы что-то без азарта / Людмила Гурченко](https://www.youtube.com/watch?v=LTbGVTofwyA)
 - [Я спросил у ясеня / Микаэл Таривердиев](https://www.youtube.com/watch?v=ybsTYWlGNlM)
